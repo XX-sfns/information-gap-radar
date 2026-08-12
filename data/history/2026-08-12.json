@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 17:32 CST",
+  "generated_at": "2026-08-12 18:39 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -280,161 +280,161 @@
         "assistant",
         "crustacean"
       ],
-      "published": "2026-08-12T09:30:50Z"
+      "published": "2026-08-12T10:35:36Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 270974,
+      "score": 271010,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-08-12T09:32:43Z"
+      "published": "2026-08-12T10:38:56Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 239591,
+      "score": 239599,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-08-12T09:21:46Z"
+      "published": "2026-08-12T10:34:01Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 229279,
+      "score": 229312,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-08-12T09:29:12Z"
+      "published": "2026-08-12T10:38:14Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 229279,
+      "score": 229312,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-08-12T09:29:12Z"
+      "published": "2026-08-12T10:38:14Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 200321,
+      "score": 200323,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-08-12T09:27:44Z"
+      "published": "2026-08-12T10:37:53Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 186545,
+      "score": 186549,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-08-12T09:30:34Z"
+      "published": "2026-08-12T10:23:23Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 186545,
+      "score": 186549,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-08-12T09:30:34Z"
+      "published": "2026-08-12T10:23:23Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 178326,
+      "score": 178332,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-08-12T09:26:55Z"
+      "published": "2026-08-12T10:30:32Z"
     },
     {
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "score": 167034,
+      "score": 167038,
       "tags": [
         "AI/Agent",
         "ai",
         "artificial-intelligence",
         "awesome-list"
       ],
-      "published": "2026-08-12T09:27:16Z"
+      "published": "2026-08-12T10:32:19Z"
     },
     {
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "score": 167034,
+      "score": 167038,
       "tags": [
         "AI/Agent",
         "ai",
         "artificial-intelligence",
         "awesome-list"
       ],
-      "published": "2026-08-12T09:27:16Z"
+      "published": "2026-08-12T10:32:19Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "score": 166118,
+      "score": 166155,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-08-12T09:29:43Z"
+      "published": "2026-08-12T10:38:43Z"
     }
   ],
   "stocks": [
@@ -471,6 +471,19 @@
         "evidence": "关键词命中 2 项"
       },
       {
+        "title": "bug: 托盘模式无法注册全局快捷键",
+        "url": "https://github.com/jswysnemc/mark-shot/issues/76",
+        "source": "GitHub Issues",
+        "summary": "## 问题描述\n在Mint 22.3 X11下，托盘创建全局快捷键会话失败：GlobalShortcuts CreateSession: 在路径 org.freedesktop.portal.GlobalShortcuts 的对象上没有“/org/freedesktop/portal/desktop”接口\n\n## 复现步骤\n1. 打开设置，勾选`启动到托盘`，然后保存退出，再从开始菜单或添加到桌面的`.desktop`文件启动。\n2. 显示上述报错；根据AI建议，从 Linux Mint 22.3 开始，xdg-desktop-portal 组件对全局快捷键的权限管理变得更严格了。为`/usr/share/applications/mark-shot.desktop`和桌面上的`mark-shot.desktop`中都添加了`StartupWMClass=mark-shot`，并检查了xdg-desktop-portal-gtk的确已安装；\n3. 设置完成后，再次启动程序，仍然报错。\n\n## 预期行为\n托盘模式下，设置内注册的全局快捷键应该可用\n\n## 实际行为\n托盘模式无法注册快捷键",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
         "title": "Appium: A new session could not be created",
         "url": "https://stackoverflow.com/questions/26839118/appium-a-new-session-could-not-be-created",
         "source": "Stack Overflow",
@@ -497,30 +510,17 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Externalize agent prompts into versioned template files",
-        "url": "https://github.com/Flamki/stellarmind/issues/24",
+        "title": "AI无法更改库",
+        "url": "https://github.com/ailyProject/aily-blockly/issues/568",
         "source": "GitHub Issues",
-        "summary": "﻿## Problem\nPrompt text is currently embedded in code, making iteration and review harder.\n\n## Scope\n- Move prompts to dedicated files under `src/prompts/`\n- Add light templating for runtime variables\n- Track prompt versions/changelog\n\n## Acceptance Criteria\n- Prompt updates do not require touching core service logic\n- Prompt files are testable and reviewed like content assets\n- Rollback path for prompt regressions is documented\r\n",
-        "score": 59.0,
+        "summary": "**Issue Descriptions:**\n\n用户想要一份反馈报告，把\"Aily Blockly 应用/工具链问题\"整理成可提交给官方的反馈文档。用户说\"我要反馈这个问题，你帮我把反馈报告给我\"。\n\n我需要整理一份清晰、完整的反馈报告，包含：\n1. 问题现象（用户视角）\n2. 技术细节（错误信息、版本、环境）\n3. 复现步骤\n4. 期望行为\n5. 附加上下文\n\n反馈报告应该写成用户可以直接复制提交的格式（中文），包含关键技术信息：\n- 应用版本：Aily Blockly 0.9.91（最新，更新检查无更新）\n- 子应用：subapp-aily-chat 0.1.17\n- 错误：guard_internal_error / \"This Provider did not translate the loaded deferred invocation, so execution was stopped.\"\n- 影响：Aily MCP 工具（lib_validate_local、lib_install_local、project_build、project_upload、project_",
+        "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
+        "category": "可靠性与质量",
+        "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Introduce provider abstraction for multi-LLM support",
-        "url": "https://github.com/Flamki/stellarmind/issues/25",
-        "source": "GitHub Issues",
-        "summary": "﻿## Problem\nThe service layer is tightly coupled to Anthropic APIs, limiting future provider expansion.\n\n## Scope\n- Define provider interface (`research`, `summary`, `analysis`, `code`)\n- Keep Anthropic as default provider implementation\n- Add placeholder adapter structure for future providers\n\n## Acceptance Criteria\n- Business logic no longer imports provider SDK directly\n- Anthropic behavior remains unchanged by default\n- Adding a second provider requires no orchestrator rewrite\r\n",
-        "score": 51.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "evidence": "关键词命中 3 项"
       },
       {
         "title": "How do I code without being completely dependent on AI?",
@@ -536,6 +536,19 @@
         "evidence": "关键词命中 1 项"
       },
       {
+        "title": "Performance issues with latest 4.1.",
+        "url": "https://github.com/MuntashirAkon/AppManager/issues/2000",
+        "source": "GitHub Issues",
+        "summary": "### Please check before submitting an issue\n\n- [x] I know what my device, OS and App Manager versions are\n- [x] I know how to take logs\n- [x] I know that generating a report, in whole part or in part, using AI/LLM is prohibited\n- [x] I know how to reproduce the issue which may not be specific to my device\n\n### Describe the bug\n\nSince the update to 4.1.0, the app has become significantly slower. This is particularly noticeable when refreshing the app list. To be honest, I'm not sure if the loadin",
+        "score": 16.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
         "title": "Automation: how to automate transforming .doc to .docx?",
         "url": "https://stackoverflow.com/questions/2405417/automation-how-to-automate-transforming-doc-to-docx",
         "source": "Stack Overflow",
@@ -547,6 +560,19 @@
         "urgency": "低",
         "audience": "个人用户",
         "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "WAL seq bounds require a full directory scan: `wal_max_seq`/`wal_min_seq` open every .jsonl file",
+        "url": "https://github.com/verveguy/liminis-context-graph/issues/375",
+        "source": "GitHub Issues",
+        "summary": "# Feature Specification: Cheap WAL seq bounds — eliminate the full-directory scan in `wal_max_seq`/`wal_min_seq`\n\n**Feature Branch**: `fabrik/issue-375`\n**Created**: 2026-08-11\n**Status**: Draft\n**Input**: User description: \"`wal_max_seq` and `wal_min_seq` both open and read every `.jsonl` file in the WAL directory. At the scale ADR-0026 documents (43,821 WAL files, seq 4,641,989), any call that needs a WAL seq bound performs tens of thousands of file opens. `knowledge_status` calls `wal_max_seq",
+        "score": 13.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "Is AI replacing Web developers?",
@@ -575,19 +601,6 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Security: scrub.mjs's secret-name matchers don't cover kebab-case names, missing Azure's real api-key header",
-        "url": "https://github.com/ievo-ai/skills/issues/620",
-        "source": "GitHub Issues",
-        "summary": "# Security: scrub.mjs's secret-name matchers don't cover kebab-case names, missing Azure's real `api-key` header\n\n## Summary\n\nhigh confidence — CWE-532 — `plugins/ievo/scripts/scrub.mjs` (`NAME_ALT`, `HTTP_CRED_HEADER_NAME`)\n\n## Exploit chain\n\n`scrub.mjs` is piped untrusted captured tool-output text before it is persisted to `.ievo/evolution-candidates/<session-id>.jsonl` (e.g. by the evo-auto failure-capture hook, or via `evolution_candidates.mjs`'s `--text-file` path, which also calls `scrub()",
-        "score": 5.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
         "title": "BFloat16 is not supported on MPS (macOS)",
         "url": "https://stackoverflow.com/questions/77359161/bfloat16-is-not-supported-on-mps-macos",
         "source": "Stack Overflow",
@@ -599,32 +612,19 @@
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "[Bug]:amd mi308x gpu, vllm 0.27.0~0.27.1, rocm 7.2.3, Kimi-K2.7-Coder start fails:AssertionError: mla_gluon requires gfx950 (CDNA4), got gfx942",
-        "url": "https://github.com/vllm-project/vllm/issues/51964",
-        "source": "GitHub Issues",
-        "summary": "### Your current environment\n\n<details>\n<summary>The output of <code>python collect_env.py</code></summary>\n\n```text\n(vllm) [fanlf@2025-h3c-83 tmp]$ python ./collect_env.py\nCollecting environment information...\n==============================\n        System Info\n==============================\nOS                           : Rocky Linux 10.2 (Red Quartz) (x86_64)\nGCC version                  : (GCC) 14.3.1 20251022 (Red Hat 14.3.1-4)\nClang version                : Could not collect\nCMake version   ",
-        "score": 3.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
       }
     ],
     "category_counts": {
-      "价格与付费": 2,
-      "可靠性与质量": 4,
-      "其他": 2,
-      "集成与兼容": 3,
-      "隐私与合规": 1
+      "价格与付费": 3,
+      "可靠性与质量": 6,
+      "隐私与合规": 1,
+      "其他": 1,
+      "集成与兼容": 1
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「价格与付费」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「价格与付费」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「隐私与合规」：今天出现 1 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
