@@ -1,0 +1,8 @@
+{
+  "generated_at": "离线演示数据（请运行采集器）",
+  "disclaimer": "股票模块仅供信息参考，不构成投资建议。",
+  "ai_news": [{"title":"首次运行说明","url":"#","source":"系统","summary":"在 GitHub Actions 中手动运行一次采集后，这份演示数据会被当日真实数据替换。","score":0,"tags":["开始使用"],"published":""}],
+  "github_trending": [{"title":"等待 GitHub API 采集","url":"#","source":"系统","summary":"日报工作流会写入近期 AI / LLM / Agent 仓库。","score":0,"tags":["开始使用"],"published":""}],
+  "stocks": [{"symbol":"NVDA","name":"示例股票","price":null,"change_percent":null,"signal":"待采集","rationale":"运行日报后更新为真实行情；仅供信息参考。"}],
+  "information_gap":{"llm_status":"规则分类（LLM 未启用）","category_counts":{"需求缺口":1},"next_actions":["在 config.yaml 启用 LLM 并在 GitHub Secrets 添加 LLM_API_KEY。"],"items":[{"title":"等待公开用户讨论采集","url":"#","source":"系统","summary":"将从 Reddit 和 Hacker News 抓取公开帖子与评论，保留原文链接。","score":0,"tags":[],"published":"","category":"需求缺口","urgency":"中","audience":"个人用户","evidence":"开始使用"}]}
+}

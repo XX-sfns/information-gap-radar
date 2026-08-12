@@ -1,0 +1,63 @@
+name: Daily Information Gap Radar
+
+on:
+  schedule:
+    # 09:30 UTC = 17:30 China Standard Time; run after China A-share close.
+    - cron: '30 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  collect-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install collector dependencies
+        run: pip install -r requirements.txt
+      - name: Generate report and send notification
+        run: python -m radar.cli
+        env:
+          PYTHONPATH: src
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NOTIFY_WEBHOOK: ${{ secrets.NOTIFY_WEBHOOK }}
+      - name: Commit fresh report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json data/history reports
+          git diff --cached --quiet || git commit -m "data: daily radar $(date -u +%F)"
+          git push
+      - name: Post to the fixed Daily Radar Issue
+        uses: actions/github-script@v7
+        env:
+          DASHBOARD_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        with:
+          script: |
+            const fs = require('fs');
+            const date = new Date().toISOString().slice(0, 10);
+            const label = 'daily-radar';
+            const title = '📡 Daily Radar｜每日信息差报告（固定日报）';
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner: context.repo.owner, repo: context.repo.repo, state: 'open', labels: label, per_page: 100
+            });
+            let issue = issues.find(i => i.title === title);
+            if (!issue) {
+              try { await github.rest.issues.getLabel({owner: context.repo.owner, repo: context.repo.repo, name: label}); }
+              catch (_) { await github.rest.issues.createLabel({owner: context.repo.owner, repo: context.repo.repo, name: label, color: '0E8A16', description: 'Automated daily radar'}); }
+              issue = (await github.rest.issues.create({
+                owner: context.repo.owner, repo: context.repo.repo, title,
+                labels: [label], body: '这里是固定日报位置。Actions 每日会在本 Issue 追加一条完整摘要；请点击右上角 Subscribe 订阅通知。'
+              })).data;
+            }
+            const report = fs.readFileSync(`reports/${date}.md`, 'utf8');
+            const body = `${report}\n\n---\n🔗 **[打开在线仪表盘](${process.env.DASHBOARD_URL})** · [查看当天 Markdown 报告](https://github.com/${context.repo.owner}/${context.repo.repo}/blob/main/reports/${date}.md)`;
+            await github.rest.issues.createComment({owner: context.repo.owner, repo: context.repo.repo, issue_number: issue.number, body});

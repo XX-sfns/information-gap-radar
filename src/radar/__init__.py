@@ -1,0 +1,1 @@
+"""Daily information-gap radar."""
