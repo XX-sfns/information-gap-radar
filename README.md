@@ -39,10 +39,10 @@ GitHub 的定时调度会有少量延迟；如果需要分钟级严格准点，�
 
 LLM **只用于复核“信息差”模块的痛点类别、紧急度和目标人群**；没有 LLM 也会照常采集，并使用本地规则分类。
 
-1. 从 `config.example.yaml` 复制一份为 `config.yaml`；将其中 `llm.enabled` 改为 `true`，并填写 `model`、`base_url`。例如 DeepSeek：`model: deepseek-chat`、`base_url: https://api.deepseek.com/v1`。
+1. 直接编辑仓库根目录的 `config.yaml`；将其中 `llm.enabled` 改为 `true`，并填写 `model`、`base_url`。例如 DeepSeek：`model: deepseek-chat`、`base_url: https://api.deepseek.com/v1`。
 2. 本地运行时，在 PowerShell 执行：`$env:LLM_API_KEY = '你的密钥'`。密钥不写入 YAML。
 3. GitHub 上运行时，打开仓库 **Settings → Secrets and variables → Actions → New repository secret**，名称填 `LLM_API_KEY`，值填你的 API Key。工作流已自动读取它。
-4. 将你自己的 `config.yaml` 一并提交（里面不含密钥）或直接修改后提交。`config.yaml` 已被 `.gitignore` 忽略；需要提交团队配置时，可以改为 `config.production.yaml` 并在工作流传入 `--config config.production.yaml`。
+4. 提交 `config.yaml` 的变更即可生效；这个文件不能放密钥，密钥只放 GitHub Secrets。
 
 推荐先用 DeepSeek、通义千问或 OpenAI 等任意 OpenAI 兼容接口；切换服务只需改 `model` 与 `base_url`。
 

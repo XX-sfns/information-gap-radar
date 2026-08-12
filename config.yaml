@@ -1,0 +1,43 @@
+# This file is safe to commit: API keys always come from environment variables / GitHub Secrets.
+project:
+  timezone: Asia/Shanghai
+  report_limit: 12
+llm:
+  enabled: false
+  provider: openai_compatible
+  model: deepseek-chat
+  base_url: https://api.deepseek.com/v1
+  api_key_env: LLM_API_KEY
+  max_items_per_run: 8
+sources:
+  ai_rss:
+    - name: OpenAI News
+      url: https://openai.com/news/rss.xml
+    - name: Hugging Face Blog
+      url: https://huggingface.co/blog/feed.xml
+  reddit:
+    - subreddit: LocalLLaMA
+      query: ""
+    - subreddit: SaaS
+      query: "pain OR problem OR frustrating"
+    - subreddit: startups
+      query: "pain OR problem OR wish"
+  hackernews_queries: [AI agent, workflow automation, customer support]
+  stackexchange_tags: [artificial-intelligence, llm, automation]
+  github_issue_queries:
+    - "is:issue is:open label:bug AI"
+    - "is:issue is:open label:enhancement LLM"
+  github_queries:
+    - topic:ai pushed:>2026-01-01
+    - topic:llm pushed:>2026-01-01
+    - topic:agent pushed:>2026-01-01
+stocks:
+  - symbol: NVDA
+    name: NVIDIA
+  - symbol: 600519.SS
+    name: 贵州茅台
+notifications:
+  feishu_webhook_env: FEISHU_WEBHOOK
+  telegram_bot_token_env: TELEGRAM_BOT_TOKEN
+  telegram_chat_id_env: TELEGRAM_CHAT_ID
+  webhook_env: NOTIFY_WEBHOOK
