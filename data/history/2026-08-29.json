@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-29 04:58 CST",
+  "generated_at": "2026-08-29 22:38 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI News",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 28 Aug 2026 06:00:00 GMT"
+    },
     {
       "title": "Supporting Thailand’s next generation of AI startups",
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
@@ -124,15 +135,15 @@
       "published": "Tue, 25 Aug 2026 00:00:00 GMT"
     },
     {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "source": "OpenAI News",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Mon, 24 Aug 2026 12:00:00 GMT"
+      "published": "Fri, 28 Aug 2026 00:00:00 GMT"
     },
     {
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
@@ -254,17 +265,6 @@
         "AI/科技"
       ],
       "published": "Fri, 14 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 13 Aug 2026 17:16:04 GMT"
     }
   ],
   "github_trending": [
@@ -273,168 +273,168 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 387932,
+      "score": 387976,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-08-28T20:56:53Z"
+      "published": "2026-08-29T14:36:18Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 279023,
+      "score": 279265,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-08-28T20:55:50Z"
+      "published": "2026-08-29T14:38:03Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 243950,
+      "score": 244087,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-08-28T20:56:33Z"
+      "published": "2026-08-29T14:27:12Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 237711,
+      "score": 237977,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-08-28T20:51:55Z"
+      "published": "2026-08-29T14:34:49Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 237711,
+      "score": 237977,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-08-28T20:51:55Z"
+      "published": "2026-08-29T14:34:49Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 202707,
+      "score": 202776,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-08-28T20:46:47Z"
+      "published": "2026-08-29T14:37:23Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 186963,
+      "score": 186975,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-08-28T20:57:24Z"
+      "published": "2026-08-29T14:37:07Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 186963,
+      "score": 186975,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-08-28T20:57:24Z"
+      "published": "2026-08-29T14:37:07Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 179656,
+      "score": 179707,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-08-28T20:39:24Z"
+      "published": "2026-08-29T14:20:38Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "score": 173611,
+      "score": 173878,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-08-28T20:57:11Z"
+      "published": "2026-08-29T14:34:02Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "score": 173611,
+      "score": 173878,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-08-28T20:57:11Z"
+      "published": "2026-08-29T14:34:02Z"
     },
     {
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "score": 168120,
+      "score": 168154,
       "tags": [
         "AI/Agent",
         "ai",
         "artificial-intelligence",
         "awesome-list"
       ],
-      "published": "2026-08-28T20:20:26Z"
+      "published": "2026-08-29T14:38:33Z"
     }
   ],
   "stocks": [
@@ -449,32 +449,45 @@
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1292.3,
-      "change_percent": -0.81,
+      "price": 1297.4,
+      "change_percent": 0.39,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 -0.81%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +0.39%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "Hypothesis 1: experience cards as evidence, not rules",
-        "url": "https://github.com/camorazrushimoe/federated-agent-memory/issues/28",
+        "title": "Bug：max_concurrency=2 时双 Runner 未能自动合并 PR",
+        "url": "https://github.com/xqliu/orbi/issues/105",
         "source": "GitHub Issues",
-        "summary": "## What this is\n\nA product hypothesis we can implement as a small, isolated script pack and then measure.\n\nIt does **not** touch Architecture v2, Google Memory Bank, the DSPy compiler, OpenSpec components, or the M1–M3 lab pipeline. Those keep running. This is a standalone slice: chat in → card out → later agent sees a recommendation.\n\nSpec (arriving in a follow-up PR): `standalone/h1-experience-cards/`.\n\n---\n\n## The business picture\n\nA shop runs several customer-facing agents. Customers are mos",
-        "score": 41.0,
+        "summary": "## 失败现象\n\n全量测试中并发容量场景失败：\n\n```text\n____________ test_capacity_two_allows_two_runners_and_rejects_third ____________\n\nFAILED tests/test_concurrency_e2e.py::test_capacity_two_allows_two_runners_and_rejects_third\n- timed out waiting for both runners to auto-merge their PRs\n1 failed, 602 passed in 246.12s (0:04:06)\n```\n\n失败测试：\n\n```text\ntests/test_concurrency_e2e.py::test_capacity_two_allows_two_runners_and_rejects_third\n```\n\n## 场景\n\n- `max_concurrency=2`；\n- Issue #7 和 #8 初始均为 `ai-ready`；\n- 第一个 Runner 成功",
+        "score": 20.0,
         "tags": [],
         "published": "",
-        "category": "需求缺口",
+        "category": "可靠性与质量",
         "urgency": "高",
-        "audience": "开发者",
+        "audience": "个人用户",
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Bug: Player and Bot Sprites Disappear on GitHub Pages",
-        "url": "https://github.com/siddqamar/dustline-tactical16/issues/3",
-        "source": "GitHub Issues",
-        "summary": "### Summary\n\nPlayer artwork, bot sprites, and other game textures render correctly locally but disappear after deployment to GitHub Pages.\n\nBots still move, attack, and receive damage, but their visible sprites are missing. The pre-match operative image and some other textures are also affected.\n\n### ELI5\n\nLocally, the game runs at:\n\n`http://localhost:5173/`\n\nOn GitHub Pages, it runs under:\n\n`https://siddqamar.github.io/dustline-tactical16/`\n\nThe game currently requests assets using paths like `",
+        "title": "The teenage girls behind a $25 minimum wage fight in rural Alaska",
+        "url": "https://news.ycombinator.com/item?id=49487284",
+        "source": "Hacker News",
+        "summary": "Civilization occurs when one person helps another who cannot help themselves. That&#x27;s a simple definition, but it should suffice for this discussion. Your original comment was what to do about those people whose labour does not equal or exceed the minimum wage value. In everything I have read and all the people I have talked to about this, after sufficient questioning, the answer always seems to end up being murdering the poor. Oh, it&#x27;s never going out and killing them personally. Oh no",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "高",
+        "audience": "团队/企业",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Why does x-ratelimit-remaining-tokens decrement by actual input tokens instead of prompt + max_tokens?",
+        "url": "https://stackoverflow.com/questions/79999210/why-does-x-ratelimit-remaining-tokens-decrement-by-actual-input-tokens-instead-o",
+        "source": "Stack Overflow",
+        "summary": "<p>The <a href=\"https://learn.microsoft.com/en-us/azure/foundry/openai/how-to/quota\" rel=\"nofollow noreferrer\">Azure OpenAI quota documentation</a> describes the TPM rate-limit estimate in two places with different strength:</p>\n<blockquote>\n<p>As each request is received, Azure OpenAI computes an estimated max processed-token count that <strong>includes</strong> the following: prompt text and count, the max_tokens parameter setting, the best_of parameter setting.</p>\n</blockquote>\n<p>&quot;Incl",
         "score": 0.0,
         "tags": [],
         "published": "",
@@ -523,50 +536,37 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "[$250] Saved search-Total spend is not shown right after saving the search results",
-        "url": "https://github.com/Expensify/App/issues/96419",
+        "title": "Hotfix: corrigir falhas dos browser smokes em staging",
+        "url": "https://github.com/ControleOnline/app-community/issues/645",
         "source": "GitHub Issues",
-        "summary": "If you haven’t already, check out our [contributing guidelines](https://github.com/Expensify/ReactNativeChat/blob/main/contributingGuides/CONTRIBUTING.md) for onboarding and email contributors@expensify.com to request to join our Slack channel!\n___\n\n**Version Number:** 9.4.36-0\n**Reproducible in staging?:** Yes\n**Reproducible in production?:** Yes\n**If this was caught during regression testing, add the test name, ID and link from BrowserStack:** https://test-management.browserstack.com/projects/",
-        "score": 75.0,
+        "summary": "## Contexto\n\nDurante a auditoria DevOps da publicação de `app-community`, o workflow `Pull Request Checks` em `staging` continuou com falhas nos browser smokes.\n\n- Repositório: `ControleOnline/app-community`\n- Branch/SHA auditado: `staging` / `80281ac32ddfc34d1149f1d1ecec49a1485e7809`\n- Workflow/run: `Pull Request Checks` / `33073927623`\n- Smokes afetados: `admin`, `pos`, `delivery`, `manager`\n- fluxo: `outros`\n\n## Problema\n\nOs smokes falharam com um conjunto de sintomas que precisam ser tratado",
+        "score": 57.0,
         "tags": [],
         "published": "",
-        "category": "价格与付费",
+        "category": "可靠性与质量",
         "urgency": "中",
-        "audience": "团队/企业",
+        "audience": "开发者",
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[Extension]: Add AgentDocxV2 :AgentDocx evolved: same pipeline + far more autonomous Ticket Manager",
-        "url": "https://github.com/github/spec-kit/issues/4342",
+        "title": "[Split de #6270] Encendido gradual con baseline y rollback automatico por degradacion",
+        "url": "https://github.com/intrale/platform/issues/6274",
         "source": "GitHub Issues",
-        "summary": "### Extension ID\n\nagentdocx-speckitv2\n\n### Extension Name\n\nAgentDocx SpecKit V2\n\n### Version\n\n0.0.7\n\n### Description\n\nAgentDocx evolved: same pipeline + far more autonomous Ticket Manager (5 CLI, per-project Kanban, bulk sync, auto-switch, Auditor).\n\n### Author\n\nAhmed Aziz Ammar \n\n### Repository URL\n\nhttps://github.com/ahmed200346/Extension_GithubSpecKit\n\n### Download URL\n\nhttps://github.com/ahmed200346/Extension_GithubSpecKit/archive/refs/tags/v0.0.7.zip\n\n### License\n\nMIT\n\n### Homepage (optiona",
-        "score": 24.0,
+        "summary": "Parte de #6270.\n\n## Objetivo\n\nEncender la propagaci?n del modelo **de forma escalonada**, con baseline medido antes y apagado autom?tico si alg?n proveedor se degrada.\n\n## Contexto\n\nEsta historia abarca **s?lo el rollout**; la propagaci?n en s? es #6272 y la medici?n del modelo efectivo es #6273.\n\nRequisito expl?cito del operador (2026-08-20): se va por la correcci?n completa, pero **sin romper el pipeline en el intento**. Cambiar el modelo con el que corre un actor puede alterar su tasa de ?xit",
+        "score": 41.0,
         "tags": [],
         "published": "",
-        "category": "集成与兼容",
+        "category": "可靠性与质量",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[tech-feed] はてなブックマーク テクノロジーカテゴリに医療・家電・税務系記事が混入——エンジニアリング記事への絞り込みフィルタを追加する",
-        "url": "https://github.com/tmokmss/my-ambient-agents/issues/174",
+        "title": "bug(auth): per-agent github_app_token.json caches never refresh — milestone-manager dead with HTTP 401",
+        "url": "https://github.com/senara-solutions/mika/issues/2013",
         "source": "GitHub Issues",
-        "summary": "## 背景\n\n2026-04-14 実行時、はてなブックマーク テクノロジーカテゴリから取得したフィードに下記のような非エンジニアリング記事が多数含まれていた：\n\n- 「胃カメラもバリウムも使わない胃の新しい検査法」（136users）\n- 「75万円の特別控除」（80users）\n- 「Wi-Fi 7ルーターを4台渡り歩いた」（144users）  \n- 「Adobe学割狙いで放送大学に入学」（140users）\n\nはてブのテクノロジーカテゴリは一般消費者向け家電・医療・個人ファイナンス記事も含んでおり、開発者向けダイジェストとして不適切な記事が取得段階から流入している。\n\n## 影響\n\nモデルが選択フェーズで除外しているため **レポート出力には影響しない** が、非関連記事がコンテキストを圧迫し、真に重要な技術記事が選択されるチャンスを狭めている可能性がある。\n\n## 改善案\n\nプロンプトのピックアップ指針に「エンジニア・開発者向けの技術的内容（実装・アーキテクチャ・ツール・プロトコル・OSS等）に関連する記事を優先し、一般消費者向け家電レビュー・医療・税務・芸能系の記事は除外す",
-        "score": 21.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Usage limit section refresh frequency and bugs in the UI",
-        "url": "https://github.com/hardbeat920/monocode/issues/20",
-        "source": "GitHub Issues",
-        "summary": "### MonoCode version\n\nlatest\n\n### macOS version\n\n26.4.1\n\n### Provider CLI\n\nClaude Code\n\n### What happened\n\nWhen you're using Claude Code, the footer shows a detailed percentage of how much you have left. To get this, the app pulls data from Claude Code every 5 minutes, but the UI itself only refreshes every 15 minutes.\n\nUsers might want to see this updated faster, after all, you already have the data on hand. You could also pull this data every time a session finishes, meaning whenever a message",
-        "score": 2.0,
+        "summary": "> - **Branch:** `bug/2013/auth-per-agent-github-app-token-json`\n> - **Plan:** `docs/plans/2026-08-29-002-fix-2013-milestone-manager-token-refresh-in-cycle-plan.md` (committed on branch @ `b2f93ffd`)\n> - **Grooming history:** /ce:plan → réconciliation corps↔code (ESCALATE-divergence, résolue par correction du corps) → mika-arch first-pass (ITERATE) → révisions → mika-arch second-pass (GROOMED)\n\n**Trouvé en production le 2026-08-27 par samidarko, en cherchant pourquoi le loop ne livre rien.**\n\n> *",
+        "score": 5.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -575,24 +575,11 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Define launch user testing and accessibility validation plan",
-        "url": "https://github.com/SuffolkLITLab/LITEFile/issues/200",
+        "title": "[code-review] review 側で agents の内訳が dispatch.agents と 9 体合わない（層の計上漏れ）",
+        "url": "https://github.com/yuuki1036/claude-plugins/issues/154",
         "source": "GitHub Issues",
-        "summary": "## Illinois partner feedback\n\nIllinois asked what testing is planned and specifically named:\n- end users;\n- court clerks;\n- Court Guides at Illinois Court Help;\n- ADA/accessibility.\n\n## Scope\n\nCreate a launch-readiness test plan covering at least:\n- Start a new case;\n- File into an existing case;\n- drafts/resume;\n- payment and fee-waiver paths;\n- Review and Submit;\n- submitted filing/status/refile paths;\n- desktop and mobile/small viewport behavior;\n- keyboard-only and screen-reader use;\n- acces",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "How do I disable &quot;Generate Commit Message&quot; without disabling other AI features in VS Code?",
-        "url": "https://stackoverflow.com/questions/79998781/how-do-i-disable-generate-commit-message-without-disabling-other-ai-features-i",
-        "source": "Stack Overflow",
-        "summary": "<p>VS Code added a sparkling button for AI generating commit messages. I want to disable commit message generation, <a href=\"https://stackoverflow.com/questions/79777875/how-can-i-remove-generate-commit-message-and-other-ai-features-in-1-102-0-and\">but unlike a similar question</a>, I'm not looking to disable all AI features. I want to keep things like <a href=\"https://code.visualstudio.com/docs/agents/run/chat-view\" rel=\"nofollow noreferrer\">Copilot Chat</a> enabled.</p>\n<p>How can I disable th",
-        "score": 1.0,
+        "summary": "## 対象プラグイン\ncode-review\n\n## 説明\n\n`dispatch.schema=2` のサンプルで、**review 側だけ `agents` の内訳合計が `dispatch.agents` と一致しない**。\n\n| ts (UTC) | skill | `dispatch.agents` | `agents` の内訳合計 | 差 |\n|---|---|---:|---:|---:|\n| 08-19 09:49 | **review** | **28** | **19** | **-9** |\n| 08-19 07:35 | self-review | 12 | 12 | 0 |\n| 08-19 22:20 | self-review | 7 | 7 | 0 |\n| 08-19 23:19 | self-review | 13 | 13 | 0 |\n| 08-20 02:57 | self-review | 5 | 5 | 0 |\n\nreview の該当回:\n\n```json\n\"agents\": {\"explorer\":5,\"reviewer\":10,\"special",
+        "score": 5.0,
         "tags": [],
         "published": "",
         "category": "其他",
@@ -601,11 +588,24 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "Cloud management controller initialization aborted as CBCM is not enabled. - How to solve this problem?",
-        "url": "https://stackoverflow.com/questions/76607177/cloud-management-controller-initialization-aborted-as-cbcm-is-not-enabled-how",
-        "source": "Stack Overflow",
-        "summary": "<p>I'm wanting to use web automation in python, with selenium, I'm currently using Microsoft Edge as a browser, but whenever I run my code, this error appears and opens a new Microsoft Edge window for a few seconds, then closes right away.</p>\n<p>Python version I use: Python 3.11\nMicrosoft Edge and MS Edge WebDriver Version: 114.0.1823.67\nSelenium Version: 4.10.0</p>\n<p>I've tried using Google Chrome too, but the same error happens.</p>\n<p>Code:</p>\n<pre class=\"lang-py prettyprint-override\"><cod",
-        "score": 1.0,
+        "title": "OAAT / gapless : un StreamStats pendant la négociation de format coupe la zone et arrête l’enchaînement (0.9.121, Zicmu)",
+        "url": "https://github.com/renesenses/tune-server-rust/issues/2758",
+        "source": "GitHub Issues",
+        "summary": "## Le symptôme\n\nSur une sortie **OAAT** (**Zicmu**, SMSL Sanskrit 10th MkII, `192.168.1.92:9740`) :\n\n- on lance une file (Qobuz ou DSD local) ;\n- Tune **prépare bien** le morceau suivant (`gapless_next_set`, `gapless transition`) ;\n- au moment de négocier le format, la zone **s’arrête** et **la file n’enchaîne pas**.\n\nReproduit le **29/08/2026** sur **0.9.121** (Linux, `192.168.1.181`, uptime frais). Pas besoin de sauter les pistes : ça casse au **premier Play** et aussi à la **transition gaples",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Join readiness gate: probe-backed Join button with red-link causes (Lane A', from #75)",
+        "url": "https://github.com/caty-ai/meetmate/issues/84",
+        "source": "GitHub Issues",
+        "summary": "## Why\n\n#75（@kmatsuda0608-beep さんの実セットアップ振り返り）で、キー取り違え（Attendee 401）・Soniox 残高切れ（402）・OpenClaw Gateway の chatCompletions 無効（404）が、いずれも**参加後に「壊れているように見える」形**で現れた。参加前に検出できる情報を Join ボタンの活性とボタン直上の赤字リンクへ集約し、初回ユーザーが自己解決できるようにする（#75 items 2/5/6 + 横断提案の実質吸収）。\n\nオーナー裁定（2026-08-29 session 8fca4331）: 重い診断画面は作らない。①全疎通が通らないと Join ボタンがグレースケールで押せない ②原因がボタン上/下の赤字リンクから設定該当箇所へ飛ぶ — の2点で足りる。診断コード体系・実会議一往復E2Eは採らない。\n\n## Clarify writeback（2026-08-29・AskUserQuestion 3問・オーナー回答）\n\n- Q1 プローブ契機 = **保存時 + 手動「再チェック」+ TTL キャッシュ",
+        "score": 3.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -615,15 +615,13 @@
       }
     ],
     "category_counts": {
-      "需求缺口": 1,
-      "可靠性与质量": 4,
-      "其他": 4,
+      "可靠性与质量": 7,
       "价格与付费": 2,
-      "集成与兼容": 1
+      "其他": 3
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 7 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
       "优先验证「价格与付费」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
