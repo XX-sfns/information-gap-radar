@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-01 01:11 CST",
+  "generated_at": "2026-09-01 22:15 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source": "OpenAI News",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "source": "OpenAI News",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 31 Aug 2026 07:00:00 GMT"
+    },
     {
       "title": "A milestone in expanding access to AI",
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
@@ -58,10 +80,10 @@
       "published": "Thu, 27 Aug 2026 03:00:00 GMT"
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI News",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -69,10 +91,10 @@
       "published": "Wed, 26 Aug 2026 10:00:00 GMT"
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI News",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -111,28 +133,6 @@
         "AI/科技"
       ],
       "published": "Tue, 25 Aug 2026 07:05:00 GMT"
-    },
-    {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "source": "OpenAI News",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Tue, 25 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "source": "OpenAI News",
-      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Tue, 25 Aug 2026 00:00:00 GMT"
     },
     {
       "title": "The Open ASR Leaderboard Adds Its First Global South Language",
@@ -273,209 +273,209 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 388248,
+      "score": 388474,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-08-31T17:09:33Z"
+      "published": "2026-09-01T14:13:27Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 279984,
+      "score": 280300,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-08-31T17:08:01Z"
+      "published": "2026-09-01T14:14:38Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 245070,
+      "score": 245567,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-08-31T17:11:53Z"
+      "published": "2026-09-01T14:14:46Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 238878,
+      "score": 239334,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-08-31T17:10:54Z"
+      "published": "2026-09-01T14:12:34Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 238878,
+      "score": 239334,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-08-31T17:10:54Z"
+      "published": "2026-09-01T14:12:34Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 202958,
+      "score": 203022,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-08-31T17:10:17Z"
+      "published": "2026-09-01T14:08:41Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187033,
+      "score": 187052,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-08-31T16:36:33Z"
+      "published": "2026-09-01T14:09:30Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187033,
+      "score": 187052,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-08-31T16:36:33Z"
+      "published": "2026-09-01T14:09:30Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 179834,
+      "score": 179892,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-08-31T17:10:59Z"
+      "published": "2026-09-01T14:12:22Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "score": 174737,
+      "score": 175122,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-08-31T17:09:16Z"
+      "published": "2026-09-01T14:12:38Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "score": 174737,
+      "score": 175122,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-08-31T17:09:16Z"
+      "published": "2026-09-01T14:12:38Z"
     },
     {
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "score": 168332,
+      "score": 168395,
       "tags": [
         "AI/Agent",
         "ai",
         "artificial-intelligence",
         "awesome-list"
       ],
-      "published": "2026-08-31T16:55:47Z"
+      "published": "2026-09-01T13:54:00Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 219.97,
-      "change_percent": 1.11,
+      "price": 218.04,
+      "change_percent": -1.24,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +1.11%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 -1.24%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1297.4,
-      "change_percent": 0.39,
+      "price": 1299.56,
+      "change_percent": 0.0,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +0.39%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +0.00%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "epic: align PowerContext Go with current PowerContext behavior and CI contracts",
-        "url": "https://github.com/ob-labs/powercontext-go/issues/3",
+        "title": "关闭触控增强功能时，也无法触控",
+        "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/17998",
         "source": "GitHub Issues",
-        "summary": "## Context\n\nPowerContext Go keeps the Python v0.0.2 implementation at oceanbase/powercontext@3a6cb0151670eaff7dc0293466edd673124e80da as an immutable historical Oracle. The accepted upstream parity target is the formal [PowerContext v0.1.0 release](https://github.com/oceanbase/powercontext/releases/tag/powercontext-v0.1.0), pinned by exact commit and verified distribution assets rather than by a moving master branch.\n\nComparison baseline:\n\n- PowerContext Go historical comparison baseline: ob-lab",
-        "score": 16.0,
+        "summary": "<details><summary>Checkboxes</summary>\n\n### 请确认自己完成了下列必选项之后再进行勾选，若未完成必选项或勾选了\"我未仔细阅读\"选项将视为自愿接受被直接关闭 Issue\n\n- [x] 我理解 Issue 是用于反馈和解决问题的，而非吐槽评论区，将尽可能提供更多信息帮助问题解决\n- [ ] 我未仔细阅读这些内容，只是一键已读[所有内容](/MaaAssistantArknights/MaaAssistantArknights/issues)，并相信这不会影响问题的处理\n- [x] 我填写了简短且清晰明确的标题，以便开发者在翻阅 Issue 列表时能快速确定大致问题。而不是“一个建议”、“卡住了”等\n- [x] 我使用的是当前更新版本的最新版, 并已查看版本发布至今的 [更新内容](https://github.com/MaaAssistantArknights/MaaAssistantArknights/commits/dev-v2/), [Pull Requests](https://github.com/MaaAssistantArknight",
+        "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "集成与兼容",
+        "category": "可靠性与质量",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 5 项"
+        "evidence": "关键词命中 1 项"
       },
       {
-        "title": "fix(mcp): isolate tool subprocesses; fix false schema and collisions",
-        "url": "https://github.com/otto-nation/otto-workbench/issues/1091",
+        "title": "Claude.ai web interface with Docling MCP server integration",
+        "url": "https://github.com/docling-project/docling/issues/2830",
         "source": "GitHub Issues",
-        "summary": "## Problem\n\nMeasured at `b465bc2c`. Four defects in the MCP server's spawn and discovery\npath, found while investigating why `pr review --self` has no tool call. All\nfour are independent of that investigation's outcome.\n\n### 1. Tool subprocesses inherit the JSON-RPC transport as stdin\n\n[`server.py:699-706`](https://github.com/otto-nation/otto-workbench/blob/b465bc2cac5572851d303b77a7d80204aea08de0/ai/claude/mcps/server.py#L699-L706)\nand [`server.py:228-234`](https://github.com/otto-nation/otto-w",
-        "score": 0.0,
+        "summary": "### Bug\n\n[docling-mcp-bug-report.md](https://github.com/user-attachments/files/24402207/docling-mcp-bug-report.md)\n\nTwo issues identified when using the Docling MCP server through Claude.ai:\n\n1. **Filesystem Isolation** — The server cannot access files in the Claude container filesystem\n2. **Image Processing Failure** — Tensor padding errors occur when converting images and PDFsribe the buggy behavior you have observed. -->\n",
+        "score": 1.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -523,43 +523,30 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Add Requirement Importance Matrix to job evaluations",
-        "url": "https://github.com/santifer/career-ops/issues/2330",
+        "title": "[Feature Reques]t: Drag & drop + Highlighting lines in the editor",
+        "url": "https://github.com/multidotdev/community/issues/31",
         "source": "GitHub Issues",
-        "summary": "### Code of Conduct\n\n- [x] I agree to follow the [Code of Conduct](https://github.com/santifer/career-ops/blob/main/CODE_OF_CONDUCT.md)\n\n### Existing issues\n\n- [x] I searched existing issues and this hasn't been requested yet\n\n### Problem\n\n**Summary**\n\nAdd a **Requirement Importance Matrix section** to the evaluation report that ranks every significant job requirement by its estimated impact on interview likelihood, independently of the candidate's current match.\n\n**Motivation**\n\nThe current eva",
-        "score": 5.0,
+        "summary": "Features I really loved from the github copilot plugin that would be great in the Multi.dev IntelliJ version are: \n\n#### Drag and drop files into context\n\nThe current `@` search works okay but its much easier to just drag and drop files to set the context.\n\n#### Highlighting lines in the editor for context\n\nIt saves a lot of key strokes and tokens if I can just select a few lines of code in the editor and then provide a prompt on that context.\n\n---\n\nExamples of both are easy to see in intellij g",
+        "score": 19.0,
         "tags": [],
         "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
+        "category": "其他",
+        "urgency": "低",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 0 项"
       },
       {
-        "title": "gitignore .pi 以免 deliver_pr 被 pi-loop 状态文件卡住",
-        "url": "https://github.com/orbi-build/orbi/issues/215",
+        "title": "fix(sched): verify superseded #472 review findings against merged #498 code",
+        "url": "https://github.com/imboard-ai/ai-dossier/issues/503",
         "source": "GitHub Issues",
-        "summary": "## Runtime outcome\n\nWhen an implementer Pi session ends, `deliver_pr` succeeds even if the worktree contains untracked `.pi/` state written by the Pi loop plugin. That directory is not part of the Agent commit boundary and must be gitignored.\n\n## Current behavior\n\n#214 (`run_id=2e2eafbd`) committed the delivery (`7e5360d`), full suite 1360 passed / 100% coverage, then `deliver_pr` fail-fasted:\n\n```text\ngit status --porcelain\n?? .pi/\nRuntimeError: the agent left uncommitted changes in the worktre",
-        "score": 3.0,
+        "summary": "## Context\nIssue #472 was implemented twice in a race: a stall-recovery redispatch merged PR #498 while the original run (r-472-2a7b, branch `feature/472-batch-attribution-bisect-eviction-dissolve` @ `7b5c46e`, kept on origin as reference) was still alive. The superseded run's full-tier review surfaced findings its hand-off comment (issue #472, comment 5466831223) flags as potentially applying to #498's merged code:\n\n1. **Bisect stdout-spoofing** — the bisect result parsing may be foolable by te",
+        "score": 8.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Market scanner fires expensive sequential MCP scans without checking TradingView MCP runtime readiness first",
-        "url": "https://github.com/francovp/cabros-bot/issues/632",
-        "source": "GitHub Issues",
-        "summary": "## Problem\n\n`POST /api/webhook/market-scanner-alert` launches sequential `runScans()` calls immediately after request validation, without checking the TradingView MCP runtime readiness status. When the MCP endpoint is down, suspended (see #630), or degraded, every scan attempt wastes the per-call timeout budget (`TRADINGVIEW_MCP_TIMEOUT_MS`, default 12s) multiplied by the number of scans before finally returning 502/504. For a 3-scan default request, that is ~36s of dead time before the caller g",
-        "score": 3.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
-        "urgency": "中",
+        "category": "其他",
+        "urgency": "低",
         "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "Access token in Selenium",
@@ -588,17 +575,30 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Tools tab: launcher shell with Cards/List/Compact views, run ledger, Report Card module",
-        "url": "https://github.com/llmsyscore/llm-systems-manager/issues/769",
+        "title": "Custom Output Naming",
+        "url": "https://github.com/docling-project/docling/issues/2397",
         "source": "GitHub Issues",
-        "summary": "Rename the LLM Control \"Report Card\" sub-tab to **Tools** and turn it into an app-style launcher hosting all tool modules (Report Card now; Benchmark and Autotune in phase 2; future tools later).\n\nPhase 1 scope:\n- Launcher home with three view modes — **Cards** (tool cards with live status pill + key stats), **List** (model-cards list grammar: status dot, name/description, stats, last run, action), **Compact** (dense status chips). View choice persists per user, mirroring the model-cards view sw",
+        "summary": "### Feature: Custom Output Naming\n\nI've found `docling` to be great, but simply using the basename of whatever URI we're hitting isn't always ideal.\nI'd like to be able to have `docling` save documents according to some information within the document, or to include additional parts of the URI.\n\n1. URI-based Enhancements\n    * Additional Folders/Namespaces\n        * domain.tld/2025-10-01/post.html   -> `2025-10-01_post.md` vs `post.md`\n        * \"Always\" and \"When Name < N Characters in Length\"\n",
         "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "category": "隐私与合规",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Explore: quarantined contextual evaluator for runtime tool-call decisions",
+        "url": "https://github.com/makerchecker/MakerChecker/issues/98",
+        "source": "GitHub Issues",
+        "summary": "## Idea\n\nFrom HN feedback on the Show HN launch: the embedded governor today decides on identity, grants, and separation of duties (RBAC + SoD). The suggestion is to extend it toward **contextual access control** — per-tool-call decisions that account for live session context (what the agent has read, conversation state, retrieved documents), described as \"sort of like ongoing zero trust.\"\n\nThe key constraint from the same comment: **the decider must never be exposed to untrusted context** — oth",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "How do I disable &quot;Generate Commit Message&quot; without disabling other AI features in VS Code?",
@@ -615,15 +615,14 @@
       }
     ],
     "category_counts": {
-      "集成与兼容": 2,
       "可靠性与质量": 4,
-      "其他": 5,
-      "价格与付费": 1
+      "其他": 6,
+      "隐私与合规": 2
     },
     "next_actions": [
-      "优先验证「其他」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
       "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「隐私与合规」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
