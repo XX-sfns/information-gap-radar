@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-02 00:39 CST",
+  "generated_at": "2026-10-02 23:56 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI News",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 01 Oct 2026 17:00:00 GMT"
+    },
     {
       "title": "How Albertsons Companies is reimagining retail from the inside out",
       "url": "https://openai.com/index/albertsons-reimagining-retail",
@@ -12,6 +23,17 @@
         "AI/科技"
       ],
       "published": "Thu, 01 Oct 2026 16:00:00 GMT"
+    },
+    {
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "source": "OpenAI News",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 01 Oct 2026 00:00:00 GMT"
     },
     {
       "title": "Disrupting a coordinated model-distillation campaign",
@@ -36,10 +58,10 @@
       "published": "Wed, 30 Sep 2026 10:00:00 GMT"
     },
     {
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "source": "OpenAI News",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -47,10 +69,10 @@
       "published": "Tue, 29 Sep 2026 10:00:00 GMT"
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
       "source": "OpenAI News",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -113,37 +135,26 @@
       "published": "Mon, 28 Sep 2026 00:00:00 GMT"
     },
     {
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI News",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 28 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "source": "OpenAI News",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 25 Sep 2026 19:00:00 GMT"
-    },
-    {
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
       "source": "Hugging Face Blog",
       "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Thu, 01 Oct 2026 15:01:43 GMT"
+      "published": "Fri, 02 Oct 2026 15:19:50 GMT"
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 02 Oct 2026 04:01:31 GMT"
     },
     {
       "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
@@ -254,17 +265,6 @@
         "AI/科技"
       ],
       "published": "Tue, 15 Sep 2026 16:00:44 GMT"
-    },
-    {
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT"
     }
   ],
   "github_trending": [
@@ -273,178 +273,178 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 391129,
+      "score": 391183,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-01T16:37:51Z"
+      "published": "2026-10-02T15:54:04Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 293807,
+      "score": 294270,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-01T16:36:20Z"
+      "published": "2026-10-02T15:54:54Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 270524,
+      "score": 271011,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-01T16:31:23Z"
+      "published": "2026-10-02T15:55:42Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 250541,
+      "score": 250700,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-01T16:33:55Z"
+      "published": "2026-10-02T15:50:19Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 250541,
+      "score": 250700,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-01T16:33:55Z"
+      "published": "2026-10-02T15:50:19Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 206436,
+      "score": 206490,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-01T16:32:05Z"
-    },
-    {
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "source": "GitHub",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187634,
-      "tags": [
-        "AI/Agent",
-        "agentic-ai",
-        "agents",
-        "ai"
-      ],
-      "published": "2026-10-01T15:45:01Z"
-    },
-    {
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "source": "GitHub",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187634,
-      "tags": [
-        "AI/Agent",
-        "agentic-ai",
-        "agents",
-        "ai"
-      ],
-      "published": "2026-10-01T15:45:01Z"
+      "published": "2026-10-02T15:52:25Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
-      "score": 187483,
+      "score": 187812,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-01T16:37:24Z"
+      "published": "2026-10-02T15:48:49Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
-      "score": 187483,
+      "score": 187812,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-01T16:37:24Z"
+      "published": "2026-10-02T15:48:49Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187641,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-02T15:26:29Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187641,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-02T15:26:29Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 182006,
+      "score": 182049,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-10-01T16:33:17Z"
+      "published": "2026-10-02T15:53:39Z"
     },
     {
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "score": 171801,
+      "score": 171847,
       "tags": [
         "AI/Agent",
         "ai",
         "artificial-intelligence",
         "awesome-list"
       ],
-      "published": "2026-10-01T16:33:28Z"
+      "published": "2026-10-02T15:49:09Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 230.81,
-      "change_percent": 1.06,
+      "price": 235.32,
+      "change_percent": 1.93,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +1.06%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +1.93%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
@@ -458,56 +458,56 @@
   "information_gap": {
     "items": [
       {
-        "title": "main-ci-monitor: CANNOT EVALUATE (infra)",
-        "url": "https://github.com/jpsnover/ai-triad-research/issues/2551",
+        "title": "🐞 [BUG] Close Explain ignores surviving local epic delivery branch and reports false blockers",
+        "url": "https://github.com/kburson/ai-task-manager/issues/1867",
         "source": "GitHub Issues",
-        "summary": "The monitor could not evaluate main's head — this is an infra problem with the monitor, not (necessarily) a red main.\n\n- **Error:** `Command failed: gh api repos/jpsnover/ai-triad-research/commits/main\ngh: To use GitHub CLI in a GitHub Actions workflow, set the GH_TOKEN environment variable. Example:\n  env:\n    GH_TOKEN: ${{ github.token }}\n`\n- **Run:** https://github.com/jpsnover/ai-triad-research/actions/runs/36614624686\n- **Time:** 2026-09-29T18:48:05.568Z",
-        "score": 9.0,
+        "summary": "<!-- aitm-last-known-state state=\"review\" ts=\"2026-10-02T15:52:41.238Z\" -->\n\n## User Story\n\nAs a a delivery operator\nI want to Close Explain and child Close to select the same surviving delivery branch because local epic delivery currently produces false blockers\nSo that I can close a verified child without pushing or completing its parent epic\n\n## Scope\n\nAlign read-only Close Explain with child Close delivery-target selection for surviving local epic branches. Preserve exact-object attribution,",
+        "score": 26.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Build source-to-EPUB self-refinement evaluator",
-        "url": "https://github.com/erniesg/erniesg/issues/199",
-        "source": "GitHub Issues",
-        "summary": "<!-- rucksack-autopilot-provider:vm-codex -->\n\nParent: #197\nLane: evidence-eval\n\n## Goal\n\nBuild the source-PDF versus rendered-EPUB evaluator and bounded Codex self-refinement protocol that will be the authority for full reconstruction. Replace package-valid/readable-fallback success with element-level semantic and visual fidelity.\n\n## Acceptance tests\n\n- Define a versioned trace that binds source PDF hash/pages, source render hashes, deterministic extraction evidence, MinerU candidate identitie",
-        "score": 4.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "安卓端重试多次无法完成初始化解压",
-        "url": "https://github.com/MaaEnd/MaaEnd/issues/6160",
-        "source": "GitHub Issues",
-        "summary": "### 客户端类型\n\nMaaFwApp（Android）\n\n### 问题描述及复现步骤\n\n一加平板2pro已root，给软件root权限和不给时都无法完成初始化解压，平板空间充足还有一百多GB，后台已全部清空。我的系统root后空间显示512g变为1tb，但也多了512g的占用空间，正常使用时文件系统一直没有问题，这个有没有影响？\n不论软件打开自动初始化解压还是从设置手动完成都不行\n每次都是在“已写入2176个文件”这个地方报错\n\n### 日志文件\n\n[maafw_logs_20261002_000346.zip](https://github.com/user-attachments/files/32923103/maafw_logs_20261002_000346.zip)\n\n### 软件画面截图\n\n<img width=\"3392\" height=\"2400\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4b25cbf0-e544-4025-903d-8d5b9f09a41d\" />\n\n<img widt",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "高",
-        "audience": "团队/企业",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Publish as textui-markup and ship a machine-readable markup spec (registry metadata, schemas, LLM reference, static check)",
-        "url": "https://github.com/thunderballfists/TextUI/issues/96",
-        "source": "GitHub Issues",
-        "summary": "## Summary\n\nThree ordered, separately reviewable PRs:\n\n1. **Publish as `textui-markup`**: rename the distribution, say \"markup\" instead of \"XML\" in user-facing docs, add a trusted-publishing release workflow.\n2. **Registry metadata as data**: attribute types and simple containment rules become declarative, behaviour-preserving. This is the \"explicit metadata format\" that roadmap unit **1C** is waiting for.\n3. **Machine-readable spec and a static check**: a generated reference, an XSD, editor com",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
+        "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Is there a way in MCP to stream a LLM response chunk by chunk back to the client?",
+        "url": "https://stackoverflow.com/questions/79850215/is-there-a-way-in-mcp-to-stream-a-llm-response-chunk-by-chunk-back-to-the-client",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm using FastMCP in python to implement a <strong>MCP server</strong>. Currently I run into a problem when it comes to <strong>streaming</strong> of the <strong>generated tokens from the LLM</strong>. I don't want to wait for the completed response and return the whole text, I rather want to stream chunk by chunk to improve the response time for the user. This seems to be a valid use case to me when working with MCP.</p>\n<p>I don't have control about the Client, since I'm using Clients like ",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "swift-format and SwiftLint disagree at 5 sites; running the documented swift-format command turns the lint gate red",
+        "url": "https://github.com/Sunnshiine/workout-app/issues/630",
+        "source": "GitHub Issues",
+        "summary": "`CLAUDE.md` tells contributors to run `swift-format -i -r App/ Sources/ Tests/`. Since #607 added the `lint` CI job, running that command puts the gate red.\n\nMeasured at `6d2032c` (PR #625 head): the full recursive run rewrites 24 files and leaves 5 SwiftLint errors.\n\n| Rule | Site |\n|---|---|\n| `opening_brace` | `multiLineNotesRequest(_:_:value:expected:)` in `Tests/Unit/SheetWriterTests.swift` |\n| `opening_brace` | `SessionStagePresentation.upNextItem(after:in:)` |\n| `opening_brace` | `Session",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Model Preferences page lists only Claude tier ids (with Anthropic prices) on a DeepSeek deployment; deepseek-flash not offered",
+        "url": "https://github.com/openzigs/metis/issues/713",
+        "source": "GitHub Issues",
+        "summary": "Found during the #706 end-to-end walkthrough (Wave A, Phase 1, step 3), on DeepSeek Flash (`AI_PROVIDER=anthropic`, `ANTHROPIC_BASE_URL=https://api.deepseek.com/anthropic`, `ANTHROPIC_MODEL=deepseek-flash`).\n\n- **Phase / step:** Phase 1, step 3 (`/projects/:id/settings/models`)\n- **Route / page:** `/projects/cmur5443h000pm49ktdmjnvjl/settings/models` → `GET /api/projects/:id/model-preferences`\n- **Failure type:** Useful (and Works: \"the model picker shows `deepseek-flash`\")\n\n## Expected\nThe Mode",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
       },
       {
         "title": "Windows Automation via Console Application",
@@ -523,17 +523,82 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "finding(layout): the mobile tab bar (`bottom_nav`) draws entries the sidebar hides — `visible: false`, denied `requiredPermissions` — and an `action` entry as a dead link",
-        "url": "https://github.com/objectstack-ai/objectui/issues/11362",
+        "title": "[YOS HQ] ProjectY自動司令部 v1｜毎時監視・安全な自動継続",
+        "url": "https://github.com/yskn0008-bot/ProjectY/issues/232",
         "source": "GitHub Issues",
-        "summary": "Filing-gate category: ① a defect, class (a). `reach:` the published export `AppSchemaRenderer` (`@object-ui/layout`), registered as the SDUI node `app-schema-renderer`, with `mobileNavMode: 'bottom_nav'`. Measured by rendering it at objectui `main` `2124d04111` and at PR objectstack-ai/objectui#11359's head `6f5ff7bf0a`. Reader: triage first (grade and route). Filed by the objectui `domain:ui` seat 1 (`session_0122Knsowci76D2rBWReCzzZ`) from objectui#11211's dev report (`5927597493`, `out_of_sco",
-        "score": 2.0,
+        "summary": "## 目的\n\nProjectYを、ようすけが各チャット・PR・Issueを巡回しなくても前へ進む組織へ移行する。\n\nこのIssueは新しい人格・新しい製品・新しい開発チャットではない。既存資産を接続する運用規約である。\n\n- **ようすけ**：Founder / Owner。人生・価値観・大きな仕様・本番公開の最終判断\n- **YOS**：唯一の人格・司令塔。優先順位、統合、安全判断、最終承認\n- **Taxi Lab**：研究・分析・設計\n- **Codex**：コード実装の標準担当\n- **QA / Actions**：検査\n- **GitHub**：正本\n- **Issue #51**：全体管理・重要判断の記録\n- **Mission Control**：現在地の自動集約ダッシュボード\n\n> Issueタイトルの「毎時監視」は既存正式名称として維持する。運転方式は、2026-08-17以降 **イベント駆動を主経路、5分watchdogを取りこぼし・停滞検知の保険** とする。1時間待ちを標準動作にしない。\n\n## 運転方式\n\n### 主経路｜イベント駆動\n\nGitHub上で意味",
+        "score": 118.0,
         "tags": [],
         "published": "",
-        "category": "集成与兼容",
+        "category": "易用性与流程",
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "feat(vbrief,build): STOP conditions on vBRIEF task items — halt and report when preconditions fail",
+        "url": "https://github.com/deftai/directive/issues/1613",
+        "source": "GitHub Issues",
+        "summary": "feat(vbrief,build): STOP conditions on vBRIEF task items — halt and report when preconditions fail rather than improvising\n\n## Summary\n\nDirective vBRIEF plan.items have acceptance criteria and effort estimates, but no STOP conditions. When the build agent hits unexpected code — the file has moved, the pattern has changed, an assumption in the spec was wrong — it currently improvises. The failure mode is silent: the agent produces output that looks like implementation but diverges from the spec i",
+        "score": 9.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "What is the meaning of &lt;- in AI?",
+        "url": "https://stackoverflow.com/questions/2125887/what-is-the-meaning-of-in-ai",
+        "source": "Stack Overflow",
+        "summary": "<p>I've seen in a lot of AI related stuff the symbol &lt;-. For example,</p>\n\n<pre><code>delta &lt;- 0\nx &lt;- x + 1\n</code></pre>\n\n<p>etc.</p>\n\n<p>I always assume its meaning is the same as =(assigment), but probably they have a meaning that's a bit different from assigment, I assume?</p>\n\n<p>Thanks</p>\n",
+        "score": 7.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "[Feature Request] Dynamic pass-through for per-user Zabbix API tokens in multi-user environments",
+        "url": "https://github.com/initMAX/zabbix-mcp-server/issues/74",
+        "source": "GitHub Issues",
+        "summary": "Currently, zabbix-mcp-server operates on a centralized \"Two-Token System\" where the connection to the Zabbix instance is authenticated via a globally shared, static api_token defined inside config.toml. \n\nWhile this works well for single-user or automated workflow setups, it creates an architectural bottleneck in multi-user enterprise environments. Many AI frontends and clients (e.g., Open WebUI, LibreChat, or custom LLM orchestrators) support letting individual end-users input their own unique ",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "易用性与流程",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "A Pickup run takes a Spec whose Tickets are all closed on every pass, and never reaches the next Ready issue",
+        "url": "https://github.com/JacobStephens2/thirdshift/issues/303",
+        "source": "GitHub Issues",
+        "summary": "> *This was generated by AI during triage.*\n\nA Spec that is open and labelled `ready-for-agent`, whose Tickets are all closed and which has no Spec branch, is a **Ready issue** to every **Pickup run**. Each pass takes it, the Spec run it dispatches stops with `every Ticket is closed and there is no Spec branch; nothing to do`, and nothing is left behind to stop the next pass from taking it again. A higher-numbered Ready issue is never reached.\n\n## What happened\n\nOn this repository, #109 was open",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Why does my on-prem OCR + RAG pipeline design lead to poor retrieval performance?",
+        "url": "https://stackoverflow.com/questions/79917285/why-does-my-on-prem-ocr-rag-pipeline-design-lead-to-poor-retrieval-performance",
+        "source": "Stack Overflow",
+        "summary": "<p>I am building an on-prem document processing system using:</p>\n<p>- OCR for scanned PDFs</p>\n<p>- Embeddings for indexing</p>\n<p>- RAG for retrieval and question answering</p>\n<p>However, I’m seeing issues with retrieval quality and latency when combining OCR output with embeddings.</p>\n<p>For example:</p>\n<p>- OCR text is noisy and affects embedding quality</p>\n<p>- Retrieval results are inconsistent across similar queries</p>\n<p>- Performance degrades with larger document sets</p>\n<p>What a",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "Remove a past git commit from history - non-interactively",
@@ -547,83 +612,19 @@
         "urgency": "低",
         "audience": "个人用户",
         "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Домашние животные двора: наличие, владение, содержание, поведение (скот, птица, собаки, кошки)",
-        "url": "https://github.com/PavelSlaven/Novgorod1230/issues/223",
-        "source": "GitHub Issues",
-        "summary": "Запрос владельца (2026-10-01): проверить, что есть про домашних животных во дворе — птицу, скот, собак, кошек и прочее — по наличию, владению, содержанию и поведению. Если этого нет, завести отдельный issue. Проверка сделана по голове PR #98 (`be8fad78`): данные, нормы, код и схема БД, World Knowledge, NPC, issue и решения.\r\n\r\n## Итог: в v17 домашних животных как игровых сущностей нет\r\n\r\nЕсть справочные данные (все `candidate`), каркас категорий в ACTIVE-норме и общая биология в WK. Ничего из эт",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Postgresql MCP server not running. Tool showing error",
-        "url": "https://stackoverflow.com/questions/79709658/postgresql-mcp-server-not-running-tool-showing-error",
-        "source": "Stack Overflow",
-        "summary": "<p>Here is the code I am running for mcp-server on cursor -</p>\n<pre><code>from contextlib import asynccontextmanager\nfrom collections.abc import AsyncIterator\nfrom dataclasses import dataclass\n\nimport asyncpg\nfrom mcp.server.fastmcp import FastMCP, Context\n\n# Async PostgreSQL wrapper using asyncpg\nclass Database:\n    def __init__(self, pool: asyncpg.Pool):\n        self.pool = pool\n\n    @classmethod\n    async def connect(cls) -&gt; &quot;Database&quot;:\n        pool = await asyncpg.create_pool(\n",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Ask HN: Who wants to be hired? (October 2026)",
-        "url": "https://news.ycombinator.com/item?id=49923897",
-        "source": "Hacker News",
-        "summary": "Location: Erzurum, Turkey (UTC+3) Remote: Yes (remote only) Willing to relocate: No Technologies: GitHub Actions (CI), Python, shell (CI steps), mutation testing (mutants checked into the repo), Claude Code (agentic workflows) Résumé&#x2F;CV: on request | GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;onur-kesim\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;onur-kesim</a> | Writing: <a href=\"https:&#x2F;&#x2F;dev.to&#x2F;onurkesim\" rel=\"nofollow\">https:&#x2F;&#x2F;dev.to&#x2F;onurkesim</",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Ask HN: Who is hiring? (October 2026)",
-        "url": "https://news.ycombinator.com/item?id=49923870",
-        "source": "Hacker News",
-        "summary": "Brilliant.org | Senior&#x2F;Staff Software Engineer (Interactives) | Remote (North America), SF, NYC | Full-time | $180k-$250k | <a href=\"https:&#x2F;&#x2F;brilliant.org\" rel=\"nofollow\">https:&#x2F;&#x2F;brilliant.org</a> In a world of cognitive offloading, Brilliant&#x27;s AI tutor gets kids to actually think. The graphical canvas is interactable by both the learner and their tutor, leading to pedagogically-rich interactions. We&#x27;re hiring an interactive-focused engineer to craft the buildi",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-        "url": "https://news.ycombinator.com/item?id=49923829",
-        "source": "Hacker News",
-        "summary": "&quot;User agent&quot; but do users run LLMs behind their agents on their hardware? No, it&#x27;s run in an AI datacenter. They can easily make a deal to route that without involving user&#x27;s machine, or they can route this via user&#x27;s machine but attach a signature. Of course both parties must agree on that, but technically there&#x27;s nothing stopping them",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "隐私与合规",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
       }
     ],
     "category_counts": {
-      "可靠性与质量": 5,
-      "其他": 3,
       "集成与兼容": 3,
-      "隐私与合规": 1
+      "可靠性与质量": 1,
+      "价格与付费": 1,
+      "易用性与流程": 2,
+      "其他": 5
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「其他」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「易用性与流程」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
