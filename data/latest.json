@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10 00:28 CST",
+  "generated_at": "2026-10-10 23:32 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -7,6 +7,17 @@
       "url": "https://openai.com/index/sophos",
       "source": "OpenAI News",
       "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI News",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -122,17 +133,6 @@
         "AI/科技"
       ],
       "published": "Tue, 06 Oct 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI News",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Tue, 06 Oct 2026 16:00:00 GMT"
     },
     {
       "title": "Impactful scheduling for GPU clusters",
@@ -273,199 +273,199 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 391543,
+      "score": 391583,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-09T16:27:57Z"
+      "published": "2026-10-10T15:28:16Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 296816,
+      "score": 297128,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-09T16:26:27Z"
+      "published": "2026-10-10T15:31:06Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 275784,
+      "score": 276304,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-09T16:26:29Z"
+      "published": "2026-10-10T15:31:43Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 252223,
+      "score": 252458,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-09T16:09:58Z"
+      "published": "2026-10-10T15:25:12Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 252223,
+      "score": 252458,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-09T16:09:58Z"
+      "published": "2026-10-10T15:25:12Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 206815,
+      "score": 206900,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-09T16:19:27Z"
+      "published": "2026-10-10T15:11:15Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 189852,
+      "score": 190126,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-09T16:26:02Z"
+      "published": "2026-10-10T15:31:49Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 189852,
+      "score": 190126,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-09T16:26:02Z"
+      "published": "2026-10-10T15:31:49Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187495,
+      "score": 187508,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-09T15:17:06Z"
+      "published": "2026-10-10T15:09:23Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187495,
+      "score": 187508,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-09T15:17:06Z"
+      "published": "2026-10-10T15:09:23Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 182506,
+      "score": 182613,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-10-09T16:21:35Z"
+      "published": "2026-10-10T15:18:39Z"
     },
     {
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "score": 172249,
+      "score": 172385,
       "tags": [
         "AI/Agent",
         "ai",
         "artificial-intelligence",
         "awesome-list"
       ],
-      "published": "2026-10-09T16:24:10Z"
+      "published": "2026-10-10T15:31:59Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 229.55,
-      "change_percent": -0.4,
+      "price": 229.28,
+      "change_percent": -0.52,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 -0.40%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 -0.52%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1255.79,
-      "change_percent": -0.22,
+      "price": 1263.0,
+      "change_percent": 0.57,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 -0.22%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +0.57%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "Prediction engine 3/7: ladder D-E, sequential entry and calibrated accept/skip, all instruments",
-        "url": "https://github.com/mfittko/market-signals/issues/310",
+        "title": "[Bug]: Script broken since 2607 - \"Include\" array formatted as a single string since v2607, causing all products to be skipped",
+        "url": "https://github.com/msfreaks/EvergreenAdmx/issues/89",
         "source": "GitHub Issues",
-        "summary": "Part of the prediction engine epic: https://github.com/mfittko/market-signals/issues/307\n\nThis issue follows the qualification contract in https://github.com/mfittko/market-signals/issues/307. Policy identity, lifecycle stages, per-entry assessment states and verdicts use the names defined there.\n\n## Outcome\n\nA recorded verdict (supported, rejected or inconclusive) for two research hypotheses on WTI M5:\n\n- D: a sequential wait/confirm entry policy finds a better entry between supertrend flips an",
-        "score": 67.0,
+        "summary": "### Is there an existing issue for this?\n\n- [x] I have searched the existing issues\n\n### Description\n\nWhen running EvergreenAdmx.ps1 (with or without the -Include parameter), the script skips every single product.\n\nAfter investigating, I noticed a regression introduced between versions 2503.1 and 2607.1 in how the $Include array is joined/formatted.\n\n**Version 2503.1 (Working):\nThe array elements are joined with a comma. The comparison works as expected:**\n\nPS C:\\scripts\\test> .\\EvergreenAdmx.ps",
+        "score": 4.0,
         "tags": [],
         "published": "",
-        "category": "价格与付费",
+        "category": "可靠性与质量",
         "urgency": "高",
         "audience": "个人用户",
         "evidence": "关键词命中 2 项"
@@ -484,43 +484,56 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "A sales rep's record History tab is empty: no permission set grants sys_audit_log read (measure field-level safety first)",
-        "url": "https://github.com/objectstack-ai/hotcrm/issues/2044",
+        "title": "lychee hook fails intermittently on ubuntu-latest: [503]/[504] from github.com, every time on the emacs-mirror blob links in docs/user-facing/lsp.md",
+        "url": "https://github.com/agent-grounds/grund/issues/553",
         "source": "GitHub Issues",
-        "summary": "Filing gate: **① product defect with reach measured. Class (a), user-visible.** reach: REST `GET /api/v1/data/sys_audit_log` as a sales rep, and the record History tab. Measured on hotcrm `ac162c9b` (`@objectstack/*` 17.7.0) by the dev of #2029 (report `6083534286`), session `session_018Mk4tab2eCyY41UTWK7y7V`, on a fresh dev box with `pnpm demo:staff`.\n\n**Who acts on it:** the `repo:hotcrm` seat dispatches it, measuring first. It is the same class as #2029 item 5 (a rep refused a record's collab",
+        "summary": "The `lychee` pre-commit hook (`python scripts/check_links.py …`) fails the `cargo test (ubuntu-latest)` job in its `pre-commit` step, and the local `pre-commit run --all-files`. It fails on GitHub answering `503 Service Unavailable` / `504 Gateway Timeout` for `github.com` pages. None of the failing links is in a file the failing branches touch, and the same links pass on a later run with nothing changed. This is not #403's `[TIMEOUT]`: these are status codes. `lychee.toml` (`timeout = 30`, `max",
         "score": 3.0,
         "tags": [],
         "published": "",
-        "category": "隐私与合规",
+        "category": "可靠性与质量",
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Explore: hybrid local backend sidecar in the app (parked idea)",
-        "url": "https://github.com/abdullahatrash/flowleap-agent-v2/issues/603",
+        "title": "Add a Docker container as a second deployment method, keeping the desktop tray variant",
+        "url": "https://github.com/osxy/ocr-solver/issues/207",
         "source": "GitHub Issues",
-        "summary": "> **Parked idea — not for now.** Captured from a design discussion on 2026-10-09 so it is not lost. Explore later; no implementation is planned.\n\n## Idea\n\nRun part of `flowleap-backend` as a local **sidecar** process inside the app (the same pattern as the agent host). The work is divided (**hybrid**):\n\n| Runs locally in the sidecar | Stays on the hosted backend |\n|---|---|\n| Query builders, parsing, formatting, claim analysis with the user's BYOK LLM | EPO/USPTO calls with FlowLeap's keys |\n| C",
-        "score": 0.0,
+        "summary": "A second deployment method alongside the desktop variant: run PuzzleSolver as a **Docker container**, for people who want the HTTP ingress on a machine they already run containers on — a NAS, a home server, a small VPS — without an install, a tray, or a Windows session.\n\n**The desktop tray variant stays.** It is the primary deployment, it is what the releases ship, and nothing here may make it worse. Any change that touches the shared code has to keep the Windows deploy job green, which is the o",
+        "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "隐私与合规",
+        "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 3 项"
+        "evidence": "关键词命中 1 项"
       },
       {
-        "title": "research: evidence contract — channel-typed evidence records on artifact claims + derivation check at emit",
-        "url": "https://github.com/C360Studio/semteams/issues/271",
+        "title": "[Ticket]: AML is not in the payment path, and /score cannot meet its latency budget under concurrency",
+        "url": "https://github.com/ADORSYS-GIS/fineract-aml/issues/7",
         "source": "GitHub Issues",
-        "summary": "## Outcome\n\nEvery factual claim in a research artifact carries a channel-typed evidence record the harness can check mechanically, and an artifact whose evidence cannot be derived from the run's own tool results is rejected before it reaches a reviewer.\n\nThis is the shared foundation for the program-pulse MVP (#267 requires every claim traceable to normalized GitHub evidence) and for deep-research profiles of the research capability. Ruling: #264.\n\n## Why now\n\nToday the chain of custody is broke",
+        "summary": "### Type\r\nBug\r\n\r\n### Summary\r\nWe need a decided way to wire AML screening into Webank, and a `/score` safe to call synchronously. Today no Webank transaction reaches fineract-aml, though the architecture documents draw a BFF-to-AML call. `/score` runs three queries on one shared async session, loads two models from disk on every request, loads unbounded history, applies its 400 ms timeout only to the database phase, and requires a staff token that services cannot present. Under concurrency it wo",
         "score": 0.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "高",
-        "audience": "团队/企业",
+        "audience": "开发者",
         "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[EPIC][SK-AGENT] Suivi long cours — adoption mesurée, mutualisation mcp-tools avec exécution dans les worktrees commanditaires, délégation récursive medium → mini",
+        "url": "https://github.com/jsboige/roo-extensions/issues/4085",
+        "source": "GitHub Issues",
+        "summary": "## Mandat user (06/10/2026)\n\n> « Pour sk-agent, on a besoin d'une issue de suivi au long cours, car il est encore peu utilisé, se pose la question de la mutualisation via le container mcp-tools que tu gères avec accès en streamable-http, mais dans ce cas il faut pour les agents sous DesktopCommander ou Papermill-Jupyter une façon de tourner dans des worktrees des workspaces commanditaires.\n> Et puis on va onboarder un nouveau modèle mini, il faudra vérifier que notre modèle medium swift est bien",
+        "score": 44.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "What is the meaning of &lt;- in AI?",
@@ -536,6 +549,19 @@
         "evidence": "关键词命中 0 项"
       },
       {
+        "title": "[Bug]: Slack reaction_added/reaction_removed events never delivered via Socket Mode (multi-account, v2026.3.24)",
+        "url": "https://github.com/openclaw/openclaw/issues/56653",
+        "source": "GitHub Issues",
+        "summary": "### Bug type\n\nBehavior bug (incorrect output/state without crash)\n\n### Beta release blocker\n\nNo\n\n### Summary\n\nSlack reaction_added and reaction_removed events are never delivered to the OpenClaw gateway via Socket Mode despite correct event subscriptions, OAuth scopes, and config across all 5 bot accounts — zero events appear even at trace-level logging.\n\n### Steps to reproduce\n\n1. Configure multi-account Slack with Socket Mode (5 bot accounts, each with own botToken + appToken)\n2. Set channels.",
+        "score": 6.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
         "title": "How to attach a PDF file on WhatsApp Web using Selenium? (Error: “The file you tried to add is not supported”)",
         "url": "https://stackoverflow.com/questions/79842263/how-to-attach-a-pdf-file-on-whatsapp-web-using-selenium-error-the-file-you-t",
         "source": "Stack Overflow",
@@ -547,6 +573,19 @@
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
+        "url": "https://stackoverflow.com/questions/79935672/input-validation-error-1-57-is-not-of-type-number-from-langchain-mcp-adapte",
+        "source": "Stack Overflow",
+        "summary": "<p>I am getting the following error:</p>\n<pre><code>An error occurred: Input validation error: '1.57' is not of type 'number'\n</code></pre>\n<p>From what I understand, this happens before the MCP server is called: LangChain’s MCP adapter is validating the tool call arguments against the JSON Schema and the model is emitting <code>&quot;1.57&quot;</code> as a string instead of <code>1.57</code> as a number, so the validation fails.</p>\n<p>Is that understanding correct? And what’s the recommended w",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "Why does my on-prem OCR + RAG pipeline design lead to poor retrieval performance?",
@@ -562,32 +601,6 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "test(entropy): the \"ceiling never rises\" guard compares the baseline with itself",
-        "url": "https://github.com/bop-clocktower/canary/issues/1247",
-        "source": "GitHub Issues",
-        "summary": "## Problem\n\n`ts/test/entropy-ratchet.test.ts:398-419` (\"never raises the ceiling above its last committed value\") compares `.harness/entropy-baseline.json` with `git show HEAD:.harness/entropy-baseline.json`. That has two defects.\n\n1. **It can never fail.**\n   - On a PR's merge ref, `HEAD:` is the same file as the working copy. So is any commit once the change is committed.\n   - A committed raise of `maxFindings` therefore passes. Raising `measuredCount` to match keeps every other guard in the b",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "易用性与流程",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "fix(katana): diffscan.mjs carries a literal NUL byte, so git, GitHub and grep treat it as binary",
-        "url": "https://github.com/bop-clocktower/canary/issues/1250",
-        "source": "GitHub Issues",
-        "summary": "## What\n\n`agents/skills/claude-code/canary-katana/scripts/diffscan.mjs` has a raw `0x00` byte inside a template literal. It has been there since the JS port in #411 (c54fcc6) and is still on `main`:\n\n```js\n// line 74 on main; <NUL> is the literal 0x00 byte, not an escape\nconst mapKey = (file, name) => `${file}<NUL>${name}`;\n```\n\nThe intent, a delimiter that can't occur in a path or a title, is fine. `ledger.mjs` does the same job with the escape `'\\u0000'`. The problem is that the byte itself is",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
         "title": "Continuous message transmission in CANoe",
         "url": "https://stackoverflow.com/questions/28449041/continuous-message-transmission-in-canoe",
         "source": "Stack Overflow",
@@ -599,31 +612,16 @@
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Need to retrieve xpath or css from WebElement Object at run time",
-        "url": "https://stackoverflow.com/questions/28936568/need-to-retrieve-xpath-or-css-from-webelement-object-at-run-time",
-        "source": "Stack Overflow",
-        "summary": "<p>What are the possible ways to retrieve xpath or css (any logic) from WebElement object? For example I have created WebElement by following way:</p>\n\n<pre><code>WebElement obj=driver.findElement(By.cssSelector(\".hello\"));\n</code></pre>\n\n<p>Now I want to get back a By object from this WebElement Object or if I am able to retrieve xpath or css then I am able to create By object of it. Suggest me any idea.</p>\n",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
       }
     ],
     "category_counts": {
-      "价格与付费": 1,
+      "可靠性与质量": 6,
       "集成与兼容": 2,
-      "隐私与合规": 3,
-      "可靠性与质量": 2,
       "其他": 3,
-      "易用性与流程": 1
+      "隐私与合规": 1
     },
     "next_actions": [
-      "优先验证「隐私与合规」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
       "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
       "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
