@@ -1,0 +1,630 @@
+{
+  "generated_at": "2026-10-11 23:54 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "source": "OpenAI News",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI News",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "source": "OpenAI News",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 08 Oct 2026 16:00:00 GMT"
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI News",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 08 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI News",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 08 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI News",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 08 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI News",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "source": "OpenAI News",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI News",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "source": "OpenAI News",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 06 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI News",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 06 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI News",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 06 Oct 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 09 Oct 2026 15:20:29 GMT"
+    },
+    {
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 08 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 16:54:33 GMT"
+    },
+    {
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 13:21:03 GMT"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 12:45:31 GMT"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Sat, 03 Oct 2026 22:56:48 GMT"
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 02 Oct 2026 04:01:31 GMT"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 30 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 29 Sep 2026 13:07:00 GMT"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 28 Sep 2026 09:44:05 GMT"
+    },
+    {
+      "title": "Welcome RL Environments to the hub",
+      "url": "https://huggingface.co/blog/rl-environments",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 28 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 22 Sep 2026 00:00:00 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 391677,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-10-11T15:54:02Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 297473,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-10-11T15:54:02Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 276942,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-10-11T15:51:31Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 252731,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-11T15:42:31Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 252731,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-11T15:42:31Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 206991,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-10-11T15:50:29Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 190393,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-11T15:53:00Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 190393,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-11T15:53:00Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187519,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-11T15:48:09Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187519,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-11T15:48:09Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 182748,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "gemma3"
+      ],
+      "published": "2026-10-11T15:53:25Z"
+    },
+    {
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "score": 172587,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "artificial-intelligence",
+        "awesome-list"
+      ],
+      "published": "2026-10-11T15:51:47Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 229.28,
+      "change_percent": -0.52,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -0.52%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1263.0,
+      "change_percent": 0.57,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +0.57%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "Separate orchestration from implementation with a GitHub-native worker exchange",
+        "url": "https://github.com/ktogias/gnostoa/issues/325",
+        "source": "GitHub Issues",
+        "summary": "## Capture / admission status\n\n**OWNER-DIRECTED BOUNDED ENABLING SLICE — schedule immediately after #324-R0 and before #318.**\n\nThis Work Item records the architecture selected on 2026-09-26 for separating the **orchestrating agent** from the **implementing agent** while keeping GitHub as the first concrete provider/control plane.\n\nIt is intentionally smaller than a general multi-agent platform or the optional #15-L4 / #201 executor-fabric work.\n\nCreating this issue does not create a competing b",
+        "score": 13.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "🐞 [BUG] Collect current authority and persist protected pending projections",
+        "url": "https://github.com/kburson/ai-task-manager/issues/1987",
+        "source": "GitHub Issues",
+        "summary": "<!-- aitm-last-known-state state=\"ready-for-plan\" ts=\"2026-10-11T15:53:32.098Z\" -->\n<!-- aitm-refine-complete ts=\"2026-10-11T15:53:17.120Z\" -->\n\n## User Story\n\nAs a workspace operator\nI want to distinguish a current decomposition assessment from stale projections and unresolved estimate intent because agreement between old fields can hide an interrupted oversized revision\nSo that recovery never silently restores implementation permission from incomplete or contradictory authority\n\n## Scope\n\nDeli",
+        "score": 5.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Is there a way in MCP to stream a LLM response chunk by chunk back to the client?",
+        "url": "https://stackoverflow.com/questions/79850215/is-there-a-way-in-mcp-to-stream-a-llm-response-chunk-by-chunk-back-to-the-client",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm using FastMCP in python to implement a <strong>MCP server</strong>. Currently I run into a problem when it comes to <strong>streaming</strong> of the <strong>generated tokens from the LLM</strong>. I don't want to wait for the completed response and return the whole text, I rather want to stream chunk by chunk to improve the response time for the user. This seems to be a valid use case to me when working with MCP.</p>\n<p>I don't have control about the Client, since I'm using Clients like ",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[T3.4] Plugin-marketplace install channel: data-root story or refuse the plugin-cache root",
+        "url": "https://github.com/vliggio/career-ops/issues/24",
+        "source": "GitHub Issues",
+        "summary": "Part of #1 · audit task **T3.4** (Milestone 3 — Quality & polish) · effort **M** · severity **Medium** (highest final severity among cited findings)\n\n## Task\n\nPlugin-marketplace channel: either drop the manifests or make the router refuse a root without `.git`/under a plugin cache with a \"set `CAREER_OPS_ROOT`\" message; `doctor` and `update` give a clear error there.\n\n> Open question §6.3 in the audit (needs a maintainer decision): is the plugin-marketplace install channel supported? If not, rem",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[T2.3] Updater completeness: web/, failed npm install, rollback reinstall, Go dashboard rebuild",
+        "url": "https://github.com/vliggio/career-ops/issues/19",
+        "source": "GitHub Issues",
+        "summary": "Part of #1 · audit task **T2.3** (Milestone 2 — High-leverage improvements) · effort **L** · severity **Medium** (highest final severity among cited findings)\n\n## Task\n\nDecide whether `web/` ships with `update-system` (add it to `SYSTEM_PATHS` with its own `npm ci`) or gets its own documented update command, and surface it in `doctor`. Fail the update when `npm install` fails. Reinstall on rollback. Rebuild the dashboard when `go.sum` changes, and fix the Windows binary name. Correct DATA_CONTRA",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 4 项"
+      },
+      {
+        "title": "What is the meaning of &lt;- in AI?",
+        "url": "https://stackoverflow.com/questions/2125887/what-is-the-meaning-of-in-ai",
+        "source": "Stack Overflow",
+        "summary": "<p>I've seen in a lot of AI related stuff the symbol &lt;-. For example,</p>\n\n<pre><code>delta &lt;- 0\nx &lt;- x + 1\n</code></pre>\n\n<p>etc.</p>\n\n<p>I always assume its meaning is the same as =(assigment), but probably they have a meaning that's a bit different from assigment, I assume?</p>\n\n<p>Thanks</p>\n",
+        "score": 7.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "How to attach a PDF file on WhatsApp Web using Selenium? (Error: “The file you tried to add is not supported”)",
+        "url": "https://stackoverflow.com/questions/79842263/how-to-attach-a-pdf-file-on-whatsapp-web-using-selenium-error-the-file-you-t",
+        "source": "Stack Overflow",
+        "summary": "<p>I’m trying to automate sending messages on <strong>WhatsApp Web</strong> using <strong>Selenium (Python)</strong>, and I need to attach a <strong>PDF</strong> file.</p>\n<p>This is the code I’m using:</p>\n<pre><code>from selenium import webdriver\nfrom selenium.webdriver.common.by import By\nimport os\nchrome = webdriver.Chrome()\n# ... code to open WhatsApp Web and enter the chat ...\nattach = chrome.find_element(By.CSS_SELECTOR, &quot;input[type='file']&quot;)\nattach.send_keys(os.path.abspath(&qu",
+        "score": 5.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Wait for JavaScript execution in Internet Explorer",
+        "url": "https://stackoverflow.com/questions/13029708/wait-for-javascript-execution-in-internet-explorer",
+        "source": "Stack Overflow",
+        "summary": "<p>I am trying to do some web scraping in Excel VBA. Here is the part of the code that I am having trouble with:</p>\n<pre><code>IE.Navigate URL\nDo\n  DoEvents\nLoop While IE.ReadyState &lt;&gt; 4 Or IE.Busy = True\nSet doc = IE.document\n</code></pre>\n<p>After running, this <code>doc</code> contains HTML that still has unexecuted JavasScript in it.\nThis is the signature of the script that has not been executed:</p>\n<pre><code>&lt;SCRIPT type=text/javascript&gt;\n        goosSearchPage.Initialize(...)",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
+        "url": "https://stackoverflow.com/questions/79935672/input-validation-error-1-57-is-not-of-type-number-from-langchain-mcp-adapte",
+        "source": "Stack Overflow",
+        "summary": "<p>I am getting the following error:</p>\n<pre><code>An error occurred: Input validation error: '1.57' is not of type 'number'\n</code></pre>\n<p>From what I understand, this happens before the MCP server is called: LangChain’s MCP adapter is validating the tool call arguments against the JSON Schema and the model is emitting <code>&quot;1.57&quot;</code> as a string instead of <code>1.57</code> as a number, so the validation fails.</p>\n<p>Is that understanding correct? And what’s the recommended w",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Why does my on-prem OCR + RAG pipeline design lead to poor retrieval performance?",
+        "url": "https://stackoverflow.com/questions/79917285/why-does-my-on-prem-ocr-rag-pipeline-design-lead-to-poor-retrieval-performance",
+        "source": "Stack Overflow",
+        "summary": "<p>I am building an on-prem document processing system using:</p>\n<p>- OCR for scanned PDFs</p>\n<p>- Embeddings for indexing</p>\n<p>- RAG for retrieval and question answering</p>\n<p>However, I’m seeing issues with retrieval quality and latency when combining OCR output with embeddings.</p>\n<p>For example:</p>\n<p>- OCR text is noisy and affects embedding quality</p>\n<p>- Retrieval results are inconsistent across similar queries</p>\n<p>- Performance degrades with larger document sets</p>\n<p>What a",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Continuous message transmission in CANoe",
+        "url": "https://stackoverflow.com/questions/28449041/continuous-message-transmission-in-canoe",
+        "source": "Stack Overflow",
+        "summary": "<p>I have created a test enivornment for test automation in CANoe by using Vector software and for most of TEST cases i need to transmit continuous messages.</p>\n\n<blockquote>\n  <p>ex. Msg1.Signal1 = 1 for 3 seconds </p>\n  \n  <p>and </p>\n  \n  <p>Msg1.Signal1 = 4 for 2 seconds.</p>\n</blockquote>\n\n<p>I went through help contents and some of the pdfs available online and could write the following logic for this:</p>\n\n<pre><code>variables\n{\nmessage 0x555 msg1 ;\nmstimer timer1; // define timer1\n}\non ",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Need to retrieve xpath or css from WebElement Object at run time",
+        "url": "https://stackoverflow.com/questions/28936568/need-to-retrieve-xpath-or-css-from-webelement-object-at-run-time",
+        "source": "Stack Overflow",
+        "summary": "<p>What are the possible ways to retrieve xpath or css (any logic) from WebElement object? For example I have created WebElement by following way:</p>\n\n<pre><code>WebElement obj=driver.findElement(By.cssSelector(\".hello\"));\n</code></pre>\n\n<p>Now I want to get back a By object from this WebElement Object or if I am able to retrieve xpath or css then I am able to create By object of it. Suggest me any idea.</p>\n",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      }
+    ],
+    "category_counts": {
+      "集成与兼容": 4,
+      "可靠性与质量": 4,
+      "其他": 3,
+      "隐私与合规": 1
+    },
+    "next_actions": [
+      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}

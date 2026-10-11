@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10 23:32 CST",
+  "generated_at": "2026-10-11 23:54 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -273,168 +273,168 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 391583,
+      "score": 391677,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-10T15:28:16Z"
+      "published": "2026-10-11T15:54:02Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 297128,
+      "score": 297473,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-10T15:31:06Z"
+      "published": "2026-10-11T15:54:02Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 276304,
+      "score": 276942,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-10T15:31:43Z"
+      "published": "2026-10-11T15:51:31Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 252458,
+      "score": 252731,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-10T15:25:12Z"
+      "published": "2026-10-11T15:42:31Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 252458,
+      "score": 252731,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-10T15:25:12Z"
+      "published": "2026-10-11T15:42:31Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 206900,
+      "score": 206991,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-10T15:11:15Z"
+      "published": "2026-10-11T15:50:29Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 190126,
+      "score": 190393,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-10T15:31:49Z"
+      "published": "2026-10-11T15:53:00Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 190126,
+      "score": 190393,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-10T15:31:49Z"
+      "published": "2026-10-11T15:53:00Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187508,
+      "score": 187519,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-10T15:09:23Z"
+      "published": "2026-10-11T15:48:09Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187508,
+      "score": 187519,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-10T15:09:23Z"
+      "published": "2026-10-11T15:48:09Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 182613,
+      "score": 182748,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-10-10T15:18:39Z"
+      "published": "2026-10-11T15:53:25Z"
     },
     {
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "source": "GitHub",
       "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "score": 172385,
+      "score": 172587,
       "tags": [
         "AI/Agent",
         "ai",
         "artificial-intelligence",
         "awesome-list"
       ],
-      "published": "2026-10-10T15:31:59Z"
+      "published": "2026-10-11T15:51:47Z"
     }
   ],
   "stocks": [
@@ -458,17 +458,30 @@
   "information_gap": {
     "items": [
       {
-        "title": "[Bug]: Script broken since 2607 - \"Include\" array formatted as a single string since v2607, causing all products to be skipped",
-        "url": "https://github.com/msfreaks/EvergreenAdmx/issues/89",
+        "title": "Separate orchestration from implementation with a GitHub-native worker exchange",
+        "url": "https://github.com/ktogias/gnostoa/issues/325",
         "source": "GitHub Issues",
-        "summary": "### Is there an existing issue for this?\n\n- [x] I have searched the existing issues\n\n### Description\n\nWhen running EvergreenAdmx.ps1 (with or without the -Include parameter), the script skips every single product.\n\nAfter investigating, I noticed a regression introduced between versions 2503.1 and 2607.1 in how the $Include array is joined/formatted.\n\n**Version 2503.1 (Working):\nThe array elements are joined with a comma. The comparison works as expected:**\n\nPS C:\\scripts\\test> .\\EvergreenAdmx.ps",
-        "score": 4.0,
+        "summary": "## Capture / admission status\n\n**OWNER-DIRECTED BOUNDED ENABLING SLICE — schedule immediately after #324-R0 and before #318.**\n\nThis Work Item records the architecture selected on 2026-09-26 for separating the **orchestrating agent** from the **implementing agent** while keeping GitHub as the first concrete provider/control plane.\n\nIt is intentionally smaller than a general multi-agent platform or the optional #15-L4 / #201 executor-fabric work.\n\nCreating this issue does not create a competing b",
+        "score": 13.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "🐞 [BUG] Collect current authority and persist protected pending projections",
+        "url": "https://github.com/kburson/ai-task-manager/issues/1987",
+        "source": "GitHub Issues",
+        "summary": "<!-- aitm-last-known-state state=\"ready-for-plan\" ts=\"2026-10-11T15:53:32.098Z\" -->\n<!-- aitm-refine-complete ts=\"2026-10-11T15:53:17.120Z\" -->\n\n## User Story\n\nAs a workspace operator\nI want to distinguish a current decomposition assessment from stale projections and unresolved estimate intent because agreement between old fields can hide an interrupted oversized revision\nSo that recovery never silently restores implementation permission from incomplete or contradictory authority\n\n## Scope\n\nDeli",
+        "score": 5.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 2 项"
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "Is there a way in MCP to stream a LLM response chunk by chunk back to the client?",
@@ -484,36 +497,10 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "lychee hook fails intermittently on ubuntu-latest: [503]/[504] from github.com, every time on the emacs-mirror blob links in docs/user-facing/lsp.md",
-        "url": "https://github.com/agent-grounds/grund/issues/553",
+        "title": "[T3.4] Plugin-marketplace install channel: data-root story or refuse the plugin-cache root",
+        "url": "https://github.com/vliggio/career-ops/issues/24",
         "source": "GitHub Issues",
-        "summary": "The `lychee` pre-commit hook (`python scripts/check_links.py …`) fails the `cargo test (ubuntu-latest)` job in its `pre-commit` step, and the local `pre-commit run --all-files`. It fails on GitHub answering `503 Service Unavailable` / `504 Gateway Timeout` for `github.com` pages. None of the failing links is in a file the failing branches touch, and the same links pass on a later run with nothing changed. This is not #403's `[TIMEOUT]`: these are status codes. `lychee.toml` (`timeout = 30`, `max",
-        "score": 3.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Add a Docker container as a second deployment method, keeping the desktop tray variant",
-        "url": "https://github.com/osxy/ocr-solver/issues/207",
-        "source": "GitHub Issues",
-        "summary": "A second deployment method alongside the desktop variant: run PuzzleSolver as a **Docker container**, for people who want the HTTP ingress on a machine they already run containers on — a NAS, a home server, a small VPS — without an install, a tray, or a Windows session.\n\n**The desktop tray variant stays.** It is the primary deployment, it is what the releases ship, and nothing here may make it worse. Any change that touches the shared code has to keep the Windows deploy job green, which is the o",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "[Ticket]: AML is not in the payment path, and /score cannot meet its latency budget under concurrency",
-        "url": "https://github.com/ADORSYS-GIS/fineract-aml/issues/7",
-        "source": "GitHub Issues",
-        "summary": "### Type\r\nBug\r\n\r\n### Summary\r\nWe need a decided way to wire AML screening into Webank, and a `/score` safe to call synchronously. Today no Webank transaction reaches fineract-aml, though the architecture documents draw a BFF-to-AML call. `/score` runs three queries on one shared async session, loads two models from disk on every request, loads unbounded history, applies its 400 ms timeout only to the database phase, and requires a staff token that services cannot present. Under concurrency it wo",
+        "summary": "Part of #1 · audit task **T3.4** (Milestone 3 — Quality & polish) · effort **M** · severity **Medium** (highest final severity among cited findings)\n\n## Task\n\nPlugin-marketplace channel: either drop the manifests or make the router refuse a root without `.git`/under a plugin cache with a \"set `CAREER_OPS_ROOT`\" message; `doctor` and `update` give a clear error there.\n\n> Open question §6.3 in the audit (needs a maintainer decision): is the plugin-marketplace install channel supported? If not, rem",
         "score": 0.0,
         "tags": [],
         "published": "",
@@ -523,17 +510,17 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "[EPIC][SK-AGENT] Suivi long cours — adoption mesurée, mutualisation mcp-tools avec exécution dans les worktrees commanditaires, délégation récursive medium → mini",
-        "url": "https://github.com/jsboige/roo-extensions/issues/4085",
+        "title": "[T2.3] Updater completeness: web/, failed npm install, rollback reinstall, Go dashboard rebuild",
+        "url": "https://github.com/vliggio/career-ops/issues/19",
         "source": "GitHub Issues",
-        "summary": "## Mandat user (06/10/2026)\n\n> « Pour sk-agent, on a besoin d'une issue de suivi au long cours, car il est encore peu utilisé, se pose la question de la mutualisation via le container mcp-tools que tu gères avec accès en streamable-http, mais dans ce cas il faut pour les agents sous DesktopCommander ou Papermill-Jupyter une façon de tourner dans des worktrees des workspaces commanditaires.\n> Et puis on va onboarder un nouveau modèle mini, il faudra vérifier que notre modèle medium swift est bien",
-        "score": 44.0,
+        "summary": "Part of #1 · audit task **T2.3** (Milestone 2 — High-leverage improvements) · effort **L** · severity **Medium** (highest final severity among cited findings)\n\n## Task\n\nDecide whether `web/` ships with `update-system` (add it to `SYSTEM_PATHS` with its own `npm ci`) or gets its own documented update command, and surface it in `doctor`. Fail the update when `npm install` fails. Reinstall on rollback. Rebuild the dashboard when `go.sum` changes, and fix the Windows binary name. Correct DATA_CONTRA",
+        "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
+        "category": "集成与兼容",
+        "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 0 项"
+        "evidence": "关键词命中 4 项"
       },
       {
         "title": "What is the meaning of &lt;- in AI?",
@@ -549,19 +536,6 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "[Bug]: Slack reaction_added/reaction_removed events never delivered via Socket Mode (multi-account, v2026.3.24)",
-        "url": "https://github.com/openclaw/openclaw/issues/56653",
-        "source": "GitHub Issues",
-        "summary": "### Bug type\n\nBehavior bug (incorrect output/state without crash)\n\n### Beta release blocker\n\nNo\n\n### Summary\n\nSlack reaction_added and reaction_removed events are never delivered to the OpenClaw gateway via Socket Mode despite correct event subscriptions, OAuth scopes, and config across all 5 bot accounts — zero events appear even at trace-level logging.\n\n### Steps to reproduce\n\n1. Configure multi-account Slack with Socket Mode (5 bot accounts, each with own botToken + appToken)\n2. Set channels.",
-        "score": 6.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
         "title": "How to attach a PDF file on WhatsApp Web using Selenium? (Error: “The file you tried to add is not supported”)",
         "url": "https://stackoverflow.com/questions/79842263/how-to-attach-a-pdf-file-on-whatsapp-web-using-selenium-error-the-file-you-t",
         "source": "Stack Overflow",
@@ -570,6 +544,19 @@
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Wait for JavaScript execution in Internet Explorer",
+        "url": "https://stackoverflow.com/questions/13029708/wait-for-javascript-execution-in-internet-explorer",
+        "source": "Stack Overflow",
+        "summary": "<p>I am trying to do some web scraping in Excel VBA. Here is the part of the code that I am having trouble with:</p>\n<pre><code>IE.Navigate URL\nDo\n  DoEvents\nLoop While IE.ReadyState &lt;&gt; 4 Or IE.Busy = True\nSet doc = IE.document\n</code></pre>\n<p>After running, this <code>doc</code> contains HTML that still has unexecuted JavasScript in it.\nThis is the signature of the script that has not been executed:</p>\n<pre><code>&lt;SCRIPT type=text/javascript&gt;\n        goosSearchPage.Initialize(...)",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
@@ -612,18 +599,31 @@
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Need to retrieve xpath or css from WebElement Object at run time",
+        "url": "https://stackoverflow.com/questions/28936568/need-to-retrieve-xpath-or-css-from-webelement-object-at-run-time",
+        "source": "Stack Overflow",
+        "summary": "<p>What are the possible ways to retrieve xpath or css (any logic) from WebElement object? For example I have created WebElement by following way:</p>\n\n<pre><code>WebElement obj=driver.findElement(By.cssSelector(\".hello\"));\n</code></pre>\n\n<p>Now I want to get back a By object from this WebElement Object or if I am able to retrieve xpath or css then I am able to create By object of it. Suggest me any idea.</p>\n",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
       }
     ],
     "category_counts": {
-      "可靠性与质量": 6,
-      "集成与兼容": 2,
+      "集成与兼容": 4,
+      "可靠性与质量": 4,
       "其他": 3,
       "隐私与合规": 1
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
