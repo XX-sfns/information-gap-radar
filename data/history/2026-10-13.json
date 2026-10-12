@@ -1,0 +1,630 @@
+{
+  "generated_at": "2026-10-13 03:15 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "source": "OpenAI News",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI News",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "source": "OpenAI News",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 08 Oct 2026 16:00:00 GMT"
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI News",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 08 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI News",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 08 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI News",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 08 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI News",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "source": "OpenAI News",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI News",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "source": "OpenAI News",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 06 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI News",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 06 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI News",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 06 Oct 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 09 Oct 2026 15:20:29 GMT"
+    },
+    {
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 08 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 16:54:33 GMT"
+    },
+    {
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 13:21:03 GMT"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 12:45:31 GMT"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Sat, 03 Oct 2026 22:56:48 GMT"
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 02 Oct 2026 04:01:31 GMT"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 30 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 29 Sep 2026 13:07:00 GMT"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 28 Sep 2026 09:44:05 GMT"
+    },
+    {
+      "title": "Welcome RL Environments to the hub",
+      "url": "https://huggingface.co/blog/rl-environments",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 28 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 22 Sep 2026 00:00:00 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 391779,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-10-12T19:15:08Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 298118,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-10-12T19:14:06Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 277756,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-10-12T19:13:47Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 253074,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-12T19:13:24Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 253074,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-12T19:13:24Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 207123,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-10-12T19:14:48Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 190789,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-12T19:14:59Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 190789,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-12T19:14:59Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187533,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-12T18:57:24Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187533,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-12T18:57:24Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 182876,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "gemma3"
+      ],
+      "published": "2026-10-12T18:59:29Z"
+    },
+    {
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "source": "GitHub",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "score": 172723,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "artificial-intelligence",
+        "awesome-list"
+      ],
+      "published": "2026-10-12T19:14:09Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 226.44,
+      "change_percent": -1.24,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -1.24%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1263.0,
+      "change_percent": 0.57,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +0.57%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "Is there a way in MCP to stream a LLM response chunk by chunk back to the client?",
+        "url": "https://stackoverflow.com/questions/79850215/is-there-a-way-in-mcp-to-stream-a-llm-response-chunk-by-chunk-back-to-the-client",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm using FastMCP in python to implement a <strong>MCP server</strong>. Currently I run into a problem when it comes to <strong>streaming</strong> of the <strong>generated tokens from the LLM</strong>. I don't want to wait for the completed response and return the whole text, I rather want to stream chunk by chunk to improve the response time for the user. This seems to be a valid use case to me when working with MCP.</p>\n<p>I don't have control about the Client, since I'm using Clients like ",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[EPIC][fleet] Recenser les consommateurs du modele local et reduire la surface derriere claudish (couple au swap #2716)",
+        "url": "https://github.com/jsboige/roo-extensions/issues/3401",
+        "source": "GitHub Issues",
+        "summary": "## Contexte\n\nLe modèle local (vLLM, endpoint OpenAI-compatible sur ai-01) est consommé aujourd'hui par un nombre inconnu de systèmes, chacun avec **sa propre copie de la clé** et **le nom du modèle écrit en dur**. Personne n'a jamais énuméré cette surface, et trois chantiers en cours butent dessus :\n\n- **#2716** — swap prod `Qwen3.6-35B-A3B` → `Ornith-1.0-35B` en évaluation. Le nom du modèle étant en dur partout, le swap casse ses consommateurs en silence.\n- **#2612** — rebascule du cluster sur ",
+        "score": 53.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Hackathon [Feature]: Add GitHub data-source connector",
+        "url": "https://github.com/topoteretes/cognee/issues/5363",
+        "source": "GitHub Issues",
+        "summary": "### Problem Statement\n\ncognee has **five** data-source connectors today (`confluence`, `gmail`, `google-drive`, `notion`, `slack`) against roughly 120 planned. Data sources are the thinnest surface in the project.\n\n**GitHub** is not on the roadmap issues list and has no connector.\n\nNote: not a duplicate of #4709 (GitLab) or #4712 (Bitbucket) — this proposes a GitHub connector, which doesn't exist.\n\n\n### Proposed Solution\n\nAdd a `github` connector under `packages/connector/github/` in cognee-comm",
+        "score": 18.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Marking solutions that were trained on RAID train set",
+        "url": "https://github.com/liamdugan/raid/issues/44",
+        "source": "GitHub Issues",
+        "summary": "**Is your feature request related to a problem? Please describe.**\nRAID is a great benchmark to measure on, but it has a big open-sourced train set on which everybody can train. And recently there even appeared solutions with 1.0 score, so now leaderboard already isn't a source of \"who has a better ai-detection solution\", but more telling who is better overfitted on the RAID. \n\n**Describe the solution you'd like**\nIt would be great if you could mark solutions that were trained on the RAID train ",
+        "score": 14.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Codex App (WSL mode): Missing environment variable `AZURE_OPENAI_API_KEY` although variable exists in Windows and WSL",
+        "url": "https://github.com/openai/codex/issues/13556",
+        "source": "GitHub Issues",
+        "summary": "### What version of the Codex App are you using (From “About Codex” dialog)?\n\n26.304.1528.0\n\n### What subscription do you have?\n\nAzure OpenAI\n\n### What platform is your computer?\n\nMicrosoft Windows NT 10.0.26100.0 x64\n\n### What issue are you seeing?\n\nAfter the latest update I can successfully start the Codex App with:\n\n```\nrunCodexInWindowsSubsystemForLinux: true\n```\n\nHowever, every prompt returns the error:\n\n```\nMissing environment variable: `AZURE_OPENAI_API_KEY`\n```\n\nMy `config.toml`:\n\n```tom",
+        "score": 12.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "What is the meaning of &lt;- in AI?",
+        "url": "https://stackoverflow.com/questions/2125887/what-is-the-meaning-of-in-ai",
+        "source": "Stack Overflow",
+        "summary": "<p>I've seen in a lot of AI related stuff the symbol &lt;-. For example,</p>\n\n<pre><code>delta &lt;- 0\nx &lt;- x + 1\n</code></pre>\n\n<p>etc.</p>\n\n<p>I always assume its meaning is the same as =(assigment), but probably they have a meaning that's a bit different from assigment, I assume?</p>\n\n<p>Thanks</p>\n",
+        "score": 7.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "How to attach a PDF file on WhatsApp Web using Selenium? (Error: “The file you tried to add is not supported”)",
+        "url": "https://stackoverflow.com/questions/79842263/how-to-attach-a-pdf-file-on-whatsapp-web-using-selenium-error-the-file-you-t",
+        "source": "Stack Overflow",
+        "summary": "<p>I’m trying to automate sending messages on <strong>WhatsApp Web</strong> using <strong>Selenium (Python)</strong>, and I need to attach a <strong>PDF</strong> file.</p>\n<p>This is the code I’m using:</p>\n<pre><code>from selenium import webdriver\nfrom selenium.webdriver.common.by import By\nimport os\nchrome = webdriver.Chrome()\n# ... code to open WhatsApp Web and enter the chat ...\nattach = chrome.find_element(By.CSS_SELECTOR, &quot;input[type='file']&quot;)\nattach.send_keys(os.path.abspath(&qu",
+        "score": 5.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Wait for JavaScript execution in Internet Explorer",
+        "url": "https://stackoverflow.com/questions/13029708/wait-for-javascript-execution-in-internet-explorer",
+        "source": "Stack Overflow",
+        "summary": "<p>I am trying to do some web scraping in Excel VBA. Here is the part of the code that I am having trouble with:</p>\n<pre><code>IE.Navigate URL\nDo\n  DoEvents\nLoop While IE.ReadyState &lt;&gt; 4 Or IE.Busy = True\nSet doc = IE.document\n</code></pre>\n<p>After running, this <code>doc</code> contains HTML that still has unexecuted JavasScript in it.\nThis is the signature of the script that has not been executed:</p>\n<pre><code>&lt;SCRIPT type=text/javascript&gt;\n        goosSearchPage.Initialize(...)",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Playlist locale : une piste supprimée ou ré-identifiée par un scan efface sa ligne de playlist sans trace (ON DELETE CASCADE), les favoris sont réconciliés, les playlists non (FabienM, rc4, fil 2236)",
+        "url": "https://github.com/renesenses/tune-server-rust/issues/6179",
+        "source": "GitHub Issues",
+        "summary": "<!-- forum-thread:2236 -->\n## Constat\nFil forum 2236, FabienM, 12/10/2026, v1.0.0-rc4 (serveur `ef162e44`), réinstallation propre et base neuve. Sa playlist locale avait disparu après un vidage du cache du navigateur (point 11, suivi côté web dans tune-web-client#2099). Elle est **revenue vide** (message de 16:18) : « Je n'ai qu'un seul profil. Mais là ma playlist locale est revenue mais sans les titres, elle est vide. »\n\nLa cause, chez lui, n'est **pas établie** (voir le commentaire sur web#209",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
+        "url": "https://stackoverflow.com/questions/79935672/input-validation-error-1-57-is-not-of-type-number-from-langchain-mcp-adapte",
+        "source": "Stack Overflow",
+        "summary": "<p>I am getting the following error:</p>\n<pre><code>An error occurred: Input validation error: '1.57' is not of type 'number'\n</code></pre>\n<p>From what I understand, this happens before the MCP server is called: LangChain’s MCP adapter is validating the tool call arguments against the JSON Schema and the model is emitting <code>&quot;1.57&quot;</code> as a string instead of <code>1.57</code> as a number, so the validation fails.</p>\n<p>Is that understanding correct? And what’s the recommended w",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Why does my on-prem OCR + RAG pipeline design lead to poor retrieval performance?",
+        "url": "https://stackoverflow.com/questions/79917285/why-does-my-on-prem-ocr-rag-pipeline-design-lead-to-poor-retrieval-performance",
+        "source": "Stack Overflow",
+        "summary": "<p>I am building an on-prem document processing system using:</p>\n<p>- OCR for scanned PDFs</p>\n<p>- Embeddings for indexing</p>\n<p>- RAG for retrieval and question answering</p>\n<p>However, I’m seeing issues with retrieval quality and latency when combining OCR output with embeddings.</p>\n<p>For example:</p>\n<p>- OCR text is noisy and affects embedding quality</p>\n<p>- Retrieval results are inconsistent across similar queries</p>\n<p>- Performance degrades with larger document sets</p>\n<p>What a",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Herdr v3.6: Eval + shadow framework for providers, agents and routing",
+        "url": "https://github.com/Bbambaaamm/herdr/issues/74",
+        "source": "GitHub Issues",
+        "summary": "Parent: Bbambaaamm/herdr#68\n\n## Cíl\nMěřit providery a routing na skutečných Herdr workload classes místo marketingových benchmarků.\n\n## Scope\n- versionovaný eval corpus z redigovaných historical tasks;\n- task-class/role/risk buckets;\n- deterministic validators + judge evidence;\n- shadow routing bez produkčního side-effectu;\n- outcome metrics: success, CI-green, review-pass, cost/success, latency, fallback, retries;\n- confidence/sample-size guardrails;\n- regression thresholds + promotion/rollback",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      }
+    ],
+    "category_counts": {
+      "集成与兼容": 5,
+      "可靠性与质量": 4,
+      "其他": 2,
+      "价格与付费": 1
+    },
+    "next_actions": [
+      "优先验证「集成与兼容」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}
