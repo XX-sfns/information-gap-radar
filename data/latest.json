@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13 03:15 CST",
+  "generated_at": "2026-10-14 01:04 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -273,178 +273,178 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 391779,
+      "score": 391866,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-12T19:15:08Z"
+      "published": "2026-10-13T17:03:17Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 298118,
+      "score": 298549,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-12T19:14:06Z"
+      "published": "2026-10-13T16:56:10Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 277756,
+      "score": 278396,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-12T19:13:47Z"
+      "published": "2026-10-13T17:02:46Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 253074,
+      "score": 253388,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-12T19:13:24Z"
+      "published": "2026-10-13T17:02:28Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 253074,
+      "score": 253388,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-12T19:13:24Z"
+      "published": "2026-10-13T17:02:28Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 207123,
+      "score": 207242,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-12T19:14:48Z"
+      "published": "2026-10-13T17:04:14Z"
+    },
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 197867,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis"
+      ],
+      "published": "2026-10-13T17:04:44Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 190789,
+      "score": 191123,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-12T19:14:59Z"
+      "published": "2026-10-13T17:04:02Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 190789,
+      "score": 191123,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-12T19:14:59Z"
+      "published": "2026-10-13T17:04:02Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187533,
+      "score": 187556,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-12T18:57:24Z"
+      "published": "2026-10-13T16:36:03Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187533,
+      "score": 187556,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-12T18:57:24Z"
+      "published": "2026-10-13T16:36:03Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 182876,
+      "score": 183022,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-10-12T18:59:29Z"
-    },
-    {
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "source": "GitHub",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "score": 172723,
-      "tags": [
-        "AI/Agent",
-        "ai",
-        "artificial-intelligence",
-        "awesome-list"
-      ],
-      "published": "2026-10-12T19:14:09Z"
+      "published": "2026-10-13T16:41:08Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 226.44,
-      "change_percent": -1.24,
+      "price": 226.89,
+      "change_percent": 0.25,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 -1.24%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +0.25%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
@@ -457,6 +457,32 @@
   ],
   "information_gap": {
     "items": [
+      {
+        "title": "🐞 [BUG] Close preserves Unknown timing without an adaptive estimation rubric",
+        "url": "https://github.com/kburson/ai-task-manager/issues/2007",
+        "source": "GitHub Issues",
+        "summary": "<!-- aitm-last-known-state state=\"plan\" ts=\"2026-10-13T17:00:14.733Z\" -->\n<!-- aitm-refine-complete ts=\"2026-10-13T13:09:22.078Z\" -->\n\n## User Story\n\nAs a repository owner\nI want to close accepted deliverables while retaining unknown historical timing because legacy sessions do not have complete attributable timing evidence\nSo that completed work can reach Done without fabricated metrics or weakened delivery checks\n\n## Scope\n\nFix the installed AITM Close path that rejects truthful Unknown histor",
+        "score": 14.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Epic: true en/de support — machine translation of user-entered content (Infomaniak AI / Mistral Small)",
+        "url": "https://github.com/need4deed-org/be/issues/1064",
+        "source": "GitHub Issues",
+        "summary": "## Description\n\nToday \"en/de support\" covers **reference data only**: `FieldTranslation` (`src/data/entity/field_translation.entity.ts`) holds seeded, pre-translated titles for `Language`/`Activity`/`Skill`/`AgentType`/`Service`. It is read by `addTranslatedFields` (`src/server/utils/data/for-routes.ts`, called only with `Lang.DE`, one query per row) and `addAgentTypeServiceTranslations` (batched). `EventTranslation` is a separate per-event table that people fill in by hand.\n\n**Free text that us",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
       {
         "title": "Is there a way in MCP to stream a LLM response chunk by chunk back to the client?",
         "url": "https://stackoverflow.com/questions/79850215/is-there-a-way-in-mcp-to-stream-a-llm-response-chunk-by-chunk-back-to-the-client",
@@ -471,56 +497,56 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[EPIC][fleet] Recenser les consommateurs du modele local et reduire la surface derriere claudish (couple au swap #2716)",
-        "url": "https://github.com/jsboige/roo-extensions/issues/3401",
+        "title": "Valid set-ups crash or fail check (comma-separated form labels, 'kind/bug', case-only label differences, multi-select areas), while typos pass silently",
+        "url": "https://github.com/Dennis-Otto/issue-assistant/issues/84",
         "source": "GitHub Issues",
-        "summary": "## Contexte\n\nLe modèle local (vLLM, endpoint OpenAI-compatible sur ai-01) est consommé aujourd'hui par un nombre inconnu de systèmes, chacun avec **sa propre copie de la clé** et **le nom du modèle écrit en dur**. Personne n'a jamais énuméré cette surface, et trois chantiers en cours butent dessus :\n\n- **#2716** — swap prod `Qwen3.6-35B-A3B` → `Ornith-1.0-35B` en évaluation. Le nom du modèle étant en dur partout, le swap casse ses consommateurs en silence.\n- **#2612** — rebascule du cluster sur ",
-        "score": 53.0,
+        "summary": "## Problem\n\nNew adopters hit tracebacks or bogus errors for valid set-ups, while real typos pass `check`:\n\n- `check_forms` (issue_assistant.py:2518) iterates `form.get(\"labels\")`; GitHub's issue-form syntax allows a comma-delimited string, and `labels: bug, needs-triage` gave 17 errors (\"the label b is not in .github/labels.toml\").\n- `remove_label` (:635) and `update_label` (:790) use `quote(name)`, which keeps `/`: 'kind/bug' hits `issues/N/labels/kind/bug` -> 404 -> GitHubError.\n- `sync_labels",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "2D and 3D avatar agents",
+        "url": "https://github.com/Pasta-Devs/Marinara-Engine/issues/7537",
+        "source": "GitHub Issues",
+        "summary": "## What problem does this solve?\n\nCharacters and personas only have still sprites. People want an animated avatar that changes its face while a reply streams in and moves its mouth with the text or the voice, like a VTuber model, for both 2D and 3D styles.\n\n## Proposed solution\n\nTwo downloadable agents, **2D Avatars** (`2d-avatars`) and **3D Avatars** (`3d-avatars`), for Characters and Personas.\n\nDecisions (Mari, 2026-10-13):\n\n- The packages in Pasta-Devs/Marinara-Agents stay thin: agent definit",
+        "score": 0.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
-        "urgency": "中",
+        "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Hackathon [Feature]: Add GitHub data-source connector",
-        "url": "https://github.com/topoteretes/cognee/issues/5363",
+        "title": "MCP server processes leak: per-thread processes never cleaned up (9+ GB RSS)",
+        "url": "https://github.com/openai/codex/issues/30408",
         "source": "GitHub Issues",
-        "summary": "### Problem Statement\n\ncognee has **five** data-source connectors today (`confluence`, `gmail`, `google-drive`, `notion`, `slack`) against roughly 120 planned. Data sources are the thinnest surface in the project.\n\n**GitHub** is not on the roadmap issues list and has no connector.\n\nNote: not a duplicate of #4709 (GitLab) or #4712 (Bitbucket) — this proposes a GitHub connector, which doesn't exist.\n\n\n### Proposed Solution\n\nAdd a `github` connector under `packages/connector/github/` in cognee-comm",
-        "score": 18.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Marking solutions that were trained on RAID train set",
-        "url": "https://github.com/liamdugan/raid/issues/44",
-        "source": "GitHub Issues",
-        "summary": "**Is your feature request related to a problem? Please describe.**\nRAID is a great benchmark to measure on, but it has a big open-sourced train set on which everybody can train. And recently there even appeared solutions with 1.0 score, so now leaderboard already isn't a source of \"who has a better ai-detection solution\", but more telling who is better overfitted on the RAID. \n\n**Describe the solution you'd like**\nIt would be great if you could mark solutions that were trained on the RAID train ",
-        "score": 14.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Codex App (WSL mode): Missing environment variable `AZURE_OPENAI_API_KEY` although variable exists in Windows and WSL",
-        "url": "https://github.com/openai/codex/issues/13556",
-        "source": "GitHub Issues",
-        "summary": "### What version of the Codex App are you using (From “About Codex” dialog)?\n\n26.304.1528.0\n\n### What subscription do you have?\n\nAzure OpenAI\n\n### What platform is your computer?\n\nMicrosoft Windows NT 10.0.26100.0 x64\n\n### What issue are you seeing?\n\nAfter the latest update I can successfully start the Codex App with:\n\n```\nrunCodexInWindowsSubsystemForLinux: true\n```\n\nHowever, every prompt returns the error:\n\n```\nMissing environment variable: `AZURE_OPENAI_API_KEY`\n```\n\nMy `config.toml`:\n\n```tom",
-        "score": 12.0,
+        "summary": "## Bug description\n\nCodex app-server spawns a full set of global MCP server processes for each new thread/conversation, but **never kills them when threads are archived or closed**. Over time, orphaned MCP processes accumulate unboundedly.\n\n## Environment\n- Codex Desktop: 0.142.3 (macOS, Apple Silicon)\n- OS: macOS 15.x, 64 GB RAM\n\n## Steps to reproduce\n1. Configure global MCP servers in `~/.codex/config.toml` (e.g. `playwright`, `davinci-resolve`, `node_repl`)\n2. Open Codex Desktop, create ~25 t",
+        "score": 54.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[EPIC][SK-AGENT] Suivi long cours — adoption mesurée, mutualisation mcp-tools avec exécution dans les worktrees commanditaires, délégation récursive medium → mini",
+        "url": "https://github.com/jsboige/roo-extensions/issues/4085",
+        "source": "GitHub Issues",
+        "summary": "## Mandat user (06/10/2026)\n\n> « Pour sk-agent, on a besoin d'une issue de suivi au long cours, car il est encore peu utilisé, se pose la question de la mutualisation via le container mcp-tools que tu gères avec accès en streamable-http, mais dans ce cas il faut pour les agents sous DesktopCommander ou Papermill-Jupyter une façon de tourner dans des worktrees des workspaces commanditaires.\n> Et puis on va onboarder un nouveau modèle mini, il faudra vérifier que notre modèle medium swift est bien",
+        "score": 48.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "What is the meaning of &lt;- in AI?",
@@ -562,17 +588,17 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Playlist locale : une piste supprimée ou ré-identifiée par un scan efface sa ligne de playlist sans trace (ON DELETE CASCADE), les favoris sont réconciliés, les playlists non (FabienM, rc4, fil 2236)",
-        "url": "https://github.com/renesenses/tune-server-rust/issues/6179",
+        "title": "대용량 배치: /parser의 파싱(layout/OCR)과 enrichment 단계 분리 — 스테이지별 파이프라이닝 검토",
+        "url": "https://github.com/genonai/doc_parser/issues/345",
         "source": "GitHub Issues",
-        "summary": "<!-- forum-thread:2236 -->\n## Constat\nFil forum 2236, FabienM, 12/10/2026, v1.0.0-rc4 (serveur `ef162e44`), réinstallation propre et base neuve. Sa playlist locale avait disparu après un vidage du cache du navigateur (point 11, suivi côté web dans tune-web-client#2099). Elle est **revenue vide** (message de 16:18) : « Je n'ai qu'un seul profil. Mais là ma playlist locale est revenue mais sans les titres, elle est vide. »\n\nLa cause, chez lui, n'est **pas établie** (voir le commentaire sur web#209",
+        "summary": "## 배경\n\n대용량 배치 적재(Temporal ingestion pipeline ↔ doc_parser code serving; 기존 전처리기 경로와는 무관) 관점에서, 문서 1건의 `/parser` 호출 안에서 **파싱(layout/OCR, GPU-bound)** 과 **enrichment(TOC/metadata/description 등 LLM 호출, IO-bound)** 가 하나의 동기 핸들러에서 순차 실행된다. 성격이 다른 두 스테이지가 분리되어 있지 않아 배치 처리 시 리소스 활용이 비효율적일 수 있다.\n\n## 현재 구조 (코드 확인 완료 — develop `996b2077` 기준)\n\n**doc_parser (`/parser` 1콜의 처리 순서)** — `genon/preprocessor/facade/parser_processor.py`\n1. `_parse_docling` (`:1959`) — PDF decode → OCR → layout(dots.ocr VLM) → tabl",
         "score": 2.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
@@ -586,43 +612,16 @@
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Why does my on-prem OCR + RAG pipeline design lead to poor retrieval performance?",
-        "url": "https://stackoverflow.com/questions/79917285/why-does-my-on-prem-ocr-rag-pipeline-design-lead-to-poor-retrieval-performance",
-        "source": "Stack Overflow",
-        "summary": "<p>I am building an on-prem document processing system using:</p>\n<p>- OCR for scanned PDFs</p>\n<p>- Embeddings for indexing</p>\n<p>- RAG for retrieval and question answering</p>\n<p>However, I’m seeing issues with retrieval quality and latency when combining OCR output with embeddings.</p>\n<p>For example:</p>\n<p>- OCR text is noisy and affects embedding quality</p>\n<p>- Retrieval results are inconsistent across similar queries</p>\n<p>- Performance degrades with larger document sets</p>\n<p>What a",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Herdr v3.6: Eval + shadow framework for providers, agents and routing",
-        "url": "https://github.com/Bbambaaamm/herdr/issues/74",
-        "source": "GitHub Issues",
-        "summary": "Parent: Bbambaaamm/herdr#68\n\n## Cíl\nMěřit providery a routing na skutečných Herdr workload classes místo marketingových benchmarků.\n\n## Scope\n- versionovaný eval corpus z redigovaných historical tasks;\n- task-class/role/risk buckets;\n- deterministic validators + judge evidence;\n- shadow routing bez produkčního side-effectu;\n- outcome metrics: success, CI-green, review-pass, cost/success, latency, fallback, retries;\n- confidence/sample-size guardrails;\n- regression thresholds + promotion/rollback",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
       }
     ],
     "category_counts": {
-      "集成与兼容": 5,
-      "可靠性与质量": 4,
-      "其他": 2,
-      "价格与付费": 1
+      "可靠性与质量": 7,
+      "集成与兼容": 3,
+      "其他": 2
     },
     "next_actions": [
-      "优先验证「集成与兼容」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 7 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
       "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
