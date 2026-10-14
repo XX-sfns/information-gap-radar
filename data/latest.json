@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-14 01:04 CST",
+  "generated_at": "2026-10-14 22:37 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI News",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI News",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 13 Oct 2026 12:00:00 GMT"
+    },
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -113,26 +135,15 @@
       "published": "Tue, 06 Oct 2026 12:00:00 GMT"
     },
     {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI News",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Tue, 06 Oct 2026 12:00:00 GMT"
-    },
-    {
-      "title": "Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI News",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Tue, 06 Oct 2026 10:00:00 GMT"
+      "published": "Tue, 13 Oct 2026 17:05:48 GMT"
     },
     {
       "title": "Impactful scheduling for GPU clusters",
@@ -155,17 +166,6 @@
         "AI/科技"
       ],
       "published": "Thu, 08 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 07 Oct 2026 16:54:33 GMT"
     },
     {
       "title": "Introducing Falcon ASR",
@@ -273,247 +273,247 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 391866,
+      "score": 391964,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-13T17:03:17Z"
+      "published": "2026-10-14T14:35:14Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 298549,
+      "score": 298987,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-13T16:56:10Z"
+      "published": "2026-10-14T14:37:47Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 278396,
+      "score": 279027,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-13T17:02:46Z"
+      "published": "2026-10-14T14:37:31Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 253388,
+      "score": 253684,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-13T17:02:28Z"
+      "published": "2026-10-14T14:37:09Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 253388,
+      "score": 253684,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-13T17:02:28Z"
-    },
-    {
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "source": "GitHub",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 207242,
-      "tags": [
-        "AI/Agent",
-        "ai",
-        "apis",
-        "automation"
-      ],
-      "published": "2026-10-13T17:04:14Z"
+      "published": "2026-10-14T14:37:09Z"
     },
     {
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 197867,
+      "score": 230690,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "binary-analysis"
       ],
-      "published": "2026-10-13T17:04:44Z"
+      "published": "2026-10-14T14:37:50Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 207356,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-10-14T14:37:46Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 191123,
+      "score": 191440,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-13T17:04:02Z"
+      "published": "2026-10-14T14:35:54Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 191123,
+      "score": 191440,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-13T17:04:02Z"
+      "published": "2026-10-14T14:35:54Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187556,
+      "score": 187569,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-13T16:36:03Z"
+      "published": "2026-10-14T13:58:24Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187556,
+      "score": 187569,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-13T16:36:03Z"
+      "published": "2026-10-14T13:58:24Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 183022,
+      "score": 183129,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-10-13T16:41:08Z"
+      "published": "2026-10-14T14:31:50Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 226.89,
-      "change_percent": 0.25,
-      "signal": "观望",
-      "rationale": "近一交易日涨跌 +0.25%；只作信息展示，不构成投资建议。"
+      "price": 223.64,
+      "change_percent": -2.14,
+      "signal": "谨慎",
+      "rationale": "近一交易日涨跌 -2.14%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1263.0,
-      "change_percent": 0.57,
+      "price": 1286.0,
+      "change_percent": 0.87,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +0.57%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +0.87%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "🐞 [BUG] Close preserves Unknown timing without an adaptive estimation rubric",
-        "url": "https://github.com/kburson/ai-task-manager/issues/2007",
+        "title": "~10 FPS in-game, CPU stalls on indirect draws/dispatches",
+        "url": "https://github.com/metalsharp/WineMetalGL/issues/12",
         "source": "GitHub Issues",
-        "summary": "<!-- aitm-last-known-state state=\"plan\" ts=\"2026-10-13T17:00:14.733Z\" -->\n<!-- aitm-refine-complete ts=\"2026-10-13T13:09:22.078Z\" -->\n\n## User Story\n\nAs a repository owner\nI want to close accepted deliverables while retaining unknown historical timing because legacy sessions do not have complete attributable timing evidence\nSo that completed work can reach Done without fabricated metrics or weakened delivery checks\n\n## Scope\n\nFix the installed AITM Close path that rejects truthful Unknown histor",
+        "summary": "### Program or game\n\nFoundation (Polymorph Games, Steam 690830)\n\n### WineMetalGL version\n\n3.0.0\n\n### How WineMetalGL is installed\n\nWine module installed into my own Wine (install-wine-module.sh)\n\n### macOS version and Mac model\n\nmacOS 27.0, MacBook Pro M3 Max (128 GB)\n\n### GL_RENDERER\n\nApple M3 Max (WineMetalGL)\n\n### What happened\n\nThanks to 3.0.0 the game now starts (it requires GL 4.3, which Apple's GL could not provide). Menus run at a steady 60 FPS, but in-game it drops to ~10 FPS, with spik",
         "score": 14.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Epic: true en/de support — machine translation of user-entered content (Infomaniak AI / Mistral Small)",
-        "url": "https://github.com/need4deed-org/be/issues/1064",
-        "source": "GitHub Issues",
-        "summary": "## Description\n\nToday \"en/de support\" covers **reference data only**: `FieldTranslation` (`src/data/entity/field_translation.entity.ts`) holds seeded, pre-translated titles for `Language`/`Activity`/`Skill`/`AgentType`/`Service`. It is read by `addTranslatedFields` (`src/server/utils/data/for-routes.ts`, called only with `Lang.DE`, one query per row) and `addAgentTypeServiceTranslations` (batched). `EventTranslation` is a separate per-event table that people fill in by hand.\n\n**Free text that us",
-        "score": 4.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 3 项"
-      },
-      {
-        "title": "Is there a way in MCP to stream a LLM response chunk by chunk back to the client?",
-        "url": "https://stackoverflow.com/questions/79850215/is-there-a-way-in-mcp-to-stream-a-llm-response-chunk-by-chunk-back-to-the-client",
-        "source": "Stack Overflow",
-        "summary": "<p>I'm using FastMCP in python to implement a <strong>MCP server</strong>. Currently I run into a problem when it comes to <strong>streaming</strong> of the <strong>generated tokens from the LLM</strong>. I don't want to wait for the completed response and return the whole text, I rather want to stream chunk by chunk to improve the response time for the user. This seems to be a valid use case to me when working with MCP.</p>\n<p>I don't have control about the Client, since I'm using Clients like ",
-        "score": 4.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
         "urgency": "高",
-        "audience": "开发者",
+        "audience": "团队/企业",
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Valid set-ups crash or fail check (comma-separated form labels, 'kind/bug', case-only label differences, multi-select areas), while typos pass silently",
-        "url": "https://github.com/Dennis-Otto/issue-assistant/issues/84",
+        "title": "AssertionLevel::Links: the first solution line is rejected whenever a variable is wider than {0,1}, because eq definitions and bound links over undefined >= atoms go to core",
+        "url": "https://github.com/ciaranm/glasgow-constraint-solver/issues/1210",
         "source": "GitHub Issues",
-        "summary": "## Problem\n\nNew adopters hit tracebacks or bogus errors for valid set-ups, while real typos pass `check`:\n\n- `check_forms` (issue_assistant.py:2518) iterates `form.get(\"labels\")`; GitHub's issue-form syntax allows a comma-delimited string, and `labels: bug, needs-triage` gave 17 errors (\"the label b is not in .github/labels.toml\").\n- `remove_label` (:635) and `update_label` (:790) use `quote(name)`, which keeps `/`: 'kind/bug' hits `issues/N/labels/kind/bug` -> 404 -> GitHubError.\n- `sync_labels",
+        "summary": "*AI-generated issue by Claude Code, posted at Ciaran's request. Found by the independent review of #1208.*\n\n## Summary\n\nAt `AssertionLevel::Links` (`GCS_ASSERTION_LEVEL=2` or `Links`), a model with a solution and any variable wider than {0,1} gets a proof VeriPB rejects at its first `solx` or `soli`. That includes a model with no constraints at all.\n- **Other levels pass:** `Off` and `Definitions` give `s VERIFIED` or `s UNDER ASSERTIONS`, and so do `Inferences` and `Backtracking`.\n- **Untested:",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+        "url": "https://news.ycombinator.com/item?id=50088307",
+        "source": "Hacker News",
+        "summary": "<i>What does &quot;timely&quot; here mean? A lot of security patches for all these companies take ~weeks+ to actually make it to customers</i> Google has an embargo period of up to 6 months on AOSP patches. This is why GrapheneOS already has April 2027 AOSP security patches <i>now</i>. Even though some patches are already known for 6 months, they still manage to ship it 1-3 months late. 7-9 months after they got the patches already from Google. <i>due to things like QA testing, carrier testing a",
         "score": 0.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 3 项"
+        "evidence": "关键词命中 2 项"
       },
       {
-        "title": "2D and 3D avatar agents",
-        "url": "https://github.com/Pasta-Devs/Marinara-Engine/issues/7537",
+        "title": "Amazon pushes up prices across the Internet",
+        "url": "https://news.ycombinator.com/item?id=50088056",
+        "source": "Hacker News",
+        "summary": "I&#x27;ve had the same. But unlike a lot of today&#x27;s companies, I was able to get an actual human emailing me back the same day with a few questions followed up by a  &quot;we&#x27;re sending you a replacement. Throw away the broken one.&quot; That was refreshing. Maybe they haven&#x27;t gotten the memo that you&#x27;re supposed to hate your customers.",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "A button that copies a prompt: ask your LLM if this contract is safe",
+        "url": "https://github.com/sourcifyeth/onay/issues/27",
         "source": "GitHub Issues",
-        "summary": "## What problem does this solve?\n\nCharacters and personas only have still sprites. People want an animated avatar that changes its face while a reply streams in and moves its mouth with the text or the voice, like a VTuber model, for both 2D and 3D styles.\n\n## Proposed solution\n\nTwo downloadable agents, **2D Avatars** (`2d-avatars`) and **3D Avatars** (`3d-avatars`), for Characters and Personas.\n\nDecisions (Mari, 2026-10-13):\n\n- The packages in Pasta-Devs/Marinara-Agents stay thin: agent definit",
+        "summary": "The review gives the user the verified sources, the function called and the verification status. A user who cannot read Solidity still has no way to judge what the contract does. Many of them would paste the sources into the LLM (large language model) of their choice and ask. Onay can make that one click: a button that copies a complete prompt to the clipboard, with everything the model needs, so the user pastes it wherever they want.\n\nOnay never calls a model itself. No API key, no network part",
         "score": 0.0,
         "tags": [],
         "published": "",
@@ -523,30 +523,17 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "MCP server processes leak: per-thread processes never cleaned up (9+ GB RSS)",
-        "url": "https://github.com/openai/codex/issues/30408",
-        "source": "GitHub Issues",
-        "summary": "## Bug description\n\nCodex app-server spawns a full set of global MCP server processes for each new thread/conversation, but **never kills them when threads are archived or closed**. Over time, orphaned MCP processes accumulate unboundedly.\n\n## Environment\n- Codex Desktop: 0.142.3 (macOS, Apple Silicon)\n- OS: macOS 15.x, 64 GB RAM\n\n## Steps to reproduce\n1. Configure global MCP servers in `~/.codex/config.toml` (e.g. `playwright`, `davinci-resolve`, `node_repl`)\n2. Open Codex Desktop, create ~25 t",
+        "title": "Upload file to SFTP using PowerShell",
+        "url": "https://stackoverflow.com/questions/38732025/upload-file-to-sftp-using-powershell",
+        "source": "Stack Overflow",
+        "summary": "<p>We were asked to set up an automated upload from one of our servers to an SFTP site. There will be a file that is exported from a database to a filer every Monday morning and they want the file to be uploaded to SFTP on Tuesday. The current authentication method we are using is username and password (I believe there was an option to have key file as well but username/password option was chosen).</p>\n\n<p>The way I am envisioning this is to have a script sitting on a server that will be trigger",
         "score": 54.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "[EPIC][SK-AGENT] Suivi long cours — adoption mesurée, mutualisation mcp-tools avec exécution dans les worktrees commanditaires, délégation récursive medium → mini",
-        "url": "https://github.com/jsboige/roo-extensions/issues/4085",
-        "source": "GitHub Issues",
-        "summary": "## Mandat user (06/10/2026)\n\n> « Pour sk-agent, on a besoin d'une issue de suivi au long cours, car il est encore peu utilisé, se pose la question de la mutualisation via le container mcp-tools que tu gères avec accès en streamable-http, mais dans ce cas il faut pour les agents sous DesktopCommander ou Papermill-Jupyter une façon de tourner dans des worktrees des workspaces commanditaires.\n> Et puis on va onboarder un nouveau modèle mini, il faudra vérifier que notre modèle medium swift est bien",
-        "score": 48.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
       },
       {
         "title": "What is the meaning of &lt;- in AI?",
@@ -562,16 +549,29 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "How to attach a PDF file on WhatsApp Web using Selenium? (Error: “The file you tried to add is not supported”)",
-        "url": "https://stackoverflow.com/questions/79842263/how-to-attach-a-pdf-file-on-whatsapp-web-using-selenium-error-the-file-you-t",
-        "source": "Stack Overflow",
-        "summary": "<p>I’m trying to automate sending messages on <strong>WhatsApp Web</strong> using <strong>Selenium (Python)</strong>, and I need to attach a <strong>PDF</strong> file.</p>\n<p>This is the code I’m using:</p>\n<pre><code>from selenium import webdriver\nfrom selenium.webdriver.common.by import By\nimport os\nchrome = webdriver.Chrome()\n# ... code to open WhatsApp Web and enter the chat ...\nattach = chrome.find_element(By.CSS_SELECTOR, &quot;input[type='file']&quot;)\nattach.send_keys(os.path.abspath(&qu",
-        "score": 5.0,
+        "title": "[Security Solution][Bug] Manage Automatic Migrations page doesn't reflect changes made through the Elastic AI Agent (start, rename, delete) until a hard refresh",
+        "url": "https://github.com/elastic/kibana/issues/296405",
+        "source": "GitHub Issues",
+        "summary": "**Describe the bug:**\nThe Manage Automatic Migrations page doesn't reflect changes made through the Elastic AI Agent until a hard refresh. The agent works from the live backend state, but the page keeps the state it loaded earlier, so the two contradict each other.\n\n**Kibana/Elasticsearch Stack version:**\n```\nVERSION: 9.6.0\nBUILD: 112921\nCOMMIT: 385667d42e8bb46f1f67b16bdeced9335b37522b\n```\n\n**Pre Conditions:**\n1. Kibana 9.6.0-snapshot should be running\n2. Experimental flag: siemRuleMigrationsAge",
+        "score": 6.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
-        "audience": "开发者",
+        "audience": "团队/企业",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Persona memory is disconnected from Hermes prompts",
+        "url": "https://github.com/mnemosyne-oss/mnemosyne/issues/854",
+        "source": "GitHub Issues",
+        "summary": "## Problem\n\n`mnemosyne_persona_promote` writes facts to `memoria_persona`, but normal\nHermes prompts never read this table.\n\nHermes reads persona content only from the optional `persona.md` file. Nothing\nin the runtime generates or updates this file, so successfully promoted persona\nfacts do not affect agent behavior.\n\nThe original Working/Episodic memory may occasionally appear through ordinary\nrecall, but that does not use `memoria_persona`.\n\n## Reproduction\n\n1. Promote an existing memory with",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "需求缺口",
+        "urgency": "中",
+        "audience": "个人用户",
         "evidence": "关键词命中 1 项"
       },
       {
@@ -588,17 +588,17 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "대용량 배치: /parser의 파싱(layout/OCR)과 enrichment 단계 분리 — 스테이지별 파이프라이닝 검토",
-        "url": "https://github.com/genonai/doc_parser/issues/345",
+        "title": "Multimodal RAG: embed every source once (text + images via EmbeddingGemma 2), decide at answer time what the chat model gets",
+        "url": "https://github.com/sbstndalton/noevia/issues/1726",
         "source": "GitHub Issues",
-        "summary": "## 배경\n\n대용량 배치 적재(Temporal ingestion pipeline ↔ doc_parser code serving; 기존 전처리기 경로와는 무관) 관점에서, 문서 1건의 `/parser` 호출 안에서 **파싱(layout/OCR, GPU-bound)** 과 **enrichment(TOC/metadata/description 등 LLM 호출, IO-bound)** 가 하나의 동기 핸들러에서 순차 실행된다. 성격이 다른 두 스테이지가 분리되어 있지 않아 배치 처리 시 리소스 활용이 비효율적일 수 있다.\n\n## 현재 구조 (코드 확인 완료 — develop `996b2077` 기준)\n\n**doc_parser (`/parser` 1콜의 처리 순서)** — `genon/preprocessor/facade/parser_processor.py`\n1. `_parse_docling` (`:1959`) — PDF decode → OCR → layout(dots.ocr VLM) → tabl",
+        "summary": "Owner idea (2026-10-14): \"we should also check if a model is multimodal, so that we don't waste resources embedding, unless we just embed everything, and the llms just read those.\"\n\nProposal:\n- **Retrieval doesn't depend on the chat model.** Embed every source once into one vector space. Text chunks go through Docling/OCR. Images and figures get EmbeddingGemma 2's image projector (mmproj), so a text query can find an image. Nothing is re-embedded when the chat model changes.\n- **Answer time depe",
         "score": 2.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "价格与付费",
         "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
@@ -615,13 +615,15 @@
       }
     ],
     "category_counts": {
-      "可靠性与质量": 7,
-      "集成与兼容": 3,
-      "其他": 2
+      "集成与兼容": 4,
+      "其他": 2,
+      "可靠性与质量": 3,
+      "价格与付费": 2,
+      "需求缺口": 1
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 7 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
       "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
