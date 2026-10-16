@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-15 22:21 CST",
+  "generated_at": "2026-10-16 22:08 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI News",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 19:00:00 GMT"
+    },
     {
       "title": "Teaching students to think and learn through questions",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
@@ -12,6 +23,17 @@
         "AI/科技"
       ],
       "published": "Thu, 15 Oct 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "source": "OpenAI News",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
     },
     {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -113,37 +135,59 @@
       "published": "Thu, 08 Oct 2026 16:00:00 GMT"
     },
     {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "source": "OpenAI News",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 08 Oct 2026 12:00:00 GMT"
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "source": "OpenAI News",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 08 Oct 2026 12:00:00 GMT"
-    },
-    {
-      "title": "Apertus 1.5 Release Notes",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "source": "Hugging Face Blog",
       "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Thu, 15 Oct 2026 09:08:45 GMT"
+      "published": "Fri, 16 Oct 2026 01:44:47 GMT"
+    },
+    {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 20:34:01 GMT"
+    },
+    {
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
     },
     {
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
@@ -190,17 +234,6 @@
       "published": "Wed, 07 Oct 2026 13:21:03 GMT"
     },
     {
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 07 Oct 2026 12:45:31 GMT"
-    },
-    {
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox",
       "source": "Hugging Face Blog",
@@ -232,39 +265,6 @@
         "AI/科技"
       ],
       "published": "Wed, 30 Sep 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Tue, 29 Sep 2026 13:07:00 GMT"
-    },
-    {
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 28 Sep 2026 09:44:05 GMT"
-    },
-    {
-      "title": "Welcome RL Environments to the hub",
-      "url": "https://huggingface.co/blog/rl-environments",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 28 Sep 2026 00:00:00 GMT"
     }
   ],
   "github_trending": [
@@ -273,228 +273,293 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 392077,
+      "score": 392165,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-15T14:17:58Z"
+      "published": "2026-10-16T14:06:24Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 299569,
+      "score": 300427,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-15T14:21:02Z"
-    },
-    {
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "source": "GitHub",
-      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 279967,
-      "tags": [
-        "AI/Agent",
-        "ai-agents",
-        "anthropic",
-        "claude"
-      ],
-      "published": "2026-10-15T14:19:25Z"
+      "published": "2026-10-16T14:08:15Z"
     },
     {
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 261177,
+      "score": 284461,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "binary-analysis"
       ],
-      "published": "2026-10-15T14:21:08Z"
+      "published": "2026-10-16T14:08:11Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 280986,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-10-16T14:07:22Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 253988,
+      "score": 254311,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-15T14:11:30Z"
+      "published": "2026-10-16T14:06:48Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 253988,
+      "score": 254311,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-15T14:11:30Z"
+      "published": "2026-10-16T14:06:48Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 207466,
+      "score": 207642,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-15T14:19:51Z"
+      "published": "2026-10-16T14:06:02Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 191781,
+      "score": 192083,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-15T14:11:28Z"
+      "published": "2026-10-16T14:05:14Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 191781,
+      "score": 192083,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-15T14:11:28Z"
+      "published": "2026-10-16T14:05:14Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187589,
+      "score": 187607,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-15T14:20:11Z"
+      "published": "2026-10-16T13:59:15Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187589,
+      "score": 187607,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-15T14:20:11Z"
+      "published": "2026-10-16T13:59:15Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 183248,
+      "score": 183438,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-10-15T14:16:56Z"
+      "published": "2026-10-16T13:58:37Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 216.13,
-      "change_percent": -2.34,
-      "signal": "谨慎",
-      "rationale": "近一交易日涨跌 -2.34%；只作信息展示，不构成投资建议。"
+      "price": 216.41,
+      "change_percent": -0.38,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -0.38%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1312.97,
-      "change_percent": 2.1,
-      "signal": "关注",
-      "rationale": "近一交易日涨跌 +2.10%；只作信息展示，不构成投资建议。"
+      "price": 1329.0,
+      "change_percent": 1.22,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +1.22%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "Stop leaking API keys through axios error logs and harden log redaction",
-        "url": "https://github.com/OracleDesk/OracleDesk-Backend/issues/113",
+        "title": "[bug] Control-plane credential create and OAuth2Provider._post_token ignore the egress allowlist",
+        "url": "https://github.com/jentic/jentic-one/issues/1704",
         "source": "GitHub Issues",
-        "summary": "## Overview\n\nThe backend calls credentialed APIs (NewsAPI, FRED, Pinata via axios; Anthropic and Gemini via SDKs) and logs failures by passing raw errors to pino. Axios errors carry `config` (`url`, `params`, `headers`), and pino's standard `err` serializer copies enumerable properties, so all of it reaches the log line.\n\nConcretely, at least three paths write credentials to logs today. `fetchFedData()` builds the FRED URL with `&api_key=<FRED_API_KEY>` embedded in the string and, on any failure",
+        "summary": "### What's broken?\n\n`CredentialService.create` / update (`control/services/credentials/service.py:295, 301, 1255`) and `OAuth2Provider._post_token` (`control/services/credentials/providers/oauth2.py:115, 121`) call `validate_upstream_url(url)` and `build_strict_pinned_transport()` with **no** `EgressConfig`. `allowed_private_subnets` / `allowed_internal_domains` therefore never apply: an in-network or corporate token endpoint that the operator has allowlisted for the broker is still rejected whe",
+        "score": 5.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "[bug] CachedTokenValidator has no SingleFlight: thundering herd on admin_db at the TTL boundary",
+        "url": "https://github.com/jentic/jentic-one/issues/1705",
+        "source": "GitHub Issues",
+        "summary": "### What's broken?\n\n`broker/core/token_validation.py` `CachedTokenValidator` caches a validated token for `cache_ttl_seconds` (3 s). When the entry expires, **every** in-flight request carrying that token misses at once and each issues its own admin_db lookup. Under load with one hot agent token this is a periodic burst of N identical queries every 3 s. The rule evaluator and credential deriver already coalesce through `SingleFlight`; the token validator doesn't.\n\nExpected: one in-flight refresh",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[bug] RetryRunner never status-retries keyed POSTs: Idempotency-Key is stripped before _is_idempotent checks it",
+        "url": "https://github.com/jentic/jentic-one/issues/1711",
+        "source": "GitHub Issues",
+        "summary": "### What's broken?\n\n`RetryRunner` (`broker/adapters/runners/retry.py`) only retries a post-send status failure (429/5xx) when the request is idempotent: `_is_idempotent` checks the method, **or** an `idempotency-key` header on the `RunnerRequest`. But `forward_headers` (`broker/core/proxy_headers.py`) drops every header in `BROKER_CONSUMED_HEADERS` (`broker/core/headers.py`), which includes `idempotency-key`, before the runner request is built. So the key-based branch can never be true and a key",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "[bug] Streaming mid-body upstream disconnect logs unhandled_exception (no request_id) from HttpRunner._cap_iter",
+        "url": "https://github.com/jentic/jentic-one/issues/1712",
+        "source": "GitHub Issues",
+        "summary": "### What's broken?\n\nOn the streaming passthrough, when the upstream drops the connection mid-body, `httpx.RemoteProtocolError` escapes from `broker/adapters/runners/http.py:268 _cap_iter` through the streaming response and is logged by the ASGI layer as `unhandled_exception` at error level, **without** `request_id` / `trace_id`, one per affected request. The client sees a truncated 200 (expected for streaming), but operators get an untraceable error log with a full traceback instead of a structu",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "build_product: converge tracker's built-in with the tracker-runner fork — structural, testing and quality overhaul (epic, main since v0.73.2)",
+        "url": "https://github.com/2389-research/tracker/issues/655",
+        "source": "GitHub Issues",
+        "summary": "## Why\ntracker-runner runs a **fork** of `build_product` (its own issues #823/#840/#846/#857/#873/#885) while tracker `main` received a structural/testing/quality overhaul over 2026-09-17/18. Neither side has the other's fixes. This epic records everything that landed on `main` so the two can converge on one file — tracker's built-in becomes the superset, runner switches to it, and future fixes flow one way.\n\nField guide (node walk, state contract, loop bounds, unattended gate behaviour, v0.73.2",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "易用性与流程",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Computers Cannot Make Decisions",
+        "url": "https://news.ycombinator.com/item?id=50117511",
+        "source": "Hacker News",
+        "summary": "&gt; It&#x27;s already often diffuse responsbilitiy. yeah that&#x27;s BS and the issue is that people actually believe that. the responsible party is whoever is running the ai agent.",
         "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Best pre-trained vision model for multi-plant disease detection in async web back-end",
+        "url": "https://stackoverflow.com/questions/79956866/best-pre-trained-vision-model-for-multi-plant-disease-detection-in-async-web-bac",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm building a web app with FastAPI + async/await Python backend. Users upload leaf photos via API and the server should return: 1) plant species, 2) disease label or &quot;healthy&quot;.</p>\n<p>Constraints:</p>\n<ol>\n<li><p>Generalization: Must handle multiple crops. Users can upload &quot;any&quot; plant leaf, not just tomato/corn. Target 15+ species.</p>\n</li>\n<li><p>Server inference: Runs on GPU server, not mobile. Latency 1-2s is acceptable, so model size isn't a bottleneck.</p>\n</li>\n<li",
+        "score": -3.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 4 项"
-      },
-      {
-        "title": "Upload file to SFTP using PowerShell",
-        "url": "https://stackoverflow.com/questions/38732025/upload-file-to-sftp-using-powershell",
-        "source": "Stack Overflow",
-        "summary": "<p>We were asked to set up an automated upload from one of our servers to an SFTP site. There will be a file that is exported from a database to a filer every Monday morning and they want the file to be uploaded to SFTP on Tuesday. The current authentication method we are using is username and password (I believe there was an option to have key file as well but username/password option was chosen).</p>\n\n<p>The way I am envisioning this is to have a script sitting on a server that will be trigger",
-        "score": 54.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[design-gate][channels] Clean channel interface: in-process WhatsApp and no-code Discord port",
-        "url": "https://github.com/division-sh/swarm/issues/2338",
+        "title": "Migrate the application and build toolchain to Rust",
+        "url": "https://github.com/neodamul/AgentConductor/issues/9",
         "source": "GitHub Issues",
-        "summary": "## Current Continuation Status (2026-10-15)\n\nThe neutral-interface child #2576 is CLOSED; implementation #2581 merged as `139f0eedf63e08410449651fc9f9b219a1010d5e`. The remaining provider child #2577 / PR #2614 is OPEN and still DRAFT. [F transferred the implementation, ledger, runbooks and reservation to G](https://github.com/division-sh/swarm/issues/2577#issuecomment-6188033199); [reviewer-f confirmed](https://github.com/division-sh/swarm/issues/2577#issuecomment-6188070641). [Reviewer-g confi",
-        "score": 21.0,
+        "summary": "## Goal\nReplace project-owned JavaScript and Python in the shipped application, release packaging, manual generation, and repository-owned verification with Rust. Keep external agent CLIs and operating-system services as process/runtime boundaries. Preserve the native low-resource desktop experience and existing behavior.\n\n## Trace\nR-151 → BG-106 → SF-138 → UC-141 → FR-136 → QAS-147 → DD-160 (`docs/01-requirements.md`, `docs/02-business-goals.md`, `docs/03-system-features.md`, `docs/04-use-cases",
+        "score": 201.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 4 项"
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "What is this Error: at com.google.common.base.Preconditions.checkNotNull",
@@ -510,37 +575,11 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "What is the meaning of &lt;- in AI?",
-        "url": "https://stackoverflow.com/questions/2125887/what-is-the-meaning-of-in-ai",
-        "source": "Stack Overflow",
-        "summary": "<p>I've seen in a lot of AI related stuff the symbol &lt;-. For example,</p>\n\n<pre><code>delta &lt;- 0\nx &lt;- x + 1\n</code></pre>\n\n<p>etc.</p>\n\n<p>I always assume its meaning is the same as =(assigment), but probably they have a meaning that's a bit different from assigment, I assume?</p>\n\n<p>Thanks</p>\n",
-        "score": 7.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Réaffectation des canaux : la page ne montre que la règle de ZONE — après « Enregistrer pour cet album », on revient sur une grille 2 → 2 désactivée et Activer paraît perdu (Didier, rc4, fil 2202)",
-        "url": "https://github.com/renesenses/tune-web-client/issues/2146",
+        "title": "Integrated native MCP server",
+        "url": "https://github.com/OrcaSlicer/OrcaSlicer/issues/13763",
         "source": "GitHub Issues",
-        "summary": "<!-- forum-thread:2202 -->\nFil forum 2202, **Didier (Gros Bidon)**, 13/10/2026 09:25 : « si je quitte la page de Réaffectation des canaux et que je reviens dessus, le bouton Activer n'est plus actif ».\nhttps://mozaiklabs.fr/forum/threads/affectation-des-canaux-des-pistes-multicanales-sur-les-sorties-KvRrir\n\nSa capture : grille 8 → 8, Activer coché, et « Une règle est enregistrée pour cet album ». La règle a donc été enregistrée **pour l'album**, pas pour la zone.\n\n## Cause (confirmée dans le cod",
-        "score": 4.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Обсуждение: правила из оптимизатора OPcache/JIT и метрика стоимости вместо числа опкодов",
-        "url": "https://github.com/melentev-av/opmin/issues/66",
-        "source": "GitHub Issues",
-        "summary": "Issue для обсуждения, без плана реализации. Повод — совет от людей, которые хорошо знают внутренности PHP:\n\n> Начать с низов: выгрузить оптимизаторы PHP (OPcache, JIT) и разобрать, в каких случаях они срабатывают. Это набор\n> однозначных правил, которые можно прямо показывать: «вот это не оптимизируется, потому что тут IF и тип нельзя вывести\n> из-за Y». А уже потом надстраивать сверху. И число опкодов — не метрика: у каждого опкода своя цена, и у их\n> последовательностей тоже.\n\n## Почему это ст",
-        "score": 4.0,
+        "summary": "### Is there an existing issue for this feature request?\n\n- [x] I have searched the existing issues\n\n### Is your feature request related to a problem?\n\nI would like to have my AI agent connect to my slicer to read printer, filament, and process settings to help me debug print issues or catch settings issues before I waste time and filament printing.\n\n### Which printers will be beneficial to this feature?\n\nAll\n\n### Describe the solution you'd like\n\nAn integrated MCP server that:\n- Is disabled by ",
+        "score": 9.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -562,68 +601,29 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Can anybody suggest another method to split a large Excel file into multiple files in any tool other than VBA?",
-        "url": "https://stackoverflow.com/questions/80004398/can-anybody-suggest-another-method-to-split-a-large-excel-file-into-multiple-fil",
+        "title": "How to automate cheat engine value search/set without creating a trainer",
+        "url": "https://stackoverflow.com/questions/45359565/how-to-automate-cheat-engine-value-search-set-without-creating-a-trainer",
         "source": "Stack Overflow",
-        "summary": "<p>I need to split a large Excel file into multiple small files based on the first five digits of the values in a column.</p>\n<p>For example, I have values 1396A0001A,1396A0002A to split based on the first five digits, 1396A, into a separate sheet.</p>\n<p>I have VBA code to do this, but it is taking too much time - 3 hours to split the entire file of 15000 records in a file. Can you suggest any other method to split the file?</p>\n<pre><code>Sub SplitSheetIntoMultipleWorkbooksBasedOnColumn()\n    ",
-        "score": 1.0,
+        "summary": "<p>Would it be possible to avoid searching values and setting them (i explained, what I need bellow) in cheat engine? I know you can find pointers of adreses and create trainer, but the problem is that the apps, I use cheat engine on, get updated a lot by my companies, and the pointers change every time.\nMeaning, I would have to create new trainers multiple times a week. Basically almost every day.. </p>\n\n<p>I would like to automate this, since, what I need, is quite easy:</p>\n\n<p>1) open cheat ",
+        "score": 2.0,
         "tags": [],
         "published": "",
         "category": "其他",
         "urgency": "低",
         "audience": "开发者",
         "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "I know why Mathematicians weep",
-        "url": "https://news.ycombinator.com/item?id=50104079",
-        "source": "Hacker News",
-        "summary": "As a software engineer it is hard for me to feel sorry for these mathematicians. Software engineers are getting laid off because of advancements made by AI. Math researchers are employed at universities, and universities aren&#x27;t laying off mathematicians now that OpenAI has solved some of their puzzles. Mathematicians can still eat, software engineers displaced by AI can&#x27;t. Yet I see far more of these blogs about the plight of mathematicians, not enough about the plight of software engi",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-        "url": "https://news.ycombinator.com/item?id=50103885",
-        "source": "Hacker News",
-        "summary": "Likewise, it if claims something is “vibe coded” when it clearly is not (such as U-Boot). Agentic AI has allowed 86Box to make massive strides forward. This includes a substantial contribution to emulate the Intel Inboard 386 that was created by someone who describes himself as a non-programmer. The community is now bigger and stronger, although we’ve had some aches and pains with slop AI generated PRs. The same goes for Gravity Linux which is booting in my M4 Macs with working GPU and most othe",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
-        "url": "https://news.ycombinator.com/item?id=50103859",
-        "source": "Hacker News",
-        "summary": "I am very bullish on constraints based programming like this. The main problem is code organization and syntax. Tacking stuff like this onto fuction declarations is too basic. Ideally, I think we need better constructs, e.g. dettached constraints like to the function declaration. You can define constraints separately, in the same namespace or w&#x2F;e, add notes, comments, etc. and the function declaration can be used with intellisense to jump to the constraint. You could even tag the defintions",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "易用性与流程",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
       }
     ],
     "category_counts": {
-      "集成与兼容": 4,
-      "可靠性与质量": 3,
-      "其他": 4,
-      "易用性与流程": 1
+      "可靠性与质量": 7,
+      "易用性与流程": 1,
+      "其他": 2,
+      "集成与兼容": 2
     },
     "next_actions": [
-      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 7 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
