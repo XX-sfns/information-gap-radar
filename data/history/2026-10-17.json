@@ -1,0 +1,631 @@
+{
+  "generated_at": "2026-10-17 21:07 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI News",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 19:00:00 GMT"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI News",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "source": "OpenAI News",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI News",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 19:00:00 GMT"
+    },
+    {
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source": "OpenAI News",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "source": "OpenAI News",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI News",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "source": "OpenAI News",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI News",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "source": "OpenAI News",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI News",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI News",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 13 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 01:44:47 GMT"
+    },
+    {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 20:34:01 GMT"
+    },
+    {
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 16:12:42 GMT"
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 13 Oct 2026 17:05:48 GMT"
+    },
+    {
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 08 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 13:21:03 GMT"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Sat, 03 Oct 2026 22:56:48 GMT"
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 02 Oct 2026 04:01:31 GMT"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 30 Sep 2026 00:00:00 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 392254,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-10-17T13:05:50Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 300986,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-10-17T13:05:28Z"
+    },
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 299950,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis"
+      ],
+      "published": "2026-10-17T13:07:16Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 281985,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-10-17T13:07:13Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 254566,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-17T13:06:22Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 254566,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-17T13:06:22Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 207776,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-10-17T13:00:46Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 192366,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-17T13:04:21Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 192366,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-17T13:04:21Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187618,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-17T12:41:00Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187618,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-17T12:41:00Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 183575,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "gemma3"
+      ],
+      "published": "2026-10-17T13:01:31Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 214.13,
+      "change_percent": -1.43,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -1.43%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1329.0,
+      "change_percent": 1.22,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +1.22%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "Input archive: Persist current-action frontend timing observations",
+        "url": "https://github.com/Habit130/squirrel/issues/203",
+        "source": "GitHub Issues",
+        "summary": "# AC-203-v1 — Persist current-action frontend timing observations\n\nExecutable issue Habit130/squirrel#203, child of #187 and native prerequisite of #192.\nOne Squirrel code PR. Approved scope extension: habit's “继续推进吧.” in response to the finite\nfrontend prerequisite proposal#1926231736556. This adds #203 only; it does not reopen #189/#191.\nThe pinned contract comment and byte-identical local copy are the acceptance authority.\n\n## Goal\n\nMake actually observed current-action frontend handler-to-up",
+        "score": 9.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[Bug]: Fresh macOS DMG install restricts OpenAI model picker to one model after API-key onboarding",
+        "url": "https://github.com/openclaw/openclaw/issues/175533",
+        "source": "GitHub Issues",
+        "summary": "### Bug type\n\nBehavior bug (incorrect output/state without crash)\n\n### Beta release blocker\n\nNo\n\n### Summary\n\nOn a factory-reset Apple Silicon Mac running macOS 27.0.1, a fresh installation of OpenClaw v2026.10.4 through the stable DMG results in a Gateway model picker showing only openai/gpt-6-astra, despite the CLI discovering 32 OpenAI models and recognizing an OpenAI API-key authentication profile. The installation has a single-model modelPolicy.allow restriction that the user did not manual",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Tesla Roadster",
+        "url": "https://news.ycombinator.com/item?id=50128653",
+        "source": "Hacker News",
+        "summary": "&gt;By that logic any lie is simply a promise that hasn&#x27;t been fulfilled yet. He has a long enough track record of actually delivering. Elon is not a new entity with an unknown track record. He&#x27;s been active in running and growing companies for 31 years. He&#x27;s been involved with Tesla for 22 years. You&#x27;re attributing statements as lies which I feel is too strong a term as it implies intent, which as far as I can tell, doesn&#x27;t exist. &gt;He made the promise in 2019! HW3 wi",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Best pre-trained vision model for multi-plant disease detection in async web back-end",
+        "url": "https://stackoverflow.com/questions/79956866/best-pre-trained-vision-model-for-multi-plant-disease-detection-in-async-web-bac",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm building a web app with FastAPI + async/await Python backend. Users upload leaf photos via API and the server should return: 1) plant species, 2) disease label or &quot;healthy&quot;.</p>\n<p>Constraints:</p>\n<ol>\n<li><p>Generalization: Must handle multiple crops. Users can upload &quot;any&quot; plant leaf, not just tomato/corn. Target 15+ species.</p>\n</li>\n<li><p>Server inference: Runs on GPU server, not mobile. Latency 1-2s is acceptable, so model size isn't a bottleneck.</p>\n</li>\n<li",
+        "score": -3.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[Phase 4] Adaptador Fallback Offline para LLM Local (LiteLLM / Ollama)",
+        "url": "https://github.com/luismarquitti/intellifinance-go/issues/24",
+        "source": "GitHub Issues",
+        "summary": "## Objetivo\nCriar o adapter LocalLLMAdapter compatível com a API do OpenAI para conectar ao LiteLLM proxy (lm-claw:4000) e Ollama (lm-claw:11434) durante o desenvolvimento offline no Homelab.\n\n## Tarefas\n- [ ] Implementar o cliente HTTP para a rota /v1/chat/completions do LiteLLM/Ollama\n- [ ] Formatar mensagens com system prompt e user prompt solicitando resposta estritamente em JSON\n- [ ] Fazer parsing da resposta local e mapear para domain.CategorizationResult\n- [ ] Configurar seleção de adapt",
+        "score": 331.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "What is this Error: at com.google.common.base.Preconditions.checkNotNull",
+        "url": "https://stackoverflow.com/questions/42936414/what-is-this-error-at-com-google-common-base-preconditions-checknotnull",
+        "source": "Stack Overflow",
+        "summary": "<p>I am a new automation tester, Working on sample test scripts, Need some help from you guys, I have tried to use POM and basic TestNG.</p>\n\n<p>I have created 2 packages - pages and testcases.</p>\n\n<p>I am getting some error when I am trying to access the \"ClickJoin, Enterusername\" methods from my pages packages. I had tried figuring out the issue, but was unable to get to why this error is occurring.</p>\n\n<p>Below is the Error:\njava.lang.NullPointerException\nat com.google.common.base.Precondit",
+        "score": 12.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Mixed-case HTTPS URLs skip the pinned client TLS context",
+        "url": "https://github.com/Batocera-Fleet-Federation/batocera.drone/issues/332",
+        "source": "GitHub Issues",
+        "summary": "<!-- swarm-issue-worker:adversarial-finding:issue:246;id:0b28b7a59e998aebfa3e -->\nFound while testing #246; outside that delivery's scope.\n\nReproduction: a candidate of HTTPS://host (scheme stored as HTTPS) is kept by _peer_address_candidates because it lowercases, then _drone_client_ssl_context / _peer_get_json use url.startswith('https://') without casefold and return no pin context. Evidence: peer_connectivity.py _drone_client_ssl_context around the startswith check versus candidate filtering",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "feat(focus): opt-in second opinion review in the review stage",
+        "url": "https://github.com/devlikebear/tars/issues/1281",
+        "source": "GitHub Issues",
+        "summary": "설계 원본: [`docs/plans/second-opinion-review/plan.md`](https://github.com/devlikebear/tars/blob/main/docs/plans/second-opinion-review/plan.md) (#1280에서 추가). 이 이슈는 진행 관리용이다. 설계가 바뀌면 계획 문서를 고치고, 여기에는 체크리스트·PR·확인 결과·측정만 남긴다.\n\n## 요약\n\n옵트인한 파이프라인에서 review kind 단계의 첫 라운드에 **다른 tier**(heavy/standard/light)가 같은 diff를 읽기 전용으로 한 번 더 리뷰한다. 그 지적은 기존 finding 카드와 triage를 그대로 탄다. 메인 리뷰와 겹치는 지적은 새 카드 대신 \"두 리뷰 모두 지적\" 표시가 된다.\n\n**파이프라인 근거** (`docs/decisions/product-focus.md` 규칙 1): 한 모델이 놓친 결함을 머지 전에 다른 모델이 잡는다.\n\n배경: ",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Guard residuals accepted at 0.21.0",
+        "url": "https://github.com/Scrollout/orbit/issues/25",
+        "source": "GitHub Issues",
+        "summary": "Accepted by the PM at the 0.21.0 fix round 6 re-review (closing rule); none is a slip-level bypass.\n\n| # | Residual | Severity |\n|---|---|---|\n| 1 | Shell options that change glob matching are not modelled: `shopt -s nocaseglob; cp x ~/.CLAUD?/settings.json` writes ~/.claude silently (hooks/guard.mjs:1634-1638, segMatch :1585). Fix: share any glob when the command has `shopt` or `set -o/+o`, or name it in docs/threat-model.md:36. | Low, CONFIRMED |\n| 2 | Extglob forms `+(…)`, `@(…)`, `!(…)` neve",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
+        "url": "https://stackoverflow.com/questions/79935672/input-validation-error-1-57-is-not-of-type-number-from-langchain-mcp-adapte",
+        "source": "Stack Overflow",
+        "summary": "<p>I am getting the following error:</p>\n<pre><code>An error occurred: Input validation error: '1.57' is not of type 'number'\n</code></pre>\n<p>From what I understand, this happens before the MCP server is called: LangChain’s MCP adapter is validating the tool call arguments against the JSON Schema and the model is emitting <code>&quot;1.57&quot;</code> as a string instead of <code>1.57</code> as a number, so the validation fails.</p>\n<p>Is that understanding correct? And what’s the recommended w",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "How to automate cheat engine value search/set without creating a trainer",
+        "url": "https://stackoverflow.com/questions/45359565/how-to-automate-cheat-engine-value-search-set-without-creating-a-trainer",
+        "source": "Stack Overflow",
+        "summary": "<p>Would it be possible to avoid searching values and setting them (i explained, what I need bellow) in cheat engine? I know you can find pointers of adreses and create trainer, but the problem is that the apps, I use cheat engine on, get updated a lot by my companies, and the pointers change every time.\nMeaning, I would have to create new trainers multiple times a week. Basically almost every day.. </p>\n\n<p>I would like to automate this, since, what I need, is quite easy:</p>\n\n<p>1) open cheat ",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "How to incorporate additional data in fine tuning LLM",
+        "url": "https://stackoverflow.com/questions/79537151/how-to-incorporate-additional-data-in-fine-tuning-llm",
+        "source": "Stack Overflow",
+        "summary": "<p>My goal is to create a chat bot specialized in answering questions related to diabetes.</p>\n<p>I am new to fine tuning and have a couple questions before I begin. My question is about the dataset format and the underlying model I should use.</p>\n<p>I want to fine tune the LLM on the following dataset - <a href=\"https://huggingface.co/datasets/passionMan/diabetes_instruct_v7\" rel=\"nofollow noreferrer\">https://huggingface.co/datasets/passionMan/diabetes_instruct_v7</a>\nI am thinking of using th",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      }
+    ],
+    "category_counts": {
+      "集成与兼容": 4,
+      "可靠性与质量": 4,
+      "价格与付费": 1,
+      "其他": 2,
+      "隐私与合规": 1
+    },
+    "next_actions": [
+      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}

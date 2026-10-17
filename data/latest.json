@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-16 22:08 CST",
+  "generated_at": "2026-10-17 21:07 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI News",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 19:00:00 GMT"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI News",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "source": "OpenAI News",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
+    },
     {
       "title": "Bringing GPT-Rosalind to academic research labs",
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
@@ -100,39 +133,6 @@
         "AI/科技"
       ],
       "published": "Tue, 13 Oct 2026 12:00:00 GMT"
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI News",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI News",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "source": "OpenAI News",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 08 Oct 2026 16:00:00 GMT"
     },
     {
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -273,178 +273,178 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 392165,
+      "score": 392254,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-16T14:06:24Z"
+      "published": "2026-10-17T13:05:50Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 300427,
+      "score": 300986,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-16T14:08:15Z"
+      "published": "2026-10-17T13:05:28Z"
     },
     {
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 284461,
+      "score": 299950,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "binary-analysis"
       ],
-      "published": "2026-10-16T14:08:11Z"
+      "published": "2026-10-17T13:07:16Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 280986,
+      "score": 281985,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-16T14:07:22Z"
+      "published": "2026-10-17T13:07:13Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 254311,
+      "score": 254566,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-16T14:06:48Z"
+      "published": "2026-10-17T13:06:22Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 254311,
+      "score": 254566,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-16T14:06:48Z"
+      "published": "2026-10-17T13:06:22Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 207642,
+      "score": 207776,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-16T14:06:02Z"
+      "published": "2026-10-17T13:00:46Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 192083,
+      "score": 192366,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-16T14:05:14Z"
+      "published": "2026-10-17T13:04:21Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 192083,
+      "score": 192366,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-16T14:05:14Z"
+      "published": "2026-10-17T13:04:21Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187607,
+      "score": 187618,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-16T13:59:15Z"
+      "published": "2026-10-17T12:41:00Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187607,
+      "score": 187618,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-16T13:59:15Z"
+      "published": "2026-10-17T12:41:00Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 183438,
+      "score": 183575,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-10-16T13:58:37Z"
+      "published": "2026-10-17T13:01:31Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 216.41,
-      "change_percent": -0.38,
+      "price": 214.13,
+      "change_percent": -1.43,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 -0.38%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 -1.43%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
@@ -458,82 +458,43 @@
   "information_gap": {
     "items": [
       {
-        "title": "[bug] Control-plane credential create and OAuth2Provider._post_token ignore the egress allowlist",
-        "url": "https://github.com/jentic/jentic-one/issues/1704",
+        "title": "Input archive: Persist current-action frontend timing observations",
+        "url": "https://github.com/Habit130/squirrel/issues/203",
         "source": "GitHub Issues",
-        "summary": "### What's broken?\n\n`CredentialService.create` / update (`control/services/credentials/service.py:295, 301, 1255`) and `OAuth2Provider._post_token` (`control/services/credentials/providers/oauth2.py:115, 121`) call `validate_upstream_url(url)` and `build_strict_pinned_transport()` with **no** `EgressConfig`. `allowed_private_subnets` / `allowed_internal_domains` therefore never apply: an in-network or corporate token endpoint that the operator has allowlisted for the broker is still rejected whe",
-        "score": 5.0,
+        "summary": "# AC-203-v1 — Persist current-action frontend timing observations\n\nExecutable issue Habit130/squirrel#203, child of #187 and native prerequisite of #192.\nOne Squirrel code PR. Approved scope extension: habit's “继续推进吧.” in response to the finite\nfrontend prerequisite proposal#1926231736556. This adds #203 only; it does not reopen #189/#191.\nThe pinned contract comment and byte-identical local copy are the acceptance authority.\n\n## Goal\n\nMake actually observed current-action frontend handler-to-up",
+        "score": 9.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "集成与兼容",
         "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 3 项"
-      },
-      {
-        "title": "[bug] CachedTokenValidator has no SingleFlight: thundering herd on admin_db at the TTL boundary",
-        "url": "https://github.com/jentic/jentic-one/issues/1705",
-        "source": "GitHub Issues",
-        "summary": "### What's broken?\n\n`broker/core/token_validation.py` `CachedTokenValidator` caches a validated token for `cache_ttl_seconds` (3 s). When the entry expires, **every** in-flight request carrying that token misses at once and each issues its own admin_db lookup. Under load with one hot agent token this is a periodic burst of N identical queries every 3 s. The rule evaluator and credential deriver already coalesce through `SingleFlight`; the token validator doesn't.\n\nExpected: one in-flight refresh",
-        "score": 4.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "个人用户",
+        "audience": "开发者",
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "[bug] RetryRunner never status-retries keyed POSTs: Idempotency-Key is stripped before _is_idempotent checks it",
-        "url": "https://github.com/jentic/jentic-one/issues/1711",
+        "title": "[Bug]: Fresh macOS DMG install restricts OpenAI model picker to one model after API-key onboarding",
+        "url": "https://github.com/openclaw/openclaw/issues/175533",
         "source": "GitHub Issues",
-        "summary": "### What's broken?\n\n`RetryRunner` (`broker/adapters/runners/retry.py`) only retries a post-send status failure (429/5xx) when the request is idempotent: `_is_idempotent` checks the method, **or** an `idempotency-key` header on the `RunnerRequest`. But `forward_headers` (`broker/core/proxy_headers.py`) drops every header in `BROKER_CONSUMED_HEADERS` (`broker/core/headers.py`), which includes `idempotency-key`, before the runner request is built. So the key-based branch can never be true and a key",
-        "score": 4.0,
+        "summary": "### Bug type\n\nBehavior bug (incorrect output/state without crash)\n\n### Beta release blocker\n\nNo\n\n### Summary\n\nOn a factory-reset Apple Silicon Mac running macOS 27.0.1, a fresh installation of OpenClaw v2026.10.4 through the stable DMG results in a Gateway model picker showing only openai/gpt-6-astra, despite the CLI discovering 32 OpenAI models and recognizing an OpenAI API-key authentication profile. The installation has a single-model modelPolicy.allow restriction that the user did not manual",
+        "score": 1.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 3 项"
-      },
-      {
-        "title": "[bug] Streaming mid-body upstream disconnect logs unhandled_exception (no request_id) from HttpRunner._cap_iter",
-        "url": "https://github.com/jentic/jentic-one/issues/1712",
-        "source": "GitHub Issues",
-        "summary": "### What's broken?\n\nOn the streaming passthrough, when the upstream drops the connection mid-body, `httpx.RemoteProtocolError` escapes from `broker/adapters/runners/http.py:268 _cap_iter` through the streaming response and is logged by the ASGI layer as `unhandled_exception` at error level, **without** `request_id` / `trace_id`, one per affected request. The client sees a truncated 200 (expected for streaming), but operators get an untraceable error log with a full traceback instead of a structu",
-        "score": 3.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 3 项"
-      },
-      {
-        "title": "build_product: converge tracker's built-in with the tracker-runner fork — structural, testing and quality overhaul (epic, main since v0.73.2)",
-        "url": "https://github.com/2389-research/tracker/issues/655",
-        "source": "GitHub Issues",
-        "summary": "## Why\ntracker-runner runs a **fork** of `build_product` (its own issues #823/#840/#846/#857/#873/#885) while tracker `main` received a structural/testing/quality overhaul over 2026-09-17/18. Neither side has the other's fixes. This epic records everything that landed on `main` so the two can converge on one file — tracker's built-in becomes the superset, runner switches to it, and future fixes flow one way.\n\nField guide (node walk, state contract, loop bounds, unattended gate behaviour, v0.73.2",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "易用性与流程",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Computers Cannot Make Decisions",
-        "url": "https://news.ycombinator.com/item?id=50117511",
+        "title": "Tesla Roadster",
+        "url": "https://news.ycombinator.com/item?id=50128653",
         "source": "Hacker News",
-        "summary": "&gt; It&#x27;s already often diffuse responsbilitiy. yeah that&#x27;s BS and the issue is that people actually believe that. the responsible party is whoever is running the ai agent.",
+        "summary": "&gt;By that logic any lie is simply a promise that hasn&#x27;t been fulfilled yet. He has a long enough track record of actually delivering. Elon is not a new entity with an unknown track record. He&#x27;s been active in running and growing companies for 31 years. He&#x27;s been involved with Tesla for 22 years. You&#x27;re attributing statements as lies which I feel is too strong a term as it implies intent, which as far as I can tell, doesn&#x27;t exist. &gt;He made the promise in 2019! HW3 wi",
         "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "其他",
+        "category": "价格与付费",
         "urgency": "高",
         "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "Best pre-trained vision model for multi-plant disease detection in async web back-end",
@@ -549,17 +510,17 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Migrate the application and build toolchain to Rust",
-        "url": "https://github.com/neodamul/AgentConductor/issues/9",
+        "title": "[Phase 4] Adaptador Fallback Offline para LLM Local (LiteLLM / Ollama)",
+        "url": "https://github.com/luismarquitti/intellifinance-go/issues/24",
         "source": "GitHub Issues",
-        "summary": "## Goal\nReplace project-owned JavaScript and Python in the shipped application, release packaging, manual generation, and repository-owned verification with Rust. Keep external agent CLIs and operating-system services as process/runtime boundaries. Preserve the native low-resource desktop experience and existing behavior.\n\n## Trace\nR-151 → BG-106 → SF-138 → UC-141 → FR-136 → QAS-147 → DD-160 (`docs/01-requirements.md`, `docs/02-business-goals.md`, `docs/03-system-features.md`, `docs/04-use-cases",
-        "score": 201.0,
+        "summary": "## Objetivo\nCriar o adapter LocalLLMAdapter compatível com a API do OpenAI para conectar ao LiteLLM proxy (lm-claw:4000) e Ollama (lm-claw:11434) durante o desenvolvimento offline no Homelab.\n\n## Tarefas\n- [ ] Implementar o cliente HTTP para a rota /v1/chat/completions do LiteLLM/Ollama\n- [ ] Formatar mensagens com system prompt e user prompt solicitando resposta estritamente em JSON\n- [ ] Fazer parsing da resposta local e mapear para domain.CategorizationResult\n- [ ] Configurar seleção de adapt",
+        "score": 331.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "What is this Error: at com.google.common.base.Preconditions.checkNotNull",
@@ -575,17 +536,43 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Integrated native MCP server",
-        "url": "https://github.com/OrcaSlicer/OrcaSlicer/issues/13763",
+        "title": "Mixed-case HTTPS URLs skip the pinned client TLS context",
+        "url": "https://github.com/Batocera-Fleet-Federation/batocera.drone/issues/332",
         "source": "GitHub Issues",
-        "summary": "### Is there an existing issue for this feature request?\n\n- [x] I have searched the existing issues\n\n### Is your feature request related to a problem?\n\nI would like to have my AI agent connect to my slicer to read printer, filament, and process settings to help me debug print issues or catch settings issues before I waste time and filament printing.\n\n### Which printers will be beneficial to this feature?\n\nAll\n\n### Describe the solution you'd like\n\nAn integrated MCP server that:\n- Is disabled by ",
-        "score": 9.0,
+        "summary": "<!-- swarm-issue-worker:adversarial-finding:issue:246;id:0b28b7a59e998aebfa3e -->\nFound while testing #246; outside that delivery's scope.\n\nReproduction: a candidate of HTTPS://host (scheme stored as HTTPS) is kept by _peer_address_candidates because it lowercases, then _drone_client_ssl_context / _peer_get_json use url.startswith('https://') without casefold and return no pin context. Evidence: peer_connectivity.py _drone_client_ssl_context around the startswith check versus candidate filtering",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "feat(focus): opt-in second opinion review in the review stage",
+        "url": "https://github.com/devlikebear/tars/issues/1281",
+        "source": "GitHub Issues",
+        "summary": "설계 원본: [`docs/plans/second-opinion-review/plan.md`](https://github.com/devlikebear/tars/blob/main/docs/plans/second-opinion-review/plan.md) (#1280에서 추가). 이 이슈는 진행 관리용이다. 설계가 바뀌면 계획 문서를 고치고, 여기에는 체크리스트·PR·확인 결과·측정만 남긴다.\n\n## 요약\n\n옵트인한 파이프라인에서 review kind 단계의 첫 라운드에 **다른 tier**(heavy/standard/light)가 같은 diff를 읽기 전용으로 한 번 더 리뷰한다. 그 지적은 기존 finding 카드와 triage를 그대로 탄다. 메인 리뷰와 겹치는 지적은 새 카드 대신 \"두 리뷰 모두 지적\" 표시가 된다.\n\n**파이프라인 근거** (`docs/decisions/product-focus.md` 규칙 1): 한 모델이 놓친 결함을 머지 전에 다른 모델이 잡는다.\n\n배경: ",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Guard residuals accepted at 0.21.0",
+        "url": "https://github.com/Scrollout/orbit/issues/25",
+        "source": "GitHub Issues",
+        "summary": "Accepted by the PM at the 0.21.0 fix round 6 re-review (closing rule); none is a slip-level bypass.\n\n| # | Residual | Severity |\n|---|---|---|\n| 1 | Shell options that change glob matching are not modelled: `shopt -s nocaseglob; cp x ~/.CLAUD?/settings.json` writes ~/.claude silently (hooks/guard.mjs:1634-1638, segMatch :1585). Fix: share any glob when the command has `shopt` or `set -o/+o`, or name it in docs/threat-model.md:36. | Low, CONFIRMED |\n| 2 | Extglob forms `+(…)`, `@(…)`, `!(…)` neve",
+        "score": 2.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
         "audience": "个人用户",
-        "evidence": "关键词命中 2 项"
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
@@ -612,18 +599,32 @@
         "urgency": "低",
         "audience": "开发者",
         "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "How to incorporate additional data in fine tuning LLM",
+        "url": "https://stackoverflow.com/questions/79537151/how-to-incorporate-additional-data-in-fine-tuning-llm",
+        "source": "Stack Overflow",
+        "summary": "<p>My goal is to create a chat bot specialized in answering questions related to diabetes.</p>\n<p>I am new to fine tuning and have a couple questions before I begin. My question is about the dataset format and the underlying model I should use.</p>\n<p>I want to fine tune the LLM on the following dataset - <a href=\"https://huggingface.co/datasets/passionMan/diabetes_instruct_v7\" rel=\"nofollow noreferrer\">https://huggingface.co/datasets/passionMan/diabetes_instruct_v7</a>\nI am thinking of using th",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
       }
     ],
     "category_counts": {
-      "可靠性与质量": 7,
-      "易用性与流程": 1,
+      "集成与兼容": 4,
+      "可靠性与质量": 4,
+      "价格与付费": 1,
       "其他": 2,
-      "集成与兼容": 2
+      "隐私与合规": 1
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 7 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
