@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17 21:07 CST",
+  "generated_at": "2026-10-18 21:28 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -14,10 +14,10 @@
       "published": "Fri, 16 Oct 2026 19:00:00 GMT"
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
       "source": "OpenAI News",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -25,10 +25,10 @@
       "published": "Fri, 16 Oct 2026 00:00:00 GMT"
     },
     {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "source": "OpenAI News",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -273,168 +273,168 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 392254,
+      "score": 392343,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-17T13:05:50Z"
-    },
-    {
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub",
-      "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 300986,
-      "tags": [
-        "AI/Agent",
-        "ai",
-        "brainstorming",
-        "coding"
-      ],
-      "published": "2026-10-17T13:05:28Z"
+      "published": "2026-10-18T13:27:01Z"
     },
     {
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 299950,
+      "score": 316076,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "binary-analysis"
       ],
-      "published": "2026-10-17T13:07:16Z"
+      "published": "2026-10-18T13:28:01Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 301458,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-10-18T13:26:48Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 281985,
+      "score": 282987,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-17T13:07:13Z"
+      "published": "2026-10-18T13:27:45Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 254566,
+      "score": 254833,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-17T13:06:22Z"
+      "published": "2026-10-18T13:25:13Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 254566,
+      "score": 254833,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-17T13:06:22Z"
+      "published": "2026-10-18T13:25:13Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 207776,
+      "score": 207883,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-17T13:00:46Z"
+      "published": "2026-10-18T13:16:53Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 192366,
+      "score": 192647,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-17T13:04:21Z"
+      "published": "2026-10-18T13:27:04Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 192366,
+      "score": 192647,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-17T13:04:21Z"
+      "published": "2026-10-18T13:27:04Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187618,
+      "score": 187636,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-17T12:41:00Z"
+      "published": "2026-10-18T13:12:55Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187618,
+      "score": 187636,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-17T12:41:00Z"
+      "published": "2026-10-18T13:12:55Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 183575,
+      "score": 183703,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-10-17T13:01:31Z"
+      "published": "2026-10-18T13:22:55Z"
     }
   ],
   "stocks": [
@@ -458,24 +458,11 @@
   "information_gap": {
     "items": [
       {
-        "title": "Input archive: Persist current-action frontend timing observations",
-        "url": "https://github.com/Habit130/squirrel/issues/203",
+        "title": "[rework] ci_failures_full.log silently missing when failed checks have check-run (runs/NNN) details URLs — rework legs fly blind",
+        "url": "https://github.com/IstiN/dmtools-agents/issues/1045",
         "source": "GitHub Issues",
-        "summary": "# AC-203-v1 — Persist current-action frontend timing observations\n\nExecutable issue Habit130/squirrel#203, child of #187 and native prerequisite of #192.\nOne Squirrel code PR. Approved scope extension: habit's “继续推进吧.” in response to the finite\nfrontend prerequisite proposal#1926231736556. This adds #203 only; it does not reopen #189/#191.\nThe pinned contract comment and byte-identical local copy are the acceptance authority.\n\n## Goal\n\nMake actually observed current-action frontend handler-to-up",
-        "score": 9.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "[Bug]: Fresh macOS DMG install restricts OpenAI model picker to one model after API-key onboarding",
-        "url": "https://github.com/openclaw/openclaw/issues/175533",
-        "source": "GitHub Issues",
-        "summary": "### Bug type\n\nBehavior bug (incorrect output/state without crash)\n\n### Beta release blocker\n\nNo\n\n### Summary\n\nOn a factory-reset Apple Silicon Mac running macOS 27.0.1, a fresh installation of OpenClaw v2026.10.4 through the stable DMG results in a Gateway model picker showing only openai/gpt-6-astra, despite the CLI discovering 32 OpenAI models and recognizing an OpenAI API-key authentication profile. The installation has a single-model modelPolicy.allow restriction that the user did not manual",
-        "score": 1.0,
+        "summary": "## Live evidence (2026-10-18, dmtools-dart PR #423, run 39128203443/job/117678110540)\n\nRework leg input prep wrote `input/gh-396/ci_failures.md` listing **5 failed checks** and telling the agent \"Full (untruncated) logs are available in \\`ci_failures_full.log\\`\" — the INPUTS manifest also advertises `ci_failures_full.log`. **The file was never written.** The leg probed `test -f input/gh-396/ci_failures_full.log` → absent → the leg reported \"The logs are still absent, and I have no new code infor",
+        "score": 4.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -484,17 +471,17 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Tesla Roadster",
-        "url": "https://news.ycombinator.com/item?id=50128653",
+        "title": "Retired Penn professor arrested for blocking Uber Eats robot",
+        "url": "https://news.ycombinator.com/item?id=50136561",
         "source": "Hacker News",
-        "summary": "&gt;By that logic any lie is simply a promise that hasn&#x27;t been fulfilled yet. He has a long enough track record of actually delivering. Elon is not a new entity with an unknown track record. He&#x27;s been active in running and growing companies for 31 years. He&#x27;s been involved with Tesla for 22 years. You&#x27;re attributing statements as lies which I feel is too strong a term as it implies intent, which as far as I can tell, doesn&#x27;t exist. &gt;He made the promise in 2019! HW3 wi",
+        "summary": "Is it customary to tip these delivery devices? I suggest they should be tipped on their back. This lady has my full support.",
         "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "价格与付费",
+        "category": "其他",
         "urgency": "高",
         "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "Best pre-trained vision model for multi-plant disease detection in async web back-end",
@@ -510,11 +497,24 @@
         "evidence": "关键词命中 1 项"
       },
       {
+        "title": "[fetch-error] mistral (part 6)",
+        "url": "https://github.com/PedroTroller/statuswatch/issues/736",
+        "source": "GitHub Issues",
+        "summary": "Automated report: fetch failures were detected for service `mistral`.\n\nContinues #730, retired after reaching 2000 comments (GitHub rejects new comments past 2500).",
+        "score": 951.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
         "title": "[Phase 4] Adaptador Fallback Offline para LLM Local (LiteLLM / Ollama)",
         "url": "https://github.com/luismarquitti/intellifinance-go/issues/24",
         "source": "GitHub Issues",
         "summary": "## Objetivo\nCriar o adapter LocalLLMAdapter compatível com a API do OpenAI para conectar ao LiteLLM proxy (lm-claw:4000) e Ollama (lm-claw:11434) durante o desenvolvimento offline no Homelab.\n\n## Tarefas\n- [ ] Implementar o cliente HTTP para a rota /v1/chat/completions do LiteLLM/Ollama\n- [ ] Formatar mensagens com system prompt e user prompt solicitando resposta estritamente em JSON\n- [ ] Fazer parsing da resposta local e mapear para domain.CategorizationResult\n- [ ] Configurar seleção de adapt",
-        "score": 331.0,
+        "score": 880.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
@@ -523,53 +523,40 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "What is this Error: at com.google.common.base.Preconditions.checkNotNull",
-        "url": "https://stackoverflow.com/questions/42936414/what-is-this-error-at-com-google-common-base-preconditions-checknotnull",
-        "source": "Stack Overflow",
-        "summary": "<p>I am a new automation tester, Working on sample test scripts, Need some help from you guys, I have tried to use POM and basic TestNG.</p>\n\n<p>I have created 2 packages - pages and testcases.</p>\n\n<p>I am getting some error when I am trying to access the \"ClickJoin, Enterusername\" methods from my pages packages. I had tried figuring out the issue, but was unable to get to why this error is occurring.</p>\n\n<p>Below is the Error:\njava.lang.NullPointerException\nat com.google.common.base.Precondit",
-        "score": 12.0,
+        "title": "llm_coordinator on every machine: Artfull Ollama first, configured cloud LLM second, shared limits and ledger",
+        "url": "https://github.com/joewoods1968/LLM_Coordinator/issues/1",
+        "source": "GitHub Issues",
+        "summary": "> **For Joe to decide first - not for automated implementation.** Settle the open decisions (L1-L18) before any work starts; then split the build into separate issues.\n\n**Status:** Proposal for discussion. Nothing is built yet. · extends Video-Production-Pipeline #1567 · **code home: [joewoods1968/LLM_Coordinator](https://github.com/joewoods1968/LLM_Coordinator)**\n\n### Where it lives\n\nThe coordinator gets **its own repo, `LLM_Coordinator`** (created 17 Oct 2026, empty so far). It serves the whol",
+        "score": 123.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Mixed-case HTTPS URLs skip the pinned client TLS context",
-        "url": "https://github.com/Batocera-Fleet-Federation/batocera.drone/issues/332",
-        "source": "GitHub Issues",
-        "summary": "<!-- swarm-issue-worker:adversarial-finding:issue:246;id:0b28b7a59e998aebfa3e -->\nFound while testing #246; outside that delivery's scope.\n\nReproduction: a candidate of HTTPS://host (scheme stored as HTTPS) is kept by _peer_address_candidates because it lowercases, then _drone_client_ssl_context / _peer_get_json use url.startswith('https://') without casefold and return no pin context. Evidence: peer_connectivity.py _drone_client_ssl_context around the startswith check versus candidate filtering",
-        "score": 3.0,
+        "title": "What is the meaning of &lt;- in AI?",
+        "url": "https://stackoverflow.com/questions/2125887/what-is-the-meaning-of-in-ai",
+        "source": "Stack Overflow",
+        "summary": "<p>I've seen in a lot of AI related stuff the symbol &lt;-. For example,</p>\n\n<pre><code>delta &lt;- 0\nx &lt;- x + 1\n</code></pre>\n\n<p>etc.</p>\n\n<p>I always assume its meaning is the same as =(assigment), but probably they have a meaning that's a bit different from assigment, I assume?</p>\n\n<p>Thanks</p>\n",
+        "score": 7.0,
         "tags": [],
         "published": "",
         "category": "其他",
         "urgency": "低",
-        "audience": "个人用户",
+        "audience": "开发者",
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "feat(focus): opt-in second opinion review in the review stage",
-        "url": "https://github.com/devlikebear/tars/issues/1281",
+        "title": "feat: オンボーディングのチュートリアル",
+        "url": "https://github.com/yusuke0610/etoki/issues/66",
         "source": "GitHub Issues",
-        "summary": "설계 원본: [`docs/plans/second-opinion-review/plan.md`](https://github.com/devlikebear/tars/blob/main/docs/plans/second-opinion-review/plan.md) (#1280에서 추가). 이 이슈는 진행 관리용이다. 설계가 바뀌면 계획 문서를 고치고, 여기에는 체크리스트·PR·확인 결과·측정만 남긴다.\n\n## 요약\n\n옵트인한 파이프라인에서 review kind 단계의 첫 라운드에 **다른 tier**(heavy/standard/light)가 같은 diff를 읽기 전용으로 한 번 더 리뷰한다. 그 지적은 기존 finding 카드와 triage를 그대로 탄다. 메인 리뷰와 겹치는 지적은 새 카드 대신 \"두 리뷰 모두 지적\" 표시가 된다.\n\n**파이프라인 근거** (`docs/decisions/product-focus.md` 규칙 1): 한 모델이 놓친 결함을 머지 전에 다른 모델이 잡는다.\n\n배경: ",
+        "summary": "**仕様は未確定。着手時に決める。** ここには、いま分かっている壁と、崩してはいけない制約だけを置く。\n\n## なぜ要るか\n\netoki は**最初の一歩が重い**。コードを読むと、初見の人が詰まる場所がはっきりしている。\n\n### 詰まる場所\n\n1. **ボードを作るには、書ける Projects v2 が 1 つ以上要る。** 作成先の選択が必須なので（ADR 0017）、持っていない人はそもそもボードを作れない\n2. **Project 側にカスタムフィールドを 2 つ用意する必要がある。** `Kind`（単一選択、選択肢に epic と issue）と `Parent`（テキスト）。README には書いてあるが、知らずに作成すると止まる。**止まったときのメッセージは既に親切**（`ErrProjectFieldMissing` が何を作ればよいかを具体的に返す）が、事前に分かるほうがよい\n3. **注釈の付け方が 2 段。** フレームツール（F）で囲んで、そのフレームを選択する。パネルにヒントは出ているが、初見で辿り着けるかは別\n4. **どの frame が注釈なの",
         "score": 3.0,
         "tags": [],
         "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Guard residuals accepted at 0.21.0",
-        "url": "https://github.com/Scrollout/orbit/issues/25",
-        "source": "GitHub Issues",
-        "summary": "Accepted by the PM at the 0.21.0 fix round 6 re-review (closing rule); none is a slip-level bypass.\n\n| # | Residual | Severity |\n|---|---|---|\n| 1 | Shell options that change glob matching are not modelled: `shopt -s nocaseglob; cp x ~/.CLAUD?/settings.json` writes ~/.claude silently (hooks/guard.mjs:1634-1638, segMatch :1585). Fix: share any glob when the command has `shopt` or `set -o/+o`, or name it in docs/threat-model.md:36. | Low, CONFIRMED |\n| 2 | Extglob forms `+(…)`, `@(…)`, `!(…)` neve",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
+        "category": "隐私与合规",
         "urgency": "中",
         "audience": "个人用户",
         "evidence": "关键词命中 1 项"
@@ -601,30 +588,42 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "How to incorporate additional data in fine tuning LLM",
-        "url": "https://stackoverflow.com/questions/79537151/how-to-incorporate-additional-data-in-fine-tuning-llm",
-        "source": "Stack Overflow",
-        "summary": "<p>My goal is to create a chat bot specialized in answering questions related to diabetes.</p>\n<p>I am new to fine tuning and have a couple questions before I begin. My question is about the dataset format and the underlying model I should use.</p>\n<p>I want to fine tune the LLM on the following dataset - <a href=\"https://huggingface.co/datasets/passionMan/diabetes_instruct_v7\" rel=\"nofollow noreferrer\">https://huggingface.co/datasets/passionMan/diabetes_instruct_v7</a>\nI am thinking of using th",
+        "title": "[BUG] Oligarchs political modifier not going away",
+        "url": "https://github.com/MillenniumDawn/Millennium-Dawn/issues/5890",
+        "source": "GitHub Issues",
+        "summary": "> *Reported by **discord-sync** via [Discord](https://discord.com/channels/210890013334831104/1561370010755010621) on 2026-10-18*\n> *Tags: BETA, general-bug*\n\n<!-- bot-created-from-discord -->\n\n**What happens**\nplaying as iraq and took the event that replaces the oligarchs with intel faction but the political modifier does not go.\nmillenium dawn beta 2.0.2\nlinux mint cinnamon\nchecksum: ccc6\n\n**To Reproduce**\nSee Discord thread for details.\n\n**Operating System**\nSee Discord thread for details.\n\n*",
         "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "隐私与合规",
+        "category": "可靠性与质量",
         "urgency": "中",
         "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": ": Can manually closing a page inside Puppeteer Cluster cause TargetCloseError with Firefox BiDi?",
+        "url": "https://stackoverflow.com/questions/80010858/can-manually-closing-a-page-inside-puppeteer-cluster-cause-targetcloseerror-wi",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm using Puppeteer Cluster 0.25.0 with Puppeteer Core 24.30.0 and Firefox WebDriver BiDi on Linux.</p>\n<p>My cluster uses <code>CONCURRENCY_CONTEXT</code>, with <code>maxConcurrency: 4</code> and <code>retryLimit: 0</code>.</p>\n<p>During separate higher-concurrency experiments, I intermittently encountered errors including:</p>\n<p><code>TargetCloseError: script.callFunction: Target closed</code></p>\n<p>I noticed that my worker cleanup also explicitly closed the page supplied by Puppeteer Clu",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
         "evidence": "关键词命中 1 项"
       }
     ],
     "category_counts": {
-      "集成与兼容": 4,
-      "可靠性与质量": 4,
-      "价格与付费": 1,
-      "其他": 2,
+      "可靠性与质量": 5,
+      "其他": 3,
+      "集成与兼容": 3,
       "隐私与合规": 1
     },
     "next_actions": [
-      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
