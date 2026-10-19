@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 21:28 CST",
+  "generated_at": "2026-10-20 00:35 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -168,6 +168,17 @@
       "published": "Thu, 15 Oct 2026 20:34:01 GMT"
     },
     {
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 09:08:45 GMT"
+    },
+    {
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "url": "https://huggingface.co/blog/meta-muse-spark-open",
       "source": "Hugging Face Blog",
@@ -254,197 +265,17 @@
         "AI/科技"
       ],
       "published": "Fri, 02 Oct 2026 04:01:31 GMT"
-    },
-    {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 30 Sep 2026 00:00:00 GMT"
     }
   ],
-  "github_trending": [
-    {
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "source": "GitHub",
-      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 392343,
-      "tags": [
-        "AI/Agent",
-        "ai",
-        "assistant",
-        "crustacean"
-      ],
-      "published": "2026-10-18T13:27:01Z"
-    },
-    {
-      "title": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "source": "GitHub",
-      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 316076,
-      "tags": [
-        "AI/Agent",
-        "agent-skills",
-        "ai-agents",
-        "binary-analysis"
-      ],
-      "published": "2026-10-18T13:28:01Z"
-    },
-    {
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub",
-      "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 301458,
-      "tags": [
-        "AI/Agent",
-        "ai",
-        "brainstorming",
-        "coding"
-      ],
-      "published": "2026-10-18T13:26:48Z"
-    },
-    {
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "source": "GitHub",
-      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 282987,
-      "tags": [
-        "AI/Agent",
-        "ai-agents",
-        "anthropic",
-        "claude"
-      ],
-      "published": "2026-10-18T13:27:45Z"
-    },
-    {
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "source": "GitHub",
-      "summary": "The agent that grows with you",
-      "score": 254833,
-      "tags": [
-        "AI/Agent",
-        "ai",
-        "ai-agent",
-        "ai-agents"
-      ],
-      "published": "2026-10-18T13:25:13Z"
-    },
-    {
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "source": "GitHub",
-      "summary": "The agent that grows with you",
-      "score": 254833,
-      "tags": [
-        "AI/Agent",
-        "ai",
-        "ai-agent",
-        "ai-agents"
-      ],
-      "published": "2026-10-18T13:25:13Z"
-    },
-    {
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "source": "GitHub",
-      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 207883,
-      "tags": [
-        "AI/Agent",
-        "ai",
-        "apis",
-        "automation"
-      ],
-      "published": "2026-10-18T13:16:53Z"
-    },
-    {
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "source": "GitHub",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 192647,
-      "tags": [
-        "AI/Agent",
-        "ai",
-        "ai-agents",
-        "ai-crawler"
-      ],
-      "published": "2026-10-18T13:27:04Z"
-    },
-    {
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "source": "GitHub",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 192647,
-      "tags": [
-        "AI/Agent",
-        "ai",
-        "ai-agents",
-        "ai-crawler"
-      ],
-      "published": "2026-10-18T13:27:04Z"
-    },
-    {
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "source": "GitHub",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187636,
-      "tags": [
-        "AI/Agent",
-        "agentic-ai",
-        "agents",
-        "ai"
-      ],
-      "published": "2026-10-18T13:12:55Z"
-    },
-    {
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "source": "GitHub",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187636,
-      "tags": [
-        "AI/Agent",
-        "agentic-ai",
-        "agents",
-        "ai"
-      ],
-      "published": "2026-10-18T13:12:55Z"
-    },
-    {
-      "title": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "source": "GitHub",
-      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 183703,
-      "tags": [
-        "AI/Agent",
-        "deepseek",
-        "gemma",
-        "gemma3"
-      ],
-      "published": "2026-10-18T13:22:55Z"
-    }
-  ],
+  "github_trending": [],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 214.13,
-      "change_percent": -1.43,
+      "price": 218.26,
+      "change_percent": 1.93,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 -1.43%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +1.93%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
@@ -458,30 +289,56 @@
   "information_gap": {
     "items": [
       {
-        "title": "[rework] ci_failures_full.log silently missing when failed checks have check-run (runs/NNN) details URLs — rework legs fly blind",
-        "url": "https://github.com/IstiN/dmtools-agents/issues/1045",
+        "title": "Daimon Interaction: integrating conversation roadmap and delivery plan",
+        "url": "https://github.com/AlterMundi/daimon-matrix/issues/313",
         "source": "GitHub Issues",
-        "summary": "## Live evidence (2026-10-18, dmtools-dart PR #423, run 39128203443/job/117678110540)\n\nRework leg input prep wrote `input/gh-396/ci_failures.md` listing **5 failed checks** and telling the agent \"Full (untruncated) logs are available in \\`ci_failures_full.log\\`\" — the INPUTS manifest also advertises `ci_failures_full.log`. **The file was never written.** The leg probed `test -f input/gh-396/ci_failures_full.log` → absent → the leg reported \"The logs are still absent, and I have no new code infor",
-        "score": 4.0,
+        "summary": "<!-- BEGIN single-chat-repair-20261019 -->\n## Current single-body repair accepted — 2026-10-19\n\nThe user-observed regressions superseded the earlier pilot acceptance. [The owning repair](https://github.com/AlterMundi/telecodex/issues/196) is now implemented, merged, deployed and qualified through the complete selected web/native experience. Its final record contains concrete evidence and limits rather than treating isolated tests as product acceptance.\n\nNative/web Telecodex #201 is selected. Ord",
+        "score": 14.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "隐私与合规",
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Retired Penn professor arrested for blocking Uber Eats robot",
-        "url": "https://news.ycombinator.com/item?id=50136561",
+        "title": "pai-ensemble：session 中斷時進行中的席次整份作廢——需要席次層級以下的存檔與接續",
+        "url": "https://github.com/PsychQuant/parallel-ai-agents/issues/103",
+        "source": "GitHub Issues",
+        "summary": "## Problem\n\n> **Original text**:\n> 「Workflow(pai-ensemble-2.23.0.js) 我覺得需要有很好的存檔能力欸，雖然workflow可能沒有」\n> — Source: 使用者在 Claude Code session 中的回覆（2026-10-19，b42 verify 第二次被中斷之後）\n\npai-ensemble 的最小存檔單位是**一整個席次**（一次 `agent()` 呼叫）。席次做完才會在 journal 留下 `result`，`resumeFromRunId` 也只能讓做完的席次直接取快取。session 只要在席次跑到一半時中斷，那個席次做過的事全部作廢，接回之後要從頭再跑。\n\n一個審閱席次常常要跑 30 到 90 分鐘：建 scratch store、跑真 binary、比對輸出。這段期間只要 session 重啟（登入、額度重置、使用者中斷、harness 重開），所有正在跑的席次都會掉。\n\n## Type\nfeature\n\n## 實際發生的事（2026-10-19，Akashic-Library 的 b42",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "需求缺口",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[Tests] Coverage gate is a no-op and mover tests assert nothing: .coveragerc shadows fail_under, fast suite has no --cov, test_coverage_gap.py is coverage padding",
+        "url": "https://github.com/fderuiter/sortify/issues/738",
+        "source": "GitHub Issues",
+        "summary": "## Summary\nThe project looks like it enforces 50% coverage and tests the mover, but neither holds.\n\n1. **`fail_under = 50` is ignored.** It lives in `[tool.coverage.report]` in `pyproject.toml`, but a `.coveragerc` exists. coverage.py reads only `.coveragerc` when it is present, and that file has no `fail_under`.\n2. **The main test job measures no coverage.** `build-and-test` runs `pytest -m \"not slow\"` without `--cov`, yet uploads `htmlcov/` and `coverage.xml` as artifacts. No step ever produce",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "Why we decided to open source Relate",
+        "url": "https://news.ycombinator.com/item?id=50141787",
         "source": "Hacker News",
-        "summary": "Is it customary to tip these delivery devices? I suggest they should be tipped on their back. This lady has my full support.",
+        "summary": "Hey HN, author here. We have been hard at work shipping workflows and application for orgs built inside of our automation platform. In each case, everything starts from data integration, so we felt this should be a standalone package. I personally feel it has to be OSS too, as long term I cannot see anyone wanting lock-in at this layer. Please check out the post and the repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;relatehq&#x2F;relate\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;relateh",
         "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "其他",
+        "category": "易用性与流程",
         "urgency": "高",
         "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "Best pre-trained vision model for multi-plant disease detection in async web back-end",
@@ -497,69 +354,30 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[fetch-error] mistral (part 6)",
-        "url": "https://github.com/PedroTroller/statuswatch/issues/736",
+        "title": "Faithfulness check before memory write , interested in contributing a pluggable verification hook",
+        "url": "https://github.com/mem0ai/mem0/issues/7283",
         "source": "GitHub Issues",
-        "summary": "Automated report: fetch failures were detected for service `mistral`.\n\nContinues #730, retired after reaching 2000 comments (GitHub rejects new comments past 2500).",
-        "score": 951.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "[Phase 4] Adaptador Fallback Offline para LLM Local (LiteLLM / Ollama)",
-        "url": "https://github.com/luismarquitti/intellifinance-go/issues/24",
-        "source": "GitHub Issues",
-        "summary": "## Objetivo\nCriar o adapter LocalLLMAdapter compatível com a API do OpenAI para conectar ao LiteLLM proxy (lm-claw:4000) e Ollama (lm-claw:11434) durante o desenvolvimento offline no Homelab.\n\n## Tarefas\n- [ ] Implementar o cliente HTTP para a rota /v1/chat/completions do LiteLLM/Ollama\n- [ ] Formatar mensagens com system prompt e user prompt solicitando resposta estritamente em JSON\n- [ ] Fazer parsing da resposta local e mapear para domain.CategorizationResult\n- [ ] Configurar seleção de adapt",
-        "score": 880.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "llm_coordinator on every machine: Artfull Ollama first, configured cloud LLM second, shared limits and ledger",
-        "url": "https://github.com/joewoods1968/LLM_Coordinator/issues/1",
-        "source": "GitHub Issues",
-        "summary": "> **For Joe to decide first - not for automated implementation.** Settle the open decisions (L1-L18) before any work starts; then split the build into separate issues.\n\n**Status:** Proposal for discussion. Nothing is built yet. · extends Video-Production-Pipeline #1567 · **code home: [joewoods1968/LLM_Coordinator](https://github.com/joewoods1968/LLM_Coordinator)**\n\n### Where it lives\n\nThe coordinator gets **its own repo, `LLM_Coordinator`** (created 17 Oct 2026, empty so far). It serves the whol",
-        "score": 123.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "What is the meaning of &lt;- in AI?",
-        "url": "https://stackoverflow.com/questions/2125887/what-is-the-meaning-of-in-ai",
-        "source": "Stack Overflow",
-        "summary": "<p>I've seen in a lot of AI related stuff the symbol &lt;-. For example,</p>\n\n<pre><code>delta &lt;- 0\nx &lt;- x + 1\n</code></pre>\n\n<p>etc.</p>\n\n<p>I always assume its meaning is the same as =(assigment), but probably they have a meaning that's a bit different from assigment, I assume?</p>\n\n<p>Thanks</p>\n",
-        "score": 7.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "feat: オンボーディングのチュートリアル",
-        "url": "https://github.com/yusuke0610/etoki/issues/66",
-        "source": "GitHub Issues",
-        "summary": "**仕様は未確定。着手時に決める。** ここには、いま分かっている壁と、崩してはいけない制約だけを置く。\n\n## なぜ要るか\n\netoki は**最初の一歩が重い**。コードを読むと、初見の人が詰まる場所がはっきりしている。\n\n### 詰まる場所\n\n1. **ボードを作るには、書ける Projects v2 が 1 つ以上要る。** 作成先の選択が必須なので（ADR 0017）、持っていない人はそもそもボードを作れない\n2. **Project 側にカスタムフィールドを 2 つ用意する必要がある。** `Kind`（単一選択、選択肢に epic と issue）と `Parent`（テキスト）。README には書いてあるが、知らずに作成すると止まる。**止まったときのメッセージは既に親切**（`ErrProjectFieldMissing` が何を作ればよいかを具体的に返す）が、事前に分かるほうがよい\n3. **注釈の付け方が 2 段。** フレームツール（F）で囲んで、そのフレームを選択する。パネルにヒントは出ているが、初見で辿り着けるかは別\n4. **どの frame が注釈なの",
-        "score": 3.0,
+        "summary": "### Component\n\nPython SDK\n\n### Description\n\nI've been building a local faithfulness-checking library (MiniEval - (https://github.com/DataAlchmesit/MiniEval-pro), MIT licensed, 'pip install minieval-pro' and ran into a failure mode I think is worth raising here.\n\nThe problem: When an NLI-style faithfulness model checks a candidate fact against its source, it has no notion of whose fact it is. Given a source like \"my brother is a lawyer\" and a candidate \"the user is a lawyer,\" a faithfulness model",
+        "score": 30.0,
         "tags": [],
         "published": "",
         "category": "隐私与合规",
         "urgency": "中",
-        "audience": "个人用户",
+        "audience": "开发者",
         "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Paper review: Wang, Berkovich, Marom & Buehler (MRS Bull. 2026) — artifact-first 'living scientific records' (ScienceClaw × Infinite) vs MorphoEval",
+        "url": "https://github.com/fractastical/morpholib/issues/18",
+        "source": "GitHub Issues",
+        "summary": "## Paper\n\nWang, F. Y., Berkovich, J. A., Marom, L. & Buehler, M. J. **Toward living scientific records through decentralized multi-agent systems for materials discovery.** *MRS Bulletin* (Impact Review), accepted 12 Aug 2026, in press Oct 2026. doi:[10.1557/s43577-026-01180-1](https://doi.org/10.1557/s43577-026-01180-1). Code: [`lamm-mit/scienceclaw`](https://github.com/lamm-mit/scienceclaw) (Apache-2.0, ~250 stars), [`lamm-mit/Infinite`](https://github.com/lamm-mit/Infinite) (Apache-2.0); data ",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
       },
       {
         "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
@@ -575,6 +393,19 @@
         "evidence": "关键词命中 2 项"
       },
       {
+        "title": "Can manually closing a page inside Puppeteer Cluster cause TargetCloseError with Firefox BiDi?",
+        "url": "https://stackoverflow.com/questions/80010858/can-manually-closing-a-page-inside-puppeteer-cluster-cause-targetcloseerror-with",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm using Puppeteer Cluster 0.25.0 with Puppeteer Core 24.30.0 and Firefox WebDriver BiDi on Linux.</p>\n<p>My cluster uses <code>CONCURRENCY_CONTEXT</code>, with <code>maxConcurrency: 4</code> and <code>retryLimit: 0</code>.</p>\n<p>During separate higher-concurrency experiments, I intermittently encountered errors including:</p>\n<p><code>TargetCloseError: script.callFunction: Target closed</code></p>\n<p>I noticed that my worker cleanup also explicitly closed the page supplied by Puppeteer Clu",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
         "title": "How to automate cheat engine value search/set without creating a trainer",
         "url": "https://stackoverflow.com/questions/45359565/how-to-automate-cheat-engine-value-search-set-without-creating-a-trainer",
         "source": "Stack Overflow",
@@ -588,10 +419,10 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "[BUG] Oligarchs political modifier not going away",
-        "url": "https://github.com/MillenniumDawn/Millennium-Dawn/issues/5890",
+        "title": "[CI] Auto-Merge Controller fails on every scheduled run: `requests` is imported but not declared (ModuleNotFoundError)",
+        "url": "https://github.com/fderuiter/sortify/issues/730",
         "source": "GitHub Issues",
-        "summary": "> *Reported by **discord-sync** via [Discord](https://discord.com/channels/210890013334831104/1561370010755010621) on 2026-10-18*\n> *Tags: BETA, general-bug*\n\n<!-- bot-created-from-discord -->\n\n**What happens**\nplaying as iraq and took the event that replaces the oligarchs with intel faction but the political modifier does not go.\nmillenium dawn beta 2.0.2\nlinux mint cinnamon\nchecksum: ccc6\n\n**To Reproduce**\nSee Discord thread for details.\n\n**Operating System**\nSee Discord thread for details.\n\n*",
+        "summary": "## Summary\n`scripts/auto_merge_controller.py` does `import requests`, but `requests` is not declared in `[project.dependencies]` or in the `dev` dependency group. The workflow installs only `uv sync --frozen --group dev`, so the script crashes on import every time it runs. In the lock file, `requests` is reachable only through `mkdocs-material` (docs group) and `jupyterlab-server` (notebooks group). That is also why `tests/test_auto_merge_controller.py` passes in CI (`--all-groups`) but errors u",
         "score": 1.0,
         "tags": [],
         "published": "",
@@ -601,29 +432,31 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": ": Can manually closing a page inside Puppeteer Cluster cause TargetCloseError with Firefox BiDi?",
-        "url": "https://stackoverflow.com/questions/80010858/can-manually-closing-a-page-inside-puppeteer-cluster-cause-targetcloseerror-wi",
+        "title": "Can anybody suggest another method to split a large Excel file into multiple files in any tool other than VBA?",
+        "url": "https://stackoverflow.com/questions/80004398/can-anybody-suggest-another-method-to-split-a-large-excel-file-into-multiple-fil",
         "source": "Stack Overflow",
-        "summary": "<p>I'm using Puppeteer Cluster 0.25.0 with Puppeteer Core 24.30.0 and Firefox WebDriver BiDi on Linux.</p>\n<p>My cluster uses <code>CONCURRENCY_CONTEXT</code>, with <code>maxConcurrency: 4</code> and <code>retryLimit: 0</code>.</p>\n<p>During separate higher-concurrency experiments, I intermittently encountered errors including:</p>\n<p><code>TargetCloseError: script.callFunction: Target closed</code></p>\n<p>I noticed that my worker cleanup also explicitly closed the page supplied by Puppeteer Clu",
+        "summary": "<p>I need to split a large Excel file into multiple small files based on the first five digits of the values in a column.</p>\n<p>For example, I have values 1396A0001A,1396A0002A to split based on the first five digits, 1396A, into a separate sheet.</p>\n<p>I have VBA code to do this, but it is taking too much time - 3 hours to split the entire file of 15000 records in a file. Can you suggest any other method to split the file?</p>\n<pre><code>Sub SplitSheetIntoMultipleWorkbooksBasedOnColumn()\n    ",
         "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
+        "category": "其他",
+        "urgency": "低",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 0 项"
       }
     ],
     "category_counts": {
-      "可靠性与质量": 5,
-      "其他": 3,
-      "集成与兼容": 3,
-      "隐私与合规": 1
+      "隐私与合规": 2,
+      "需求缺口": 1,
+      "可靠性与质量": 4,
+      "易用性与流程": 1,
+      "集成与兼容": 2,
+      "其他": 2
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「隐私与合规」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }

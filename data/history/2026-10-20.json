@@ -1,0 +1,463 @@
+{
+  "generated_at": "2026-10-20 00:35 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI News",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 19:00:00 GMT"
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "source": "OpenAI News",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI News",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI News",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 19:00:00 GMT"
+    },
+    {
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source": "OpenAI News",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "source": "OpenAI News",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI News",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "source": "OpenAI News",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI News",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "source": "OpenAI News",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI News",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI News",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 13 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 01:44:47 GMT"
+    },
+    {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 20:34:01 GMT"
+    },
+    {
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 09:08:45 GMT"
+    },
+    {
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 14 Oct 2026 16:12:42 GMT"
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 13 Oct 2026 17:05:48 GMT"
+    },
+    {
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 08 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 07 Oct 2026 13:21:03 GMT"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Sat, 03 Oct 2026 22:56:48 GMT"
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 02 Oct 2026 04:01:31 GMT"
+    }
+  ],
+  "github_trending": [],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 218.26,
+      "change_percent": 1.93,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +1.93%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1329.0,
+      "change_percent": 1.22,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +1.22%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "Daimon Interaction: integrating conversation roadmap and delivery plan",
+        "url": "https://github.com/AlterMundi/daimon-matrix/issues/313",
+        "source": "GitHub Issues",
+        "summary": "<!-- BEGIN single-chat-repair-20261019 -->\n## Current single-body repair accepted — 2026-10-19\n\nThe user-observed regressions superseded the earlier pilot acceptance. [The owning repair](https://github.com/AlterMundi/telecodex/issues/196) is now implemented, merged, deployed and qualified through the complete selected web/native experience. Its final record contains concrete evidence and limits rather than treating isolated tests as product acceptance.\n\nNative/web Telecodex #201 is selected. Ord",
+        "score": 14.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "pai-ensemble：session 中斷時進行中的席次整份作廢——需要席次層級以下的存檔與接續",
+        "url": "https://github.com/PsychQuant/parallel-ai-agents/issues/103",
+        "source": "GitHub Issues",
+        "summary": "## Problem\n\n> **Original text**:\n> 「Workflow(pai-ensemble-2.23.0.js) 我覺得需要有很好的存檔能力欸，雖然workflow可能沒有」\n> — Source: 使用者在 Claude Code session 中的回覆（2026-10-19，b42 verify 第二次被中斷之後）\n\npai-ensemble 的最小存檔單位是**一整個席次**（一次 `agent()` 呼叫）。席次做完才會在 journal 留下 `result`，`resumeFromRunId` 也只能讓做完的席次直接取快取。session 只要在席次跑到一半時中斷，那個席次做過的事全部作廢，接回之後要從頭再跑。\n\n一個審閱席次常常要跑 30 到 90 分鐘：建 scratch store、跑真 binary、比對輸出。這段期間只要 session 重啟（登入、額度重置、使用者中斷、harness 重開），所有正在跑的席次都會掉。\n\n## Type\nfeature\n\n## 實際發生的事（2026-10-19，Akashic-Library 的 b42",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "需求缺口",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[Tests] Coverage gate is a no-op and mover tests assert nothing: .coveragerc shadows fail_under, fast suite has no --cov, test_coverage_gap.py is coverage padding",
+        "url": "https://github.com/fderuiter/sortify/issues/738",
+        "source": "GitHub Issues",
+        "summary": "## Summary\nThe project looks like it enforces 50% coverage and tests the mover, but neither holds.\n\n1. **`fail_under = 50` is ignored.** It lives in `[tool.coverage.report]` in `pyproject.toml`, but a `.coveragerc` exists. coverage.py reads only `.coveragerc` when it is present, and that file has no `fail_under`.\n2. **The main test job measures no coverage.** `build-and-test` runs `pytest -m \"not slow\"` without `--cov`, yet uploads `htmlcov/` and `coverage.xml` as artifacts. No step ever produce",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "Why we decided to open source Relate",
+        "url": "https://news.ycombinator.com/item?id=50141787",
+        "source": "Hacker News",
+        "summary": "Hey HN, author here. We have been hard at work shipping workflows and application for orgs built inside of our automation platform. In each case, everything starts from data integration, so we felt this should be a standalone package. I personally feel it has to be OSS too, as long term I cannot see anyone wanting lock-in at this layer. Please check out the post and the repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;relatehq&#x2F;relate\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;relateh",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "易用性与流程",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Best pre-trained vision model for multi-plant disease detection in async web back-end",
+        "url": "https://stackoverflow.com/questions/79956866/best-pre-trained-vision-model-for-multi-plant-disease-detection-in-async-web-bac",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm building a web app with FastAPI + async/await Python backend. Users upload leaf photos via API and the server should return: 1) plant species, 2) disease label or &quot;healthy&quot;.</p>\n<p>Constraints:</p>\n<ol>\n<li><p>Generalization: Must handle multiple crops. Users can upload &quot;any&quot; plant leaf, not just tomato/corn. Target 15+ species.</p>\n</li>\n<li><p>Server inference: Runs on GPU server, not mobile. Latency 1-2s is acceptable, so model size isn't a bottleneck.</p>\n</li>\n<li",
+        "score": -3.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Faithfulness check before memory write , interested in contributing a pluggable verification hook",
+        "url": "https://github.com/mem0ai/mem0/issues/7283",
+        "source": "GitHub Issues",
+        "summary": "### Component\n\nPython SDK\n\n### Description\n\nI've been building a local faithfulness-checking library (MiniEval - (https://github.com/DataAlchmesit/MiniEval-pro), MIT licensed, 'pip install minieval-pro' and ran into a failure mode I think is worth raising here.\n\nThe problem: When an NLI-style faithfulness model checks a candidate fact against its source, it has no notion of whose fact it is. Given a source like \"my brother is a lawyer\" and a candidate \"the user is a lawyer,\" a faithfulness model",
+        "score": 30.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Paper review: Wang, Berkovich, Marom & Buehler (MRS Bull. 2026) — artifact-first 'living scientific records' (ScienceClaw × Infinite) vs MorphoEval",
+        "url": "https://github.com/fractastical/morpholib/issues/18",
+        "source": "GitHub Issues",
+        "summary": "## Paper\n\nWang, F. Y., Berkovich, J. A., Marom, L. & Buehler, M. J. **Toward living scientific records through decentralized multi-agent systems for materials discovery.** *MRS Bulletin* (Impact Review), accepted 12 Aug 2026, in press Oct 2026. doi:[10.1557/s43577-026-01180-1](https://doi.org/10.1557/s43577-026-01180-1). Code: [`lamm-mit/scienceclaw`](https://github.com/lamm-mit/scienceclaw) (Apache-2.0, ~250 stars), [`lamm-mit/Infinite`](https://github.com/lamm-mit/Infinite) (Apache-2.0); data ",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
+        "url": "https://stackoverflow.com/questions/79935672/input-validation-error-1-57-is-not-of-type-number-from-langchain-mcp-adapte",
+        "source": "Stack Overflow",
+        "summary": "<p>I am getting the following error:</p>\n<pre><code>An error occurred: Input validation error: '1.57' is not of type 'number'\n</code></pre>\n<p>From what I understand, this happens before the MCP server is called: LangChain’s MCP adapter is validating the tool call arguments against the JSON Schema and the model is emitting <code>&quot;1.57&quot;</code> as a string instead of <code>1.57</code> as a number, so the validation fails.</p>\n<p>Is that understanding correct? And what’s the recommended w",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Can manually closing a page inside Puppeteer Cluster cause TargetCloseError with Firefox BiDi?",
+        "url": "https://stackoverflow.com/questions/80010858/can-manually-closing-a-page-inside-puppeteer-cluster-cause-targetcloseerror-with",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm using Puppeteer Cluster 0.25.0 with Puppeteer Core 24.30.0 and Firefox WebDriver BiDi on Linux.</p>\n<p>My cluster uses <code>CONCURRENCY_CONTEXT</code>, with <code>maxConcurrency: 4</code> and <code>retryLimit: 0</code>.</p>\n<p>During separate higher-concurrency experiments, I intermittently encountered errors including:</p>\n<p><code>TargetCloseError: script.callFunction: Target closed</code></p>\n<p>I noticed that my worker cleanup also explicitly closed the page supplied by Puppeteer Clu",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "How to automate cheat engine value search/set without creating a trainer",
+        "url": "https://stackoverflow.com/questions/45359565/how-to-automate-cheat-engine-value-search-set-without-creating-a-trainer",
+        "source": "Stack Overflow",
+        "summary": "<p>Would it be possible to avoid searching values and setting them (i explained, what I need bellow) in cheat engine? I know you can find pointers of adreses and create trainer, but the problem is that the apps, I use cheat engine on, get updated a lot by my companies, and the pointers change every time.\nMeaning, I would have to create new trainers multiple times a week. Basically almost every day.. </p>\n\n<p>I would like to automate this, since, what I need, is quite easy:</p>\n\n<p>1) open cheat ",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "[CI] Auto-Merge Controller fails on every scheduled run: `requests` is imported but not declared (ModuleNotFoundError)",
+        "url": "https://github.com/fderuiter/sortify/issues/730",
+        "source": "GitHub Issues",
+        "summary": "## Summary\n`scripts/auto_merge_controller.py` does `import requests`, but `requests` is not declared in `[project.dependencies]` or in the `dev` dependency group. The workflow installs only `uv sync --frozen --group dev`, so the script crashes on import every time it runs. In the lock file, `requests` is reachable only through `mkdocs-material` (docs group) and `jupyterlab-server` (notebooks group). That is also why `tests/test_auto_merge_controller.py` passes in CI (`--all-groups`) but errors u",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Can anybody suggest another method to split a large Excel file into multiple files in any tool other than VBA?",
+        "url": "https://stackoverflow.com/questions/80004398/can-anybody-suggest-another-method-to-split-a-large-excel-file-into-multiple-fil",
+        "source": "Stack Overflow",
+        "summary": "<p>I need to split a large Excel file into multiple small files based on the first five digits of the values in a column.</p>\n<p>For example, I have values 1396A0001A,1396A0002A to split based on the first five digits, 1396A, into a separate sheet.</p>\n<p>I have VBA code to do this, but it is taking too much time - 3 hours to split the entire file of 15000 records in a file. Can you suggest any other method to split the file?</p>\n<pre><code>Sub SplitSheetIntoMultipleWorkbooksBasedOnColumn()\n    ",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      }
+    ],
+    "category_counts": {
+      "隐私与合规": 2,
+      "需求缺口": 1,
+      "可靠性与质量": 4,
+      "易用性与流程": 1,
+      "集成与兼容": 2,
+      "其他": 2
+    },
+    "next_actions": [
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「隐私与合规」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}
