@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-20 00:35 CST",
+  "generated_at": "2026-10-20 22:26 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "source": "OpenAI News",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 19 Oct 2026 12:00:00 GMT"
+    },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
       "url": "https://openai.com/index/itau-generative-ai",
@@ -124,15 +135,37 @@
       "published": "Wed, 14 Oct 2026 00:00:00 GMT"
     },
     {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI News",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Tue, 13 Oct 2026 12:00:00 GMT"
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 19 Oct 2026 00:00:00 GMT"
     },
     {
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -232,100 +265,236 @@
         "AI/科技"
       ],
       "published": "Thu, 08 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 07 Oct 2026 13:21:03 GMT"
-    },
-    {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Sat, 03 Oct 2026 22:56:48 GMT"
-    },
-    {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 02 Oct 2026 04:01:31 GMT"
     }
   ],
-  "github_trending": [],
+  "github_trending": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 392968,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-10-20T14:25:03Z"
+    },
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 344276,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis"
+      ],
+      "published": "2026-10-20T14:26:47Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 302442,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-10-20T14:23:51Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 284547,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-10-20T14:26:13Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 255472,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-20T14:25:51Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 255472,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-20T14:25:51Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 208129,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-10-20T14:24:50Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 193289,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-20T14:26:16Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 193289,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-20T14:26:16Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187673,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-20T13:50:13Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187673,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-20T13:50:13Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 184245,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "gemma3"
+      ],
+      "published": "2026-10-20T14:22:21Z"
+    }
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 218.26,
-      "change_percent": 1.93,
+      "price": 217.46,
+      "change_percent": 0.17,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +1.93%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +0.17%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1329.0,
-      "change_percent": 1.22,
+      "price": 1331.88,
+      "change_percent": 0.52,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +1.22%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +0.52%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "Daimon Interaction: integrating conversation roadmap and delivery plan",
-        "url": "https://github.com/AlterMundi/daimon-matrix/issues/313",
+        "title": "Design ingestion admission, task status, and infrastructure integration",
+        "url": "https://github.com/davidlinnnn/data-ingestion/issues/31",
         "source": "GitHub Issues",
-        "summary": "<!-- BEGIN single-chat-repair-20261019 -->\n## Current single-body repair accepted — 2026-10-19\n\nThe user-observed regressions superseded the earlier pilot acceptance. [The owning repair](https://github.com/AlterMundi/telecodex/issues/196) is now implemented, merged, deployed and qualified through the complete selected web/native experience. Its final record contains concrete evidence and limits rather than treating isolated tests as product acceptance.\n\nNative/web Telecodex #201 is selected. Ord",
-        "score": 14.0,
+        "summary": "## Status and purpose\n\n**Design in progress — claimed 2026-10-17; grilling rounds 1–3 complete (2026-10-20), round 4 pending.** Confirmed decisions and research are in the [admission design notes at 91d618c](https://github.com/davidlinnnn/data-ingestion/blob/91d618c7/docs/design/knowledge-platform-admission.md) and the comments below ([round 3 summary](https://github.com/davidlinnnn/data-ingestion/issues/31#issuecomment-6293114404)). Still open for round 4: exact routes and field names; multi-do",
+        "score": 17.0,
         "tags": [],
         "published": "",
-        "category": "隐私与合规",
+        "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "pai-ensemble：session 中斷時進行中的席次整份作廢——需要席次層級以下的存檔與接續",
-        "url": "https://github.com/PsychQuant/parallel-ai-agents/issues/103",
+        "title": "[ERP] 采购申请单号按组织分桶、却全局唯一：换组织同日必撞 uk_request_no，该组织当天建不出任何申请单",
+        "url": "https://github.com/wzbzy/guoji-issues/issues/123",
         "source": "GitHub Issues",
-        "summary": "## Problem\n\n> **Original text**:\n> 「Workflow(pai-ensemble-2.23.0.js) 我覺得需要有很好的存檔能力欸，雖然workflow可能沒有」\n> — Source: 使用者在 Claude Code session 中的回覆（2026-10-19，b42 verify 第二次被中斷之後）\n\npai-ensemble 的最小存檔單位是**一整個席次**（一次 `agent()` 呼叫）。席次做完才會在 journal 留下 `result`，`resumeFromRunId` 也只能讓做完的席次直接取快取。session 只要在席次跑到一半時中斷，那個席次做過的事全部作廢，接回之後要從頭再跑。\n\n一個審閱席次常常要跑 30 到 90 分鐘：建 scratch store、跑真 binary、比對輸出。這段期間只要 session 重啟（登入、額度重置、使用者中斷、harness 重開），所有正在跑的席次都會掉。\n\n## Type\nfeature\n\n## 實際發生的事（2026-10-19，Akashic-Library 的 b42",
-        "score": 4.0,
+        "summary": "现状 ──► 目标：每个组织每天各自从 0001 起算，单号却不带组织段且全局唯一 ──► 计数口径与唯一口径一致，任何组织当天都能正常建单\n\n## 问题描述\n\n采购申请单的「申请单号」是系统自动生成的，但换一个组织创建时，会生成**完全相同**的号，被数据库唯一键拦下，前端报「数据库中已存在该记录」，且**该组织当天再也建不出任何一张采购申请单**。\n\n机制（三条口径互相不一致）：\n\n1. 序号计数器按 `租户 + 组织 + 前缀 + 日期` **分桶**（`PurchaseDocNoGenerator.buildSeqKey`）\n2. 生成的单号字符串只有 `前缀-日期-序号`，**不含组织/租户段**\n3. `erp_purchase_requests.request_no` 上是**全局唯一键** `uk_request_no`（不含租户、不含组织）\n\n于是同一天里，每个组织的第一张单都叫 `PR-日期-0001`：第一个组织成功，其余组织全部撞键。\n\n更严重的是撞键后**无法自愈**：\n\n- 序号自增（`bas_sequence.upsertNextVal`）与申请单插入在*",
+        "score": 8.0,
         "tags": [],
         "published": "",
-        "category": "需求缺口",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[ERP] 应付单「作废」生成的红字对冲单自身也可被作废：每点一次多一条正式应付单，金额来回翻",
+        "url": "https://github.com/wzbzy/guoji-issues/issues/126",
+        "source": "GitHub Issues",
+        "summary": "现状 ──► 目标：作废 = 开一张红字对冲单，而红字单自己带「作废」按钮 ──► 红字单不可再作废（或走「撤销作废」回原单），不再套娃\n\n## 问题描述\n\n在「财务管理 → 应付管理 → 供应商发票/应付」里点「作废」，列表会**多出一条记录**，再点新多出来那条，又多一条，如此往复，应付单越积越多。\n\n根因不是数据错乱，而是三段逻辑叠起来形成的套娃：\n\n1. 「作废」不是删行，而是**开一张红字对冲单**（`docType=CREDIT_NOTE`，金额取负），同时把原单置为已作废（`voidAp`）\n2. 这张红字对冲单本身的状态是**「已确认」**，和普通应付单一样\n3. 前端「作废」按钮**只看状态、不看单据类型** → 红字单也带「作废」\n\n于是：红字单被作废 → 再开一张「对冲的对冲」（金额取正）→ 又一张已确认单 → 又能被作废……每次点击都真实产生一张有金额、有状态、会进应付余额/账龄的正式单据。\n\n叠加因素（让问题更隐蔽）：\n\n- 列表「类型」列存在但默认看不到（`docType` 在「状态」右侧，可被列设置隐藏），用户看不出哪条是系统生成的红字行\n- 红字单没有回",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "[Tests] Coverage gate is a no-op and mover tests assert nothing: .coveragerc shadows fail_under, fast suite has no --cov, test_coverage_gap.py is coverage padding",
-        "url": "https://github.com/fderuiter/sortify/issues/738",
-        "source": "GitHub Issues",
-        "summary": "## Summary\nThe project looks like it enforces 50% coverage and tests the mover, but neither holds.\n\n1. **`fail_under = 50` is ignored.** It lives in `[tool.coverage.report]` in `pyproject.toml`, but a `.coveragerc` exists. coverage.py reads only `.coveragerc` when it is present, and that file has no `fail_under`.\n2. **The main test job measures no coverage.** `build-and-test` runs `pytest -m \"not slow\"` without `--cov`, yet uploads `htmlcov/` and `coverage.xml` as artifacts. No step ever produce",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 3 项"
       },
       {
         "title": "Why we decided to open source Relate",
@@ -341,43 +510,43 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Best pre-trained vision model for multi-plant disease detection in async web back-end",
-        "url": "https://stackoverflow.com/questions/79956866/best-pre-trained-vision-model-for-multi-plant-disease-detection-in-async-web-bac",
-        "source": "Stack Overflow",
-        "summary": "<p>I'm building a web app with FastAPI + async/await Python backend. Users upload leaf photos via API and the server should return: 1) plant species, 2) disease label or &quot;healthy&quot;.</p>\n<p>Constraints:</p>\n<ol>\n<li><p>Generalization: Must handle multiple crops. Users can upload &quot;any&quot; plant leaf, not just tomato/corn. Target 15+ species.</p>\n</li>\n<li><p>Server inference: Runs on GPU server, not mobile. Latency 1-2s is acceptable, so model size isn't a bottleneck.</p>\n</li>\n<li",
-        "score": -3.0,
+        "title": "Feature: Show loading in summary when using LLM generation",
+        "url": "https://github.com/kevinc16/anchor-notes/issues/26",
+        "source": "GitHub Issues",
+        "summary": "## Problem\n\nWhen a new note is saved with LLM organization enabled, the notes library provides no indication that its summary is being generated. The summary area only appears once a non-empty summary exists, so a slow request looks the same as a note that will never receive a summary.\n\nUsers should be able to distinguish a saved note whose summary is still generating from a completed request or an unavailable summary.\n\n## Proposed solution\n\nShow an inline loading state in the affected note card",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "[Epic] Reconcile Recoup releases, docs, marketing, skills and plugins",
+        "url": "https://github.com/recoupable/mono/issues/318",
+        "source": "GitHub Issues",
+        "summary": "## Goal\n\nReconcile Recoup's supported implementation, public documentation, marketing, skills/plugins and operating instructions so users and agents can follow a documented workflow successfully, and future releases cannot silently leave those surfaces inconsistent.\n\n## Audit baseline and scope\n\n- Window: July 10, 2026, 00:00 EDT through October 10, 2026, 20:17:09 EDT.\n- Complete inventory of 1,185 merged PRs across 24 repository histories; the count includes parent reference updates and is not ",
+        "score": 0.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 4 项"
       },
       {
-        "title": "Faithfulness check before memory write , interested in contributing a pluggable verification hook",
-        "url": "https://github.com/mem0ai/mem0/issues/7283",
+        "title": "Bad select on redo",
+        "url": "https://github.com/Alexey-T/CudaText/issues/6249",
         "source": "GitHub Issues",
-        "summary": "### Component\n\nPython SDK\n\n### Description\n\nI've been building a local faithfulness-checking library (MiniEval - (https://github.com/DataAlchmesit/MiniEval-pro), MIT licensed, 'pip install minieval-pro' and ran into a failure mode I think is worth raising here.\n\nThe problem: When an NLI-style faithfulness model checks a candidate fact against its source, it has no notion of whose fact it is. Given a source like \"my brother is a lawyer\" and a candidate \"the user is a lawyer,\" a faithfulness model",
-        "score": 30.0,
+        "summary": "1. Open a new tab in Cuda and paste this:\n\n```js\nfunction confirm() {\n\t//\n};\n\nconfirm();\n```\n2. Copy this word: `confirmPrompt`.\n3. In Cuda, double click the first `confirm` word to select it, then Ctrl+V to replace it by `confirmPrompt`.\n4. Do the same for the second occurrence of `confirm`.\n5. Undo twice, so you undo the two replaces you did.\n6. Redo once. After that, this is what I see:\n\n<img width=\"238\" height=\"100\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/27c30068-9f21-4f",
+        "score": 16.0,
         "tags": [],
         "published": "",
-        "category": "隐私与合规",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Paper review: Wang, Berkovich, Marom & Buehler (MRS Bull. 2026) — artifact-first 'living scientific records' (ScienceClaw × Infinite) vs MorphoEval",
-        "url": "https://github.com/fractastical/morpholib/issues/18",
-        "source": "GitHub Issues",
-        "summary": "## Paper\n\nWang, F. Y., Berkovich, J. A., Marom, L. & Buehler, M. J. **Toward living scientific records through decentralized multi-agent systems for materials discovery.** *MRS Bulletin* (Impact Review), accepted 12 Aug 2026, in press Oct 2026. doi:[10.1557/s43577-026-01180-1](https://doi.org/10.1557/s43577-026-01180-1). Code: [`lamm-mit/scienceclaw`](https://github.com/lamm-mit/scienceclaw) (Apache-2.0, ~250 stars), [`lamm-mit/Infinite`](https://github.com/lamm-mit/Infinite) (Apache-2.0); data ",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 3 项"
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
@@ -419,16 +588,16 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "[CI] Auto-Merge Controller fails on every scheduled run: `requests` is imported but not declared (ModuleNotFoundError)",
-        "url": "https://github.com/fderuiter/sortify/issues/730",
-        "source": "GitHub Issues",
-        "summary": "## Summary\n`scripts/auto_merge_controller.py` does `import requests`, but `requests` is not declared in `[project.dependencies]` or in the `dev` dependency group. The workflow installs only `uv sync --frozen --group dev`, so the script crashes on import every time it runs. In the lock file, `requests` is reachable only through `mkdocs-material` (docs group) and `jupyterlab-server` (notebooks group). That is also why `tests/test_auto_merge_controller.py` passes in CI (`--all-groups`) but errors u",
+        "title": "Best way to call periodically (twice a day) an API from Node.js to get data",
+        "url": "https://stackoverflow.com/questions/42518873/best-way-to-call-periodically-twice-a-day-an-api-from-node-js-to-get-data",
+        "source": "Stack Overflow",
+        "summary": "<p>I have a Node.js application which uses the Fixer.io API to get some data. Currently the call is made when I reach the URL <code>myapp/rate</code>. My goal is to make this call automatically twice a day to store the data in my MongoDB database.</p>\n<p>I would like to know: what is the best way to do that? Maybe <code>setInterval()</code> is the only way to do it but I don't think so...</p>\n<p>My call looks like this:</p>\n<pre><code>router.get('/', (req, res, next) =&gt; {\n  fixer.latest({ bas",
         "score": 1.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
-        "audience": "个人用户",
+        "audience": "开发者",
         "evidence": "关键词命中 1 项"
       },
       {
@@ -446,17 +615,15 @@
       }
     ],
     "category_counts": {
-      "隐私与合规": 2,
-      "需求缺口": 1,
-      "可靠性与质量": 4,
+      "集成与兼容": 5,
       "易用性与流程": 1,
-      "集成与兼容": 2,
-      "其他": 2
+      "其他": 3,
+      "可靠性与质量": 3
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「隐私与合规」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「集成与兼容」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
