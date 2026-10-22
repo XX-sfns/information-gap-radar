@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-21 22:35 CST",
+  "generated_at": "2026-10-22 22:36 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "OpenAI News",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 06:00:00 GMT"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "source": "OpenAI News",
+      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 17:00:00 GMT"
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI News",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 21:00:00 GMT"
+    },
     {
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
@@ -12,6 +45,17 @@
         "AI/科技"
       ],
       "published": "Wed, 21 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI News",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
@@ -36,6 +80,17 @@
       "published": "Wed, 21 Oct 2026 04:50:00 GMT"
     },
     {
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "source": "OpenAI News",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 00:00:00 GMT"
+    },
+    {
       "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
       "url": "https://openai.com/index/building-chatgpt-ad-stack",
       "source": "OpenAI News",
@@ -45,6 +100,17 @@
         "AI/科技"
       ],
       "published": "Wed, 21 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "source": "OpenAI News",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 00:00:00 GMT"
     },
     {
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
@@ -69,81 +135,59 @@
       "published": "Tue, 20 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "source": "OpenAI News",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "source": "OpenAI News",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 19 Oct 2026 12:00:00 GMT"
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "source": "OpenAI News",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 16 Oct 2026 19:00:00 GMT"
-    },
-    {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI News",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI News",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 16 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "OpenAI News",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 15 Oct 2026 19:00:00 GMT"
-    },
-    {
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
       "source": "Hugging Face Blog",
       "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Wed, 21 Oct 2026 12:51:24 GMT"
+      "published": "Thu, 22 Oct 2026 07:51:31 GMT"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 18:26:30 GMT"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 17:35:36 GMT"
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 16:04:43 GMT"
+    },
+    {
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 14:58:18 GMT"
     },
     {
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
@@ -155,17 +199,6 @@
         "AI/科技"
       ],
       "published": "Tue, 20 Oct 2026 16:09:19 GMT"
-    },
-    {
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Tue, 20 Oct 2026 15:19:48 GMT"
     },
     {
       "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
@@ -223,17 +256,6 @@
       "published": "Fri, 16 Oct 2026 00:00:00 GMT"
     },
     {
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 15 Oct 2026 20:34:01 GMT"
-    },
-    {
       "title": "Apertus 1.5 Release Notes",
       "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
       "source": "Hugging Face Blog",
@@ -243,28 +265,6 @@
         "AI/科技"
       ],
       "published": "Thu, 15 Oct 2026 09:08:45 GMT"
-    },
-    {
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "url": "https://huggingface.co/blog/flux-3",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 15 Oct 2026 00:00:00 GMT"
     }
   ],
   "github_trending": [
@@ -273,241 +273,241 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 392656,
+      "score": 392749,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-21T14:20:17Z"
+      "published": "2026-10-22T14:31:42Z"
     },
     {
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 354546,
+      "score": 363287,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "binary-analysis"
       ],
-      "published": "2026-10-21T14:35:11Z"
+      "published": "2026-10-22T14:36:46Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 302930,
+      "score": 303506,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-21T14:35:06Z"
+      "published": "2026-10-22T14:35:25Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 285295,
+      "score": 286186,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-21T14:35:03Z"
+      "published": "2026-10-22T14:36:50Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 255771,
+      "score": 256151,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-21T14:32:03Z"
+      "published": "2026-10-22T14:35:42Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 255771,
+      "score": 256151,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-21T14:32:03Z"
+      "published": "2026-10-22T14:35:42Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 208218,
+      "score": 208327,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-21T14:33:16Z"
+      "published": "2026-10-22T14:30:24Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 193740,
+      "score": 194149,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-21T14:28:18Z"
+      "published": "2026-10-22T14:36:27Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 193740,
+      "score": 194149,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-21T14:28:18Z"
+      "published": "2026-10-22T14:36:27Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187694,
+      "score": 187706,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-21T14:26:51Z"
+      "published": "2026-10-22T14:36:12Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187694,
+      "score": 187706,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-21T14:26:51Z"
+      "published": "2026-10-22T14:36:12Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 184151,
+      "score": 184287,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-10-21T14:16:54Z"
+      "published": "2026-10-22T14:28:25Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 219.09,
-      "change_percent": 1.21,
-      "signal": "观望",
-      "rationale": "近一交易日涨跌 +1.21%；只作信息展示，不构成投资建议。"
+      "price": 214.37,
+      "change_percent": -3.42,
+      "signal": "谨慎",
+      "rationale": "近一交易日涨跌 -3.42%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1309.69,
-      "change_percent": -1.67,
+      "price": 1318.49,
+      "change_percent": 0.67,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 -1.67%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +0.67%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "🧑‍🧒‍🧒 [Epic] Estimation exhausts GraphQL quota through backlog scans and repeated reads; require local inputs and body-version guarded updates",
-        "url": "https://github.com/kburson/ai-task-manager/issues/2039",
+        "title": "feat(hooks): only a test: commit may change test files, checked at commit and rechecked at land",
+        "url": "https://github.com/mcrilo33/ai-toolkit/issues/491",
         "source": "GitHub Issues",
-        "summary": "<!-- aitm-last-known-state state=\"develop\" ts=\"2026-10-21T05:44:10.938Z\" -->\n<!-- aitm-refine-complete ts=\"2026-10-20T03:59:02.652Z\" -->\n\n## User Story\n\nAs a maintainer delivering work through AITM\nI want to estimate work from local evidence without querying the project backlog because repeated historical and authority reads exhaust the shared GraphQL allowance\nSo that issue delivery remains usable and cloud updates cannot overwrite a story changed since its cached version\n\n## Scope\n\nP0 operatio",
-        "score": 9.0,
+        "summary": "## Why\n\nMost TDD cheating happens after the RED test exists: a GREEN step loosens or edits the test until it passes, or writes the test to fit the code. Nothing stops that today. `hooks/git/commit-msg` checks only the conventional type and the `#<n>` anchor, and `scripts/review.sh:69-70` only catches it after the fact, by turning `tests_weakened` / `tdd_followed=false` into blockers, which depends on a model reading the diff well. The `tdd-green` agent even commits with `git add .` (`shared/agen",
+        "score": 2.0,
         "tags": [],
         "published": "",
-        "category": "价格与付费",
+        "category": "可靠性与质量",
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Distillation: how to handle a model that tries to use tools on untrusted conversation content",
-        "url": "https://github.com/hsuanshao/AgentMemory/issues/37",
+        "title": "[Story][P1] Add offline skill quality validation and declarative test fixtures",
+        "url": "https://github.com/dallay/agentsync/issues/695",
         "source": "GitHub Issues",
-        "summary": "## Background\n\nSince #31 a silent CLI LLM reports its stderr, and that surfaced the real cause behind most recent `agy produced no output` failures:\n\n```\nl1 job failed: LLM_UNAVAILABLE: `agy` produced no output; stderr: jetski: no output produced —\na tool required the \"command\" permission that headless mode cannot prompt for, so it was\nauto-denied. Add an allow-rule under permissions.allow in settings.json (e.g. command(<target>)).\nAlternatively, re-run with --dangerously-skip-permissions to aut",
-        "score": 3.0,
+        "summary": "> Parent initiative: #686 · Priority P1\n\n## User story\nAs a skill author, I want repeatable structural and fixture-based checks so that I can prevent malformed or incomplete skills from shipping through AgentSync.\n\n## Verified baseline / problem\n`src/skills/manifest.rs` validates basic name/version fields, and `tests/test_catalog_integration.rs` exercises installation for curated sources; neither supplies a public author-facing quality test runner or validates described links/assets and actionab",
+        "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "隐私与合规",
+        "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 3 项"
       },
       {
-        "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-        "url": "https://news.ycombinator.com/item?id=50180361",
-        "source": "Hacker News",
-        "summary": "Oh, well good thing you <i>feel</i> and <i>assume</i> how I think and debate.  Perhaps your invented picture of me is not accurate? You might not like it, but that doesn&#x27;t make my argument inaccurate.  Every discussion I&#x27;ve had about the topic, anti-AI folks are willing to acknowledge exactly 0 benefits of AI.  That <i>is</i> just dumb, because benefits <i>do</i> exist, and it prevents a rational discussion and analysis of costs and benefits. When a side in a debate cannot or will not ",
-        "score": 0.0,
+        "title": "[Story][P1] Create versioned policy packs with deterministic validation rules",
+        "url": "https://github.com/dallay/agentsync/issues/694",
+        "source": "GitHub Issues",
+        "summary": "> Parent initiative: #686 · Priority P1\n\n## User story\nAs an engineering lead, I want reusable repository policy packs so that every assistant receives consistent guidance and I can verify enforceable configuration rules in CI.\n\n## Verified baseline / problem\nCanonical `.agents/AGENTS.md` already fans out instructions; `src/config.rs` describes sync targets but has no typed policy rule engine. Skill manifests have lightweight metadata validation only. OpenCode supports native ordered permission ",
+        "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "价格与付费",
+        "category": "隐私与合规",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 4 项"
       },
       {
-        "title": "[FEATURE] Add the ability to manage multiple Claude accounts within the Claude Desktop app with easy switching between profiles.",
-        "url": "https://github.com/anthropics/claude-code/issues/18435",
+        "title": "Validate the personal selection loop before closing the Koto epic",
+        "url": "https://github.com/mehrdadxzaker/Koto/issues/543",
         "source": "GitHub Issues",
-        "summary": "### Preflight Checklist\n\n- [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet\n- [x] This is a single feature request (not multiple features)\n\n### Problem Statement\n\nClaude Desktop currently requires users to sign out and sign back in to switch between different Claude accounts. This creates significant friction for users who maintain separate accounts for work and personal use, or",
-        "score": 213.0,
+        "summary": "## Source checkpoint and retained full qualification hold — October 22, 2026\n\n[PR #598](https://github.com/mehrdadxzaker/Koto/pull/598) completed #596's nine direct prompt-feature cases and the existing setup-v5 native acceptance path. Reviewed head `4d7d2ac7395708075d1c1a67320035c0d8869960` merged through the normal protected path as `06d155e1410cbbbd2d9146e8728d7ae6ed9f0931`, with identical Git trees, clean independent Standards/Spec and repository review, and no unresolved threads. [Exact-hea",
+        "score": 7.0,
         "tags": [],
         "published": "",
-        "category": "易用性与流程",
+        "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "What is the meaning of &lt;- in AI?",
@@ -523,30 +523,30 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "tag-echo streaming filter: when a quoted string + truncated closing tag spans a chunk boundary, the discard decision dri | tag-echo 流式过滤器:引用串+截断闭合标签跨 chunk 边界时,丢弃决策随分块漂移",
-        "url": "https://github.com/ranxianglei/billion-context/issues/4162",
+        "title": "`StaticStructureFactorDirect` only samples k vectors in the positive octant",
+        "url": "https://github.com/glotzerlab/freud/issues/1500",
         "source": "GitHub Issues",
-        "summary": "## 这是啥问题?(现象+触发条件,一句话)\n\n同一段模型输出,SSE 分块边界恰好落在「`m1234` 这样的引用串 + `</ap` 这样的截断闭合标签」的 m 开头处时,tag-echo 流式过滤器会**把整个 `m1234</ap` 单元丢掉**;边界落在任何其它位置则原样保留——同一逻辑输出,重试/不同分块 → 持久化的字节不同(#3198 契约违反,缓存缝)。\n\n## 复现(真实 createTagEchoFilter,无 mock)\n\n输入 `\"texttextm1234</ap\"`(17 种单点切分全部枚举):\n\n| 切分位置 | 输出 |\n|---|---|\n| k=8(边界恰在 m 前) | `\"texttext\"` ← **丢了 m1234</ap** |\n| 其它全部 k(含整段一次推入) | `\"texttextm1234</ap\"` 原样 |\n\n同族形状:\n- `\"text>m1234</ap\"`:k=5 丢(`>` 后紧跟 m,#644 形状族)\n- `\"atextm1234</ap\"`:k=5 丢\n- 对照(稳定):`\"text m1234</ap\"`(",
+        "summary": "### Description\n\nAfter some recent freuding, I stumbled upon a possible bug in the diffraction module. It appears that when generating the grid of vectors, it is only sampling one octant (positive in all axes of the 3D grid) because of the use of unsigned int type, which can never be negative. For istropic systems (e.g., liquids) it wouldn't affect the results, as all octants are essentially the same, but issues arise with anisotropic systems (semicrystalline polymers in my case).\n\n## The culpri",
         "score": 3.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
+        "category": "可靠性与质量",
+        "urgency": "中",
         "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "evidence": "关键词命中 1 项"
       },
       {
-        "title": "tag-echo streaming filter: When two bare open tags straddle a chunk boundary, the second is let through as body content  | tag-echo 流式过滤器:两个裸开标签跨 chunk 边界时,第二个作为正文放行(整段推入则两个都删)",
-        "url": "https://github.com/ranxianglei/billion-context/issues/4163",
+        "title": "[Bug]: distinct MCP tool names collapse during sanitization and overwrite toolkit registration",
+        "url": "https://github.com/agentscope-ai/agentscope/issues/3412",
         "source": "GitHub Issues",
-        "summary": "## 这是啥问题?(现象+触发条件,一句话)\n\n模型输出里连续两个裸 `<acp>`(无属性的渲染标签),**一次整段推入**时两个都被删;SSE 边界恰好落在两个标签**之间**时,第二个 `<acp>` 被当作正文放行——同一逻辑输出,字节随分块漂移(#3198 chunk-split determinism 契约违反)。\n\n## 复现(真实 createTagEchoFilter)\n\n输入 `\"text<acp><acp>\"`:\n\n| 分块 | 输出 |\n|---|---|\n| 整段一次 push | `\"text\"`(两个开标签都删) |\n| `[\"text<acp>\", \"<acp>\"]`(边界在两个标签间) | `\"text<acp>\"`(第二个保留) |\n\n其余 k(0..12)均与整段一致——只有标签间的边界翻转。\n\n同族:`\"text<acp><acp t=\\\"x\\\">\"` → 整段 `\"text\"` / 边界 `\"text<acp t=\\\"x\\\">\"`;`\" <acp><acp>\"` 同理。\n\n## 根本原因(代码级)\n\n`src/loop/tag-echo-fil",
+        "summary": "### Prerequisites\n\n- [x] I have searched the existing [issues](https://github.com/agentscope-ai/agentscope/issues) and [discussions](https://github.com/agentscope-ai/agentscope/discussions), and this is not a duplicate.\n- [x] This is a bug, not a usage question. (For questions, please use [Discussions](https://github.com/agentscope-ai/agentscope/discussions/new?category=general) instead.)\n\n### Background / Description\n\nTwo distinct tools from the same MCP server, `search.docs` and `searchxdocs`,",
         "score": 2.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
@@ -588,6 +588,19 @@
         "evidence": "关键词命中 0 项"
       },
       {
+        "title": "[Dependencies] Bump vitest and @vitest/coverage-v8 to 4.1.12 (Dependabot alert #4)",
+        "url": "https://github.com/IliasAlmerekov/darts/issues/277",
+        "source": "GitHub Issues",
+        "summary": "> *This was generated by AI during triage.*\n\nDependabot alert [#4](https://github.com/IliasAlmerekov/darts/security/dependabot/4) flags `@vitest/mocker@4.1.11` in `package-lock.json` for [GHSA-xp26-3454-mjgp](https://github.com/advisories/GHSA-xp26-3454-mjgp) (CVE-2026-112950, medium, CVSS 5.9). On Windows, a `..\\` in a redirect URL gets past the redirect allowlist in `mockerPlugin` and `interceptorPlugin`, so a client can read files outside `server.fs.allow`. The fix shipped in 4.1.12.\n\nThe pro",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
         "title": "Best way to call periodically (twice a day) an API from Node.js to get data",
         "url": "https://stackoverflow.com/questions/42518873/best-way-to-call-periodically-twice-a-day-an-api-from-node-js-to-get-data",
         "source": "Stack Overflow",
@@ -599,32 +612,19 @@
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Can anybody suggest another method to split a large Excel file into multiple files in any tool other than VBA?",
-        "url": "https://stackoverflow.com/questions/80004398/can-anybody-suggest-another-method-to-split-a-large-excel-file-into-multiple-fil",
-        "source": "Stack Overflow",
-        "summary": "<p>I need to split a large Excel file into multiple small files based on the first five digits of the values in a column.</p>\n<p>For example, I have values 1396A0001A,1396A0002A to split based on the first five digits, 1396A, into a separate sheet.</p>\n<p>I have VBA code to do this, but it is taking too much time - 3 hours to split the entire file of 15000 records in a file. Can you suggest any other method to split the file?</p>\n<pre><code>Sub SplitSheetIntoMultipleWorkbooksBasedOnColumn()\n    ",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
       }
     ],
     "category_counts": {
-      "价格与付费": 2,
+      "可靠性与质量": 6,
+      "集成与兼容": 2,
       "隐私与合规": 1,
-      "易用性与流程": 1,
-      "其他": 5,
-      "可靠性与质量": 3
+      "其他": 2,
+      "价格与付费": 1
     },
     "next_actions": [
-      "优先验证「其他」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「价格与付费」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
