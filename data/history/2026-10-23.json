@@ -1,0 +1,630 @@
+{
+  "generated_at": "2026-10-23 22:21 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI News",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI News",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 19:00:00 GMT"
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "OpenAI News",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 06:00:00 GMT"
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source": "OpenAI News",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "source": "OpenAI News",
+      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 17:00:00 GMT"
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI News",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 21:00:00 GMT"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI News",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI News",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI News",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source": "OpenAI News",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 04:50:00 GMT"
+    },
+    {
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "source": "OpenAI News",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "source": "OpenAI News",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 22:24:34 GMT"
+    },
+    {
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 16:11:31 GMT"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 07:51:31 GMT"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 18:26:30 GMT"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 17:35:36 GMT"
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 16:04:43 GMT"
+    },
+    {
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 14:58:18 GMT"
+    },
+    {
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 19 Oct 2026 00:00:00 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 392838,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-10-23T14:17:38Z"
+    },
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 370846,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis"
+      ],
+      "published": "2026-10-23T14:21:03Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 304046,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-10-23T14:20:56Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 287014,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-10-23T14:20:24Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 256435,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-23T14:18:46Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 256435,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-23T14:18:46Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 208393,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-10-23T14:20:27Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 194532,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-23T14:16:13Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 194532,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-23T14:16:13Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187718,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-23T14:16:36Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187718,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-23T14:16:36Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 184439,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "gemma3"
+      ],
+      "published": "2026-10-23T14:13:17Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 212.68,
+      "change_percent": 0.22,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +0.22%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1335.0,
+      "change_percent": 1.25,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +1.25%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "Migrate the application and build toolchain to Rust",
+        "url": "https://github.com/neodamul/AgentConductor/issues/9",
+        "source": "GitHub Issues",
+        "summary": "## Latest checkpoint — 2026-10-23\n\n- **Exact-package Workflow 15 is accepted:** v0.1.36 macOS arm64 package from source `b282fca47792890bbe85169652164f4ee56c7e42` was launched directly with a disposable HOME and explicit `ui-new` root. The app menu showed only the isolated workspace and the initial UI had zero agents. The offline manual rendered its Agent Room image; Updates showed v0.1.36 → v0.1.37 and release notes scrolled through the last item (#156). No workspace was saved, task/approval/me",
+        "score": 595.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "Heading clean-up deletes angle-bracket text that is not HTML, such as HashMap<K, V>",
+        "url": "https://github.com/drevendev/HungryCrab/issues/390",
+        "source": "GitHub Issues",
+        "summary": "Found in the review of 2026-10-23 on `master` at `2d36378` (0.6.2.dev0); severity low (outline fidelity, regression from #380), confirmed by execution.\n\n## What happens\n\n#380 strips raw HTML from headings before they reach a summary, with `_HEADING_TAG_RE = <[A-Za-z/!?][^<>]*>` (`src/hungry_crab/miners/wiki.py:44`). The pattern removes any `<letter…>` run, which is wider than what CommonMark parses as raw HTML (spec section 6.6: a tag name, then attributes whose names match `[A-Za-z_:][A-Za-z0-9",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[Epic] Customer Telemetry, Redacted Trace Capture & Shareable Usage Summaries",
+        "url": "https://github.com/gke-labs/kube-agents/issues/3426",
+        "source": "GitHub Issues",
+        "summary": "## Overview\n\nEnterprise customers running `kube-agents` in restricted or air-gapped networks cannot enable outbound \"phone-home\" telemetry. Customer platform teams and the `kube-agents` engineering team need a safe, PII-scrubbed way to measure how the agent performs in-cluster (usage counters, latency, token spend, redacted execution traces) and to share operational summaries and feedback with Google by copy-paste (chat or email) or, where egress is allowed, by opt-in reporting.\n\nSupersedes and ",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "高",
+        "audience": "团队/企业",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Version, changelog, tag and release notes for v0.7.0 (unit REL-03)",
+        "url": "https://github.com/infiquetra/talaria/issues/284",
+        "source": "GitHub Issues",
+        "summary": "### Objective\n\nThis issue delivers the release itself for Talaria v0.7.0: the version number `0.7.0` in one place, a changelog section and release notes that tell a user the truth, the checks that prove the tag commit is the tested commit, and the annotated tag `v0.7.0` with a GitHub release page. It is unit REL-03 of the v0.7.0 roadmap, under #220 (`REL`). It matters because a repository rule forbids deleting, moving or updating any `v` tag, so a wrong tag can only be answered with a new releas",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "User documentation: guide, keybinding and configuration reference, and migration from 0.6.5 (unit REL-02)",
+        "url": "https://github.com/infiquetra/talaria/issues/283",
+        "source": "GitHub Issues",
+        "summary": "### Objective\n\nThis issue delivers the user documentation for Talaria v0.7.0: a guide that takes a new user from install to a first answer, a keybinding reference, a configuration reference, and a migration page for people moving from the Python client 0.6.5, together with the tests that keep those pages true. It matters because the release is a rewrite: a reader who finds a page that disagrees with the program (a key that does nothing, a setting that is silently ignored) will stop trusting all ",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed while running a email reading code",
+        "url": "https://stackoverflow.com/questions/61182601/error-err-stream-destroyed-cannot-call-write-after-a-stream-was-destroyed-whi",
+        "source": "Stack Overflow",
+        "summary": "<h2>✖ Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed at doWrite (_stream_writable.js:431:19) at clearBuffer (_stream_writable.js:574:7) at Socket.Writable.uncork (_stream_writable.js:329:7) at JSStreamSocket.doWrite (internal/js_stream_socket.js:167:17) at JSStream.onwrite (internal/js_stream_socket.js:24:57) at Socket.ondata (internal/js_stream_socket.js:68:22) at addChunk (_stream_readable.js:309:12) at readableAddChunk (_stream_readable.js:290:11) at Socket.Reada",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "What is the meaning of &lt;- in AI?",
+        "url": "https://stackoverflow.com/questions/2125887/what-is-the-meaning-of-in-ai",
+        "source": "Stack Overflow",
+        "summary": "<p>I've seen in a lot of AI related stuff the symbol &lt;-. For example,</p>\n\n<pre><code>delta &lt;- 0\nx &lt;- x + 1\n</code></pre>\n\n<p>etc.</p>\n\n<p>I always assume its meaning is the same as =(assigment), but probably they have a meaning that's a bit different from assigment, I assume?</p>\n\n<p>Thanks</p>\n",
+        "score": 7.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "How to run AWS CLI command tasks in Ansible Tower",
+        "url": "https://stackoverflow.com/questions/33661931/how-to-run-aws-cli-command-tasks-in-ansible-tower",
+        "source": "Stack Overflow",
+        "summary": "<p>The AWS CLI command tasks in Ansible playbooks work fine form command line if AWS credentials are specified as environment variables as per boto requirements. More info can be found here [Environment Variables][1].\nBut they fail to run in Tower because it exports another set of env. vars:</p>\n<pre><code>AWS_ACCESS_KEY\nAWS_SECRET_KEY\n</code></pre>\n",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "manager: the static reconcile sweep reads deprovision accounting back through a shared instance field",
+        "url": "https://github.com/Cotal-AI/Cotal/issues/3572",
+        "source": "GitHub Issues",
+        "summary": "The static reconcile sweep learns how much broker state each exact terminal removed by reading a mutable instance field back after the await, instead of from the call that did the work.\n\nSites on main `a1948eb92`:\n\n- `implementations/manager/src/manager.ts:1395`: `public lastDeprovisionResources?: DeprovisionResourceAccounting` is a process-wide slot.\n- `implementations/manager/src/manager.ts:4807` and `4810`: `deprovisionBroker` writes it on success and on `DeprovisionError`. It is reached from",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
+        "url": "https://stackoverflow.com/questions/79935672/input-validation-error-1-57-is-not-of-type-number-from-langchain-mcp-adapte",
+        "source": "Stack Overflow",
+        "summary": "<p>I am getting the following error:</p>\n<pre><code>An error occurred: Input validation error: '1.57' is not of type 'number'\n</code></pre>\n<p>From what I understand, this happens before the MCP server is called: LangChain’s MCP adapter is validating the tool call arguments against the JSON Schema and the model is emitting <code>&quot;1.57&quot;</code> as a string instead of <code>1.57</code> as a number, so the validation fails.</p>\n<p>Is that understanding correct? And what’s the recommended w",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[Bug] Windowserver closes spontaneously on sleep",
+        "url": "https://github.com/nullmoth/nvidia-macos-driver/issues/353",
+        "source": "GitHub Issues",
+        "summary": "### Send logs report ID\n\nnm-21102601\n\n### Where does it go wrong?\n\nOn the desktop (flicker, lag, displays, sleep)\n\n### What happens\n\nAfter putting the computer on sleep for a couple of hours, Windowserver closes. Sometimes it crashes sometimes it just closes\n\n### Written by you\n\n- [x] I wrote this report myself. AI-written issues are closed without review (see CONTRIBUTING.md).\n\n### App or game (if it is one)\n\n_No response_\n\n### Did you change anything yourself?\n\n_No response_",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Best way to call periodically (twice a day) an API from Node.js to get data",
+        "url": "https://stackoverflow.com/questions/42518873/best-way-to-call-periodically-twice-a-day-an-api-from-node-js-to-get-data",
+        "source": "Stack Overflow",
+        "summary": "<p>I have a Node.js application which uses the Fixer.io API to get some data. Currently the call is made when I reach the URL <code>myapp/rate</code>. My goal is to make this call automatically twice a day to store the data in my MongoDB database.</p>\n<p>I would like to know: what is the best way to do that? Maybe <code>setInterval()</code> is the only way to do it but I don't think so...</p>\n<p>My call looks like this:</p>\n<pre><code>router.get('/', (req, res, next) =&gt; {\n  fixer.latest({ bas",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      }
+    ],
+    "category_counts": {
+      "集成与兼容": 5,
+      "隐私与合规": 1,
+      "可靠性与质量": 5,
+      "其他": 1
+    },
+    "next_actions": [
+      "优先验证「集成与兼容」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「隐私与合规」：今天出现 1 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}
