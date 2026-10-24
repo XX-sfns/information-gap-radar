@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-23 22:21 CST",
+  "generated_at": "2026-10-24 21:31 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI News",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 17:00:00 GMT"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI News",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT"
+    },
     {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
@@ -113,26 +135,15 @@
       "published": "Wed, 21 Oct 2026 04:50:00 GMT"
     },
     {
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "url": "https://openai.com/index/cloudflare-cyber",
-      "source": "OpenAI News",
-      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Wed, 21 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "source": "OpenAI News",
-      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 21 Oct 2026 07:00:00 GMT"
+      "published": "Fri, 23 Oct 2026 16:15:50 GMT"
     },
     {
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
@@ -155,17 +166,6 @@
         "AI/科技"
       ],
       "published": "Thu, 22 Oct 2026 22:24:34 GMT"
-    },
-    {
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 22 Oct 2026 16:11:31 GMT"
     },
     {
       "title": "Ensemble forecasting with IBM Granite time-series models",
@@ -273,178 +273,178 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 392838,
+      "score": 392915,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-23T14:17:38Z"
+      "published": "2026-10-24T13:31:15Z"
     },
     {
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 370846,
+      "score": 376103,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "binary-analysis"
       ],
-      "published": "2026-10-23T14:21:03Z"
+      "published": "2026-10-24T13:30:58Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 304046,
+      "score": 304473,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-23T14:20:56Z"
+      "published": "2026-10-24T13:25:49Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 287014,
+      "score": 287710,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-23T14:20:24Z"
+      "published": "2026-10-24T13:29:27Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 256435,
+      "score": 256686,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-23T14:18:46Z"
+      "published": "2026-10-24T13:30:44Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 256435,
+      "score": 256686,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-23T14:18:46Z"
+      "published": "2026-10-24T13:30:44Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 208393,
+      "score": 208476,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-23T14:20:27Z"
+      "published": "2026-10-24T13:30:34Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 194532,
+      "score": 194838,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-23T14:16:13Z"
+      "published": "2026-10-24T13:29:06Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 194532,
+      "score": 194838,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-23T14:16:13Z"
+      "published": "2026-10-24T13:29:06Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187718,
+      "score": 187726,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-23T14:16:36Z"
+      "published": "2026-10-24T13:30:51Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187718,
+      "score": 187726,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-23T14:16:36Z"
+      "published": "2026-10-24T13:30:51Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 184439,
+      "score": 184605,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-10-23T14:13:17Z"
+      "published": "2026-10-24T13:18:32Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 212.68,
-      "change_percent": 0.22,
+      "price": 210.96,
+      "change_percent": -0.59,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +0.22%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 -0.59%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
@@ -458,11 +458,11 @@
   "information_gap": {
     "items": [
       {
-        "title": "Migrate the application and build toolchain to Rust",
-        "url": "https://github.com/neodamul/AgentConductor/issues/9",
+        "title": "feat(renderer): app preload runtime on macOS — separate app content world with its own world-scoped handler (PANEL-D21 A), document-start ordering, sandboxed require map from pinned source, renderer process object (env empty), preload-path containmen",
+        "url": "https://github.com/gyldlab/keld/issues/484",
         "source": "GitHub Issues",
-        "summary": "## Latest checkpoint — 2026-10-23\n\n- **Exact-package Workflow 15 is accepted:** v0.1.36 macOS arm64 package from source `b282fca47792890bbe85169652164f4ee56c7e42` was launched directly with a disposable HOME and explicit `ui-new` root. The app menu showed only the isolated workspace and the initial UI had zero agents. The offline manual rendered its Agent Room image; Updates showed v0.1.36 → v0.1.37 and release notes scrolled through the last item (#156). No workspace was saved, task/approval/me",
-        "score": 595.0,
+        "summary": "> Generated by an AI agent (Claude Code) on behalf of @0monish during Wayfinder charting of the Electron compatibility program; rewritten 2026-10-07 by the doctrine-audit repair pass (change log at the end). Planning only — no implementation is authorized by this issue.\n\n## Parent\n\nEpic #483 · Map #391 · Unit F07 · Kind: `feature` · Tier: Tier 1 · Maturity target: **L1** · Size: L · Milestone: `first-proof`\n\n## What to build\n\nOn macOS, inject the app's preload at document start, main frame only,",
+        "score": 15.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
@@ -471,11 +471,11 @@
         "evidence": "关键词命中 3 项"
       },
       {
-        "title": "Heading clean-up deletes angle-bracket text that is not HTML, such as HashMap<K, V>",
-        "url": "https://github.com/drevendev/HungryCrab/issues/390",
+        "title": "feat(ipc): contextBridge.exposeInMainWorld value table + ipcRenderer send/on facade + IpcRendererEvent in the app content world (draw.io first-proof slice)",
+        "url": "https://github.com/gyldlab/keld/issues/467",
         "source": "GitHub Issues",
-        "summary": "Found in the review of 2026-10-23 on `master` at `2d36378` (0.6.2.dev0); severity low (outline fidelity, regression from #380), confirmed by execution.\n\n## What happens\n\n#380 strips raw HTML from headings before they reach a summary, with `_HEADING_TAG_RE = <[A-Za-z/!?][^<>]*>` (`src/hungry_crab/miners/wiki.py:44`). The pattern removes any `<letter…>` run, which is wider than what CommonMark parses as raw HTML (spec section 6.6: a tag name, then attributes whose names match `[A-Za-z_:][A-Za-z0-9",
-        "score": 1.0,
+        "summary": "> Generated by an AI agent (Claude Code) on behalf of @0monish during Wayfinder charting of the Electron compatibility program; rewritten 2026-10-07 by the doctrine-audit repair pass (change log at the end). Planning only — no implementation is authorized by this issue.\n\n## Parent\n\nEpic #463 · Map #391 · Unit F04 · Kind: `feature` · Tier: Tier 1 · Maturity target: **L2** · Size: L · Milestone: `first-proof`\n\n## What to build\n\nImplement in the renderer compat runtime that F07-T1 places in the nam",
+        "score": 15.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
@@ -484,43 +484,30 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "[Epic] Customer Telemetry, Redacted Trace Capture & Shareable Usage Summaries",
-        "url": "https://github.com/gke-labs/kube-agents/issues/3426",
+        "title": "task(migrate): hand-authored draw.io first-proof artefact — keld.config.ts, literal-only keld.permissions.jsonc and package-manifest edits under the X02-T1 contract",
+        "url": "https://github.com/gyldlab/keld/issues/499",
         "source": "GitHub Issues",
-        "summary": "## Overview\n\nEnterprise customers running `kube-agents` in restricted or air-gapped networks cannot enable outbound \"phone-home\" telemetry. Customer platform teams and the `kube-agents` engineering team need a safe, PII-scrubbed way to measure how the agent performs in-cluster (usage counters, latency, token spend, redacted execution traces) and to share operational summaries and feedback with Google by copy-paste (chat or email) or, where egress is allowed, by opt-in reporting.\n\nSupersedes and ",
-        "score": 1.0,
+        "summary": "> Generated by an AI agent (Claude Code) on behalf of @0monish during Wayfinder charting of the Electron compatibility program; rewritten 2026-10-07 by the doctrine-audit repair pass (change log at the end). Planning only — no implementation is authorized by this issue.\n\n## Parent\n\nEpic #496 · Map #391 · Unit X02 · Kind: `task` · Tier: Tier 1 · Maturity target: **L1** · Size: S · Milestone: `first-proof`\n\n## What to build\n\nHand-author the exact files X02-T1 says migrate would write for drawio-de",
+        "score": 6.0,
         "tags": [],
         "published": "",
-        "category": "隐私与合规",
+        "category": "可靠性与质量",
         "urgency": "高",
-        "audience": "团队/企业",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Beta-Regression: Guided-Fortschritt springt im Cloud-UI-Test trotz angewendetem Simulatorzustand zurück",
+        "url": "https://github.com/dimto13/ai-tutor-lab/issues/606",
+        "source": "GitHub Issues",
+        "summary": "## CHAT1 2026-10-24 15:xx — bounded review repair and downstream guard\n\n- On preserved DRAFT PR #608, CHAT1 published meaningful in-scope commits `d832a06eebfded424fd30b4c8f5f10355efa184a` and `b65767f3c6dd2efd262363eb83ec658122fada59` (head), replacing the infinite runtime-restore retry with at most five attempts, then a fail-closed error; a deterministic sustained-mutation test requires rejection after five invalidated reads, no stale value, and stable recovery. Existing #607 negative repro an",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
         "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Version, changelog, tag and release notes for v0.7.0 (unit REL-03)",
-        "url": "https://github.com/infiquetra/talaria/issues/284",
-        "source": "GitHub Issues",
-        "summary": "### Objective\n\nThis issue delivers the release itself for Talaria v0.7.0: the version number `0.7.0` in one place, a changelog section and release notes that tell a user the truth, the checks that prove the tag commit is the tested commit, and the annotated tag `v0.7.0` with a GitHub release page. It is unit REL-03 of the v0.7.0 roadmap, under #220 (`REL`). It matters because a repository rule forbids deleting, moving or updating any `v` tag, so a wrong tag can only be answered with a new releas",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 3 项"
-      },
-      {
-        "title": "User documentation: guide, keybinding and configuration reference, and migration from 0.6.5 (unit REL-02)",
-        "url": "https://github.com/infiquetra/talaria/issues/283",
-        "source": "GitHub Issues",
-        "summary": "### Objective\n\nThis issue delivers the user documentation for Talaria v0.7.0: a guide that takes a new user from install to a first answer, a keybinding reference, a configuration reference, and a migration page for people moving from the Python client 0.6.5, together with the tests that keep those pages true. It matters because the release is a rewrite: a reader who finds a page that disagrees with the program (a key that does nothing, a setting that is silently ignored) will stop trusting all ",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 3 项"
       },
       {
         "title": "Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed while running a email reading code",
@@ -536,19 +523,6 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "What is the meaning of &lt;- in AI?",
-        "url": "https://stackoverflow.com/questions/2125887/what-is-the-meaning-of-in-ai",
-        "source": "Stack Overflow",
-        "summary": "<p>I've seen in a lot of AI related stuff the symbol &lt;-. For example,</p>\n\n<pre><code>delta &lt;- 0\nx &lt;- x + 1\n</code></pre>\n\n<p>etc.</p>\n\n<p>I always assume its meaning is the same as =(assigment), but probably they have a meaning that's a bit different from assigment, I assume?</p>\n\n<p>Thanks</p>\n",
-        "score": 7.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
-      },
-      {
         "title": "How to run AWS CLI command tasks in Ansible Tower",
         "url": "https://stackoverflow.com/questions/33661931/how-to-run-aws-cli-command-tasks-in-ansible-tower",
         "source": "Stack Overflow",
@@ -562,16 +536,42 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "manager: the static reconcile sweep reads deprovision accounting back through a shared instance field",
-        "url": "https://github.com/Cotal-AI/Cotal/issues/3572",
+        "title": "When using multiline examples the docs generator breaks",
+        "url": "https://github.com/SkriptLang/Skript/issues/8383",
         "source": "GitHub Issues",
-        "summary": "The static reconcile sweep learns how much broker state each exact terminal removed by reading a mutable instance field back after the await, instead of from the call that did the work.\n\nSites on main `a1948eb92`:\n\n- `implementations/manager/src/manager.ts:1395`: `public lastDeprovisionResources?: DeprovisionResourceAccounting` is a process-wide slot.\n- `implementations/manager/src/manager.ts:4807` and `4810`: `deprovisionBroker` writes it on success and on `DeprovisionError`. It is reached from",
-        "score": 2.0,
+        "summary": "### Skript/Server Version\n\n```markdown\nN/A\n```\n\n### Bug Description\n\nWhen using multiline java strings in examples on functions the docs generator seems to mess up and loses indentions leading to syntax joining together on a single line (see image)\n\n### Expected Behavior\n\nSkript to properly handle newlines & indentions when using multiline string in function examples\n\n### Steps to Reproduce\n\nhttps://docs.skriptlang.org/docs.html?search=#fromBase\n\n### Errors or Screenshots\n\n<img width=\"1546\" heig",
+        "score": 3.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
         "audience": "个人用户",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "High FPS: AI reactions degrade above 100 fps",
+        "url": "https://github.com/Juansolo457/fear360-recomp/issues/3",
+        "source": "GitHub Issues",
+        "summary": "**EchoPatch:** \"Degraded AI reactions\" ([High FPS Fixes](https://github.com/Wemino/EchoPatch#high-fps-fixes)).\r\n\r\n**Cause, confirmed in both builds:** each AI asks the engine to update it again in 0.01 s. Below 100 fps a frame is longer than that, so the AI updates every frame. At 120 fps (8.3 ms frames) it updates every other frame, and its timers (perception, reaction, decisions) advance by one frame's time per update, so AI time runs at about half speed. Seen in play at 120 fps: enemies \"caug",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Parcours generes : 18 H1 portent un ordinal perime apres renum/reclass -- le libelle contredit le lien (GameTheory 23b -> 16f, Lean 17a-d -> KNOTS 01-04, RL 17/18 -> Complexity 04c/d)",
+        "url": "https://github.com/jsboige/CoursIA/issues/22291",
+        "source": "GitHub Issues",
+        "summary": "Grain: MED/docs — lane myia-po-2024:CoursIA — prev: DEEP/qc #22290\n\nSans parent : dispatch DM ai-01 du 2026-10-24 (grain 2 — « link-label disagreements » constatés sur 3 lignes de `docs/curriculum/recherche.md`), élargi ici en mesure exhaustive du catalogue.\n\n## Ce qui se passe\n\n`docs/curriculum/recherche.md` est une page **générée** : chaque ligne affiche comme libellé le premier heading markdown du carnet (`extract_title`, `scripts/notebook_tools/generate_catalog.py:561`) et comme lien le chem",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "中",
+        "audience": "开发者",
         "evidence": "关键词命中 1 项"
       },
       {
@@ -588,42 +588,43 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "[Bug] Windowserver closes spontaneously on sleep",
-        "url": "https://github.com/nullmoth/nvidia-macos-driver/issues/353",
-        "source": "GitHub Issues",
-        "summary": "### Send logs report ID\n\nnm-21102601\n\n### Where does it go wrong?\n\nOn the desktop (flicker, lag, displays, sleep)\n\n### What happens\n\nAfter putting the computer on sleep for a couple of hours, Windowserver closes. Sometimes it crashes sometimes it just closes\n\n### Written by you\n\n- [x] I wrote this report myself. AI-written issues are closed without review (see CONTRIBUTING.md).\n\n### App or game (if it is one)\n\n_No response_\n\n### Did you change anything yourself?\n\n_No response_",
-        "score": 1.0,
+        "title": "Twelve years of distributed SQLite",
+        "url": "https://news.ycombinator.com/item?id=50220436",
+        "source": "Hacker News",
+        "summary": "It&#x27;s loaded with it to my eyes. (Pangram also agrees and flags the whole post as AI generated.) <pre><code>  # 2014: rqlite\n  The need was concrete.\n\n  # Before 2014, and alongside it\n  Two things deserve mention for honesty’s sake.\n</code></pre>\n(the above line is extremely typical of Claude Opus 4.8 and 5.0) <pre><code>  [...] and the main difference is of one of packaging:\n\n  # What the twelve years show\n  Three things, I think.\n  The core was right. [...] Nobody has found a reason to st",
+        "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
       },
       {
-        "title": "Best way to call periodically (twice a day) an API from Node.js to get data",
-        "url": "https://stackoverflow.com/questions/42518873/best-way-to-call-periodically-twice-a-day-an-api-from-node-js-to-get-data",
-        "source": "Stack Overflow",
-        "summary": "<p>I have a Node.js application which uses the Fixer.io API to get some data. Currently the call is made when I reach the URL <code>myapp/rate</code>. My goal is to make this call automatically twice a day to store the data in my MongoDB database.</p>\n<p>I would like to know: what is the best way to do that? Maybe <code>setInterval()</code> is the only way to do it but I don't think so...</p>\n<p>My call looks like this:</p>\n<pre><code>router.get('/', (req, res, next) =&gt; {\n  fixer.latest({ bas",
-        "score": 1.0,
+        "title": "Ask HN: Are agent benchmarks the new credit ratings?",
+        "url": "https://news.ycombinator.com/item?id=50220248",
+        "source": "Hacker News",
+        "summary": "I don&#x27;t really think benchmarks are very useful than for wide marketing... If I were a customer that wanted to get some AI agents in my workflows, I would prefer the vendor to provide a small PoC delivering &quot;real&quot; results than looking to (possibly) cooked results in benchmarks (as you say, that one who pays gets the rating)...",
+        "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "易用性与流程",
         "urgency": "中",
-        "audience": "开发者",
+        "audience": "个人用户",
         "evidence": "关键词命中 1 项"
       }
     ],
     "category_counts": {
-      "集成与兼容": 5,
-      "隐私与合规": 1,
+      "集成与兼容": 3,
       "可靠性与质量": 5,
-      "其他": 1
+      "其他": 2,
+      "价格与付费": 1,
+      "易用性与流程": 1
     },
     "next_actions": [
-      "优先验证「集成与兼容」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
       "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「隐私与合规」：今天出现 1 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
