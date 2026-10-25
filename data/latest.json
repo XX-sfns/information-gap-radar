@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 21:31 CST",
+  "generated_at": "2026-10-25 21:51 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -273,168 +273,168 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 392915,
+      "score": 393011,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-24T13:31:15Z"
+      "published": "2026-10-25T13:50:34Z"
     },
     {
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 376103,
+      "score": 382061,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "binary-analysis"
       ],
-      "published": "2026-10-24T13:30:58Z"
+      "published": "2026-10-25T13:51:28Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 304473,
+      "score": 304841,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-24T13:25:49Z"
+      "published": "2026-10-25T13:51:09Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 287710,
+      "score": 288472,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-24T13:29:27Z"
+      "published": "2026-10-25T13:51:09Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 256686,
+      "score": 256945,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-24T13:30:44Z"
+      "published": "2026-10-25T13:50:04Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 256686,
+      "score": 256945,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-24T13:30:44Z"
+      "published": "2026-10-25T13:50:04Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 208476,
+      "score": 208546,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-24T13:30:34Z"
+      "published": "2026-10-25T13:49:32Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 194838,
+      "score": 195189,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-24T13:29:06Z"
+      "published": "2026-10-25T13:51:06Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 194838,
+      "score": 195189,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-24T13:29:06Z"
+      "published": "2026-10-25T13:51:06Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187726,
+      "score": 187739,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-24T13:30:51Z"
+      "published": "2026-10-25T13:50:21Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187726,
+      "score": 187739,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-24T13:30:51Z"
+      "published": "2026-10-25T13:50:21Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 184605,
+      "score": 184715,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-10-24T13:18:32Z"
+      "published": "2026-10-25T13:47:03Z"
     }
   ],
   "stocks": [
@@ -458,37 +458,24 @@
   "information_gap": {
     "items": [
       {
-        "title": "feat(renderer): app preload runtime on macOS — separate app content world with its own world-scoped handler (PANEL-D21 A), document-start ordering, sandboxed require map from pinned source, renderer process object (env empty), preload-path containmen",
-        "url": "https://github.com/gyldlab/keld/issues/484",
+        "title": "toolview slot priority 冲突：dsh-claude-style 与本插件同 key 同 priority (-1) 导致 throw，卡片不生效",
+        "url": "https://github.com/hyperion2144/dsh-hashline-edittool/issues/321",
         "source": "GitHub Issues",
-        "summary": "> Generated by an AI agent (Claude Code) on behalf of @0monish during Wayfinder charting of the Electron compatibility program; rewritten 2026-10-07 by the doctrine-audit repair pass (change log at the end). Planning only — no implementation is authorized by this issue.\n\n## Parent\n\nEpic #483 · Map #391 · Unit F07 · Kind: `feature` · Tier: Tier 1 · Maturity target: **L1** · Size: L · Milestone: `first-proof`\n\n## What to build\n\nOn macOS, inject the app's preload at document start, main frame only,",
-        "score": 15.0,
+        "summary": "<!-- DSH-IDEMPOTENCY-KEY: deck-4cfdf5de-5975765 -->\n## 现象\n\n当 `dsh-claude-style`（≥0.18.2）与本插件同时启用时，浏览器控制台报三个 `Uncaught Error`：\n\n```\nUncaught Error: keyed slot \"tool.call.toolview\" already has an entry for key \"read\" at priority -1 (registered by Kb) — register at a different priority to shadow it (lowest renders)\nUncaught Error: keyed slot \"tool.call.toolview\" already has an entry for key \"edit\" at priority -1 (registered by Kb) — register at a different priority to shadow it (lowest renders)\nUnc",
+        "score": 3.0,
         "tags": [],
         "published": "",
-        "category": "集成与兼容",
+        "category": "可靠性与质量",
         "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 3 项"
-      },
-      {
-        "title": "feat(ipc): contextBridge.exposeInMainWorld value table + ipcRenderer send/on facade + IpcRendererEvent in the app content world (draw.io first-proof slice)",
-        "url": "https://github.com/gyldlab/keld/issues/467",
-        "source": "GitHub Issues",
-        "summary": "> Generated by an AI agent (Claude Code) on behalf of @0monish during Wayfinder charting of the Electron compatibility program; rewritten 2026-10-07 by the doctrine-audit repair pass (change log at the end). Planning only — no implementation is authorized by this issue.\n\n## Parent\n\nEpic #463 · Map #391 · Unit F04 · Kind: `feature` · Tier: Tier 1 · Maturity target: **L2** · Size: L · Milestone: `first-proof`\n\n## What to build\n\nImplement in the renderer compat runtime that F07-T1 places in the nam",
-        "score": 15.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "高",
-        "audience": "开发者",
+        "audience": "个人用户",
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "task(migrate): hand-authored draw.io first-proof artefact — keld.config.ts, literal-only keld.permissions.jsonc and package-manifest edits under the X02-T1 contract",
-        "url": "https://github.com/gyldlab/keld/issues/499",
+        "title": "Published assets return 404 on the Cloudflare worker and ESI gazetta serve: images are broken on deployed sites",
+        "url": "https://github.com/gazetta-studio/gazetta-studio/issues/1330",
         "source": "GitHub Issues",
-        "summary": "> Generated by an AI agent (Claude Code) on behalf of @0monish during Wayfinder charting of the Electron compatibility program; rewritten 2026-10-07 by the doctrine-audit repair pass (change log at the end). Planning only — no implementation is authorized by this issue.\n\n## Parent\n\nEpic #496 · Map #391 · Unit X02 · Kind: `task` · Tier: Tier 1 · Maturity target: **L1** · Size: S · Milestone: `first-proof`\n\n## What to build\n\nHand-author the exact files X02-T1 says migrate would write for drawio-de",
-        "score": 6.0,
+        "summary": "> *This was generated by AI while auditing docs/transform-adapters.md and docs/template-assets.md (2026-10-24) against main. [ran] = reproduced on a copy of examples/starter with local targets and in-process requests.*\n\n## What happens\nPublish copies a page's assets to the target (`packages/gazetta/src/assets/publish.ts:62, 86-101`), and pages reference them as `/assets/<name>-<hash>.<ext>`. No deployed server serves that path:\n- **ESI `gazetta serve`** has routes for `/sitemap.xml`, `/robots.tx",
+        "score": 2.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -497,17 +484,17 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Beta-Regression: Guided-Fortschritt springt im Cloud-UI-Test trotz angewendetem Simulatorzustand zurück",
-        "url": "https://github.com/dimto13/ai-tutor-lab/issues/606",
+        "title": "Add an LLM-judged faithfulness check for replies",
+        "url": "https://github.com/AkibUllah/ai-support-agent/issues/3",
         "source": "GitHub Issues",
-        "summary": "## CHAT1 2026-10-24 15:xx — bounded review repair and downstream guard\n\n- On preserved DRAFT PR #608, CHAT1 published meaningful in-scope commits `d832a06eebfded424fd30b4c8f5f10355efa184a` and `b65767f3c6dd2efd262363eb83ec658122fada59` (head), replacing the infinite runtime-restore retry with at most five attempts, then a fail-closed error; a deterministic sustained-mutation test requires rejection after five invalidated reads, no stale value, and stable recovery. Existing #607 negative repro an",
-        "score": 2.0,
+        "summary": "**Context**\n\nScenario checks in `support_agent/evals/runner.py` assert on tools, status, guardrails and `reply_contains` / `reply_not_contains` substrings. Substring checks pass the scripted model easily but are brittle for real models (paraphrases) and cannot catch a reply that invents a refund amount or delivery date not present in the tool results.\n\n**Proposal**\n\n- New optional turn key `faithful: true` that sends the reply plus the turn's tool results to a judge provider with a fixed rubric ",
+        "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "其他",
         "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed while running a email reading code",
@@ -523,37 +510,11 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "How to run AWS CLI command tasks in Ansible Tower",
-        "url": "https://stackoverflow.com/questions/33661931/how-to-run-aws-cli-command-tasks-in-ansible-tower",
-        "source": "Stack Overflow",
-        "summary": "<p>The AWS CLI command tasks in Ansible playbooks work fine form command line if AWS credentials are specified as environment variables as per boto requirements. More info can be found here [Environment Variables][1].\nBut they fail to run in Tower because it exports another set of env. vars:</p>\n<pre><code>AWS_ACCESS_KEY\nAWS_SECRET_KEY\n</code></pre>\n",
-        "score": 4.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "When using multiline examples the docs generator breaks",
-        "url": "https://github.com/SkriptLang/Skript/issues/8383",
+        "title": "Outreach Round 33 microtask - claim verification",
+        "url": "https://github.com/WikiEducationFoundation/WikiEduDashboard/issues/7037",
         "source": "GitHub Issues",
-        "summary": "### Skript/Server Version\n\n```markdown\nN/A\n```\n\n### Bug Description\n\nWhen using multiline java strings in examples on functions the docs generator seems to mess up and loses indentions leading to syntax joining together on a single line (see image)\n\n### Expected Behavior\n\nSkript to properly handle newlines & indentions when using multiline string in function examples\n\n### Steps to Reproduce\n\nhttps://docs.skriptlang.org/docs.html?search=#fromBase\n\n### Errors or Screenshots\n\n<img width=\"1546\" heig",
-        "score": 3.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "High FPS: AI reactions degrade above 100 fps",
-        "url": "https://github.com/Juansolo457/fear360-recomp/issues/3",
-        "source": "GitHub Issues",
-        "summary": "**EchoPatch:** \"Degraded AI reactions\" ([High FPS Fixes](https://github.com/Wemino/EchoPatch#high-fps-fixes)).\r\n\r\n**Cause, confirmed in both builds:** each AI asks the engine to update it again in 0.01 s. Below 100 fps a frame is longer than that, so the AI updates every frame. At 120 fps (8.3 ms frames) it updates every other frame, and its timers (perception, reaction, decisions) advance by one frame's time per update, so AI time runs at about half speed. Seen in play at 120 fps: enemies \"caug",
-        "score": 3.0,
+        "summary": "(This is intended as an introductory task for potential Outreachy round 33 applicants.)\n\nThis task is designed to give you a taste of the kinds of thinking and research that will be involved in our potential Outreachy internship project, and to give you a chance to show how you think about the issues involved and communicate about them.\n\n0. Create a Wikipedia account (if you don't already have one), then log in to dashboard.wikiedu.org\n1. Visit https://dashboard.wikiedu.org/courses/Demo_Universi",
+        "score": 160.0,
         "tags": [],
         "published": "",
         "category": "其他",
@@ -562,14 +523,27 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "Parcours generes : 18 H1 portent un ordinal perime apres renum/reclass -- le libelle contredit le lien (GameTheory 23b -> 16f, Lean 17a-d -> KNOTS 01-04, RL 17/18 -> Complexity 04c/d)",
-        "url": "https://github.com/jsboige/CoursIA/issues/22291",
+        "title": "Python: port the Rust-first fixes and features (pilot, #160, #166, #177)",
+        "url": "https://github.com/aisixteen/fantastic/issues/170",
         "source": "GitHub Issues",
-        "summary": "Grain: MED/docs — lane myia-po-2024:CoursIA — prev: DEEP/qc #22290\n\nSans parent : dispatch DM ai-01 du 2026-10-24 (grain 2 — « link-label disagreements » constatés sur 3 lignes de `docs/curriculum/recherche.md`), élargi ici en mesure exhaustive du catalogue.\n\n## Ce qui se passe\n\n`docs/curriculum/recherche.md` est une page **générée** : chaque ligne affiche comme libellé le premier heading markdown du carnet (`extract_title`, `scripts/notebook_tools/generate_catalog.py:561`) et comme lien le chem",
-        "score": 2.0,
+        "summary": "Rust went first for the coder pilot (maintainer: Rust first, Python after the pilot ends well; Swift deprecated, #53). Python is the reference runtime, so it needs these ported with the same semantics and tests:\n\n- [x] **`context_fold {from?, to?, summary?}`**: the operator verb that folds a chosen range into one fold row. Rust: #166 / PR #169. Python has `_context_clear` and the automatic fold path to build on. The rows before the range must stay byte-identical (the view is built from the same ",
+        "score": 10.0,
         "tags": [],
         "published": "",
         "category": "价格与付费",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "How to run AWS CLI command tasks in Ansible Tower",
+        "url": "https://stackoverflow.com/questions/33661931/how-to-run-aws-cli-command-tasks-in-ansible-tower",
+        "source": "Stack Overflow",
+        "summary": "<p>The AWS CLI command tasks in Ansible playbooks work fine form command line if AWS credentials are specified as environment variables as per boto requirements. More info can be found here [Environment Variables][1].\nBut they fail to run in Tower because it exports another set of env. vars:</p>\n<pre><code>AWS_ACCESS_KEY\nAWS_SECRET_KEY\n</code></pre>\n",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
@@ -588,10 +562,49 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Twelve years of distributed SQLite",
-        "url": "https://news.ycombinator.com/item?id=50220436",
+        "title": "Memoria: motivo exacto cuando el modelo por omisión no está permitido, y un error propio para «no es local»",
+        "url": "https://github.com/Vasak-OS/vasak-assistant/issues/24",
+        "source": "GitHub Issues",
+        "summary": "Hay dos detalles en la puerta del modelo efectivo (`chat_local_only`, #21):\n\n1. **El motivo de `MemoryStatus` puede ser falso.** Si `active_model` falla porque el modelo por omisión es cloud y no hay `allow_remote`, `MemoryStatus` dice «El modelo no responde». En realidad el modelo responde, pero no está permitido. La propuesta es distinguir ese error, o decir «El modelo no está disponible».\n2. **`is_not_local` (`daemon/src/backend.rs`) compara el texto del error.** Falla cerrado (si el texto ca",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "feat: First-class OpenRouter LLM provider (latency-first routing)",
+        "url": "https://github.com/eldtechnologies/conduit/issues/147",
+        "source": "GitHub Issues",
+        "summary": "## Why\nThe LLM content filter runs **synchronously in the `/api/send` request path**: the frontend waits for it, with a default `LLM_TIMEOUT` of 5000 ms, and a timeout goes through the key's fail mode (`block` → 503). The model's output is tiny (`max_tokens: 200`, a small JSON verdict), so end-to-end **latency** matters more than throughput or per-token cost.\n\nToday only `LLM_PROVIDER=anthropic` and `openai` exist, each calling its vendor directly. OpenRouter would allow fast model and provider ",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "We should be more ambitious with the software we build",
+        "url": "https://news.ycombinator.com/item?id=50231536",
         "source": "Hacker News",
-        "summary": "It&#x27;s loaded with it to my eyes. (Pangram also agrees and flags the whole post as AI generated.) <pre><code>  # 2014: rqlite\n  The need was concrete.\n\n  # Before 2014, and alongside it\n  Two things deserve mention for honesty’s sake.\n</code></pre>\n(the above line is extremely typical of Claude Opus 4.8 and 5.0) <pre><code>  [...] and the main difference is of one of packaging:\n\n  # What the twelve years show\n  Three things, I think.\n  The core was right. [...] Nobody has found a reason to st",
+        "summary": "While I agree with you in general, I think the real value of AI (for me, I wouldn’t want to try to change anyone else’s mind on this) lays in three areas: 1. all the little wins saving time at little tasks like analyzing a Haskell, Java, etc. error stacks; and all sorts of little time wasting problems. All those saved minutes add up. 2. Brainstorming before coding, and even before design. I like to write up ideas in a Markdown file and then ask one or two strong AIs to push back, to try to fill ",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Ask HN: Are tab completion models dead?",
+        "url": "https://news.ycombinator.com/item?id=50231518",
+        "source": "Hacker News",
+        "summary": "I&#x27;m craving something similar, but a smidge more than tab-completion.  I&#x27;d like to treat the agent as an ephemeral pair programmer.  Give the editor some keybind to mark and comment places in the code, and then I edit a prompt telling it what focused changes to make where I&#x27;ve marked.  After a round of changes is good and complete, the next batch starts with a fresh context and no memory of the previous one. Aider in watching mode is almost this, but I&#x27;d have to insert and sa",
         "score": 0.0,
         "tags": [],
         "published": "",
@@ -599,32 +612,18 @@
         "urgency": "低",
         "audience": "开发者",
         "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Ask HN: Are agent benchmarks the new credit ratings?",
-        "url": "https://news.ycombinator.com/item?id=50220248",
-        "source": "Hacker News",
-        "summary": "I don&#x27;t really think benchmarks are very useful than for wide marketing... If I were a customer that wanted to get some AI agents in my workflows, I would prefer the vendor to provide a small PoC delivering &quot;real&quot; results than looking to (possibly) cooked results in benchmarks (as you say, that one who pays gets the rating)...",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "易用性与流程",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
       }
     ],
     "category_counts": {
-      "集成与兼容": 3,
-      "可靠性与质量": 5,
-      "其他": 2,
-      "价格与付费": 1,
-      "易用性与流程": 1
+      "可靠性与质量": 6,
+      "其他": 3,
+      "价格与付费": 2,
+      "集成与兼容": 1
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「价格与付费」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }

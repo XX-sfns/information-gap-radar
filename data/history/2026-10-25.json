@@ -1,0 +1,630 @@
+{
+  "generated_at": "2026-10-25 21:51 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI News",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 17:00:00 GMT"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI News",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT"
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI News",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI News",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 19:00:00 GMT"
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "OpenAI News",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 06:00:00 GMT"
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source": "OpenAI News",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "source": "OpenAI News",
+      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 17:00:00 GMT"
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI News",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 21:00:00 GMT"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI News",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI News",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI News",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source": "OpenAI News",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 04:50:00 GMT"
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 16:15:50 GMT"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 22:24:34 GMT"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 07:51:31 GMT"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 18:26:30 GMT"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 17:35:36 GMT"
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 16:04:43 GMT"
+    },
+    {
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 14:58:18 GMT"
+    },
+    {
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 19 Oct 2026 00:00:00 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 393011,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-10-25T13:50:34Z"
+    },
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 382061,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis"
+      ],
+      "published": "2026-10-25T13:51:28Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 304841,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-10-25T13:51:09Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 288472,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-10-25T13:51:09Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 256945,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-25T13:50:04Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 256945,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-25T13:50:04Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 208546,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-10-25T13:49:32Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 195189,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-25T13:51:06Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 195189,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-25T13:51:06Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187739,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-25T13:50:21Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187739,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-25T13:50:21Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 184715,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "gemma3"
+      ],
+      "published": "2026-10-25T13:47:03Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 210.96,
+      "change_percent": -0.59,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -0.59%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1335.0,
+      "change_percent": 1.25,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +1.25%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "toolview slot priority 冲突：dsh-claude-style 与本插件同 key 同 priority (-1) 导致 throw，卡片不生效",
+        "url": "https://github.com/hyperion2144/dsh-hashline-edittool/issues/321",
+        "source": "GitHub Issues",
+        "summary": "<!-- DSH-IDEMPOTENCY-KEY: deck-4cfdf5de-5975765 -->\n## 现象\n\n当 `dsh-claude-style`（≥0.18.2）与本插件同时启用时，浏览器控制台报三个 `Uncaught Error`：\n\n```\nUncaught Error: keyed slot \"tool.call.toolview\" already has an entry for key \"read\" at priority -1 (registered by Kb) — register at a different priority to shadow it (lowest renders)\nUncaught Error: keyed slot \"tool.call.toolview\" already has an entry for key \"edit\" at priority -1 (registered by Kb) — register at a different priority to shadow it (lowest renders)\nUnc",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Published assets return 404 on the Cloudflare worker and ESI gazetta serve: images are broken on deployed sites",
+        "url": "https://github.com/gazetta-studio/gazetta-studio/issues/1330",
+        "source": "GitHub Issues",
+        "summary": "> *This was generated by AI while auditing docs/transform-adapters.md and docs/template-assets.md (2026-10-24) against main. [ran] = reproduced on a copy of examples/starter with local targets and in-process requests.*\n\n## What happens\nPublish copies a page's assets to the target (`packages/gazetta/src/assets/publish.ts:62, 86-101`), and pages reference them as `/assets/<name>-<hash>.<ext>`. No deployed server serves that path:\n- **ESI `gazetta serve`** has routes for `/sitemap.xml`, `/robots.tx",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Add an LLM-judged faithfulness check for replies",
+        "url": "https://github.com/AkibUllah/ai-support-agent/issues/3",
+        "source": "GitHub Issues",
+        "summary": "**Context**\n\nScenario checks in `support_agent/evals/runner.py` assert on tools, status, guardrails and `reply_contains` / `reply_not_contains` substrings. Substring checks pass the scripted model easily but are brittle for real models (paraphrases) and cannot catch a reply that invents a refund amount or delivery date not present in the tool results.\n\n**Proposal**\n\n- New optional turn key `faithful: true` that sends the reply plus the turn's tool results to a judge provider with a fixed rubric ",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed while running a email reading code",
+        "url": "https://stackoverflow.com/questions/61182601/error-err-stream-destroyed-cannot-call-write-after-a-stream-was-destroyed-whi",
+        "source": "Stack Overflow",
+        "summary": "<h2>✖ Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed at doWrite (_stream_writable.js:431:19) at clearBuffer (_stream_writable.js:574:7) at Socket.Writable.uncork (_stream_writable.js:329:7) at JSStreamSocket.doWrite (internal/js_stream_socket.js:167:17) at JSStream.onwrite (internal/js_stream_socket.js:24:57) at Socket.ondata (internal/js_stream_socket.js:68:22) at addChunk (_stream_readable.js:309:12) at readableAddChunk (_stream_readable.js:290:11) at Socket.Reada",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Outreach Round 33 microtask - claim verification",
+        "url": "https://github.com/WikiEducationFoundation/WikiEduDashboard/issues/7037",
+        "source": "GitHub Issues",
+        "summary": "(This is intended as an introductory task for potential Outreachy round 33 applicants.)\n\nThis task is designed to give you a taste of the kinds of thinking and research that will be involved in our potential Outreachy internship project, and to give you a chance to show how you think about the issues involved and communicate about them.\n\n0. Create a Wikipedia account (if you don't already have one), then log in to dashboard.wikiedu.org\n1. Visit https://dashboard.wikiedu.org/courses/Demo_Universi",
+        "score": 160.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Python: port the Rust-first fixes and features (pilot, #160, #166, #177)",
+        "url": "https://github.com/aisixteen/fantastic/issues/170",
+        "source": "GitHub Issues",
+        "summary": "Rust went first for the coder pilot (maintainer: Rust first, Python after the pilot ends well; Swift deprecated, #53). Python is the reference runtime, so it needs these ported with the same semantics and tests:\n\n- [x] **`context_fold {from?, to?, summary?}`**: the operator verb that folds a chosen range into one fold row. Rust: #166 / PR #169. Python has `_context_clear` and the automatic fold path to build on. The rows before the range must stay byte-identical (the view is built from the same ",
+        "score": 10.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "How to run AWS CLI command tasks in Ansible Tower",
+        "url": "https://stackoverflow.com/questions/33661931/how-to-run-aws-cli-command-tasks-in-ansible-tower",
+        "source": "Stack Overflow",
+        "summary": "<p>The AWS CLI command tasks in Ansible playbooks work fine form command line if AWS credentials are specified as environment variables as per boto requirements. More info can be found here [Environment Variables][1].\nBut they fail to run in Tower because it exports another set of env. vars:</p>\n<pre><code>AWS_ACCESS_KEY\nAWS_SECRET_KEY\n</code></pre>\n",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Input validation error: &#39;1.57&#39; is not of type &#39;number&#39; from langchain_mcp_adapter",
+        "url": "https://stackoverflow.com/questions/79935672/input-validation-error-1-57-is-not-of-type-number-from-langchain-mcp-adapte",
+        "source": "Stack Overflow",
+        "summary": "<p>I am getting the following error:</p>\n<pre><code>An error occurred: Input validation error: '1.57' is not of type 'number'\n</code></pre>\n<p>From what I understand, this happens before the MCP server is called: LangChain’s MCP adapter is validating the tool call arguments against the JSON Schema and the model is emitting <code>&quot;1.57&quot;</code> as a string instead of <code>1.57</code> as a number, so the validation fails.</p>\n<p>Is that understanding correct? And what’s the recommended w",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Memoria: motivo exacto cuando el modelo por omisión no está permitido, y un error propio para «no es local»",
+        "url": "https://github.com/Vasak-OS/vasak-assistant/issues/24",
+        "source": "GitHub Issues",
+        "summary": "Hay dos detalles en la puerta del modelo efectivo (`chat_local_only`, #21):\n\n1. **El motivo de `MemoryStatus` puede ser falso.** Si `active_model` falla porque el modelo por omisión es cloud y no hay `allow_remote`, `MemoryStatus` dice «El modelo no responde». En realidad el modelo responde, pero no está permitido. La propuesta es distinguir ese error, o decir «El modelo no está disponible».\n2. **`is_not_local` (`daemon/src/backend.rs`) compara el texto del error.** Falla cerrado (si el texto ca",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "feat: First-class OpenRouter LLM provider (latency-first routing)",
+        "url": "https://github.com/eldtechnologies/conduit/issues/147",
+        "source": "GitHub Issues",
+        "summary": "## Why\nThe LLM content filter runs **synchronously in the `/api/send` request path**: the frontend waits for it, with a default `LLM_TIMEOUT` of 5000 ms, and a timeout goes through the key's fail mode (`block` → 503). The model's output is tiny (`max_tokens: 200`, a small JSON verdict), so end-to-end **latency** matters more than throughput or per-token cost.\n\nToday only `LLM_PROVIDER=anthropic` and `openai` exist, each calling its vendor directly. OpenRouter would allow fast model and provider ",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "We should be more ambitious with the software we build",
+        "url": "https://news.ycombinator.com/item?id=50231536",
+        "source": "Hacker News",
+        "summary": "While I agree with you in general, I think the real value of AI (for me, I wouldn’t want to try to change anyone else’s mind on this) lays in three areas: 1. all the little wins saving time at little tasks like analyzing a Haskell, Java, etc. error stacks; and all sorts of little time wasting problems. All those saved minutes add up. 2. Brainstorming before coding, and even before design. I like to write up ideas in a Markdown file and then ask one or two strong AIs to push back, to try to fill ",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Ask HN: Are tab completion models dead?",
+        "url": "https://news.ycombinator.com/item?id=50231518",
+        "source": "Hacker News",
+        "summary": "I&#x27;m craving something similar, but a smidge more than tab-completion.  I&#x27;d like to treat the agent as an ephemeral pair programmer.  Give the editor some keybind to mark and comment places in the code, and then I edit a prompt telling it what focused changes to make where I&#x27;ve marked.  After a round of changes is good and complete, the next batch starts with a fresh context and no memory of the previous one. Aider in watching mode is almost this, but I&#x27;d have to insert and sa",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      }
+    ],
+    "category_counts": {
+      "可靠性与质量": 6,
+      "其他": 3,
+      "价格与付费": 2,
+      "集成与兼容": 1
+    },
+    "next_actions": [
+      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「价格与付费」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}
