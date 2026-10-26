@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-25 21:51 CST",
+  "generated_at": "2026-10-27 00:16 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "OpenAI News",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
+    },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -122,17 +133,6 @@
         "AI/科技"
       ],
       "published": "Wed, 21 Oct 2026 13:00:00 GMT"
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "source": "OpenAI News",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 21 Oct 2026 04:50:00 GMT"
     },
     {
       "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
@@ -273,178 +273,178 @@
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 393011,
+      "score": 393132,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-25T13:50:34Z"
+      "published": "2026-10-26T16:14:25Z"
     },
     {
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 382061,
+      "score": 389840,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "binary-analysis"
       ],
-      "published": "2026-10-25T13:51:28Z"
+      "published": "2026-10-26T16:16:11Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 304841,
+      "score": 305458,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-25T13:51:09Z"
+      "published": "2026-10-26T16:13:47Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 288472,
+      "score": 289473,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-25T13:51:09Z"
+      "published": "2026-10-26T16:16:22Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 256945,
+      "score": 257308,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-25T13:50:04Z"
+      "published": "2026-10-26T16:12:49Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 256945,
+      "score": 257308,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-25T13:50:04Z"
+      "published": "2026-10-26T16:12:49Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 208546,
+      "score": 208645,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-25T13:49:32Z"
+      "published": "2026-10-26T16:04:55Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 195189,
+      "score": 195574,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-25T13:51:06Z"
+      "published": "2026-10-26T16:15:53Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 195189,
+      "score": 195574,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-25T13:51:06Z"
+      "published": "2026-10-26T16:15:53Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187739,
+      "score": 187764,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-25T13:50:21Z"
+      "published": "2026-10-26T16:15:07Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187739,
+      "score": 187764,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-25T13:50:21Z"
+      "published": "2026-10-26T16:15:07Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 184715,
+      "score": 184857,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "gemma3"
       ],
-      "published": "2026-10-25T13:47:03Z"
+      "published": "2026-10-26T16:15:10Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 210.96,
-      "change_percent": -0.59,
-      "signal": "观望",
-      "rationale": "近一交易日涨跌 -0.59%；只作信息展示，不构成投资建议。"
+      "price": 215.43,
+      "change_percent": 2.12,
+      "signal": "关注",
+      "rationale": "近一交易日涨跌 +2.12%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
@@ -458,43 +458,82 @@
   "information_gap": {
     "items": [
       {
-        "title": "toolview slot priority 冲突：dsh-claude-style 与本插件同 key 同 priority (-1) 导致 throw，卡片不生效",
-        "url": "https://github.com/hyperion2144/dsh-hashline-edittool/issues/321",
+        "title": "plan: standalone amem sufficient without claude-mem, with no resident process and bounded memory",
+        "url": "https://github.com/STAIxBWLB/agent-mem/issues/13",
         "source": "GitHub Issues",
-        "summary": "<!-- DSH-IDEMPOTENCY-KEY: deck-4cfdf5de-5975765 -->\n## 现象\n\n当 `dsh-claude-style`（≥0.18.2）与本插件同时启用时，浏览器控制台报三个 `Uncaught Error`：\n\n```\nUncaught Error: keyed slot \"tool.call.toolview\" already has an entry for key \"read\" at priority -1 (registered by Kb) — register at a different priority to shadow it (lowest renders)\nUncaught Error: keyed slot \"tool.call.toolview\" already has an entry for key \"edit\" at priority -1 (registered by Kb) — register at a different priority to shadow it (lowest renders)\nUnc",
-        "score": 3.0,
+        "summary": "Plan issue. This issue is the spec, and implementation waits for a go-ahead. It revises agent-hub#412 decision D3 (\"claude-mem role: optional capture and recall source; revisit after P10\") and the #412 principle \"Curated, not captured. Raw capture stays in claude-mem\".\n\n## User decisions (2026-10-17)\n\n- claude-mem's Chroma is too heavy. amem alone must be enough, without claude-mem.\n- amem must not use memory or processes excessively.\n- amem must be usable on its own, without agent-hub.\n\n## Evid",
+        "score": 21.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "集成与兼容",
         "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 2 项"
+        "audience": "开发者",
+        "evidence": "关键词命中 4 项"
       },
       {
-        "title": "Published assets return 404 on the Cloudflare worker and ESI gazetta serve: images are broken on deployed sites",
-        "url": "https://github.com/gazetta-studio/gazetta-studio/issues/1330",
+        "title": "Assistant: model dropdown silently disappears when Anthropic API key expires, with no error shown",
+        "url": "https://github.com/posit-dev/positron/issues/16881",
         "source": "GitHub Issues",
-        "summary": "> *This was generated by AI while auditing docs/transform-adapters.md and docs/template-assets.md (2026-10-24) against main. [ran] = reproduced on a copy of examples/starter with local targets and in-process requests.*\n\n## What happens\nPublish copies a page's assets to the target (`packages/gazetta/src/assets/publish.ts:62, 86-101`), and pages reference them as `/assets/<name>-<hash>.<ext>`. No deployed server serves that path:\n- **ESI `gazetta serve`** has routes for `/sitemap.xml`, `/robots.tx",
-        "score": 2.0,
+        "summary": "## Description\n\nWhen the Anthropic API key used by Positron Assistant expires (or is otherwise no longer valid), the model dropdown silently disappears from the chat input. Sending a message just says \"Please pick a model\", but there is no picker to pick one from. Nothing tells the user why: no error or warning appears in the chat panel, and the authentication / provider configuration section gives no indication that the key is invalid.\n\nThe result is that the Assistant just looks broken, and th",
+        "score": 8.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Add an LLM-judged faithfulness check for replies",
-        "url": "https://github.com/AkibUllah/ai-support-agent/issues/3",
+        "title": "[playtest] After a game abandoned at the action budget, the game page, draft page and client tell the chooser \"game N was a draw\"",
+        "url": "https://github.com/dieterichlawson/mtg-imsaho/issues/918",
         "source": "GitHub Issues",
-        "summary": "**Context**\n\nScenario checks in `support_agent/evals/runner.py` assert on tools, status, guardrails and `reply_contains` / `reply_not_contains` substrings. Substring checks pass the scripted model easily but are brittle for real models (paraphrases) and cannot catch a reply that invents a refund amount or delivery date not present in the tool results.\n\n**Proposal**\n\n- New optional turn key `faithful: true` that sends the reply plus the turn's tool results to a judge provider with a fixed rubric ",
-        "score": 0.0,
+        "summary": "**Found-by**: playtest crew 2026-10-23, drafting night, idea D53 (a drawn game in a match).\n\n**Target**: machine (`mtg-draft-runner/src/server.rs` `last_game_why`; `mtg-gui/src/draft/render.ts` between-games section; `mtg-draft-runner/src/client.rs` `between_listing`)\n\n**Repro** (code read; to reach it live, a game must run into the 50,000-action cap):\n```\nsed -n 979,986p mtg-draft-runner/src/server.rs\nsed -n 443,448p mtg-gui/src/draft/render.ts\nsed -n 1052,1059p mtg-draft-runner/src/client.rs\n`",
+        "score": 1.0,
         "tags": [],
         "published": "",
         "category": "其他",
         "urgency": "高",
-        "audience": "个人用户",
+        "audience": "开发者",
         "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "[Security] Add composable Omnigent Skills for threat modeling, review, investigation, and retesting",
+        "url": "https://github.com/MoonLadderStudios/MoonMind/issues/5042",
+        "source": "GitHub Issues",
+        "summary": "Tracking epic: #5034. Design proposal: [design PR #5033](https://github.com/MoonLadderStudios/MoonMind/pull/5033).\n\n## Outcome and current evidence\n\nThe operator can ask the selected Omnigent harness to assess code or architecture, investigate scanner evidence, validate a bounded hypothesis, and verify an authorized fix through existing Skills, ContainerJobs and artifacts. Reasoning uses the selected harness, Provider Profile, model and budget; no second LLM provider or security-agent framework ",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "No signs of AI payoff outside the tech sector",
+        "url": "https://news.ycombinator.com/item?id=50241019",
+        "source": "Hacker News",
+        "summary": "&gt;Debugging can be done by writing&#x2F;deleting&#x2F;modifying code (e.g., write a test and run it, or add log statements, or remove a line and re-run the program, etc.), or by running shell tools We can end with things like &quot;drinking cofee is an essential part of debugging for me&quot;. Debugging is an integration work, just like architecture planning, so it&#x27;s somehow tied to plain english skills, reading docs, running whatever existing commands there are, parsing tools output is v",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Anthropic S-1",
+        "url": "https://news.ycombinator.com/item?id=50244431",
+        "source": "Hacker News",
+        "summary": "Distilling just works too well. It costs much more to aggregate the data in the first place and train the first model, but once that exists and you are selling access, the second guy can train their model by using the first model to generate the training data. The only ways to fight this is trying to either:\n1. Block it by cutting off access, which is pretty tough because it basically means you cannot offer unmonitored access which is a no-no to a lot of customers, and even then the workload loo",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "高",
+        "audience": "团队/企业",
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed while running a email reading code",
@@ -510,30 +549,43 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Outreach Round 33 microtask - claim verification",
-        "url": "https://github.com/WikiEducationFoundation/WikiEduDashboard/issues/7037",
+        "title": "[UI/26] Native Workbench auf Funktionsparität und vollständige Arbeitswege abnehmen",
+        "url": "https://github.com/iret77/nexgenvideo/issues/574",
         "source": "GitHub Issues",
-        "summary": "(This is intended as an introductory task for potential Outreachy round 33 applicants.)\n\nThis task is designed to give you a taste of the kinds of thinking and research that will be involved in our potential Outreachy internship project, and to give you a chance to show how you think about the issues involved and communicate about them.\n\n0. Create a Wikipedia account (if you don't already have one), then log in to dashboard.wikiedu.org\n1. Visit https://dashboard.wikiedu.org/courses/Demo_Universi",
-        "score": 160.0,
+        "summary": "<!-- ngv-agent-handoff:start -->\n## Übergabe an den nächsten Agenten · 2026-09-28\n\n**Status:** `status:open`. [Zentrale Übergabe und Arbeitsreihenfolge](https://github.com/iret77/nexgenvideo/issues/550#issuecomment-5869505574).\n\n**Vorhandener Stand:** Kein Implementierungs-PR im aktuellen Abgleich belegt.\n\n**Hier aufnehmen:** Issue #574: vorhandene Umsetzungskriterien und Einstiegspunkte; neue Arbeit auf passender, ausdrücklich benannter Basis im eigenen Worktree.\n\n**Nächster Schritt Richtung PR",
+        "score": 57.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Python: port the Rust-first fixes and features (pilot, #160, #166, #177)",
-        "url": "https://github.com/aisixteen/fantastic/issues/170",
-        "source": "GitHub Issues",
-        "summary": "Rust went first for the coder pilot (maintainer: Rust first, Python after the pilot ends well; Swift deprecated, #53). Python is the reference runtime, so it needs these ported with the same semantics and tests:\n\n- [x] **`context_fold {from?, to?, summary?}`**: the operator verb that folds a chosen range into one fold row. Rust: #166 / PR #169. Python has `_context_clear` and the automatic fold path to build on. The rows before the range must stay byte-identical (the view is built from the same ",
-        "score": 10.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
+        "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "evidence": "关键词命中 4 项"
+      },
+      {
+        "title": "Extract lowercase struct into a reusable repository and migrate consumers",
+        "url": "https://github.com/erniesg/erniesg/issues/124",
+        "source": "GitHub Issues",
+        "summary": "## Provider\n\nvm-codex\n\n## Goal\n\nCreate the lowercase `erniesg/struct` repository and publish the reusable `@erniesg/struct` package, then migrate `erniesg/erniesg` from `src/struct` without changing extraction or rendered output.\n\nThis extends #107. That issue makes `struct` the internal contract; this issue gives the contract an independent repository, release lifecycle, compatibility policy, and consumer-facing package.\n\n## Blocked by\n\n- #107 — complete the in-repository extraction/rendering b",
+        "score": 27.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 4 项"
+      },
+      {
+        "title": "[BUG] Microsoft Publisher import quirks",
+        "url": "https://github.com/rmellis/open-publisher/issues/10",
+        "source": "GitHub Issues",
+        "summary": "**Expected behavior**\n<!-- A clear and concise description of what you expected to happen. -->\n\nWhen opening .pub files, I expected a reasonably accurate conversion with some adjustments necessary. It opens with duplicate text layered over each other.\n\n**Screenshots or Screen Recordings**\n<!-- If applicable, add screenshots or a short video to help explain your problem. Since OpenPublisher is a visual layout tool, this is highly recommended! \n\n<img width=\"1932\" height=\"1038\" alt=\"Image\" src=\"htt",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "How to run AWS CLI command tasks in Ansible Tower",
@@ -560,70 +612,18 @@
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Memoria: motivo exacto cuando el modelo por omisión no está permitido, y un error propio para «no es local»",
-        "url": "https://github.com/Vasak-OS/vasak-assistant/issues/24",
-        "source": "GitHub Issues",
-        "summary": "Hay dos detalles en la puerta del modelo efectivo (`chat_local_only`, #21):\n\n1. **El motivo de `MemoryStatus` puede ser falso.** Si `active_model` falla porque el modelo por omisión es cloud y no hay `allow_remote`, `MemoryStatus` dice «El modelo no responde». En realidad el modelo responde, pero no está permitido. La propuesta es distinguir ese error, o decir «El modelo no está disponible».\n2. **`is_not_local` (`daemon/src/backend.rs`) compara el texto del error.** Falla cerrado (si el texto ca",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "feat: First-class OpenRouter LLM provider (latency-first routing)",
-        "url": "https://github.com/eldtechnologies/conduit/issues/147",
-        "source": "GitHub Issues",
-        "summary": "## Why\nThe LLM content filter runs **synchronously in the `/api/send` request path**: the frontend waits for it, with a default `LLM_TIMEOUT` of 5000 ms, and a timeout goes through the key's fail mode (`block` → 503). The model's output is tiny (`max_tokens: 200`, a small JSON verdict), so end-to-end **latency** matters more than throughput or per-token cost.\n\nToday only `LLM_PROVIDER=anthropic` and `openai` exist, each calling its vendor directly. OpenRouter would allow fast model and provider ",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "We should be more ambitious with the software we build",
-        "url": "https://news.ycombinator.com/item?id=50231536",
-        "source": "Hacker News",
-        "summary": "While I agree with you in general, I think the real value of AI (for me, I wouldn’t want to try to change anyone else’s mind on this) lays in three areas: 1. all the little wins saving time at little tasks like analyzing a Haskell, Java, etc. error stacks; and all sorts of little time wasting problems. All those saved minutes add up. 2. Brainstorming before coding, and even before design. I like to write up ideas in a Markdown file and then ask one or two strong AIs to push back, to try to fill ",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Ask HN: Are tab completion models dead?",
-        "url": "https://news.ycombinator.com/item?id=50231518",
-        "source": "Hacker News",
-        "summary": "I&#x27;m craving something similar, but a smidge more than tab-completion.  I&#x27;d like to treat the agent as an ephemeral pair programmer.  Give the editor some keybind to mark and comment places in the code, and then I edit a prompt telling it what focused changes to make where I&#x27;ve marked.  After a round of changes is good and complete, the next batch starts with a fresh context and no memory of the previous one. Aider in watching mode is almost this, but I&#x27;d have to insert and sa",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
       }
     ],
     "category_counts": {
-      "可靠性与质量": 6,
-      "其他": 3,
-      "价格与付费": 2,
-      "集成与兼容": 1
+      "集成与兼容": 5,
+      "可靠性与质量": 5,
+      "其他": 1,
+      "价格与付费": 1
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「价格与付费」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「集成与兼容」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 1 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
