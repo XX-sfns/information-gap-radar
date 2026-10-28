@@ -1,0 +1,630 @@
+{
+  "generated_at": "2026-10-29 00:13 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "OpenAI News",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT"
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "source": "OpenAI News",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT"
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "source": "OpenAI News",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 15:00:00 GMT"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI News",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI News",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 22:00:00 GMT"
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI News",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 14:30:00 GMT"
+    },
+    {
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI News",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 13:45:00 GMT"
+    },
+    {
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI News",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 10:00:00 GMT"
+    },
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "OpenAI News",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "source": "OpenAI News",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI News",
+      "summary": "Bringing fast and capable computer use to everyone",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 14:58:17 GMT"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 17:16:52 GMT"
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 16:12:42 GMT"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 22:24:34 GMT"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 07:51:31 GMT"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 17:35:36 GMT"
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 16:04:43 GMT"
+    },
+    {
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 14:58:18 GMT"
+    },
+    {
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 20 Oct 2026 00:00:00 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 401091,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis"
+      ],
+      "published": "2026-10-28T16:13:21Z"
+    },
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 393265,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-10-28T16:12:22Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 307157,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-10-28T16:13:10Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 291489,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-10-28T16:12:15Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 257992,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-28T16:12:18Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 257992,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-28T16:12:18Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 208880,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-10-28T16:08:57Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 196316,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-28T16:12:29Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 196316,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-28T16:12:29Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187804,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-28T15:48:00Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187804,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-28T15:48:00Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 185112,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "glm"
+      ],
+      "published": "2026-10-28T16:02:48Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 216.95,
+      "change_percent": -0.45,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -0.45%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1355.9,
+      "change_percent": 0.44,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +0.44%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "fix(registry): a failed overlay demote requeues an import whose writes are already durable",
+        "url": "https://github.com/jentic/jentic-one/issues/2028",
+        "source": "GitHub Issues",
+        "summary": "Found reviewing #1995. The rule being broken is stated verbatim in a comment two blocks above the code that breaks it.\n\n`_recover_supersede` maps a `False` from `_deprecate_superseded_overlay` to `_Recovery.ERRORED`, which clears `all_failures_deterministic` and raises `IngestJobError`.\n\nScenario: a prior attempt already committed the fresh upstream revision and made it current. The retry re-ingests identical content (duplicate), `_recover_supersede` confirms the durable effect landed, then the ",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[Security] Implement the composable security assessment program",
+        "url": "https://github.com/MoonLadderStudios/MoonMind/issues/5034",
+        "source": "GitHub Issues",
+        "summary": "## Outcome\n\nDeliver MoonMind's composable security-assessment program through the existing Omnigent, Skill, Temporal, Container Job, Secrets, restricted-egress, and artifact/report owners. The operator can assess code and infrastructure, investigate evidence, perform already-authorized remediation, and understand coverage and verified outcomes.\n\nDesign proposal: https://github.com/MoonLadderStudios/MoonMind/pull/5033. [Declarative design and current tool recommendations](https://github.com/MoonL",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "v2: model manager, FluidAudio engines, Mac meeting notes",
+        "url": "https://github.com/Jakob-Grunwald-AI-ML-Engineering/legato/issues/5",
+        "source": "GitHub Issues",
+        "summary": "On-device model choice and meeting notes on the Mac.\n\nDone when\n- [ ] Shared model manager: download, progress, storage, delete, switch (STT and LLM models)\n- [ ] FluidAudio multilingual engines (Nemotron 3.5 streaming for live, Parakeet for post-meeting passes), engine switch on both platforms\n- [ ] Mac meeting notes: system audio + mic, live transcript, me/them split, Markdown export\n- [ ] Summary interface with three backends: Apple Foundation Models (default), MLX local model (Mac), Claude A",
+        "score": 13.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "fix(registry): three import-failure classification paths fail in the unsafe direction",
+        "url": "https://github.com/jentic/jentic-one/issues/2029",
+        "source": "GitHub Issues",
+        "summary": "Found reviewing #1995. Three independent spots where a classification defaults the wrong way, all in the retry/terminal decision the PR reworked.\n\n**1. Chain-walk truncation defaults to non-retryable** — `import_service.py`, `_is_deterministic_source_failure`.\n`_exception_chain` stops at `_MAX_CHAIN_DEPTH = 8`. A chain whose 9th link is the real `DatabaseUnavailableError` never reaches the `if not isinstance(link, BaseIngestError): return False` check; the loop exhausts and falls through to `ret",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Run Linux commands from PowerShell",
+        "url": "https://stackoverflow.com/questions/46109021/run-linux-commands-from-powershell",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm able to run below code on Linux to get unmounted disk succesfully.</p>\n\n<pre class=\"lang-bash prettyprint-override\"><code>alldisks=`/sbin/sfdisk -s | grep -v 'total' | awk -F':' '{print $1}'`\nunmounted_disks=\"\"\n\nfor disk in $alldisks\ndo\n  /sbin/blkid -o list | grep -q \"$disk\"\n  if [ $? -ne 0 ]; then\n    unmounted_disks=\"$unmounted_disks $disk\"\n  fi\ndone\n\necho $unmounted_disks\n</code></pre>\n\n<p>But I'm automating this through workbook using PowerShell. I tried below way of sending to Linux",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "How to perform Right Click on an object using SendKeys in UFT?",
+        "url": "https://stackoverflow.com/questions/42919184/how-to-perform-right-click-on-an-object-using-sendkeys-in-uft",
+        "source": "Stack Overflow",
+        "summary": "<p>I want to perform a <strong>Right Click</strong> on an object in my Application Under Test but I am not able to perform this action. Is there any way to do it using <strong>sendkeys</strong>?</p>\n",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Postgresql MCP server not running. Tool showing error",
+        "url": "https://stackoverflow.com/questions/79709658/postgresql-mcp-server-not-running-tool-showing-error",
+        "source": "Stack Overflow",
+        "summary": "<p>Here is the code I am running for mcp-server on cursor -</p>\n<pre><code>from contextlib import asynccontextmanager\nfrom collections.abc import AsyncIterator\nfrom dataclasses import dataclass\n\nimport asyncpg\nfrom mcp.server.fastmcp import FastMCP, Context\n\n# Async PostgreSQL wrapper using asyncpg\nclass Database:\n    def __init__(self, pool: asyncpg.Pool):\n        self.pool = pool\n\n    @classmethod\n    async def connect(cls) -&gt; &quot;Database&quot;:\n        pool = await asyncpg.create_pool(\n",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Start Doing Graph Theory",
+        "url": "https://news.ycombinator.com/item?id=50276029",
+        "source": "Hacker News",
+        "summary": "Sure, but you can build an agentic system which verifies outputs and fact corrects, with probably better accuracy than a human would. As well, if people were a bit less anti-AI then maybe we can get disclaimers that things are written by AI that don&#x27;t immediately torpedo any value the writing has.",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+        "url": "https://news.ycombinator.com/item?id=50275937",
+        "source": "Hacker News",
+        "summary": "I think this is something where definitions and static roles might serve as a useful reference point. Is it really the case that the trillion-dollar frontier AI labs are behind the curve, and only some other group of people knows how to <i>really</i> leverage AI? It&#x27;s not impossible - Nvidia employees aren&#x27;t the best in the world at using their chips - but the hypothesis practically demands some analysis of who these clever curve-setters are and why we&#x27;re hearing so much less abou",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+        "url": "https://news.ycombinator.com/item?id=50275804",
+        "source": "Hacker News",
+        "summary": "One thing I&#x27;ve seen with AI is AI as used by software developers is quickly diverging from AI that&#x27;s used by knowledge workers. Knowledge workers use it primarily to &quot;augment&quot; their work, answer questions with AI, get it to create documents, etc. But it&#x27;s usually 1 individual to 1-2 conversation threads. Meanwhile in software development were running fleets of agents. At work we have it setup where firing off one agent request will eventually lead to like 10-20 AI calls ",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "The Advantages of Mobile Linux over AOSP (LineageOS, CrDroid, GrapheneOS, etc.)",
+        "url": "https://news.ycombinator.com/item?id=50275696",
+        "source": "Hacker News",
+        "summary": "Before we start this debate, let me state from the outset that I have been installing AOSP derivatives on my own phones since 2015, and I don&#x27;t want to disparage all the hard work being done by the volunteers at LineageOS, GrapheneOS, and the other custom ROMs. However, if the long-term goal is digital freedom and user empowerment, dependence on Google puts us in a very precarious position, and I suspect that Google and the phone brands will keep turning the screws and making it harder and ",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "The Agent SDK",
+        "url": "https://news.ycombinator.com/item?id=50275124",
+        "source": "Hacker News",
+        "summary": "My 2c is that agents are not at the level where companies can easily just have unconstrained LLM with tools and let it be. Different parts of the workflow can have different models, different tools, different constraints, guardrails, etc. The entrypoint still has to come from somewhere, and it&#x27;s much more convenient to be able to explain the security and legal teams how data is handled, what is logged, how you can have control over a scenario where the agent does something unexpected. Sure,",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      }
+    ],
+    "category_counts": {
+      "可靠性与质量": 4,
+      "集成与兼容": 4,
+      "其他": 3,
+      "隐私与合规": 1
+    },
+    "next_actions": [
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}

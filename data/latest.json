@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-27 23:30 CST",
+  "generated_at": "2026-10-29 00:13 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "OpenAI News",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT"
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "source": "OpenAI News",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT"
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "source": "OpenAI News",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 15:00:00 GMT"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI News",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI News",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 00:00:00 GMT"
+    },
     {
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "url": "https://openai.com/index/greptile-code-review-codex-astra",
@@ -80,70 +135,37 @@
       "published": "Mon, 26 Oct 2026 00:00:00 GMT"
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI News",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 23 Oct 2026 17:00:00 GMT"
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI News",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT"
-    },
-    {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI News",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 23 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI News",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 22 Oct 2026 19:00:00 GMT"
-    },
-    {
-      "title": "What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "source": "OpenAI News",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 22 Oct 2026 06:00:00 GMT"
-    },
-    {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
       "source": "Hugging Face Blog",
       "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Fri, 23 Oct 2026 16:15:50 GMT"
+      "published": "Wed, 28 Oct 2026 14:58:17 GMT"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 17:16:52 GMT"
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 16:12:42 GMT"
     },
     {
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
@@ -177,17 +199,6 @@
         "AI/科技"
       ],
       "published": "Thu, 22 Oct 2026 07:51:31 GMT"
-    },
-    {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 21 Oct 2026 18:26:30 GMT"
     },
     {
       "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
@@ -254,17 +265,6 @@
         "AI/科技"
       ],
       "published": "Tue, 20 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 19 Oct 2026 00:00:00 GMT"
     }
   ],
   "github_trending": [
@@ -273,178 +273,178 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 395644,
+      "score": 401091,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "binary-analysis"
       ],
-      "published": "2026-10-27T15:29:58Z"
+      "published": "2026-10-28T16:13:21Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 393202,
+      "score": 393265,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-27T15:28:26Z"
+      "published": "2026-10-28T16:12:22Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 306091,
+      "score": 307157,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-27T15:28:57Z"
+      "published": "2026-10-28T16:13:10Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 290505,
+      "score": 291489,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-27T15:30:10Z"
+      "published": "2026-10-28T16:12:15Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 257641,
+      "score": 257992,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-27T15:21:49Z"
+      "published": "2026-10-28T16:12:18Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 257641,
+      "score": 257992,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-27T15:21:49Z"
+      "published": "2026-10-28T16:12:18Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 208768,
+      "score": 208880,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-27T15:27:42Z"
+      "published": "2026-10-28T16:08:57Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 195961,
+      "score": 196316,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-27T15:29:26Z"
+      "published": "2026-10-28T16:12:29Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 195961,
+      "score": 196316,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-27T15:29:26Z"
+      "published": "2026-10-28T16:12:29Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187785,
+      "score": 187804,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-27T13:44:49Z"
+      "published": "2026-10-28T15:48:00Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187785,
+      "score": 187804,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-27T13:44:49Z"
+      "published": "2026-10-28T15:48:00Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 184991,
+      "score": 185112,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "glm"
       ],
-      "published": "2026-10-27T15:21:54Z"
+      "published": "2026-10-28T16:02:48Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 217.84,
-      "change_percent": 0.85,
+      "price": 216.95,
+      "change_percent": -0.45,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +0.85%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 -0.45%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
@@ -458,24 +458,11 @@
   "information_gap": {
     "items": [
       {
-        "title": "Freeform apply_patch skips file checkpoints, so rewind cannot restore edits",
-        "url": "https://github.com/Twigpine/zero/issues/1162",
+        "title": "fix(registry): a failed overlay demote requeues an import whose writes are already durable",
+        "url": "https://github.com/jentic/jentic-one/issues/2028",
         "source": "GitHub Issues",
-        "summary": "### Version / branch / commit\n\n- Source checkout of `main` at `ef4da1323f1097863ae278224b5f304c2fff909a` (not a released binary).\n- The affected checkpoint and execution code is unchanged on upstream `main` at `cd3e0b0a9ff646447611439732eb0a7cc80a4bbb`, checked on 2026-10-18.\n\n### OS and environment\n\n- Linux x86_64, kernel `6.8.0-124-generic`.\n- Go `1.26.9 linux/amd64`, as declared by `go.mod`.\n- Checkpoint capture enabled (`ZERO_CHECKPOINTS=on`).\n- Reproduced in both the headless CLI and TUI us",
-        "score": 3.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "No signs of AI payoff outside the tech sector",
-        "url": "https://news.ycombinator.com/item?id=50241019",
-        "source": "Hacker News",
-        "summary": "&gt;Debugging can be done by writing&#x2F;deleting&#x2F;modifying code (e.g., write a test and run it, or add log statements, or remove a line and re-run the program, etc.), or by running shell tools We can end with things like &quot;drinking cofee is an essential part of debugging for me&quot;. Debugging is an integration work, just like architecture planning, so it&#x27;s somehow tied to plain english skills, reading docs, running whatever existing commands there are, parsing tools output is v",
-        "score": 0.0,
+        "summary": "Found reviewing #1995. The rule being broken is stated verbatim in a comment two blocks above the code that breaks it.\n\n`_recover_supersede` maps a `False` from `_deprecate_superseded_overlay` to `_Recovery.ERRORED`, which clears `all_failures_deterministic` and raises `IngestJobError`.\n\nScenario: a prior attempt already committed the fresh upstream revision and made it current. The retry re-ingests identical content (duplicate), `_recover_supersede` confirms the durable effect landed, then the ",
+        "score": 4.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -484,37 +471,24 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "[用户反馈总览] 2026-10-03～10-24：去重归因、修复现状与待验收",
-        "url": "https://github.com/ptjworks/resume-form-assistant-plugin/issues/301",
+        "title": "[Security] Implement the composable security assessment program",
+        "url": "https://github.com/MoonLadderStudios/MoonMind/issues/5034",
         "source": "GitHub Issues",
-        "summary": "## 目标与当前结论\n\n把分散在用户反馈日报、原始反馈和后续修复中的问题整理成一个可执行的总入口。**本 issue 继续保持开放，归档日报和原始反馈不等于问题已经修复。** 这里以问题和证据去重，不删除原始记录；不同表现若可能有不同原因，仍分别跟踪。\n\n本次快照：2026-10-27（Asia/Taipei）；仓库 main `700f697b40337b7b0871c4e36cb213c8d64b6ede`，插件 manifest 为 0.4.4。历史报告主要来自 0.4.1/0.4.2；不能因为旧报告仍在日报中出现，就断言 0.4.4 上仍在复现。GitHub [v0.4.4 release](https://github.com/ptjworks/resume-form-assistant-plugin/releases/tag/v0.4.4) 已发布，其 tag 包含 #324 和 #329；本次未核验用户安装版本、浏览器商店实际覆盖率或现场问题是否消失。\n\n| 去重后的问题 | 原始记录与关联 | 现状 / 本 issue 的任务 |\n| --- | --- | --- |",
-        "score": 0.0,
+        "summary": "## Outcome\n\nDeliver MoonMind's composable security-assessment program through the existing Omnigent, Skill, Temporal, Container Job, Secrets, restricted-egress, and artifact/report owners. The operator can assess code and infrastructure, investigate evidence, perform already-authorized remediation, and understand coverage and verified outcomes.\n\nDesign proposal: https://github.com/MoonLadderStudios/MoonMind/pull/5033. [Declarative design and current tool recommendations](https://github.com/MoonL",
+        "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "隐私与合规",
+        "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 5 项"
+        "evidence": "关键词命中 3 项"
       },
       {
-        "title": "[FEATURE] Add the ability to manage multiple Claude accounts within the Claude Desktop app with easy switching between profiles.",
-        "url": "https://github.com/anthropics/claude-code/issues/18435",
+        "title": "v2: model manager, FluidAudio engines, Mac meeting notes",
+        "url": "https://github.com/Jakob-Grunwald-AI-ML-Engineering/legato/issues/5",
         "source": "GitHub Issues",
-        "summary": "### Preflight Checklist\n\n- [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet\n- [x] This is a single feature request (not multiple features)\n\n### Problem Statement\n\nClaude Desktop currently requires users to sign out and sign back in to switch between different Claude accounts. This creates significant friction for users who maintain separate accounts for work and personal use, or",
-        "score": 223.0,
-        "tags": [],
-        "published": "",
-        "category": "易用性与流程",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Comprovar carregamento real das instruções Markdown do banca-auditor no DSH",
-        "url": "https://github.com/Base-Analitica/DSHbanca/issues/3",
-        "source": "GitHub Issues",
-        "summary": "> **GATE DE AUTORIZAÇÃO MATERIAL — 2026-10-23, conferência adicional (prevalece sobre encaminhamento anterior):** a [renovação de 18/10, comentário #6256195777](https://github.com/Base-Analitica/DSHbanca/issues/3#issuecomment-6256195777) **veda expressamente `Agent.send`**. Entretanto, o observador gerado pelo runner da PR #1 em `scripts/e2e-dsh-profile.ts:634-640` usa `probeAgent.send(..., \"next-turn\", true)` **duas vezes** para produzir `agent/pre-step`, embora os hooks rejeitem antes de `step",
-        "score": 36.0,
+        "summary": "On-device model choice and meeting notes on the Mac.\n\nDone when\n- [ ] Shared model manager: download, progress, storage, delete, switch (STT and LLM models)\n- [ ] FluidAudio multilingual engines (Nemotron 3.5 streaming for live, Parakeet for post-meeting passes), engine switch on both platforms\n- [ ] Mac meeting notes: system audio + mic, live transcript, me/them split, Markdown export\n- [ ] Summary interface with three backends: Apple Foundation Models (default), MLX local model (Mac), Claude A",
+        "score": 13.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
@@ -523,11 +497,11 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "[UI] Empty BottomAppBar rendered on Facility Config page in app context (Android)",
-        "url": "https://github.com/learningequality/kolibri/issues/15545",
+        "title": "fix(registry): three import-failure classification paths fail in the unsafe direction",
+        "url": "https://github.com/jentic/jentic-one/issues/2029",
         "source": "GitHub Issues",
-        "summary": "<!---HEADER START-->\n\n<img height=\"20px\" src=\"https://i.imgur.com/c7hUeb5.jpeg\">\n\n❌ **This issue is not open for contribution. Visit <a href=\"https://learningequality.org/contributing-to-our-open-code-base/\" target=\"_blank\">Contributing guidelines</a>** to learn about the contributing process and how to find suitable issues.\n\n<img height=\"20px\" src=\"https://i.imgur.com/c7hUeb5.jpeg\">\n\n<!---HEADER END-->\n\nTarget branch: \ndevelop\n\n### Observed behavior\nOn the Facility Settings page in app/Android ",
-        "score": 3.0,
+        "summary": "Found reviewing #1995. Three independent spots where a classification defaults the wrong way, all in the retry/terminal decision the PR reworked.\n\n**1. Chain-walk truncation defaults to non-retryable** — `import_service.py`, `_is_deterministic_source_failure`.\n`_exception_chain` stops at `_MAX_CHAIN_DEPTH = 8`. A chain whose 9th link is the real `DatabaseUnavailableError` never reaches the `if not isinstance(link, BaseIngestError): return False` check; the loop exhausts and falls through to `ret",
+        "score": 4.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -562,10 +536,23 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "Ask HN: Most recent post [dead] in seconds",
-        "url": "https://news.ycombinator.com/item?id=50260539",
+        "title": "Postgresql MCP server not running. Tool showing error",
+        "url": "https://stackoverflow.com/questions/79709658/postgresql-mcp-server-not-running-tool-showing-error",
+        "source": "Stack Overflow",
+        "summary": "<p>Here is the code I am running for mcp-server on cursor -</p>\n<pre><code>from contextlib import asynccontextmanager\nfrom collections.abc import AsyncIterator\nfrom dataclasses import dataclass\n\nimport asyncpg\nfrom mcp.server.fastmcp import FastMCP, Context\n\n# Async PostgreSQL wrapper using asyncpg\nclass Database:\n    def __init__(self, pool: asyncpg.Pool):\n        self.pool = pool\n\n    @classmethod\n    async def connect(cls) -&gt; &quot;Database&quot;:\n        pool = await asyncpg.create_pool(\n",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Start Doing Graph Theory",
+        "url": "https://news.ycombinator.com/item?id=50276029",
         "source": "Hacker News",
-        "summary": "I wasn&#x27;t sure I was allowed to share the link. Thank you though! I am using AI to translate to english, but the Arabic&#x2F;French translations aren&#x27;t mine. The english translations are only for visibility&#x2F;search&#x2F;SEO. My lawyer friend is helping. A lot of lawyer friends of friends are using it now, and giving feedback. You&#x27;re right, most interested will know Arabic. So I made it the default. The english version is now under &#x2F;en. You&#x27;re right a french translatio",
+        "summary": "Sure, but you can build an agentic system which verifies outputs and fact corrects, with probably better accuracy than a human would. As well, if people were a bit less anti-AI then maybe we can get disclaimers that things are written by AI that don&#x27;t immediately torpedo any value the writing has.",
         "score": 0.0,
         "tags": [],
         "published": "",
@@ -575,36 +562,23 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "The Exponential Time Hypothesis Is False [pdf]",
-        "url": "https://news.ycombinator.com/item?id=50260335",
+        "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+        "url": "https://news.ycombinator.com/item?id=50275937",
         "source": "Hacker News",
-        "summary": "Maybe because cryptography is funded better than the rest of math. The big AI companies spend millions on some of these proofs (15M was one estimate for the Naiver-Stokes thing). Had anyone has spent millions on them before this? There was a 1M <i>prize</i> but that certainly wouldn&#x27;t convince anyone to spend orders of magnitude more to solve the problem. Meanwhile the three letter agencies are spending billions on cryptography. They have programs that recruit students starting in high scho",
+        "summary": "I think this is something where definitions and static roles might serve as a useful reference point. Is it really the case that the trillion-dollar frontier AI labs are behind the curve, and only some other group of people knows how to <i>really</i> leverage AI? It&#x27;s not impossible - Nvidia employees aren&#x27;t the best in the world at using their chips - but the hypothesis practically demands some analysis of who these clever curve-setters are and why we&#x27;re hearing so much less abou",
         "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "AI promised less work. I've never worked more",
-        "url": "https://news.ycombinator.com/item?id=50260276",
-        "source": "Hacker News",
-        "summary": "I once would have said that about startups, but lately I’ve been working at a very small one and I’ve seen with my own eyes how agentic coding rapidly undermined the company’s ability to effectively prioritize. It has basically killed the correlation between initial planning&#x2F;development cost and ongoing support&#x2F;maintenance cost. And it had developers implementing things so quickly that the product manager couldn’t keep up, which meant that he was basically just approving everything, in",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
+        "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "The Mythical Man-Month in the Age of AI",
-        "url": "https://news.ycombinator.com/item?id=50260248",
+        "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+        "url": "https://news.ycombinator.com/item?id=50275804",
         "source": "Hacker News",
-        "summary": "This reminds me of an observation a flat-mate made when I was at university:  Drugs amplify your personality.  If you were cool before-hand, you would be more cool on drugs.  If you were an asshole, you would be more of an asshole on drugs. I&#x27;ve noticed the same thing about agentic coding.  Not really the agents, but the way people responded to agents.  If you were the kind of coder who was a little unsure of yourself, agents made you more unsure of yourself.  If you were confident with you",
+        "summary": "One thing I&#x27;ve seen with AI is AI as used by software developers is quickly diverging from AI that&#x27;s used by knowledge workers. Knowledge workers use it primarily to &quot;augment&quot; their work, answer questions with AI, get it to create documents, etc. But it&#x27;s usually 1 individual to 1-2 conversation threads. Meanwhile in software development were running fleets of agents. At work we have it setup where firing off one agent request will eventually lead to like 10-20 AI calls ",
         "score": 0.0,
         "tags": [],
         "published": "",
@@ -612,20 +586,44 @@
         "urgency": "低",
         "audience": "开发者",
         "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "The Advantages of Mobile Linux over AOSP (LineageOS, CrDroid, GrapheneOS, etc.)",
+        "url": "https://news.ycombinator.com/item?id=50275696",
+        "source": "Hacker News",
+        "summary": "Before we start this debate, let me state from the outset that I have been installing AOSP derivatives on my own phones since 2015, and I don&#x27;t want to disparage all the hard work being done by the volunteers at LineageOS, GrapheneOS, and the other custom ROMs. However, if the long-term goal is digital freedom and user empowerment, dependence on Google puts us in a very precarious position, and I suspect that Google and the phone brands will keep turning the screws and making it harder and ",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "The Agent SDK",
+        "url": "https://news.ycombinator.com/item?id=50275124",
+        "source": "Hacker News",
+        "summary": "My 2c is that agents are not at the level where companies can easily just have unconstrained LLM with tools and let it be. Different parts of the workflow can have different models, different tools, different constraints, guardrails, etc. The entrypoint still has to come from somewhere, and it&#x27;s much more convenient to be able to explain the security and legal teams how data is handled, what is logged, how you can have control over a scenario where the agent does something unexpected. Sure,",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
       }
     ],
     "category_counts": {
       "可靠性与质量": 4,
-      "隐私与合规": 1,
-      "易用性与流程": 1,
-      "集成与兼容": 1,
-      "其他": 4,
-      "价格与付费": 1
+      "集成与兼容": 4,
+      "其他": 3,
+      "隐私与合规": 1
     },
     "next_actions": [
       "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「隐私与合规」：今天出现 1 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
