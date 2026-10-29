@@ -1,0 +1,631 @@
+{
+  "generated_at": "2026-10-30 00:22 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI News",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 13:15:00 GMT"
+    },
+    {
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "source": "OpenAI News",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "source": "OpenAI News",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT"
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "source": "OpenAI News",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 15:00:00 GMT"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI News",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI News",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 22:00:00 GMT"
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI News",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 14:30:00 GMT"
+    },
+    {
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI News",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 13:45:00 GMT"
+    },
+    {
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI News",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 10:00:00 GMT"
+    },
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "OpenAI News",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "source": "OpenAI News",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 13:37:07 GMT"
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 14:58:17 GMT"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 17:16:52 GMT"
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 16:12:42 GMT"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 22:24:34 GMT"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 07:51:31 GMT"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 17:35:36 GMT"
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 16:04:43 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 406445,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis"
+      ],
+      "published": "2026-10-29T16:22:11Z"
+    },
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 393355,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-10-29T16:09:33Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 308164,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-10-29T16:20:34Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 292434,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-10-29T16:20:20Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 258420,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-29T16:20:17Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 258420,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-29T16:20:17Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 209005,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-10-29T16:21:43Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 196667,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-29T16:20:18Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 196667,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-29T16:20:18Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187811,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-29T16:16:16Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187811,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-29T16:16:16Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 185219,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "glm"
+      ],
+      "published": "2026-10-29T16:14:01Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 213.31,
+      "change_percent": -0.96,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -0.96%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1330.75,
+      "change_percent": -1.85,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -1.85%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "When using multiline examples the docs generator breaks",
+        "url": "https://github.com/SkriptLang/Skript/issues/8383",
+        "source": "GitHub Issues",
+        "summary": "### Skript/Server Version\n\n```markdown\nN/A\n```\n\n### Bug Description\n\nWhen using multiline java strings in examples on functions the docs generator seems to mess up and loses indentions leading to syntax joining together on a single line (see image)\n\n### Expected Behavior\n\nSkript to properly handle newlines & indentions when using multiline string in function examples\n\n### Steps to Reproduce\n\nhttps://docs.skriptlang.org/docs.html?search=#fromBase\n\n### Errors or Screenshots\n\n<img width=\"1546\" heig",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Run Linux commands from PowerShell",
+        "url": "https://stackoverflow.com/questions/46109021/run-linux-commands-from-powershell",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm able to run below code on Linux to get unmounted disk succesfully.</p>\n\n<pre class=\"lang-bash prettyprint-override\"><code>alldisks=`/sbin/sfdisk -s | grep -v 'total' | awk -F':' '{print $1}'`\nunmounted_disks=\"\"\n\nfor disk in $alldisks\ndo\n  /sbin/blkid -o list | grep -q \"$disk\"\n  if [ $? -ne 0 ]; then\n    unmounted_disks=\"$unmounted_disks $disk\"\n  fi\ndone\n\necho $unmounted_disks\n</code></pre>\n\n<p>But I'm automating this through workbook using PowerShell. I tried below way of sending to Linux",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "How to perform Right Click on an object using SendKeys in UFT?",
+        "url": "https://stackoverflow.com/questions/42919184/how-to-perform-right-click-on-an-object-using-sendkeys-in-uft",
+        "source": "Stack Overflow",
+        "summary": "<p>I want to perform a <strong>Right Click</strong> on an object in my Application Under Test but I am not able to perform this action. Is there any way to do it using <strong>sendkeys</strong>?</p>\n",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "node get: large nodes fail with a false 'node changed while being read' (exit 5): liveRevisions drops nodeBatch omitted",
+        "url": "https://github.com/hadron-memory/hadron-cli/issues/1185",
+        "source": "GitHub Issues",
+        "summary": "**Confirmed defect.** `hadron node get` fails with exit 5 (\"the node changed while it was being read, 3 times running…\") on a memory whose nodes are simply large, although nothing is being written. Reported by Bruno (hadron-server#2758 probe); reproduced independently by QA.\n\n## Reproduction (private disposable stack, no production)\n- hadron-cli `main` at `5f0bfa9` (compiled `make build`), server hadron-server `origin/main` `c47c20093` on a private Incus stack.\n- New memory, 4 nodes `dense:0`..`",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "需求缺口",
+        "urgency": "中",
+        "audience": "团队/企业",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
+        "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
+        "source": "Stack Overflow",
+        "summary": "<p>I am trying to compute the diagonal of the Fisher information matrix. I found this code that appears to do just that, but there are some issues with the code. First consider the code in its original form:</p>\n<pre><code>    estimated_fisher = {}\n\n    for n, p in model.named_parameters():\n        estimated_fisher[n] = torch.zeros_like(p)\n    model.eval()\n    for i, (input, target) in enumerate(dl, 0):\n        model.zero_grad()\n        output = model(input.to(device))\n        label = target.to(",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[FEATURE] Let the a2a_client vended tool / A2AAgent forward A2A request metadata to downstream agents",
+        "url": "https://github.com/strands-agents/harness-sdk/issues/4972",
+        "source": "GitHub Issues",
+        "summary": "### Human Overview\n\n_Left blank for a human per the template. Drafted by `strandly-the-agent` at `mkmeral`'s request when closing strands-agents/tools#398, which tried to add this to the now-deprecated `strands_tools` A2A client._\n\n### SDK Language\n\nBoth / Not language-specific\n\n### Problem Statement\n\nThe A2A protocol's `MessageSendParams.metadata` carries extension metadata (session/tenant ids, trace ids, extension payloads). Neither the core `a2a_client` vended tool nor `A2AAgent` can set it:\n",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "LLM regression tests: Gemini explicit context caching and the Flex tier, with real per-run cost",
+        "url": "https://github.com/graphty-org/graphty-monorepo/issues/4486",
+        "source": "GitHub Issues",
+        "summary": "The live LLM regression tests (graphty-element's `llm-regression` project, Google gemini-3.8-flash) send about 185-205 requests a run, each about 5,676 input tokens, most of them the same prefix: the system instructions and the tool definitions. Owner decision (2026-10-29): cut their cost with Gemini explicit context caching and the Flex service tier.\n\nPrices (https://ai.google.dev/gemini-api/docs/pricing, read 2026-10-29, through 2026-12-31): Standard input $0.75 / output $3.75 / cached input $",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "Postgresql MCP server not running. Tool showing error",
+        "url": "https://stackoverflow.com/questions/79709658/postgresql-mcp-server-not-running-tool-showing-error",
+        "source": "Stack Overflow",
+        "summary": "<p>Here is the code I am running for mcp-server on cursor -</p>\n<pre><code>from contextlib import asynccontextmanager\nfrom collections.abc import AsyncIterator\nfrom dataclasses import dataclass\n\nimport asyncpg\nfrom mcp.server.fastmcp import FastMCP, Context\n\n# Async PostgreSQL wrapper using asyncpg\nclass Database:\n    def __init__(self, pool: asyncpg.Pool):\n        self.pool = pool\n\n    @classmethod\n    async def connect(cls) -&gt; &quot;Database&quot;:\n        pool = await asyncpg.create_pool(\n",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Why are good developers so wary of agentic development?",
+        "url": "https://news.ycombinator.com/item?id=50291472",
+        "source": "Hacker News",
+        "summary": "For me it breaks the rule of &quot;Network of trust&quot;. Software works because someone is accountable for it. Pair Programming, Test Driven Development, and now Agentic coding all to one degree or another damage the network of trust. - Pair Programming  (There is no one person accountable for the change.)\n- Test Driven Development (The test pass, so my software is good)\n- Agentic Coding (My prompt was good, so my software is good) AI is great for software development... As long as you review ",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Why are good developers so wary of agentic development?",
+        "url": "https://news.ycombinator.com/item?id=50291275",
+        "source": "Hacker News",
+        "summary": "&gt; Good developers’ caution about agentic development comes from knowing that built isn’t the same as working in production...I always felt there was something else, another fear hiding behind those obvious ones. It&#x27;s not fear.  It&#x27;s experience.  I&#x27;ve seen the kind of code agents write.  And it&#x27;s too often crap even when it &quot;works&quot;.  This isn&#x27;t about beautiful code.  It&#x27;s about what we&#x27;ve built actually making sense to a, hopefully talented, softwar",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+        "url": "https://news.ycombinator.com/item?id=50290864",
+        "source": "Hacker News",
+        "summary": "Where is all the evidence of exploits if most of the webs PHP servers were vulnerable? This is a seperate chained exploit itself, seemingly executed by a nation stae. There are thousands of exploits infiltrating web servers around the world daily, and they arent php2shell. You only care about this because it falls into a weird viral narrative about &quot;AI saftey&quot;.",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Xlibre, Nouveau, and the Art of Getting Banned from Telegram",
+        "url": "https://news.ycombinator.com/item?id=50290537",
+        "source": "Hacker News",
+        "summary": "If the author of the post is reading this, what is the setup for the work on nouveau? I expect it to cause a number of issues with the display driver so it could be hard running the AI agent on the same computer. Hence my curiosity.",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      }
+    ],
+    "category_counts": {
+      "可靠性与质量": 5,
+      "其他": 4,
+      "需求缺口": 1,
+      "价格与付费": 1,
+      "集成与兼容": 1
+    },
+    "next_actions": [
+      "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「需求缺口」：今天出现 1 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}
