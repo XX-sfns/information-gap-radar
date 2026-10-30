@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-30 00:22 CST",
+  "generated_at": "2026-10-31 00:09 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 17:00:00 GMT"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI News",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 09:00:00 GMT"
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI News",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "source": "OpenAI News",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+    },
     {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
@@ -89,50 +133,6 @@
         "AI/科技"
       ],
       "published": "Mon, 26 Oct 2026 14:30:00 GMT"
-    },
-    {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "source": "OpenAI News",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 26 Oct 2026 13:45:00 GMT"
-    },
-    {
-      "title": "ChatGPT’s expanding world of work",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "source": "OpenAI News",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT"
-    },
-    {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "source": "OpenAI News",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "source": "OpenAI News",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 26 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -273,202 +273,306 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 406445,
+      "score": 411122,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "binary-analysis"
       ],
-      "published": "2026-10-29T16:22:11Z"
+      "published": "2026-10-30T16:09:21Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 393355,
+      "score": 393448,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-29T16:09:33Z"
+      "published": "2026-10-30T16:07:24Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 308164,
+      "score": 309229,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-29T16:20:34Z"
+      "published": "2026-10-30T16:08:54Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 292434,
+      "score": 293183,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-29T16:20:20Z"
+      "published": "2026-10-30T16:07:55Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 258420,
+      "score": 258781,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-29T16:20:17Z"
+      "published": "2026-10-30T16:07:50Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 258420,
+      "score": 258781,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-29T16:20:17Z"
+      "published": "2026-10-30T16:07:50Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 209005,
+      "score": 209120,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-29T16:21:43Z"
+      "published": "2026-10-30T16:08:51Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 196667,
+      "score": 196991,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-29T16:20:18Z"
+      "published": "2026-10-30T16:08:34Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 196667,
+      "score": 196991,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-29T16:20:18Z"
+      "published": "2026-10-30T16:08:34Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187811,
+      "score": 187832,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-29T16:16:16Z"
+      "published": "2026-10-30T15:55:42Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187811,
+      "score": 187832,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-29T16:16:16Z"
+      "published": "2026-10-30T15:55:42Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 185219,
+      "score": 185350,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "glm"
       ],
-      "published": "2026-10-29T16:14:01Z"
+      "published": "2026-10-30T16:07:05Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 213.31,
-      "change_percent": -0.96,
-      "signal": "观望",
-      "rationale": "近一交易日涨跌 -0.96%；只作信息展示，不构成投资建议。"
+      "price": 205.35,
+      "change_percent": -3.89,
+      "signal": "谨慎",
+      "rationale": "近一交易日涨跌 -3.89%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1330.75,
-      "change_percent": -1.85,
+      "price": 1354.0,
+      "change_percent": 1.75,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 -1.85%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +1.75%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "When using multiline examples the docs generator breaks",
-        "url": "https://github.com/SkriptLang/Skript/issues/8383",
+        "title": "[EPIC] GitHub App: přechod agentů a automatizací z osobních tokenů",
+        "url": "https://github.com/merglbot-core/github/issues/811",
         "source": "GitHub Issues",
-        "summary": "### Skript/Server Version\n\n```markdown\nN/A\n```\n\n### Bug Description\n\nWhen using multiline java strings in examples on functions the docs generator seems to mess up and loses indentions leading to syntax joining together on a single line (see image)\n\n### Expected Behavior\n\nSkript to properly handle newlines & indentions when using multiline string in function examples\n\n### Steps to Reproduce\n\nhttps://docs.skriptlang.org/docs.html?search=#fromBase\n\n### Errors or Screenshots\n\n<img width=\"1546\" heig",
+        "summary": "<!-- P39-D5220-D5231-CURRENT-20261030 -->\n## Aktuální checkpoint — 30. 10. 2026 16:59 Praha\n\n**PARTIAL.** Celý přijatý rozsah Project39 a původní DoD zůstávají zachované. Níže uložené starší checkpointy jsou datovaná historie; tento blok opravuje současný stav admin#1319 a jeho review, nikoli podmínky dokončení.\n\n- [Admin#1319](https://github.com/merglbot-core/merglbot-admin/pull/1319) je OPEN/READY na hlavě `394089f82cc51afcd9201115e7f06d9b6134bd15`, base/current main `c22c7e59defcce569e2ce43da",
+        "score": 67.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "Hosted factory control plane over Jog: continuous one-issue cycle (light plan + schema mapping; Anvil decision gate)",
+        "url": "https://github.com/HiQS-Labs/XYZ-forge/issues/1175",
+        "source": "GitHub Issues",
+        "summary": "## Outcome\n\nA control plane (local-first, hosted later) that keeps one XYZ-enabled repository's flywheel turning: admit one eligible issue, run it through Jog → Preflight → Marathon, get it landed, then pick the next — continuously, across restarts, with remote visibility and approvals. XYZ Forge is the first factory (dogfood: drive the backlog toward closed); other repos with vendored `.xyz` are later factories using the same control plane.\n\nThis issue records design only. Creating it does not ",
+        "score": 17.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "SDK storage.upload cannot upload a browser file of unknown type: it sends mimeType \"\" and the presigned door refuses it 400",
+        "url": "https://github.com/objectstack-ai/objectstack/issues/28157",
+        "source": "GitHub Issues",
+        "summary": "domain:spec#1 · os-tesla · session_01L9qibwb6hBqszPTYJobitm\n\nFiling gate: ② an out-of-scope finding reported by the #27598 card thread and escalated by the contract review of PR #28136 (record 6525353405, ③). Filed by `domain:spec` seat 1. ⛔ Not a claim. No grade and no domain label: triage sets both and routes it. `packages/client` is outside the spec lane.\n\nReach: any app whose browser UI uploads a user's file through the SDK helper `client.storage.upload(file)`. When the browser does not know",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "需求缺口",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+        "url": "https://news.ycombinator.com/item?id=50305770",
+        "source": "Hacker News",
+        "summary": "&gt; AI has real tangible use and benefit. I agree. AI is useful to layoff thousands of employees as we have already seen, hacking companies and governments with agent swarms and also helping with accelerating cyber crime. Now anyone including script kiddies can tell an AI agent to build an exploit to attack a website of their choosing the moment they find a vulnerability. You cannot say it is useful (which it is) and it does not also accelerate and amplify all the negative consequences at the s",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "LLM Voice",
+        "url": "https://news.ycombinator.com/item?id=50305127",
+        "source": "Hacker News",
+        "summary": "Automation kills creativity because it creates predictability. The life of a programmer these days feels very weird. &quot;What am I good at?&quot; and leads to even more impostor syndrome... &quot;I seem to still be &#x27;good&#x27; at prompting my LLMs and managing workflow design.&quot; but it&#x27;s definitely a different skill&#x2F;feeling than when you cranked out some awesome piece of code that did something very neat. I felt this way a bit when I was tech middle management; should I feel",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "易用性与流程",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[FEATURE]: First-class evaluation for decision models (Strands Decider, OpenJev, Jev)",
+        "url": "https://github.com/awslabs/stickler/issues/469",
+        "source": "GitHub Issues",
+        "summary": "## What feature would you like to see?\n\nMake Stickler the reference framework for evaluating **typed decision models**: \"system one\" models that return a typed decision with a probability distribution instead of free text. [Strands Decider](https://github.com/strands-labs/strands-decider), [OpenJev](https://huggingface.co/openjev/openjev) and Jev all speak the same System One format (`POST /v1/systemone`), so one design covers all three.\n\nA **System One answer is already a self-describing object",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[CLAUDE-AI01][FLEET][MCP] Outils en panne sans entrée de réparation : playwright DOWN, sk-agent CONNECT_TIMEOUT web1/web2 — remesurer et réparer",
+        "url": "https://github.com/jsboige/roo-extensions/issues/4289",
+        "source": "GitHub Issues",
+        "summary": "## Constat (rapporté, pas encore remesuré)\n\nLe statut flotte du 20/10 et l'amendement (h1) de Maintenance#121 listent des outils en panne qui vivent **sans entrée de réparation datée** :\n- **MCP playwright DOWN** (timeout), d'après le statut workspace roo-extensions du 20/10 ;\n- **sk-agent CONNECT_TIMEOUT** sur web1 et web2, d'après Maintenance#121, amendement (h1).\n\nSelon (h1), un contournement a une durée de vie de 48 h. Au-delà, sa réparation devient l'item prioritaire du siège qui le porte.\n",
+        "score": 70.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Setup fails: swgen.exe crashes with access violation (0xc0000005) in python314.dll, “The game code didn’t build”",
+        "url": "https://github.com/Revivedx/SavageWindRecomp/issues/113",
+        "source": "GitHub Issues",
+        "summary": "Version: 0.3.0-alpha.3 (Windows)\nGame files: Switch 1.9.0 (exefs + romfs; extracted\\romfs\\System\\Version.txt shows 1.9.0)\nPC: Windows AMD Radeon RX 6700 XT, 32 GB RAM, CPU Intel(R) Core(TM) i5-12400F\nSettings: stock, no XMP/EXPO, no CPU overclock. Running from A: (NVMe, ~64 GB free). Nothing else running during setup.\n\nWhat happens:\n\"Set up game files\" stops partway (about 40% on one run, 52% on another) with\n\"The game code didn't build. Make sure there's enough free space and try again.\"\nFree s",
+        "score": 7.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
+        "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
+        "source": "Stack Overflow",
+        "summary": "<p>I am trying to compute the diagonal of the Fisher information matrix. I found this code that appears to do just that, but there are some issues with the code. First consider the code in its original form:</p>\n<pre><code>    estimated_fisher = {}\n\n    for n, p in model.named_parameters():\n        estimated_fisher[n] = torch.zeros_like(p)\n    model.eval()\n    for i, (input, target) in enumerate(dl, 0):\n        model.zero_grad()\n        output = model(input.to(device))\n        label = target.to(",
         "score": 4.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 2 项"
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "Run Linux commands from PowerShell",
@@ -497,36 +601,10 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "node get: large nodes fail with a false 'node changed while being read' (exit 5): liveRevisions drops nodeBatch omitted",
-        "url": "https://github.com/hadron-memory/hadron-cli/issues/1185",
+        "title": "[BUG]: parakeet causes crashing",
+        "url": "https://github.com/wasi-master/wmkeyboard/issues/982",
         "source": "GitHub Issues",
-        "summary": "**Confirmed defect.** `hadron node get` fails with exit 5 (\"the node changed while it was being read, 3 times running…\") on a memory whose nodes are simply large, although nothing is being written. Reported by Bruno (hadron-server#2758 probe); reproduced independently by QA.\n\n## Reproduction (private disposable stack, no production)\n- hadron-cli `main` at `5f0bfa9` (compiled `make build`), server hadron-server `origin/main` `c47c20093` on a private Incus stack.\n- New memory, 4 nodes `dense:0`..`",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "需求缺口",
-        "urgency": "中",
-        "audience": "团队/企业",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
-        "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
-        "source": "Stack Overflow",
-        "summary": "<p>I am trying to compute the diagonal of the Fisher information matrix. I found this code that appears to do just that, but there are some issues with the code. First consider the code in its original form:</p>\n<pre><code>    estimated_fisher = {}\n\n    for n, p in model.named_parameters():\n        estimated_fisher[n] = torch.zeros_like(p)\n    model.eval()\n    for i, (input, target) in enumerate(dl, 0):\n        model.zero_grad()\n        output = model(input.to(device))\n        label = target.to(",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "[FEATURE] Let the a2a_client vended tool / A2AAgent forward A2A request metadata to downstream agents",
-        "url": "https://github.com/strands-agents/harness-sdk/issues/4972",
-        "source": "GitHub Issues",
-        "summary": "### Human Overview\n\n_Left blank for a human per the template. Drafted by `strandly-the-agent` at `mkmeral`'s request when closing strands-agents/tools#398, which tried to add this to the now-deprecated `strands_tools` A2A client._\n\n### SDK Language\n\nBoth / Not language-specific\n\n### Problem Statement\n\nThe A2A protocol's `MessageSendParams.metadata` carries extension metadata (session/tenant ids, trace ids, extension payloads). Neither the core `a2a_client` vended tool nor `A2AAgent` can set it:\n",
+        "summary": "### Version check\n\n- [x] I am on version 0.6.3 (the latest) and the bug still happens there\n\n### Build (optional)\n\n0.6.3 From F-Droid\n\n### Description of the bug\n\nUsing parakeet crashes (it listens to the audio, starts transcribing then crashes the keyboard). For some reason the logs don't show anything useful either. I thought this was my phone not being powerful enough, but the Marmalade STT app uses moondream's parakeet 0.6 tdt fine tune and that works very comfortably and quickly on my phone",
         "score": 1.0,
         "tags": [],
         "published": "",
@@ -534,97 +612,20 @@
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "LLM regression tests: Gemini explicit context caching and the Flex tier, with real per-run cost",
-        "url": "https://github.com/graphty-org/graphty-monorepo/issues/4486",
-        "source": "GitHub Issues",
-        "summary": "The live LLM regression tests (graphty-element's `llm-regression` project, Google gemini-3.8-flash) send about 185-205 requests a run, each about 5,676 input tokens, most of them the same prefix: the system instructions and the tool definitions. Owner decision (2026-10-29): cut their cost with Gemini explicit context caching and the Flex service tier.\n\nPrices (https://ai.google.dev/gemini-api/docs/pricing, read 2026-10-29, through 2026-12-31): Standard input $0.75 / output $3.75 / cached input $",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 3 项"
-      },
-      {
-        "title": "Postgresql MCP server not running. Tool showing error",
-        "url": "https://stackoverflow.com/questions/79709658/postgresql-mcp-server-not-running-tool-showing-error",
-        "source": "Stack Overflow",
-        "summary": "<p>Here is the code I am running for mcp-server on cursor -</p>\n<pre><code>from contextlib import asynccontextmanager\nfrom collections.abc import AsyncIterator\nfrom dataclasses import dataclass\n\nimport asyncpg\nfrom mcp.server.fastmcp import FastMCP, Context\n\n# Async PostgreSQL wrapper using asyncpg\nclass Database:\n    def __init__(self, pool: asyncpg.Pool):\n        self.pool = pool\n\n    @classmethod\n    async def connect(cls) -&gt; &quot;Database&quot;:\n        pool = await asyncpg.create_pool(\n",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Why are good developers so wary of agentic development?",
-        "url": "https://news.ycombinator.com/item?id=50291472",
-        "source": "Hacker News",
-        "summary": "For me it breaks the rule of &quot;Network of trust&quot;. Software works because someone is accountable for it. Pair Programming, Test Driven Development, and now Agentic coding all to one degree or another damage the network of trust. - Pair Programming  (There is no one person accountable for the change.)\n- Test Driven Development (The test pass, so my software is good)\n- Agentic Coding (My prompt was good, so my software is good) AI is great for software development... As long as you review ",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Why are good developers so wary of agentic development?",
-        "url": "https://news.ycombinator.com/item?id=50291275",
-        "source": "Hacker News",
-        "summary": "&gt; Good developers’ caution about agentic development comes from knowing that built isn’t the same as working in production...I always felt there was something else, another fear hiding behind those obvious ones. It&#x27;s not fear.  It&#x27;s experience.  I&#x27;ve seen the kind of code agents write.  And it&#x27;s too often crap even when it &quot;works&quot;.  This isn&#x27;t about beautiful code.  It&#x27;s about what we&#x27;ve built actually making sense to a, hopefully talented, softwar",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-        "url": "https://news.ycombinator.com/item?id=50290864",
-        "source": "Hacker News",
-        "summary": "Where is all the evidence of exploits if most of the webs PHP servers were vulnerable? This is a seperate chained exploit itself, seemingly executed by a nation stae. There are thousands of exploits infiltrating web servers around the world daily, and they arent php2shell. You only care about this because it falls into a weird viral narrative about &quot;AI saftey&quot;.",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Xlibre, Nouveau, and the Art of Getting Banned from Telegram",
-        "url": "https://news.ycombinator.com/item?id=50290537",
-        "source": "Hacker News",
-        "summary": "If the author of the post is reading this, what is the setup for the work on nouveau? I expect it to cause a number of issues with the display driver so it could be hard running the AI agent on the same computer. Hence my curiosity.",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
       }
     ],
     "category_counts": {
-      "可靠性与质量": 5,
-      "其他": 4,
-      "需求缺口": 1,
+      "集成与兼容": 2,
       "价格与付费": 1,
-      "集成与兼容": 1
+      "需求缺口": 1,
+      "其他": 4,
+      "易用性与流程": 1,
+      "可靠性与质量": 3
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
       "优先验证「其他」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「需求缺口」：今天出现 1 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }

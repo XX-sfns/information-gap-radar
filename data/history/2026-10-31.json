@@ -1,0 +1,632 @@
+{
+  "generated_at": "2026-10-31 00:09 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 17:00:00 GMT"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI News",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 09:00:00 GMT"
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI News",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "source": "OpenAI News",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI News",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 13:15:00 GMT"
+    },
+    {
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "source": "OpenAI News",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "source": "OpenAI News",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT"
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "source": "OpenAI News",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 15:00:00 GMT"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI News",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI News",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 22:00:00 GMT"
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI News",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 26 Oct 2026 14:30:00 GMT"
+    },
+    {
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 13:37:07 GMT"
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 28 Oct 2026 14:58:17 GMT"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 17:16:52 GMT"
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 16:12:42 GMT"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 22:24:34 GMT"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 07:51:31 GMT"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 17:35:36 GMT"
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 21 Oct 2026 16:04:43 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 411122,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai-agents",
+        "binary-analysis"
+      ],
+      "published": "2026-10-30T16:09:21Z"
+    },
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 393448,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-10-30T16:07:24Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 309229,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-10-30T16:08:54Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 293183,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-10-30T16:07:55Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 258781,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-30T16:07:50Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 258781,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-10-30T16:07:50Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 209120,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-10-30T16:08:51Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 196991,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-30T16:08:34Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 196991,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-10-30T16:08:34Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187832,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-30T15:55:42Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187832,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-10-30T15:55:42Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 185350,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "glm"
+      ],
+      "published": "2026-10-30T16:07:05Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 205.35,
+      "change_percent": -3.89,
+      "signal": "谨慎",
+      "rationale": "近一交易日涨跌 -3.89%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1354.0,
+      "change_percent": 1.75,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +1.75%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "[EPIC] GitHub App: přechod agentů a automatizací z osobních tokenů",
+        "url": "https://github.com/merglbot-core/github/issues/811",
+        "source": "GitHub Issues",
+        "summary": "<!-- P39-D5220-D5231-CURRENT-20261030 -->\n## Aktuální checkpoint — 30. 10. 2026 16:59 Praha\n\n**PARTIAL.** Celý přijatý rozsah Project39 a původní DoD zůstávají zachované. Níže uložené starší checkpointy jsou datovaná historie; tento blok opravuje současný stav admin#1319 a jeho review, nikoli podmínky dokončení.\n\n- [Admin#1319](https://github.com/merglbot-core/merglbot-admin/pull/1319) je OPEN/READY na hlavě `394089f82cc51afcd9201115e7f06d9b6134bd15`, base/current main `c22c7e59defcce569e2ce43da",
+        "score": 67.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "Hosted factory control plane over Jog: continuous one-issue cycle (light plan + schema mapping; Anvil decision gate)",
+        "url": "https://github.com/HiQS-Labs/XYZ-forge/issues/1175",
+        "source": "GitHub Issues",
+        "summary": "## Outcome\n\nA control plane (local-first, hosted later) that keeps one XYZ-enabled repository's flywheel turning: admit one eligible issue, run it through Jog → Preflight → Marathon, get it landed, then pick the next — continuously, across restarts, with remote visibility and approvals. XYZ Forge is the first factory (dogfood: drive the backlog toward closed); other repos with vendored `.xyz` are later factories using the same control plane.\n\nThis issue records design only. Creating it does not ",
+        "score": 17.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "SDK storage.upload cannot upload a browser file of unknown type: it sends mimeType \"\" and the presigned door refuses it 400",
+        "url": "https://github.com/objectstack-ai/objectstack/issues/28157",
+        "source": "GitHub Issues",
+        "summary": "domain:spec#1 · os-tesla · session_01L9qibwb6hBqszPTYJobitm\n\nFiling gate: ② an out-of-scope finding reported by the #27598 card thread and escalated by the contract review of PR #28136 (record 6525353405, ③). Filed by `domain:spec` seat 1. ⛔ Not a claim. No grade and no domain label: triage sets both and routes it. `packages/client` is outside the spec lane.\n\nReach: any app whose browser UI uploads a user's file through the SDK helper `client.storage.upload(file)`. When the browser does not know",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "需求缺口",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+        "url": "https://news.ycombinator.com/item?id=50305770",
+        "source": "Hacker News",
+        "summary": "&gt; AI has real tangible use and benefit. I agree. AI is useful to layoff thousands of employees as we have already seen, hacking companies and governments with agent swarms and also helping with accelerating cyber crime. Now anyone including script kiddies can tell an AI agent to build an exploit to attack a website of their choosing the moment they find a vulnerability. You cannot say it is useful (which it is) and it does not also accelerate and amplify all the negative consequences at the s",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "LLM Voice",
+        "url": "https://news.ycombinator.com/item?id=50305127",
+        "source": "Hacker News",
+        "summary": "Automation kills creativity because it creates predictability. The life of a programmer these days feels very weird. &quot;What am I good at?&quot; and leads to even more impostor syndrome... &quot;I seem to still be &#x27;good&#x27; at prompting my LLMs and managing workflow design.&quot; but it&#x27;s definitely a different skill&#x2F;feeling than when you cranked out some awesome piece of code that did something very neat. I felt this way a bit when I was tech middle management; should I feel",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "易用性与流程",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[FEATURE]: First-class evaluation for decision models (Strands Decider, OpenJev, Jev)",
+        "url": "https://github.com/awslabs/stickler/issues/469",
+        "source": "GitHub Issues",
+        "summary": "## What feature would you like to see?\n\nMake Stickler the reference framework for evaluating **typed decision models**: \"system one\" models that return a typed decision with a probability distribution instead of free text. [Strands Decider](https://github.com/strands-labs/strands-decider), [OpenJev](https://huggingface.co/openjev/openjev) and Jev all speak the same System One format (`POST /v1/systemone`), so one design covers all three.\n\nA **System One answer is already a self-describing object",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[CLAUDE-AI01][FLEET][MCP] Outils en panne sans entrée de réparation : playwright DOWN, sk-agent CONNECT_TIMEOUT web1/web2 — remesurer et réparer",
+        "url": "https://github.com/jsboige/roo-extensions/issues/4289",
+        "source": "GitHub Issues",
+        "summary": "## Constat (rapporté, pas encore remesuré)\n\nLe statut flotte du 20/10 et l'amendement (h1) de Maintenance#121 listent des outils en panne qui vivent **sans entrée de réparation datée** :\n- **MCP playwright DOWN** (timeout), d'après le statut workspace roo-extensions du 20/10 ;\n- **sk-agent CONNECT_TIMEOUT** sur web1 et web2, d'après Maintenance#121, amendement (h1).\n\nSelon (h1), un contournement a une durée de vie de 48 h. Au-delà, sa réparation devient l'item prioritaire du siège qui le porte.\n",
+        "score": 70.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Setup fails: swgen.exe crashes with access violation (0xc0000005) in python314.dll, “The game code didn’t build”",
+        "url": "https://github.com/Revivedx/SavageWindRecomp/issues/113",
+        "source": "GitHub Issues",
+        "summary": "Version: 0.3.0-alpha.3 (Windows)\nGame files: Switch 1.9.0 (exefs + romfs; extracted\\romfs\\System\\Version.txt shows 1.9.0)\nPC: Windows AMD Radeon RX 6700 XT, 32 GB RAM, CPU Intel(R) Core(TM) i5-12400F\nSettings: stock, no XMP/EXPO, no CPU overclock. Running from A: (NVMe, ~64 GB free). Nothing else running during setup.\n\nWhat happens:\n\"Set up game files\" stops partway (about 40% on one run, 52% on another) with\n\"The game code didn't build. Make sure there's enough free space and try again.\"\nFree s",
+        "score": 7.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
+        "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
+        "source": "Stack Overflow",
+        "summary": "<p>I am trying to compute the diagonal of the Fisher information matrix. I found this code that appears to do just that, but there are some issues with the code. First consider the code in its original form:</p>\n<pre><code>    estimated_fisher = {}\n\n    for n, p in model.named_parameters():\n        estimated_fisher[n] = torch.zeros_like(p)\n    model.eval()\n    for i, (input, target) in enumerate(dl, 0):\n        model.zero_grad()\n        output = model(input.to(device))\n        label = target.to(",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Run Linux commands from PowerShell",
+        "url": "https://stackoverflow.com/questions/46109021/run-linux-commands-from-powershell",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm able to run below code on Linux to get unmounted disk succesfully.</p>\n\n<pre class=\"lang-bash prettyprint-override\"><code>alldisks=`/sbin/sfdisk -s | grep -v 'total' | awk -F':' '{print $1}'`\nunmounted_disks=\"\"\n\nfor disk in $alldisks\ndo\n  /sbin/blkid -o list | grep -q \"$disk\"\n  if [ $? -ne 0 ]; then\n    unmounted_disks=\"$unmounted_disks $disk\"\n  fi\ndone\n\necho $unmounted_disks\n</code></pre>\n\n<p>But I'm automating this through workbook using PowerShell. I tried below way of sending to Linux",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "How to perform Right Click on an object using SendKeys in UFT?",
+        "url": "https://stackoverflow.com/questions/42919184/how-to-perform-right-click-on-an-object-using-sendkeys-in-uft",
+        "source": "Stack Overflow",
+        "summary": "<p>I want to perform a <strong>Right Click</strong> on an object in my Application Under Test but I am not able to perform this action. Is there any way to do it using <strong>sendkeys</strong>?</p>\n",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "[BUG]: parakeet causes crashing",
+        "url": "https://github.com/wasi-master/wmkeyboard/issues/982",
+        "source": "GitHub Issues",
+        "summary": "### Version check\n\n- [x] I am on version 0.6.3 (the latest) and the bug still happens there\n\n### Build (optional)\n\n0.6.3 From F-Droid\n\n### Description of the bug\n\nUsing parakeet crashes (it listens to the audio, starts transcribing then crashes the keyboard). For some reason the logs don't show anything useful either. I thought this was my phone not being powerful enough, but the Marmalade STT app uses moondream's parakeet 0.6 tdt fine tune and that works very comfortably and quickly on my phone",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      }
+    ],
+    "category_counts": {
+      "集成与兼容": 2,
+      "价格与付费": 1,
+      "需求缺口": 1,
+      "其他": 4,
+      "易用性与流程": 1,
+      "可靠性与质量": 3
+    },
+    "next_actions": [
+      "优先验证「其他」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}
