@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-31 00:09 CST",
+  "generated_at": "2026-10-31 23:28 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI News",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 30 Oct 2026 09:30:00 GMT"
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI News",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 30 Oct 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "OpenAI News",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 30 Oct 2026 00:00:00 GMT"
+    },
     {
       "title": "An updated Model Spec for more capable and beneficial AI",
       "url": "https://openai.com/index/updated-model-spec",
@@ -102,37 +135,15 @@
       "published": "Tue, 27 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "source": "OpenAI News",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Tue, 27 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 26 Oct 2026 22:00:00 GMT"
-    },
-    {
-      "title": "Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "source": "OpenAI News",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 26 Oct 2026 14:30:00 GMT"
+      "published": "Fri, 30 Oct 2026 17:57:24 GMT"
     },
     {
       "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -177,17 +188,6 @@
         "AI/科技"
       ],
       "published": "Thu, 29 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 28 Oct 2026 14:58:17 GMT"
     },
     {
       "title": "Build specialized multimodal models with LFM3",
@@ -273,241 +273,241 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 411122,
+      "score": 414481,
       "tags": [
         "AI/Agent",
         "agent-skills",
-        "ai-agents",
-        "binary-analysis"
+        "ai",
+        "android"
       ],
-      "published": "2026-10-30T16:09:21Z"
+      "published": "2026-10-31T15:27:17Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 393448,
+      "score": 393536,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-30T16:07:24Z"
+      "published": "2026-10-31T15:28:32Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 309229,
+      "score": 309827,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-30T16:08:54Z"
+      "published": "2026-10-31T15:27:47Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 293183,
+      "score": 293783,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-30T16:07:55Z"
+      "published": "2026-10-31T15:27:01Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 258781,
+      "score": 259075,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-30T16:07:50Z"
+      "published": "2026-10-31T15:27:14Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 258781,
+      "score": 259075,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-30T16:07:50Z"
+      "published": "2026-10-31T15:27:14Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 209120,
+      "score": 209197,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-30T16:08:51Z"
+      "published": "2026-10-31T15:18:26Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 196991,
+      "score": 197305,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-30T16:08:34Z"
+      "published": "2026-10-31T15:26:30Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 196991,
+      "score": 197305,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-30T16:08:34Z"
+      "published": "2026-10-31T15:26:30Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187832,
+      "score": 187844,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-30T15:55:42Z"
+      "published": "2026-10-31T14:17:38Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187832,
+      "score": 187844,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-30T15:55:42Z"
+      "published": "2026-10-31T14:17:38Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 185350,
+      "score": 185453,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "glm"
       ],
-      "published": "2026-10-30T16:07:05Z"
+      "published": "2026-10-31T15:23:36Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 205.35,
-      "change_percent": -3.89,
+      "price": 204.64,
+      "change_percent": -4.22,
       "signal": "谨慎",
-      "rationale": "近一交易日涨跌 -3.89%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 -4.22%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1354.0,
-      "change_percent": 1.75,
-      "signal": "观望",
-      "rationale": "近一交易日涨跌 +1.75%；只作信息展示，不构成投资建议。"
+      "price": 1392.05,
+      "change_percent": 2.81,
+      "signal": "关注",
+      "rationale": "近一交易日涨跌 +2.81%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "[EPIC] GitHub App: přechod agentů a automatizací z osobních tokenů",
-        "url": "https://github.com/merglbot-core/github/issues/811",
+        "title": "Weekly CFO spending review pushed to LINE",
+        "url": "https://github.com/charlie60507/transaction_bot/issues/85",
         "source": "GitHub Issues",
-        "summary": "<!-- P39-D5220-D5231-CURRENT-20261030 -->\n## Aktuální checkpoint — 30. 10. 2026 16:59 Praha\n\n**PARTIAL.** Celý přijatý rozsah Project39 a původní DoD zůstávají zachované. Níže uložené starší checkpointy jsou datovaná historie; tento blok opravuje současný stav admin#1319 a jeho review, nikoli podmínky dokončení.\n\n- [Admin#1319](https://github.com/merglbot-core/merglbot-admin/pull/1319) je OPEN/READY na hlavě `394089f82cc51afcd9201115e7f06d9b6134bd15`, base/current main `c22c7e59defcce569e2ce43da",
-        "score": 67.0,
+        "summary": "## Goal\n\nA weekly \"CFO\" review of the owner's spending, pushed to LINE. A monthly report was rejected: by the time it arrives, an overspend is already a month old. The weekly report must warn early, mainly through a month-end projection.\n\nThere are no per-category budgets and no income data, and neither will be added: this project records spending, not assets (owner decision). The yardstick is the daily baseline from #80, which follows the existing `日常比較對象` setting: the 12-month median by defaul",
+        "score": 41.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 3 项"
+        "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Hosted factory control plane over Jog: continuous one-issue cycle (light plan + schema mapping; Anvil decision gate)",
-        "url": "https://github.com/HiQS-Labs/XYZ-forge/issues/1175",
+        "title": "Graphics tab is not usable for the operator: the four everyday tasks are not findable",
+        "url": "https://github.com/iamfatness/CoreVideoPro/issues/1076",
         "source": "GitHub Issues",
-        "summary": "## Outcome\n\nA control plane (local-first, hosted later) that keeps one XYZ-enabled repository's flywheel turning: admit one eligible issue, run it through Jog → Preflight → Marathon, get it landed, then pick the next — continuously, across restarts, with remote visibility and approvals. XYZ Forge is the first factory (dogfood: drive the backlog toward closed); other repos with vendored `.xyz` are later factories using the same control plane.\n\nThis issue records design only. Creating it does not ",
-        "score": 17.0,
+        "summary": "## Owner feedback, 2026-10-31 11:01 EDT, right after a live show on beta-2026-10-26-f969935\n\n\"The graphics tab is still just not very usable for me, I have trouble using and understanding what to do and where to go.\"\n\nAsked which tasks lost them, the owner picked all four:\n\n1. Put a lower third on a specific person, on Preview and then on Program.\n2. Edit a lower third's text (name, second line) or its style.\n3. Add a logo, a title or a bug to a scene.\n4. See what is live on Program now versus c",
+        "score": 3.0,
         "tags": [],
         "published": "",
-        "category": "价格与付费",
+        "category": "可靠性与质量",
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "SDK storage.upload cannot upload a browser file of unknown type: it sends mimeType \"\" and the presigned door refuses it 400",
-        "url": "https://github.com/objectstack-ai/objectstack/issues/28157",
+        "title": "CD failed on main: run 41210190375",
+        "url": "https://github.com/Systemorph/MeshWeaver/issues/7755",
         "source": "GitHub Issues",
-        "summary": "domain:spec#1 · os-tesla · session_01L9qibwb6hBqszPTYJobitm\n\nFiling gate: ② an out-of-scope finding reported by the #27598 card thread and escalated by the contract review of PR #28136 (record 6525353405, ③). Filed by `domain:spec` seat 1. ⛔ Not a claim. No grade and no domain label: triage sets both and routes it. `packages/client` is outside the spec lane.\n\nReach: any app whose browser UI uploads a user's file through the SDK helper `client.storage.upload(file)`. When the browser does not know",
-        "score": 4.0,
+        "summary": "CD failed on main: [run 41210190375](https://github.com/Systemorph/MeshWeaver/actions/runs/41210190375) for commit `65dc76f737b6bd5382cc8fcfc54b95ddebe0f960` (entered via `push`).\n\nTriage the failed job in the linked run - which of the two things CD delivers is broken depends on WHICH job went red:\n\n* an IMAGE job / promote / verify-images: no complete image set was published. Publication is all-or-nothing, so every self-updating install stays on the PREVIOUS image until a CD run promotes the fu",
+        "score": 2.0,
         "tags": [],
         "published": "",
-        "category": "需求缺口",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
-        "url": "https://news.ycombinator.com/item?id=50305770",
-        "source": "Hacker News",
-        "summary": "&gt; AI has real tangible use and benefit. I agree. AI is useful to layoff thousands of employees as we have already seen, hacking companies and governments with agent swarms and also helping with accelerating cyber crime. Now anyone including script kiddies can tell an AI agent to build an exploit to attack a website of their choosing the moment they find a vulnerability. You cannot say it is useful (which it is) and it does not also accelerate and amplify all the negative consequences at the s",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
+        "category": "可靠性与质量",
         "urgency": "高",
         "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "bili-issue-5185-comment",
+        "url": "https://github.com/ranxianglei/billion-context/issues/5365",
+        "source": "GitHub Issues",
+        "summary": "### Description *\n\nEnvironment\n- bili 0.1.209 (39a0ada5), Windows 11, Claude Code on the Anthropic lane via an OpenAI-compatible gateway\n- deepseek-v4.1-flash, window declared 1,000,000 through providers.<url>.models.<model>.context\n- session state at the time: 18 active blocks, ~60k context, cache hit 98%\nTimeline (single session, no user input in between)\n22:22:00.386  compress requested 5 range(s): m00835–m00940, m00966–m00969,\n              m00976–m00977, m00979–m00982, m01012–m01013\n22:22:0",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "LLM Voice",
@@ -523,43 +523,43 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[FEATURE]: First-class evaluation for decision models (Strands Decider, OpenJev, Jev)",
-        "url": "https://github.com/awslabs/stickler/issues/469",
+        "title": "feat(tracing): Add semantic GenAI spans for routing, attempts, sidecars and tool lifecycles",
+        "url": "https://github.com/aiproxer/aiproxer/issues/785",
         "source": "GitHub Issues",
-        "summary": "## What feature would you like to see?\n\nMake Stickler the reference framework for evaluating **typed decision models**: \"system one\" models that return a typed decision with a probability distribution instead of free text. [Strands Decider](https://github.com/strands-labs/strands-decider), [OpenJev](https://huggingface.co/openjev/openjev) and Jev all speak the same System One format (`POST /v1/systemone`), so one design covers all three.\n\nA **System One answer is already a self-describing object",
+        "summary": "## Problem\n\nExisting transport tracing does not explain the semantic request/attempt/auxiliary graph or proxy-added delay.\n\n## Proposed slice\n\nExtend standard OTel/GenAI instrumentation from existing lifecycle boundaries. Keep one trace per logical turn with attempts, fallbacks, auxiliary/tool activity and safe correlation. Preserve valid inbound W3C trace context as the parent and use parent-aware configurable sampling; do not replace it with a session-derived trace. Separate queue/pacing, upst",
         "score": 0.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
         "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 2 项"
+        "audience": "团队/企业",
+        "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[CLAUDE-AI01][FLEET][MCP] Outils en panne sans entrée de réparation : playwright DOWN, sk-agent CONNECT_TIMEOUT web1/web2 — remesurer et réparer",
-        "url": "https://github.com/jsboige/roo-extensions/issues/4289",
-        "source": "GitHub Issues",
-        "summary": "## Constat (rapporté, pas encore remesuré)\n\nLe statut flotte du 20/10 et l'amendement (h1) de Maintenance#121 listent des outils en panne qui vivent **sans entrée de réparation datée** :\n- **MCP playwright DOWN** (timeout), d'après le statut workspace roo-extensions du 20/10 ;\n- **sk-agent CONNECT_TIMEOUT** sur web1 et web2, d'après Maintenance#121, amendement (h1).\n\nSelon (h1), un contournement a une durée de vie de 48 h. Au-delà, sa réparation devient l'item prioritaire du siège qui le porte.\n",
-        "score": 70.0,
+        "title": "Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed while running a email reading code",
+        "url": "https://stackoverflow.com/questions/61182601/error-err-stream-destroyed-cannot-call-write-after-a-stream-was-destroyed-whi",
+        "source": "Stack Overflow",
+        "summary": "<h2>✖ Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed at doWrite (_stream_writable.js:431:19) at clearBuffer (_stream_writable.js:574:7) at Socket.Writable.uncork (_stream_writable.js:329:7) at JSStreamSocket.doWrite (internal/js_stream_socket.js:167:17) at JSStream.onwrite (internal/js_stream_socket.js:24:57) at Socket.ondata (internal/js_stream_socket.js:68:22) at addChunk (_stream_readable.js:309:12) at readableAddChunk (_stream_readable.js:290:11) at Socket.Reada",
+        "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
+        "category": "可靠性与质量",
+        "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 0 项"
+        "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Setup fails: swgen.exe crashes with access violation (0xc0000005) in python314.dll, “The game code didn’t build”",
-        "url": "https://github.com/Revivedx/SavageWindRecomp/issues/113",
+        "title": "Investigate Box borrowings and llama.cpp optional backend",
+        "url": "https://github.com/NickMonrad/kernel-ai-assistant/issues/702",
         "source": "GitHub Issues",
-        "summary": "Version: 0.3.0-alpha.3 (Windows)\nGame files: Switch 1.9.0 (exefs + romfs; extracted\\romfs\\System\\Version.txt shows 1.9.0)\nPC: Windows AMD Radeon RX 6700 XT, 32 GB RAM, CPU Intel(R) Core(TM) i5-12400F\nSettings: stock, no XMP/EXPO, no CPU overclock. Running from A: (NVMe, ~64 GB free). Nothing else running during setup.\n\nWhat happens:\n\"Set up game files\" stops partway (about 40% on one run, 52% on another) with\n\"The game code didn't build. Make sure there's enough free space and try again.\"\nFree s",
-        "score": 7.0,
+        "summary": "## 2026-10-19 promotion gate — chat and tool calling are mandatory for a supported llama.cpp backend\n\n**Decision:** llama.cpp is a serious *candidate* for Jandal's optional inference engine, **not** approved for production merely because it can generate constrained meal-plan JSON. The current #1643 / PR #1644 debug-only LFM GGUF, native prefill, streaming and structured-output spike remains bounded; do not expand it into a full chat/tool engine. Keep LiteRT-LM as the production chat/tool default",
+        "score": 41.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
+        "category": "隐私与合规",
+        "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 0 项"
+        "evidence": "关键词命中 3 项"
       },
       {
         "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
@@ -573,6 +573,19 @@
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[feature] Altium in-built comment tool usage",
+        "url": "https://github.com/salitronic/eda-agent/issues/146",
+        "source": "GitHub Issues",
+        "summary": "## Use case\nHaving the LLM able to use Altium's comment feature so that when AI assisted design reviews are conducted it could put a comment on the item in question which would then have traceability would be super convenient.\n## Proposed solution\n\nWhen a user requests a design review, found issues are individually tagged in the design in Altium using the in built comment feature. \n\n## Alternatives considered\n\nI currently am having it place text boxes in the schematic, but it's inefficient and w",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "Run Linux commands from PowerShell",
@@ -599,33 +612,19 @@
         "urgency": "低",
         "audience": "个人用户",
         "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "[BUG]: parakeet causes crashing",
-        "url": "https://github.com/wasi-master/wmkeyboard/issues/982",
-        "source": "GitHub Issues",
-        "summary": "### Version check\n\n- [x] I am on version 0.6.3 (the latest) and the bug still happens there\n\n### Build (optional)\n\n0.6.3 From F-Droid\n\n### Description of the bug\n\nUsing parakeet crashes (it listens to the audio, starts transcribing then crashes the keyboard). For some reason the logs don't show anything useful either. I thought this was my phone not being powerful enough, but the Marmalade STT app uses moondream's parakeet 0.6 tdt fine tune and that works very comfortably and quickly on my phone",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
       }
     ],
     "category_counts": {
-      "集成与兼容": 2,
-      "价格与付费": 1,
-      "需求缺口": 1,
-      "其他": 4,
+      "集成与兼容": 3,
+      "可靠性与质量": 6,
       "易用性与流程": 1,
-      "可靠性与质量": 3
+      "隐私与合规": 1,
+      "其他": 1
     },
     "next_actions": [
-      "优先验证「其他」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「易用性与流程」：今天出现 1 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
