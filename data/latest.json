@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31 23:28 CST",
+  "generated_at": "2026-11-02 00:15 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -273,168 +273,168 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 414481,
+      "score": 417753,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-10-31T15:27:17Z"
+      "published": "2026-11-01T16:15:07Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 393536,
+      "score": 393626,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-10-31T15:28:32Z"
+      "published": "2026-11-01T16:11:57Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 309827,
+      "score": 310456,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-10-31T15:27:47Z"
+      "published": "2026-11-01T16:15:21Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 293783,
+      "score": 294554,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-10-31T15:27:01Z"
+      "published": "2026-11-01T16:14:35Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 259075,
+      "score": 259406,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-31T15:27:14Z"
+      "published": "2026-11-01T16:10:41Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 259075,
+      "score": 259406,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-10-31T15:27:14Z"
+      "published": "2026-11-01T16:10:41Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 209197,
+      "score": 209279,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-10-31T15:18:26Z"
+      "published": "2026-11-01T16:09:29Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 197305,
+      "score": 197589,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-31T15:26:30Z"
+      "published": "2026-11-01T16:13:43Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 197305,
+      "score": 197589,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-10-31T15:26:30Z"
+      "published": "2026-11-01T16:13:43Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187844,
+      "score": 187854,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-31T14:17:38Z"
+      "published": "2026-11-01T15:53:29Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187844,
+      "score": 187854,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-10-31T14:17:38Z"
+      "published": "2026-11-01T15:53:29Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 185453,
+      "score": 185550,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "glm"
       ],
-      "published": "2026-10-31T15:23:36Z"
+      "published": "2026-11-01T16:03:58Z"
     }
   ],
   "stocks": [
@@ -458,50 +458,11 @@
   "information_gap": {
     "items": [
       {
-        "title": "Weekly CFO spending review pushed to LINE",
-        "url": "https://github.com/charlie60507/transaction_bot/issues/85",
+        "title": "task(migrate): hand-authored draw.io first-proof artefact — keld.config.ts, literal-only keld.permissions.jsonc and package-manifest edits under the X02-T1 contract",
+        "url": "https://github.com/gyldlab/keld/issues/499",
         "source": "GitHub Issues",
-        "summary": "## Goal\n\nA weekly \"CFO\" review of the owner's spending, pushed to LINE. A monthly report was rejected: by the time it arrives, an overspend is already a month old. The weekly report must warn early, mainly through a month-end projection.\n\nThere are no per-category budgets and no income data, and neither will be added: this project records spending, not assets (owner decision). The yardstick is the daily baseline from #80, which follows the existing `日常比較對象` setting: the 12-month median by defaul",
-        "score": 41.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Graphics tab is not usable for the operator: the four everyday tasks are not findable",
-        "url": "https://github.com/iamfatness/CoreVideoPro/issues/1076",
-        "source": "GitHub Issues",
-        "summary": "## Owner feedback, 2026-10-31 11:01 EDT, right after a live show on beta-2026-10-26-f969935\n\n\"The graphics tab is still just not very usable for me, I have trouble using and understanding what to do and where to go.\"\n\nAsked which tasks lost them, the owner picked all four:\n\n1. Put a lower third on a specific person, on Preview and then on Program.\n2. Edit a lower third's text (name, second line) or its style.\n3. Add a logo, a title or a bug to a scene.\n4. See what is live on Program now versus c",
-        "score": 3.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "CD failed on main: run 41210190375",
-        "url": "https://github.com/Systemorph/MeshWeaver/issues/7755",
-        "source": "GitHub Issues",
-        "summary": "CD failed on main: [run 41210190375](https://github.com/Systemorph/MeshWeaver/actions/runs/41210190375) for commit `65dc76f737b6bd5382cc8fcfc54b95ddebe0f960` (entered via `push`).\n\nTriage the failed job in the linked run - which of the two things CD delivers is broken depends on WHICH job went red:\n\n* an IMAGE job / promote / verify-images: no complete image set was published. Publication is all-or-nothing, so every self-updating install stays on the PREVIOUS image until a CD run promotes the fu",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "bili-issue-5185-comment",
-        "url": "https://github.com/ranxianglei/billion-context/issues/5365",
-        "source": "GitHub Issues",
-        "summary": "### Description *\n\nEnvironment\n- bili 0.1.209 (39a0ada5), Windows 11, Claude Code on the Anthropic lane via an OpenAI-compatible gateway\n- deepseek-v4.1-flash, window declared 1,000,000 through providers.<url>.models.<model>.context\n- session state at the time: 18 active blocks, ~60k context, cache hit 98%\nTimeline (single session, no user input in between)\n22:22:00.386  compress requested 5 range(s): m00835–m00940, m00966–m00969,\n              m00976–m00977, m00979–m00982, m01012–m01013\n22:22:0",
-        "score": 1.0,
+        "summary": "> Generated by an AI agent (Claude Code) on behalf of @0monish during Wayfinder charting of the Electron compatibility program; rewritten 2026-10-07 by the doctrine-audit repair pass (change log at the end). Planning only — no implementation is authorized by this issue.\n\n## Parent\n\nEpic #496 · Map #391 · Unit X02 · Kind: `task` · Tier: Tier 1 · Maturity target: **L1** · Size: S · Milestone: `first-proof`\n\n## What to build\n\nHand-author the exact files X02-T1 says migrate would write for drawio-de",
+        "score": 36.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -523,19 +484,6 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "feat(tracing): Add semantic GenAI spans for routing, attempts, sidecars and tool lifecycles",
-        "url": "https://github.com/aiproxer/aiproxer/issues/785",
-        "source": "GitHub Issues",
-        "summary": "## Problem\n\nExisting transport tracing does not explain the semantic request/attempt/auxiliary graph or proxy-added delay.\n\n## Proposed slice\n\nExtend standard OTel/GenAI instrumentation from existing lifecycle boundaries. Keep one trace per logical turn with attempts, fallbacks, auxiliary/tool activity and safe correlation. Preserve valid inbound W3C trace context as the parent and use parent-aware configurable sampling; do not replace it with a session-derived trace. Separate queue/pacing, upst",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "高",
-        "audience": "团队/企业",
-        "evidence": "关键词命中 1 项"
-      },
-      {
         "title": "Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed while running a email reading code",
         "url": "https://stackoverflow.com/questions/61182601/error-err-stream-destroyed-cannot-call-write-after-a-stream-was-destroyed-whi",
         "source": "Stack Overflow",
@@ -549,17 +497,17 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Investigate Box borrowings and llama.cpp optional backend",
-        "url": "https://github.com/NickMonrad/kernel-ai-assistant/issues/702",
-        "source": "GitHub Issues",
-        "summary": "## 2026-10-19 promotion gate — chat and tool calling are mandatory for a supported llama.cpp backend\n\n**Decision:** llama.cpp is a serious *candidate* for Jandal's optional inference engine, **not** approved for production merely because it can generate constrained meal-plan JSON. The current #1643 / PR #1644 debug-only LFM GGUF, native prefill, streaming and structured-output spike remains bounded; do not expand it into a full chat/tool engine. Keep LiteRT-LM as the production chat/tool default",
-        "score": 41.0,
+        "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
+        "url": "https://stackoverflow.com/questions/80009709/how-do-i-enforce-that-an-llm-only-cites-chunk-ids-from-the-retrieved-set-when-t",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm building a RAG app with LangChain. Retrieval returns a list of chunks, each with an ID such as doc_3. The model answers with citations like [doc_3], but sometimes it cites an ID that was never retrieved. I already check every cited ID against the retrieved list in code and reject unknown IDs. That catches invented IDs, but it does not catch a real ID attached to a claim the chunk does not support, and it fails when the model paraphrases instead of quoting.</p>\n<p>What is the robust way to",
+        "score": -4.0,
         "tags": [],
         "published": "",
-        "category": "隐私与合规",
-        "urgency": "中",
+        "category": "其他",
+        "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 3 项"
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
@@ -573,19 +521,6 @@
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "[feature] Altium in-built comment tool usage",
-        "url": "https://github.com/salitronic/eda-agent/issues/146",
-        "source": "GitHub Issues",
-        "summary": "## Use case\nHaving the LLM able to use Altium's comment feature so that when AI assisted design reviews are conducted it could put a comment on the item in question which would then have traceability would be super convenient.\n## Proposed solution\n\nWhen a user requests a design review, found issues are individually tagged in the design in Altium using the in built comment feature. \n\n## Alternatives considered\n\nI currently am having it place text boxes in the schematic, but it's inefficient and w",
-        "score": 3.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
       },
       {
         "title": "Run Linux commands from PowerShell",
@@ -612,19 +547,83 @@
         "urgency": "低",
         "audience": "个人用户",
         "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "hrx: gfxhub page fault + MODE2 GPU reset when GTT nears the 120 GiB ceiling (Flash-Next UD-IQ3_XXS, 18.8k ctx, 106.5 GiB GTT)",
+        "url": "https://github.com/1bit-MONSTER/engine/issues/680",
+        "source": "GitHub Issues",
+        "summary": "## Summary\n\nTwo `[gfxhub] page fault` bursts followed by a MODE2 GPU reset, both from runs of the **house HRX route** on\nthe same box within three minutes of each other. Both happened while the unified-memory pool was near its\nceiling: the first (23:00) came from the arm whose last sample had pushed **GTT to 106.5 GiB of 120 GiB**;\nthe second (23:03) came from a `1bit serve` + draft configuration that was failing to come up. A third burst\n20 minutes later (23:18) is a **third-party binary** and ",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "orbi draft: the fidelity pass drops outcomes from earlier rounds because it only sees the latest message",
+        "url": "https://github.com/orbi-build/orbi/issues/2050",
+        "source": "GitHub Issues",
+        "summary": "## Outcome\nWhen a person answers a drafting question, the next draft still contains everything they asked for in earlier rounds. Today the fidelity pass can strip an outcome the person stated in the first round, because it only sees the latest message.\n\n## Evidence\n- `run_round` passes only the latest message to the fidelity pass: `request=str(payload[\"message\"])` (`src/orbi/draft.py:622-625`).\n- The fidelity pass is told to remove what the person did not ask for (`FIDELITY_PROTOCOL`, `src/orbi/",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Paket KI lokal: ähnliche Dokumente, Vorschläge, Fragen an die Ablage – Konzept (WebAssembly, Ollama)",
+        "url": "https://github.com/motom001/dms-registry/issues/31",
+        "source": "GitHub Issues",
+        "summary": "**Als** Haushalt, der seine Daten nicht in eine Cloud geben will,\n**möchte ich** **KI-Funktionen lokal** nutzen – Vorschläge beim Zuordnen, Zusammenfassungen, Fragen an meine Dokumente, ähnliche Dokumente,\n**damit** das DMS mitdenkt, ohne dass Daten das Haus verlassen.\n\n**Für wen:** Haushalts-Admin (richtet ein), Einsteiger-Familie (profitiert), Selbständige.\n\n## Status\n**Stufe 1 freigegeben** (Thomas, 01.11.2026) → #44 (Paket) und motom001/dms#442 (Schnittstelle); Stufe 2 zugeschnitten: #45 (Pa",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "R1: integrate one bounded product API worker into the local companion",
+        "url": "https://github.com/spexop-ui/spexop-ui/issues/18",
+        "source": "GitHub Issues",
+        "summary": "## Goal\n\nIntegrate one user-configured LLM API worker into the local R1 companion flow for a bounded UI task. The existing coding agent keeps planning, design decisions, oversight, and risky work. This issue implements product-runtime coordination, not a provider benchmark or a release.\n\n## Scope\n\n- Accept an explicit local task contract for one Button/Input/Select change, including allowed files, attempt/time/token limits, and user-selected provider/model.\n- Keep credentials local and out of lo",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Postgresql MCP server not running. Tool showing error",
+        "url": "https://stackoverflow.com/questions/79709658/postgresql-mcp-server-not-running-tool-showing-error",
+        "source": "Stack Overflow",
+        "summary": "<p>Here is the code I am running for mcp-server on cursor -</p>\n<pre><code>from contextlib import asynccontextmanager\nfrom collections.abc import AsyncIterator\nfrom dataclasses import dataclass\n\nimport asyncpg\nfrom mcp.server.fastmcp import FastMCP, Context\n\n# Async PostgreSQL wrapper using asyncpg\nclass Database:\n    def __init__(self, pool: asyncpg.Pool):\n        self.pool = pool\n\n    @classmethod\n    async def connect(cls) -&gt; &quot;Database&quot;:\n        pool = await asyncpg.create_pool(\n",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
       }
     ],
     "category_counts": {
-      "集成与兼容": 3,
-      "可靠性与质量": 6,
+      "可靠性与质量": 5,
       "易用性与流程": 1,
-      "隐私与合规": 1,
-      "其他": 1
+      "其他": 4,
+      "集成与兼容": 2
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「易用性与流程」：今天出现 1 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
