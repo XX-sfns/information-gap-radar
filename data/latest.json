@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-03 03:41 CST",
+  "generated_at": "2026-11-04 01:14 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI News",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI News",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 02 Nov 2026 15:30:00 GMT"
+    },
     {
       "title": "Introducing the Grid Protectors Program",
       "url": "https://openai.com/index/grid-protectors-program",
@@ -14,6 +36,28 @@
       "published": "Mon, 02 Nov 2026 15:00:00 GMT"
     },
     {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI News",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 02 Nov 2026 18:00:00 GMT"
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI News",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 02 Nov 2026 18:00:00 GMT"
+    },
+    {
       "title": "LifeVal",
       "url": "https://openai.com/index/lifeval",
       "source": "OpenAI News",
@@ -23,6 +67,17 @@
         "AI/科技"
       ],
       "published": "Mon, 02 Nov 2026 09:00:00 GMT"
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI News",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 02 Nov 2026 00:00:00 GMT"
     },
     {
       "title": "Qodo builds context into AI code review with Codex",
@@ -80,59 +135,26 @@
       "published": "Thu, 29 Oct 2026 17:00:00 GMT"
     },
     {
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI News",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Thu, 29 Oct 2026 09:00:00 GMT"
+      "published": "Tue, 03 Nov 2026 16:35:36 GMT"
     },
     {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "source": "OpenAI News",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Thu, 29 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "url": "https://openai.com/index/credit-saison",
-      "source": "OpenAI News",
-      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI News",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 28 Oct 2026 13:15:00 GMT"
-    },
-    {
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "source": "OpenAI News",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 28 Oct 2026 10:00:00 GMT"
+      "published": "Tue, 03 Nov 2026 00:00:00 GMT"
     },
     {
       "title": "nemotron-halloween",
@@ -234,17 +256,6 @@
       "published": "Thu, 22 Oct 2026 22:24:34 GMT"
     },
     {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 22 Oct 2026 07:51:31 GMT"
-    },
-    {
       "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
       "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
       "source": "Hugging Face Blog",
@@ -254,52 +265,236 @@
         "AI/科技"
       ],
       "published": "Wed, 21 Oct 2026 17:35:36 GMT"
-    },
-    {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 21 Oct 2026 16:04:43 GMT"
     }
   ],
-  "github_trending": [],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 426130,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai",
+        "android"
+      ],
+      "published": "2026-11-03T17:14:19Z"
+    },
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 393839,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-11-03T17:14:05Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 311714,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-11-03T17:13:56Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 296308,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-11-03T17:13:47Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 260165,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-11-03T17:10:33Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 260165,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-11-03T17:10:33Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 209451,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-11-03T17:05:59Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 198249,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-11-03T17:06:21Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 198249,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-11-03T17:06:21Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187885,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-03T16:32:32Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187885,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-03T16:32:32Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 185794,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "glm"
+      ],
+      "published": "2026-11-03T17:12:54Z"
+    }
+  ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 203.3,
-      "change_percent": -0.65,
-      "signal": "观望",
-      "rationale": "近一交易日涨跌 -0.65%；只作信息展示，不构成投资建议。"
+      "price": 208.54,
+      "change_percent": 3.21,
+      "signal": "关注",
+      "rationale": "近一交易日涨跌 +3.21%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1392.05,
-      "change_percent": 2.81,
+      "price": 1439.1,
+      "change_percent": 3.38,
       "signal": "关注",
-      "rationale": "近一交易日涨跌 +2.81%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +3.38%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "defrag and the topology descriptor present a client-process path as observed Chroma storage",
-        "url": "https://github.com/neomjs/neo-agent-brain/issues/306",
+        "title": "coordinator v2: GitHub-gated PM loop, pane spawning, model tiers",
+        "url": "https://github.com/sammasak/skills/issues/28",
         "source": "GitHub Issues",
-        "summary": "## Context\n\nSuccessor to #288 / PR #303, opened at cross-lab review request (@neo-gpt-emmy). #303 collapses the KB child `path` alias onto `engines.chroma.dataDir` — a **C4 naming** fix that is correct and does not touch this. The deeper question it exposes is physical ownership, and it is out of scope there.\n\n## The problem\n\n`engines.chroma.dataDir` resolves to a path in the **reading process's** filesystem (`.neo-ai-data/chroma/unified`). In a container deployment that path has no relationship",
-        "score": 5.0,
+        "summary": "Follow-up to epic #16 from the 2026-10-27 campaign (owner-authorized triage and documentation passes driven through the coordinator on lenovo). Sources read: `agents/coordinator/ROLE.md`, `agents/coordinator.md`, `agents/coordinator/tasks.nix`, `task-modules/herdr.nix`, `docs/operator-runbook.md` (skills main `2406511`), nixos-config `docs/herdr.md` and `modules/programs/cli/claude-code/mcp.nix` (main `ad233f30`), and `herdr --skill` (herdr 0.9.5).\n\nThe v1 coordinator is a read-and-relay subagen",
+        "score": 60.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "bug(billing): LLMCostTracker.record() doesn't exist — main chat path's cost tracking and budget enforcement silently broken since April",
+        "url": "https://github.com/mrveiss/AutoBot-AI/issues/16845",
+        "source": "GitHub Issues",
+        "summary": "## Problem\n\nThe general-purpose LLM cost-tracking → budget-enforcement chain (GH#6470's Budget Policy system) is broken for the main chat/API path, and has been for approximately five months.\n\n`autobot-backend/services/llm_service.py:1173-1188 _track_usage` calls `tracker.record(provider=..., model=..., usage=..., conversation_id=...)` at line 1181. `LLMCostTracker` (`services/llm_cost_tracker.py`) **has no `record` method** — confirmed by listing all 30+ methods on the class, none named `record",
+        "score": 14.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "Signing a Claude login in on macOS ends at a success screen with no token",
+        "url": "https://github.com/enes-alatas/spool/issues/1304",
+        "source": "GitHub Issues",
+        "summary": "### Observed behavior\n\nOn a macOS machine running v0.6.2, signing a Claude login in ends on a success screen that says \"Build something great\" and no token is printed or stored: the hub has no login afterwards. Reported by a user to Enes on 2026-11-03. Not yet known: whether the user went through **Sign in with Claude** on the setup card (the hub driving the `claude` CLI's login) or ran `claude setup-token` in a terminal to paste a setup-token, and which `claude` CLI version the machine has. Bot",
+        "score": 5.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "Internet Explorer Automation: how to suppress Open/Save dialog?",
@@ -315,30 +510,17 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "fix(either): preflight native borrows according to the selected conversion branch",
-        "url": "https://github.com/A2-ai/miniextendr/issues/1504",
+        "title": "Spike: fundamental versions of the human-workflow conventions (field solve, hardware loop, and seven more)",
+        "url": "https://github.com/alexchunlin/alex-pcb-skills/issues/3",
         "source": "GitHub Issues",
-        "summary": "The `either` feature's `TryFromSexp for Either<L, R>` can retain native references while remaining invisible to generated wrappers' native-borrow preflight. This is a separate branch-selection problem discovered during #1502, which handles scalar and boxed borrows plus containers that unconditionally delegate to one conversion shape.\n\n`miniextendr-api/src/optionals/either_impl.rs` tries `L::try_from_sexp(sexp)` first and returns `Left` immediately on success; only an error allows `R::try_from_se",
-        "score": 3.0,
+        "summary": "## Summary\nSpike: the loop still copies the human workflow with the human removed. The conventions below exist because a person had limited time, memory and patience; each has a fundamental version a machine can afford. Two are written up as full spikes here (the current and thermal field solve, and the hardware loop) because they attack the two largest gaps in the evidence: five of the last five electrical majors were \"current reached a pin through something no row counted\" (R2-S-1, R2-O-2, R2-",
+        "score": 2.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "价格与付费",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Version, changelog, tag and release notes for v0.7.0 (unit REL-03)",
-        "url": "https://github.com/infiquetra/talaria/issues/284",
-        "source": "GitHub Issues",
-        "summary": "### Objective\n\nThis issue delivers the release itself for Talaria v0.7.0: the version number `0.7.0` in one place, a changelog section and release notes that tell a user the truth, the checks that prove the tag commit is the tested commit, and the annotated tag `v0.7.0` with a GitHub release page. It is unit REL-03 of the v0.7.0 roadmap, under #220 (`REL`). It matters because a repository rule forbids deleting, moving or updating any `v` tag, so a wrong tag can only be answered with a new releas",
-        "score": 3.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 3 项"
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
@@ -354,27 +536,14 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "Runtime reliability: live build coherence",
-        "url": "https://github.com/valerielinc-ops/frontaliere-si-o-no/issues/9908",
+        "title": "Web apps: move every app onto the vendored sign-in sheet (Step 2/2 of #575)",
+        "url": "https://github.com/ferraroroberto/project-scaffolding/issues/577",
         "source": "GitHub Issues",
-        "summary": "**Workflow:** Runtime reliability watchdog\n\n## Runtime degradation\n\n- Run: https://github.com/valerielinc-ops/frontaliere-si-o-no/actions/runs/36213451214\n- Marker state: rollout_in_progress\n- Site build: 1790371278308\n- CDN build: 1790380914415\n- Chunk graph: 1339 chunk(s) from 20 entry page(s) in it/en/de/fr, both cache variants, 4111 named import(s) link-checked, edge colo PDX, ATL; /assets/blogBodyLoader.js: 1000/24836 content chunks (rotating window 7 of 25)\n- Repair: purge of 2 URL(s) (exa",
-        "score": 162.0,
+        "summary": "## What & why\n\nStep 2/2 of #575. Step 1 ships the vendored `sign-in` sheet (`app/webapp/static/_vendored/sign-in/`, manifest key `sign-in`) and the conventions-ratchet rule `password-input-vendored`, which fails any password input outside that folder. This step moves every fleet web app onto the sheet, one PR per app, and turns the rule on in each app's gate so a bespoke modal can never come back.\n\n## Current state\n\nFlow A apps (password in, bearer token out, `POST {password}` → `200 {token}`), ",
+        "score": 9.0,
         "tags": [],
         "published": "",
-        "category": "易用性与流程",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Support full hosted feature-recovery boot with business execution held",
-        "url": "https://github.com/KestrelSovereignAI/kestrel-sovereign/issues/3827",
-        "source": "GitHub Issues",
-        "summary": "## Task Description\n\nProvide a supported, fully fenced hosted feature-recovery boot that preserves the original DID and durable work. This blocks final production acceptance for KestrelSovereignAI/frinz#664 and KestrelSovereignAI/frinz#670; Frinz PR833 remains draft, reviewed and CI-green, and production remains in DB-free maintenance. This is not permission to clear a safety latch, replace an identity, or execute queued business work during repair.\n\n## Observed failure / reproduction\n\nAn existi",
-        "score": 5.0,
-        "tags": [],
-        "published": "",
-        "category": "易用性与流程",
+        "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
@@ -384,7 +553,7 @@
         "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
         "source": "Stack Overflow",
         "summary": "<p>I am trying to compute the diagonal of the Fisher information matrix. I found this code that appears to do just that, but there are some issues with the code. First consider the code in its original form:</p>\n<pre><code>    estimated_fisher = {}\n\n    for n, p in model.named_parameters():\n        estimated_fisher[n] = torch.zeros_like(p)\n    model.eval()\n    for i, (input, target) in enumerate(dl, 0):\n        model.zero_grad()\n        output = model(input.to(device))\n        label = target.to(",
-        "score": 5.0,
+        "score": 7.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -419,11 +588,11 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "[BUG] App not using the microphone even after giving it permission",
-        "url": "https://github.com/cogwheel0/conduit/issues/917",
+        "title": "Copilot: set_maintenance_mode can never be enabled; the Tool Catalog's save drops it and the toggle snaps back off",
+        "url": "https://github.com/spatiumnorth/spatiumddi/issues/3415",
         "source": "GitHub Issues",
-        "summary": "### App Version\n\n4.2.2 (2153)\n\n### Platform\n\n- [x] Android\n- [ ] iOS\n\n### How you installed it\n\nGitHub Releases\n\n### What happened?\n\nWhen I start a call it asks for mic permission, after giving it the permission, the call starts, but no audio goes through. Also, the green dot that appears in the status bar at top right, when the mic or camera is in use by any app, does not appear. Tried placing the call using both, realtime and standard.\nSame thing happens when using the recording feature. It sh",
-        "score": 2.0,
+        "summary": "`set_maintenance_mode` ships off and says the operator opts it in, but no operator can: the Tool Catalog's save drops it, so its toggle snaps back off with no message.\n\nFound by our issues desk while working #3390, which has the same shape (a tool registered `writes=True` with `default_enabled=False`). Unlike #3390's two `propose_*` tools, this one is a real direct write, so the fix is a design call, not a one-line flag.\n\n## What happens\n\nOn main d39703ab0 (the same at nightly-2026.11.02, e76d52",
+        "score": 1.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -432,29 +601,29 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Postgresql MCP server not running. Tool showing error",
-        "url": "https://stackoverflow.com/questions/79709658/postgresql-mcp-server-not-running-tool-showing-error",
-        "source": "Stack Overflow",
-        "summary": "<p>Here is the code I am running for mcp-server on cursor -</p>\n<pre><code>from contextlib import asynccontextmanager\nfrom collections.abc import AsyncIterator\nfrom dataclasses import dataclass\n\nimport asyncpg\nfrom mcp.server.fastmcp import FastMCP, Context\n\n# Async PostgreSQL wrapper using asyncpg\nclass Database:\n    def __init__(self, pool: asyncpg.Pool):\n        self.pool = pool\n\n    @classmethod\n    async def connect(cls) -&gt; &quot;Database&quot;:\n        pool = await asyncpg.create_pool(\n",
+        "title": "[METHOD] RACE neuron consistency (Wang et al., 2026)",
+        "url": "https://github.com/UKPLab/murano/issues/125",
+        "source": "GitHub Issues",
+        "summary": "> *Generated by the murano agent loop.*\n\n### Paper\nRACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons. Runyu Wang, Bo Liu, Xiaxin Zhang, Yu Han et al. (9 authors). EMNLP 2026. https://arxiv.org/abs/2608.24758\nCode: https://github.com/Nexround/RACE (MIT)\n\n### Method\nFor every neuron in a chosen module, RACE measures how strongly it pushes the module's residual update on each observation, then ranks neurons by the lower credible bound of the mean from a Normal-Inverse-G",
         "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "价格与付费",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "evidence": "关键词命中 1 项"
       }
     ],
     "category_counts": {
-      "可靠性与质量": 6,
+      "其他": 4,
+      "可靠性与质量": 4,
       "集成与兼容": 2,
-      "其他": 2,
-      "易用性与流程": 2
+      "价格与付费": 2
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「其他」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
