@@ -1,0 +1,632 @@
+{
+  "generated_at": "2026-11-05 01:26 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI News",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 04 Nov 2026 14:30:00 GMT"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI News",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 04 Nov 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI News",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 12:00:00 GMT"
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "source": "OpenAI News",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI News",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "source": "OpenAI News",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI News",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 02 Nov 2026 15:30:00 GMT"
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI News",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 02 Nov 2026 15:00:00 GMT"
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI News",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 02 Nov 2026 18:00:00 GMT"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI News",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 02 Nov 2026 18:00:00 GMT"
+    },
+    {
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "source": "OpenAI News",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 02 Nov 2026 09:00:00 GMT"
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI News",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 02 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 17:15:21 GMT"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 16:35:36 GMT"
+    },
+    {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 30 Oct 2026 17:57:24 GMT"
+    },
+    {
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 13:37:07 GMT"
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 27 Oct 2026 17:16:52 GMT"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 22 Oct 2026 22:24:34 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 430034,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai",
+        "android"
+      ],
+      "published": "2026-11-04T17:25:58Z"
+    },
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 393898,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-11-04T17:25:00Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 312305,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-11-04T17:26:16Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 297050,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-11-04T17:23:09Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 260490,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-11-04T17:21:55Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 260490,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-11-04T17:21:55Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 209555,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-11-04T17:12:45Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 198566,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-11-04T17:13:35Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 198566,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-11-04T17:13:35Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187899,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-04T17:17:00Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187899,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-04T17:17:00Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 185912,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "glm"
+      ],
+      "published": "2026-11-04T17:09:07Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 203.22,
+      "change_percent": -1.68,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -1.68%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1480.0,
+      "change_percent": 2.84,
+      "signal": "关注",
+      "rationale": "近一交易日涨跌 +2.84%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "spec(window/windows): Host Ready, BrowserWindow and vetoable Win32 close (W2)",
+        "url": "https://github.com/gyldlab/keld/issues/1188",
+        "source": "GitHub Issues",
+        "summary": "## Parent\n[Windows Electron compatibility program #1182](https://github.com/gyldlab/keld/issues/1182), **W2**. Existing window family owners: [#530](https://github.com/gyldlab/keld/issues/530), [#449](https://github.com/gyldlab/keld/issues/449), [#450](https://github.com/gyldlab/keld/issues/450), Host Ready [#446](https://github.com/gyldlab/keld/issues/446)/[#1180](https://github.com/gyldlab/keld/issues/1180).\n\n## What to build\nDeliver a real **Win32 WebView2-backed Electron BrowserWindow** that",
+        "score": 52.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Internet Explorer Automation: how to suppress Open/Save dialog?",
+        "url": "https://stackoverflow.com/questions/658839/internet-explorer-automation-how-to-suppress-open-save-dialog",
+        "source": "Stack Overflow",
+        "summary": "<p><strong>When controlling IE instance via MSHTML, how to suppress Open/Save dialogs for non-HTML content?</strong></p>\n<p>I need to get data from another system and import it into our one. Due to budget constraints no development (e.g. WS) can be done on the other side for some time, so my only option for now is to do web scraping.</p>\n<p>The remote site is ASP.NET-based, so simple HTML requests won't work -- too much JS.</p>\n<p>I wrote a simple C# application that uses MSHTML and SHDocView to",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Viewer UI overhaul: measured hill climb (drift ratchet + blind design council)",
+        "url": "https://github.com/LTplus-AG/ifc-lite/issues/8802",
+        "source": "GitHub Issues",
+        "summary": "## Goal\n\nA complete overhaul of the viewer UI, driven as a measured hill climb instead of one-off redesigns.\n\nThe method adapts the \"LLM design council\" loop: capture the UI, have independent model reviewers judge it, fix the findings, repeat. Applied naively to an app this size (841 component files, 43 panels/dialogs), a screenshot council can't converge. So the work is split across two scores and a behaviour guard.\n\n## Baseline (main d7871f79c2)\n\n- 2,826 raw Tailwind palette classes and 409 he",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "v0.12.0 regression: evaluation time exponential in derived features referenced from untaken if branches",
+        "url": "https://github.com/Open-MBEE/OpenSysML/issues/1929",
+        "source": "GitHub Issues",
+        "summary": "## Summary\n\nIn v0.12.0, evaluating a feature valued by an expression takes time exponential in the number of *other expression-valued features referenced from untaken `if` branches*. v0.11.0 evaluates the same model in constant time. The results are the same in both versions; only the time differs. No diagnostic is emitted, so a larger model just appears to hang.\n\n## Reproduction\n\n`gen.py` writes N features `a1..aN`. Each `ai` picks another feature by an integer selector `pi` (default 0, so ever",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
+        "url": "https://stackoverflow.com/questions/80009709/how-do-i-enforce-that-an-llm-only-cites-chunk-ids-from-the-retrieved-set-when-t",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm building a RAG app with LangChain. Retrieval returns a list of chunks, each with an ID such as doc_3. The model answers with citations like [doc_3], but sometimes it cites an ID that was never retrieved. I already check every cited ID against the retrieved list in code and reject unknown IDs. That catches invented IDs, but it does not catch a real ID attached to a claim the chunk does not support, and it fails when the model paraphrases instead of quoting.</p>\n<p>What is the robust way to",
+        "score": -4.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Add support for video routes",
+        "url": "https://github.com/netbrain/zwift/issues/425",
+        "source": "GitHub Issues",
+        "summary": "## Describe the bug\n\nWhen selecting \"Video\", zwift says that there has been a technical error.\n\n## To Reproduce\n\nSteps to reproduce the behavior:\n\n1. Go to Routes\n2. Select Video\n\n## Expected behavior\n\nA list of video routes should be should be shown.\n\n## Additional context\n\nThis is a new feature included in zwift+, launched today.\n",
+        "score": 38.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[FP] Java: every Map/HashMap/TreeMap.get() is a high-severity `plugin_param` taint source, so constant lookup tables produce flow-backed sql/cmd/path/xss findings",
+        "url": "https://github.com/cogniumhq/cognium-dev/issues/584",
+        "source": "GitHub Issues",
+        "summary": "## Defect\n\n`configs/sources/io_sources.yaml` (and the bundled defaults) register `get` on `Map`, `HashMap`, `LinkedHashMap`, `TreeMap`, `ConcurrentHashMap` and `Hashtable` as taint sources: `type: plugin_param`, `severity: high`, `return_tainted: true`, with the note \"often used for plugin/config parameters from user input\". Nothing checks what was put into the map, so **every** Java map read starts a taint flow, including maps filled only with string literals.\n\n## Repro (published `circle-ir@4.",
+        "score": 18.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
+        "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
+        "source": "Stack Overflow",
+        "summary": "<p>I am trying to compute the diagonal of the Fisher information matrix. I found this code that appears to do just that, but there are some issues with the code. First consider the code in its original form:</p>\n<pre><code>    estimated_fisher = {}\n\n    for n, p in model.named_parameters():\n        estimated_fisher[n] = torch.zeros_like(p)\n    model.eval()\n    for i, (input, target) in enumerate(dl, 0):\n        model.zero_grad()\n        output = model(input.to(device))\n        label = target.to(",
+        "score": 7.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Print the next action line with each run:cut verdict",
+        "url": "https://github.com/joshuafolkken/kit/issues/6235",
+        "source": "GitHub Issues",
+        "summary": "## 背景\n\n- 種別: 非不具合\n- 目的: 時間短縮\n- 人の判断: 不要\n- 優先度: 通常\n- 規模見積もり: 約 3 ファイル / 80 行（テスト除く）\n\nlane 子が散文で行っている手順をスクリプトにする一連の Issue の 1 件（(c) `run:cut` の verdict）。`pnpm josh lane:stats --period 14`（2026-11-04）で cut → resume 262 回。\n\n## 現象\n\n`.claude/skills/workflow-commands/pre-gate-cut.md:37-47` は `run:cut` の 9 つの verdict と取るべき動作を散文の表で対応付けている。LLM は verdict ごとに表を引いて次の動作を決める。\n\n## 期待結果\n\n`run:cut` が verdict と一緒に次に打つ 1 行を印字し、散文の表は不要になる。\n\n## 受け入れ条件\n\n- [ ] `run:cut` が 9 つの verdict それぞれで次の 1 行を印字する\n- [ ] `pre-gate-c",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "易用性与流程",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Postgresql MCP server not running. Tool showing error",
+        "url": "https://stackoverflow.com/questions/79709658/postgresql-mcp-server-not-running-tool-showing-error",
+        "source": "Stack Overflow",
+        "summary": "<p>Here is the code I am running for mcp-server on cursor -</p>\n<pre><code>from contextlib import asynccontextmanager\nfrom collections.abc import AsyncIterator\nfrom dataclasses import dataclass\n\nimport asyncpg\nfrom mcp.server.fastmcp import FastMCP, Context\n\n# Async PostgreSQL wrapper using asyncpg\nclass Database:\n    def __init__(self, pool: asyncpg.Pool):\n        self.pool = pool\n\n    @classmethod\n    async def connect(cls) -&gt; &quot;Database&quot;:\n        pool = await asyncpg.create_pool(\n",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "url": "https://news.ycombinator.com/item?id=50368684",
+        "source": "Hacker News",
+        "summary": "It&#x27;s a market thing too. Company A tries to write perfect code. Company B tries to write something that the users don&#x27;t hate.  Company B wins in the vast majority of cases.  Especially when company A these days is stuck with a huge space to investigate. This isn&#x27;t unique to coding, but coding has been built on it for decades, with the &quot;safety valve&quot; of &quot;who has the time to check all that?&quot;.  So defcon speakers and intelligence agencies burn time investigating f",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Evergreen: A Provably Safe Systems Language",
+        "url": "https://news.ycombinator.com/item?id=50368661",
+        "source": "Hacker News",
+        "summary": "you can ask ai to write code in existing languages with large training sets, and it&#x27;ll do better because of the large volume of training data. if you&#x27;re all-in on ai, you want to prioritize familiarity for agents.",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      }
+    ],
+    "category_counts": {
+      "集成与兼容": 3,
+      "其他": 3,
+      "价格与付费": 1,
+      "可靠性与质量": 3,
+      "易用性与流程": 1,
+      "隐私与合规": 1
+    },
+    "next_actions": [
+      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}

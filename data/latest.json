@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-04 01:14 CST",
+  "generated_at": "2026-11-05 01:26 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI News",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 04 Nov 2026 14:30:00 GMT"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI News",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 04 Nov 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI News",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 12:00:00 GMT"
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "source": "OpenAI News",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 08:00:00 GMT"
+    },
     {
       "title": "Heimstaden is changing residential real estate management with AI",
       "url": "https://openai.com/index/heimstaden",
@@ -12,6 +56,17 @@
         "AI/科技"
       ],
       "published": "Tue, 03 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "source": "OpenAI News",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 00:00:00 GMT"
     },
     {
       "title": "Scaling Git at OpenAI",
@@ -36,10 +91,10 @@
       "published": "Mon, 02 Nov 2026 15:00:00 GMT"
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI News",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -47,10 +102,10 @@
       "published": "Mon, 02 Nov 2026 18:00:00 GMT"
     },
     {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -80,59 +135,15 @@
       "published": "Mon, 02 Nov 2026 00:00:00 GMT"
     },
     {
-      "title": "Qodo builds context into AI code review with Codex",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "source": "OpenAI News",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Mon, 02 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "source": "OpenAI News",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 30 Oct 2026 09:30:00 GMT"
-    },
-    {
-      "title": "Community safety report and new protections for teens",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "source": "OpenAI News",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 30 Oct 2026 09:00:00 GMT"
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI News",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 30 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI News",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 29 Oct 2026 17:00:00 GMT"
+      "published": "Tue, 03 Nov 2026 17:15:21 GMT"
     },
     {
       "title": "Palette: teaching a small model to build decks in your design language",
@@ -144,6 +155,17 @@
         "AI/科技"
       ],
       "published": "Tue, 03 Nov 2026 16:35:36 GMT"
+    },
+    {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 00:00:00 GMT"
     },
     {
       "title": "Transformers Model Integration Contracts",
@@ -223,17 +245,6 @@
       "published": "Tue, 27 Oct 2026 17:16:52 GMT"
     },
     {
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Tue, 27 Oct 2026 16:12:42 GMT"
-    },
-    {
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
       "url": "https://huggingface.co/blog/torch-neuronx-model-support",
       "source": "Hugging Face Blog",
@@ -254,17 +265,6 @@
         "AI/科技"
       ],
       "published": "Thu, 22 Oct 2026 22:24:34 GMT"
-    },
-    {
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 21 Oct 2026 17:35:36 GMT"
     }
   ],
   "github_trending": [
@@ -273,228 +273,202 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 426130,
+      "score": 430034,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-03T17:14:19Z"
+      "published": "2026-11-04T17:25:58Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 393839,
+      "score": 393898,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-03T17:14:05Z"
+      "published": "2026-11-04T17:25:00Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 311714,
+      "score": 312305,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-03T17:13:56Z"
+      "published": "2026-11-04T17:26:16Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 296308,
+      "score": 297050,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-03T17:13:47Z"
+      "published": "2026-11-04T17:23:09Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 260165,
+      "score": 260490,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-03T17:10:33Z"
+      "published": "2026-11-04T17:21:55Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 260165,
+      "score": 260490,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-03T17:10:33Z"
+      "published": "2026-11-04T17:21:55Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 209451,
+      "score": 209555,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-03T17:05:59Z"
+      "published": "2026-11-04T17:12:45Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 198249,
+      "score": 198566,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-03T17:06:21Z"
+      "published": "2026-11-04T17:13:35Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 198249,
+      "score": 198566,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-03T17:06:21Z"
+      "published": "2026-11-04T17:13:35Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187885,
+      "score": 187899,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-03T16:32:32Z"
+      "published": "2026-11-04T17:17:00Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187885,
+      "score": 187899,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-03T16:32:32Z"
+      "published": "2026-11-04T17:17:00Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 185794,
+      "score": 185912,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "glm"
       ],
-      "published": "2026-11-03T17:12:54Z"
+      "published": "2026-11-04T17:09:07Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 208.54,
-      "change_percent": 3.21,
-      "signal": "关注",
-      "rationale": "近一交易日涨跌 +3.21%；只作信息展示，不构成投资建议。"
+      "price": 203.22,
+      "change_percent": -1.68,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -1.68%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1439.1,
-      "change_percent": 3.38,
+      "price": 1480.0,
+      "change_percent": 2.84,
       "signal": "关注",
-      "rationale": "近一交易日涨跌 +3.38%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +2.84%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "coordinator v2: GitHub-gated PM loop, pane spawning, model tiers",
-        "url": "https://github.com/sammasak/skills/issues/28",
+        "title": "spec(window/windows): Host Ready, BrowserWindow and vetoable Win32 close (W2)",
+        "url": "https://github.com/gyldlab/keld/issues/1188",
         "source": "GitHub Issues",
-        "summary": "Follow-up to epic #16 from the 2026-10-27 campaign (owner-authorized triage and documentation passes driven through the coordinator on lenovo). Sources read: `agents/coordinator/ROLE.md`, `agents/coordinator.md`, `agents/coordinator/tasks.nix`, `task-modules/herdr.nix`, `docs/operator-runbook.md` (skills main `2406511`), nixos-config `docs/herdr.md` and `modules/programs/cli/claude-code/mcp.nix` (main `ad233f30`), and `herdr --skill` (herdr 0.9.5).\n\nThe v1 coordinator is a read-and-relay subagen",
-        "score": 60.0,
+        "summary": "## Parent\n[Windows Electron compatibility program #1182](https://github.com/gyldlab/keld/issues/1182), **W2**. Existing window family owners: [#530](https://github.com/gyldlab/keld/issues/530), [#449](https://github.com/gyldlab/keld/issues/449), [#450](https://github.com/gyldlab/keld/issues/450), Host Ready [#446](https://github.com/gyldlab/keld/issues/446)/[#1180](https://github.com/gyldlab/keld/issues/1180).\n\n## What to build\nDeliver a real **Win32 WebView2-backed Electron BrowserWindow** that",
+        "score": 52.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "bug(billing): LLMCostTracker.record() doesn't exist — main chat path's cost tracking and budget enforcement silently broken since April",
-        "url": "https://github.com/mrveiss/AutoBot-AI/issues/16845",
-        "source": "GitHub Issues",
-        "summary": "## Problem\n\nThe general-purpose LLM cost-tracking → budget-enforcement chain (GH#6470's Budget Policy system) is broken for the main chat/API path, and has been for approximately five months.\n\n`autobot-backend/services/llm_service.py:1173-1188 _track_usage` calls `tracker.record(provider=..., model=..., usage=..., conversation_id=...)` at line 1181. `LLMCostTracker` (`services/llm_cost_tracker.py`) **has no `record` method** — confirmed by listing all 30+ methods on the class, none named `record",
-        "score": 14.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 3 项"
-      },
-      {
-        "title": "Signing a Claude login in on macOS ends at a success screen with no token",
-        "url": "https://github.com/enes-alatas/spool/issues/1304",
-        "source": "GitHub Issues",
-        "summary": "### Observed behavior\n\nOn a macOS machine running v0.6.2, signing a Claude login in ends on a success screen that says \"Build something great\" and no token is printed or stored: the hub has no login afterwards. Reported by a user to Enes on 2026-11-03. Not yet known: whether the user went through **Sign in with Claude** on the setup card (the hub driving the `claude` CLI's login) or ran `claude setup-token` in a terminal to paste a setup-token, and which `claude` CLI version the machine has. Bot",
-        "score": 5.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
+        "category": "集成与兼容",
         "urgency": "高",
         "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "Internet Explorer Automation: how to suppress Open/Save dialog?",
@@ -510,16 +484,29 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Spike: fundamental versions of the human-workflow conventions (field solve, hardware loop, and seven more)",
-        "url": "https://github.com/alexchunlin/alex-pcb-skills/issues/3",
+        "title": "Viewer UI overhaul: measured hill climb (drift ratchet + blind design council)",
+        "url": "https://github.com/LTplus-AG/ifc-lite/issues/8802",
         "source": "GitHub Issues",
-        "summary": "## Summary\nSpike: the loop still copies the human workflow with the human removed. The conventions below exist because a person had limited time, memory and patience; each has a fundamental version a machine can afford. Two are written up as full spikes here (the current and thermal field solve, and the hardware loop) because they attack the two largest gaps in the evidence: five of the last five electrical majors were \"current reached a pin through something no row counted\" (R2-S-1, R2-O-2, R2-",
-        "score": 2.0,
+        "summary": "## Goal\n\nA complete overhaul of the viewer UI, driven as a measured hill climb instead of one-off redesigns.\n\nThe method adapts the \"LLM design council\" loop: capture the UI, have independent model reviewers judge it, fix the findings, repeat. Applied naively to an app this size (841 component files, 43 panels/dialogs), a screenshot council can't converge. So the work is split across two scores and a behaviour guard.\n\n## Baseline (main d7871f79c2)\n\n- 2,826 raw Tailwind palette classes and 409 he",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "v0.12.0 regression: evaluation time exponential in derived features referenced from untaken if branches",
+        "url": "https://github.com/Open-MBEE/OpenSysML/issues/1929",
+        "source": "GitHub Issues",
+        "summary": "## Summary\n\nIn v0.12.0, evaluating a feature valued by an expression takes time exponential in the number of *other expression-valued features referenced from untaken `if` branches*. v0.11.0 evaluates the same model in constant time. The results are the same in both versions; only the time differs. No diagnostic is emitted, so a larger model just appears to hang.\n\n## Reproduction\n\n`gen.py` writes N features `a1..aN`. Each `ai` picks another feature by an integer selector `pi` (default 0, so ever",
+        "score": 0.0,
         "tags": [],
         "published": "",
         "category": "价格与付费",
         "urgency": "高",
-        "audience": "开发者",
+        "audience": "个人用户",
         "evidence": "关键词命中 1 项"
       },
       {
@@ -536,11 +523,24 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "Web apps: move every app onto the vendored sign-in sheet (Step 2/2 of #575)",
-        "url": "https://github.com/ferraroroberto/project-scaffolding/issues/577",
+        "title": "Add support for video routes",
+        "url": "https://github.com/netbrain/zwift/issues/425",
         "source": "GitHub Issues",
-        "summary": "## What & why\n\nStep 2/2 of #575. Step 1 ships the vendored `sign-in` sheet (`app/webapp/static/_vendored/sign-in/`, manifest key `sign-in`) and the conventions-ratchet rule `password-input-vendored`, which fails any password input outside that folder. This step moves every fleet web app onto the sheet, one PR per app, and turns the rule on in each app's gate so a bespoke modal can never come back.\n\n## Current state\n\nFlow A apps (password in, bearer token out, `POST {password}` → `200 {token}`), ",
-        "score": 9.0,
+        "summary": "## Describe the bug\n\nWhen selecting \"Video\", zwift says that there has been a technical error.\n\n## To Reproduce\n\nSteps to reproduce the behavior:\n\n1. Go to Routes\n2. Select Video\n\n## Expected behavior\n\nA list of video routes should be should be shown.\n\n## Additional context\n\nThis is a new feature included in zwift+, launched today.\n",
+        "score": 38.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[FP] Java: every Map/HashMap/TreeMap.get() is a high-severity `plugin_param` taint source, so constant lookup tables produce flow-backed sql/cmd/path/xss findings",
+        "url": "https://github.com/cogniumhq/cognium-dev/issues/584",
+        "source": "GitHub Issues",
+        "summary": "## Defect\n\n`configs/sources/io_sources.yaml` (and the bundled defaults) register `get` on `Map`, `HashMap`, `LinkedHashMap`, `TreeMap`, `ConcurrentHashMap` and `Hashtable` as taint sources: `type: plugin_param`, `severity: high`, `return_tainted: true`, with the note \"often used for plugin/config parameters from user input\". Nothing checks what was put into the map, so **every** Java map read starts a taint flow, including maps filled only with string literals.\n\n## Repro (published `circle-ir@4.",
+        "score": 18.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
@@ -562,68 +562,70 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Run Linux commands from PowerShell",
-        "url": "https://stackoverflow.com/questions/46109021/run-linux-commands-from-powershell",
+        "title": "Print the next action line with each run:cut verdict",
+        "url": "https://github.com/joshuafolkken/kit/issues/6235",
+        "source": "GitHub Issues",
+        "summary": "## 背景\n\n- 種別: 非不具合\n- 目的: 時間短縮\n- 人の判断: 不要\n- 優先度: 通常\n- 規模見積もり: 約 3 ファイル / 80 行（テスト除く）\n\nlane 子が散文で行っている手順をスクリプトにする一連の Issue の 1 件（(c) `run:cut` の verdict）。`pnpm josh lane:stats --period 14`（2026-11-04）で cut → resume 262 回。\n\n## 現象\n\n`.claude/skills/workflow-commands/pre-gate-cut.md:37-47` は `run:cut` の 9 つの verdict と取るべき動作を散文の表で対応付けている。LLM は verdict ごとに表を引いて次の動作を決める。\n\n## 期待結果\n\n`run:cut` が verdict と一緒に次に打つ 1 行を印字し、散文の表は不要になる。\n\n## 受け入れ条件\n\n- [ ] `run:cut` が 9 つの verdict それぞれで次の 1 行を印字する\n- [ ] `pre-gate-c",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "易用性与流程",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Postgresql MCP server not running. Tool showing error",
+        "url": "https://stackoverflow.com/questions/79709658/postgresql-mcp-server-not-running-tool-showing-error",
         "source": "Stack Overflow",
-        "summary": "<p>I'm able to run below code on Linux to get unmounted disk succesfully.</p>\n\n<pre class=\"lang-bash prettyprint-override\"><code>alldisks=`/sbin/sfdisk -s | grep -v 'total' | awk -F':' '{print $1}'`\nunmounted_disks=\"\"\n\nfor disk in $alldisks\ndo\n  /sbin/blkid -o list | grep -q \"$disk\"\n  if [ $? -ne 0 ]; then\n    unmounted_disks=\"$unmounted_disks $disk\"\n  fi\ndone\n\necho $unmounted_disks\n</code></pre>\n\n<p>But I'm automating this through workbook using PowerShell. I tried below way of sending to Linux",
-        "score": 3.0,
+        "summary": "<p>Here is the code I am running for mcp-server on cursor -</p>\n<pre><code>from contextlib import asynccontextmanager\nfrom collections.abc import AsyncIterator\nfrom dataclasses import dataclass\n\nimport asyncpg\nfrom mcp.server.fastmcp import FastMCP, Context\n\n# Async PostgreSQL wrapper using asyncpg\nclass Database:\n    def __init__(self, pool: asyncpg.Pool):\n        self.pool = pool\n\n    @classmethod\n    async def connect(cls) -&gt; &quot;Database&quot;:\n        pool = await asyncpg.create_pool(\n",
+        "score": 1.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 2 项"
       },
       {
-        "title": "How to perform Right Click on an object using SendKeys in UFT?",
-        "url": "https://stackoverflow.com/questions/42919184/how-to-perform-right-click-on-an-object-using-sendkeys-in-uft",
-        "source": "Stack Overflow",
-        "summary": "<p>I want to perform a <strong>Right Click</strong> on an object in my Application Under Test but I am not able to perform this action. Is there any way to do it using <strong>sendkeys</strong>?</p>\n",
-        "score": 3.0,
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "url": "https://news.ycombinator.com/item?id=50368684",
+        "source": "Hacker News",
+        "summary": "It&#x27;s a market thing too. Company A tries to write perfect code. Company B tries to write something that the users don&#x27;t hate.  Company B wins in the vast majority of cases.  Especially when company A these days is stuck with a huge space to investigate. This isn&#x27;t unique to coding, but coding has been built on it for decades, with the &quot;safety valve&quot; of &quot;who has the time to check all that?&quot;.  So defcon speakers and intelligence agencies burn time investigating f",
+        "score": 0.0,
         "tags": [],
         "published": "",
         "category": "其他",
         "urgency": "低",
-        "audience": "个人用户",
+        "audience": "开发者",
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "Copilot: set_maintenance_mode can never be enabled; the Tool Catalog's save drops it and the toggle snaps back off",
-        "url": "https://github.com/spatiumnorth/spatiumddi/issues/3415",
-        "source": "GitHub Issues",
-        "summary": "`set_maintenance_mode` ships off and says the operator opts it in, but no operator can: the Tool Catalog's save drops it, so its toggle snaps back off with no message.\n\nFound by our issues desk while working #3390, which has the same shape (a tool registered `writes=True` with `default_enabled=False`). Unlike #3390's two `propose_*` tools, this one is a real direct write, so the fix is a design call, not a one-line flag.\n\n## What happens\n\nOn main d39703ab0 (the same at nightly-2026.11.02, e76d52",
-        "score": 1.0,
+        "title": "Evergreen: A Provably Safe Systems Language",
+        "url": "https://news.ycombinator.com/item?id=50368661",
+        "source": "Hacker News",
+        "summary": "you can ask ai to write code in existing languages with large training sets, and it&#x27;ll do better because of the large volume of training data. if you&#x27;re all-in on ai, you want to prioritize familiarity for agents.",
+        "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "[METHOD] RACE neuron consistency (Wang et al., 2026)",
-        "url": "https://github.com/UKPLab/murano/issues/125",
-        "source": "GitHub Issues",
-        "summary": "> *Generated by the murano agent loop.*\n\n### Paper\nRACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons. Runyu Wang, Bo Liu, Xiaxin Zhang, Yu Han et al. (9 authors). EMNLP 2026. https://arxiv.org/abs/2608.24758\nCode: https://github.com/Nexround/RACE (MIT)\n\n### Method\nFor every neuron in a chosen module, RACE measures how strongly it pushes the module's residual update on each observation, then ranks neurons by the lower credible bound of the mean from a Normal-Inverse-G",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
+        "category": "隐私与合规",
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
       }
     ],
     "category_counts": {
-      "其他": 4,
-      "可靠性与质量": 4,
-      "集成与兼容": 2,
-      "价格与付费": 2
+      "集成与兼容": 3,
+      "其他": 3,
+      "价格与付费": 1,
+      "可靠性与质量": 3,
+      "易用性与流程": 1,
+      "隐私与合规": 1
     },
     "next_actions": [
-      "优先验证「其他」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
