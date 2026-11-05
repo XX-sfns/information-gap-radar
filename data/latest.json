@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-05 01:26 CST",
+  "generated_at": "2026-11-06 01:34 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI News",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 05 Nov 2026 02:00:00 GMT"
+    },
     {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "url": "https://openai.com/index/openai-to-acquire-pierre",
@@ -23,6 +34,39 @@
         "AI/科技"
       ],
       "published": "Wed, 04 Nov 2026 07:00:00 GMT"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI News",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 04 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI News",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 04 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI News",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 04 Nov 2026 00:00:00 GMT"
     },
     {
       "title": "Accelerating engineering for the physical world",
@@ -91,48 +135,26 @@
       "published": "Mon, 02 Nov 2026 15:00:00 GMT"
     },
     {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "OpenAI News",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Mon, 02 Nov 2026 18:00:00 GMT"
+      "published": "Thu, 05 Nov 2026 00:00:00 GMT"
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI News",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Mon, 02 Nov 2026 18:00:00 GMT"
-    },
-    {
-      "title": "LifeVal",
-      "url": "https://openai.com/index/lifeval",
-      "source": "OpenAI News",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 02 Nov 2026 09:00:00 GMT"
-    },
-    {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "source": "OpenAI News",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 02 Nov 2026 00:00:00 GMT"
+      "published": "Wed, 04 Nov 2026 17:50:10 GMT"
     },
     {
       "title": "StateBench: Testing how language models track state changes over long documents",
@@ -243,28 +265,6 @@
         "AI/科技"
       ],
       "published": "Tue, 27 Oct 2026 17:16:52 GMT"
-    },
-    {
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 23 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 22 Oct 2026 22:24:34 GMT"
     }
   ],
   "github_trending": [
@@ -273,241 +273,202 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 430034,
+      "score": 433626,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-04T17:25:58Z"
+      "published": "2026-11-05T17:34:34Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 393898,
+      "score": 393971,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-04T17:25:00Z"
+      "published": "2026-11-05T17:34:30Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 312305,
+      "score": 312880,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-04T17:26:16Z"
+      "published": "2026-11-05T17:33:50Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 297050,
+      "score": 297702,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-04T17:23:09Z"
+      "published": "2026-11-05T17:32:52Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 260490,
+      "score": 260804,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-04T17:21:55Z"
+      "published": "2026-11-05T17:32:41Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 260490,
+      "score": 260804,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-04T17:21:55Z"
+      "published": "2026-11-05T17:32:41Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 209555,
+      "score": 209623,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-04T17:12:45Z"
+      "published": "2026-11-05T17:29:27Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 198566,
+      "score": 198893,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-04T17:13:35Z"
+      "published": "2026-11-05T17:30:38Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 198566,
+      "score": 198893,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-04T17:13:35Z"
+      "published": "2026-11-05T17:30:38Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187899,
+      "score": 187914,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-04T17:17:00Z"
+      "published": "2026-11-05T17:04:54Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187899,
+      "score": 187914,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-04T17:17:00Z"
+      "published": "2026-11-05T17:04:54Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 185912,
+      "score": 186012,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "glm"
       ],
-      "published": "2026-11-04T17:09:07Z"
+      "published": "2026-11-05T17:29:19Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 203.22,
-      "change_percent": -1.68,
-      "signal": "观望",
-      "rationale": "近一交易日涨跌 -1.68%；只作信息展示，不构成投资建议。"
+      "price": 184.76,
+      "change_percent": -7.68,
+      "signal": "谨慎",
+      "rationale": "近一交易日涨跌 -7.68%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1480.0,
-      "change_percent": 2.84,
-      "signal": "关注",
-      "rationale": "近一交易日涨跌 +2.84%；只作信息展示，不构成投资建议。"
+      "price": 1446.44,
+      "change_percent": -2.27,
+      "signal": "谨慎",
+      "rationale": "近一交易日涨跌 -2.27%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "spec(window/windows): Host Ready, BrowserWindow and vetoable Win32 close (W2)",
-        "url": "https://github.com/gyldlab/keld/issues/1188",
+        "title": "settings.json writes silently strip unknown keys from hook groups and hook items",
+        "url": "https://github.com/anthropics/claude-code/issues/88113",
         "source": "GitHub Issues",
-        "summary": "## Parent\n[Windows Electron compatibility program #1182](https://github.com/gyldlab/keld/issues/1182), **W2**. Existing window family owners: [#530](https://github.com/gyldlab/keld/issues/530), [#449](https://github.com/gyldlab/keld/issues/449), [#450](https://github.com/gyldlab/keld/issues/450), Host Ready [#446](https://github.com/gyldlab/keld/issues/446)/[#1180](https://github.com/gyldlab/keld/issues/1180).\n\n## What to build\nDeliver a real **Win32 WebView2-backed Electron BrowserWindow** that",
-        "score": 52.0,
+        "summary": "### Preflight Checklist\n\n- [x] I have searched existing issues and this hasn't been reported yet\n- [x] This is a single bug report (please file separate reports for different bugs)\n- [x] I am using the latest version of Claude Code\n\n### What's Wrong?\n\nAny write to `settings.json` removes unknown keys from hook **group** objects and hook **item** objects. Unknown keys at the settings **root** are preserved, so the behaviour is inconsistent within a single file.\n\nThe write does not have to touch h",
+        "score": 2.0,
         "tags": [],
         "published": "",
-        "category": "集成与兼容",
-        "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Internet Explorer Automation: how to suppress Open/Save dialog?",
-        "url": "https://stackoverflow.com/questions/658839/internet-explorer-automation-how-to-suppress-open-save-dialog",
-        "source": "Stack Overflow",
-        "summary": "<p><strong>When controlling IE instance via MSHTML, how to suppress Open/Save dialogs for non-HTML content?</strong></p>\n<p>I need to get data from another system and import it into our one. Due to budget constraints no development (e.g. WS) can be done on the other side for some time, so my only option for now is to do web scraping.</p>\n<p>The remote site is ASP.NET-based, so simple HTML requests won't work -- too much JS.</p>\n<p>I wrote a simple C# application that uses MSHTML and SHDocView to",
-        "score": 4.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
+        "category": "可靠性与质量",
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Viewer UI overhaul: measured hill climb (drift ratchet + blind design council)",
-        "url": "https://github.com/LTplus-AG/ifc-lite/issues/8802",
-        "source": "GitHub Issues",
-        "summary": "## Goal\n\nA complete overhaul of the viewer UI, driven as a measured hill climb instead of one-off redesigns.\n\nThe method adapts the \"LLM design council\" loop: capture the UI, have independent model reviewers judge it, fix the findings, repeat. Applied naively to an app this size (841 component files, 43 panels/dialogs), a screenshot council can't converge. So the work is split across two scores and a behaviour guard.\n\n## Baseline (main d7871f79c2)\n\n- 2,826 raw Tailwind palette classes and 409 he",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "v0.12.0 regression: evaluation time exponential in derived features referenced from untaken if branches",
-        "url": "https://github.com/Open-MBEE/OpenSysML/issues/1929",
-        "source": "GitHub Issues",
-        "summary": "## Summary\n\nIn v0.12.0, evaluating a feature valued by an expression takes time exponential in the number of *other expression-valued features referenced from untaken `if` branches*. v0.11.0 evaluates the same model in constant time. The results are the same in both versions; only the time differs. No diagnostic is emitted, so a larger model just appears to hang.\n\n## Reproduction\n\n`gen.py` writes N features `a1..aN`. Each `ai` picks another feature by an integer selector `pi` (default 0, so ever",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
-        "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
       },
       {
         "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
@@ -523,29 +484,16 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "Add support for video routes",
-        "url": "https://github.com/netbrain/zwift/issues/425",
-        "source": "GitHub Issues",
-        "summary": "## Describe the bug\n\nWhen selecting \"Video\", zwift says that there has been a technical error.\n\n## To Reproduce\n\nSteps to reproduce the behavior:\n\n1. Go to Routes\n2. Select Video\n\n## Expected behavior\n\nA list of video routes should be should be shown.\n\n## Additional context\n\nThis is a new feature included in zwift+, launched today.\n",
-        "score": 38.0,
+        "title": "Amazon bedrock token quotas stuck at 0 on new AWS accounts",
+        "url": "https://stackoverflow.com/questions/80014897/amazon-bedrock-token-quotas-stuck-at-0-on-new-aws-accounts",
+        "source": "Stack Overflow",
+        "summary": "<p><strong>We recently created 5 new AWS accounts (after October 15, 2026) using a mix of common and unique registration details to explore Amazon Bedrock and access foundation models.</strong></p>\n<p>We are seeing inconsistent behavior across these accounts, and we have now found the root cause. We still need a way to resolve it.</p>\n<p>𝗪𝗵𝗮𝘁 𝗪𝗲 𝗙𝗼𝘂𝗻𝗱</p>\n<p>Token quotas are 0: In Amazon Bedrock → Quotas, the affected accounts show TPM = 0 and RPM = 0 (or “-”) for every model, including Claude H",
+        "score": -5.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "[FP] Java: every Map/HashMap/TreeMap.get() is a high-severity `plugin_param` taint source, so constant lookup tables produce flow-backed sql/cmd/path/xss findings",
-        "url": "https://github.com/cogniumhq/cognium-dev/issues/584",
-        "source": "GitHub Issues",
-        "summary": "## Defect\n\n`configs/sources/io_sources.yaml` (and the bundled defaults) register `get` on `Map`, `HashMap`, `LinkedHashMap`, `TreeMap`, `ConcurrentHashMap` and `Hashtable` as taint sources: `type: plugin_param`, `severity: high`, `return_tainted: true`, with the note \"often used for plugin/config parameters from user input\". Nothing checks what was put into the map, so **every** Java map read starts a taint flow, including maps filled only with string literals.\n\n## Repro (published `circle-ir@4.",
-        "score": 18.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
+        "category": "需求缺口",
+        "urgency": "高",
+        "audience": "团队/企业",
         "evidence": "关键词命中 1 项"
       },
       {
@@ -562,17 +510,56 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Print the next action line with each run:cut verdict",
-        "url": "https://github.com/joshuafolkken/kit/issues/6235",
+        "title": "🎯 epic: контракт представления недоверенного содержимого в LLM-контексте",
+        "url": "https://github.com/MRDK80/v8unpack-agent/issues/455",
         "source": "GitHub Issues",
-        "summary": "## 背景\n\n- 種別: 非不具合\n- 目的: 時間短縮\n- 人の判断: 不要\n- 優先度: 通常\n- 規模見積もり: 約 3 ファイル / 80 行（テスト除く）\n\nlane 子が散文で行っている手順をスクリプトにする一連の Issue の 1 件（(c) `run:cut` の verdict）。`pnpm josh lane:stats --period 14`（2026-11-04）で cut → resume 262 回。\n\n## 現象\n\n`.claude/skills/workflow-commands/pre-gate-cut.md:37-47` は `run:cut` の 9 つの verdict と取るべき動作を散文の表で対応付けている。LLM は verdict ごとに表を引いて次の動作を決める。\n\n## 期待結果\n\n`run:cut` が verdict と一緒に次に打つ 1 行を印字し、散文の表は不要になる。\n\n## 受け入れ条件\n\n- [ ] `run:cut` が 9 つの verdict それぞれで次の 1 行を印字する\n- [ ] `pre-gate-c",
-        "score": 1.0,
+        "summary": "## Цель\n\nОпределить и реализовать проверяемый контракт: как текст, полученный из выгрузки, представляется в выводах v8unpack-agent, предназначенных для LLM, чтобы потребитель мог однозначно отделить его от служебной структуры вывода и от собственных инструкций.\n\n## Чего эпик не обещает\n\nЭпик не обещает устойчивость какой-либо модели к prompt injection, защиту от поведения модели или клиента и корректность ответа модели. Контракт описывает только форму представления данных.\n\n## Положение в очеред",
+        "score": 6.0,
         "tags": [],
         "published": "",
         "category": "易用性与流程",
         "urgency": "中",
-        "audience": "个人用户",
+        "audience": "开发者",
         "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[QA-SOC-01] Wisp не проявляет заметной инициативы общения",
+        "url": "https://github.com/zyzycode/project_wisp/issues/131",
+        "source": "GitHub Issues",
+        "summary": "## Проблема глазами пользователя\nПосле обновления Wisp пользователь по-прежнему не замечает самостоятельной инициативы общения. Персонаж не воспринимается как собеседник, который сам заинтересовался человеком и начал разговор. Сообщение пользователя: «инициативности всё ещё нет».\n\n## Ожидаемый опыт\nКогда пользователь присутствует и занят своими делами, Wisp иногда сама уместно обращается к нему: задаёт вопрос, предлагает совместное занятие или продолжает подходящую тему. Пользователю не приходит",
+        "score": 5.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Chunk upload can write to the Foundation blob staging table (depends on core#1196)",
+        "url": "https://github.com/businesscentralal/bc-origo-bifrost-attachments/issues/192",
+        "source": "GitHub Issues",
+        "summary": "---\nprompt-version: story-v4\nrepo: businesscentralal/bc-origo-bifrost-attachments\ntype: feature\napp: Bifrost Attachments (app/)\ndepends-on: OrigoSoftwareSolutions/bc-origo-bifrost-core#1196 (merged and on UAT)\nreported-by: Gunnar, 28.10.2026, filed by Architect 29.10.2026, story finalised by Claude Code 29.10.2026\nwriter: Codex Developer, one worker (stamps `wip:codex-<worker>` on pickup)\norder: 2 of 3. **Start gate:** do not start before core#1196 is merged and deployed to UAT. Can run in paral",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "The font in the grid changes size depending on the displayed letters",
+        "url": "https://github.com/thom404/wortschatz/issues/240",
+        "source": "GitHub Issues",
+        "summary": "Some special characters, maybe double characters like \"A/S\", umlauts or ß seem to cause the grid font to get very small. I'm not sure which one. I'd recommend Noto Sans as the grid font, as it should cover almost all latin unicode characters.",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "Postgresql MCP server not running. Tool showing error",
@@ -588,44 +575,57 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "AI is forcing us to pay off 40 years of technical debt",
-        "url": "https://news.ycombinator.com/item?id=50368684",
+        "title": "The Lisp curse, now coming to your ecosystem",
+        "url": "https://news.ycombinator.com/item?id=50381886",
         "source": "Hacker News",
-        "summary": "It&#x27;s a market thing too. Company A tries to write perfect code. Company B tries to write something that the users don&#x27;t hate.  Company B wins in the vast majority of cases.  Especially when company A these days is stuck with a huge space to investigate. This isn&#x27;t unique to coding, but coding has been built on it for decades, with the &quot;safety valve&quot; of &quot;who has the time to check all that?&quot;.  So defcon speakers and intelligence agencies burn time investigating f",
+        "summary": "A few years ago, after ChatGPT but before agentic, I was asking AI for help with some projects. It kept recommending really good, well designed APIs, and gave me code snippets for them. One small issue: they didn&#x27;t exist! It had just hallucinated them! Which was a real shame, since they were much nicer than the actual stuff I ended up finding. I just realized, thinking about this now, that these days (and perhaps even back then), I could just say &quot;ok now take this code and build the mi",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Tencent Hy4",
+        "url": "https://news.ycombinator.com/item?id=50381777",
+        "source": "Hacker News",
+        "summary": "Found it on that page, but they don&#x27;t have it on their coding page. Their coding page shows DeepSeek Max as Pareto optimal: <a href=\"https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;agents&#x2F;coding-agents\" rel=\"nofollow\">https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;agents&#x2F;coding-agents</a>\nCosting 1&#x2F;2 of Terra Xhigh. It would also be great to see Sol and Opus not on max there. Not a useful benchmarking site for coding unless you only want to run your models on Max.",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Motorola Signature 27 with GrapheneOS support",
+        "url": "https://news.ycombinator.com/item?id=50381720",
+        "source": "Hacker News",
+        "summary": "Did they just say agentic AI? Does that mean they will load crap on top of Graphene?",
         "score": 0.0,
         "tags": [],
         "published": "",
         "category": "其他",
         "urgency": "低",
-        "audience": "开发者",
+        "audience": "个人用户",
         "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Evergreen: A Provably Safe Systems Language",
-        "url": "https://news.ycombinator.com/item?id=50368661",
-        "source": "Hacker News",
-        "summary": "you can ask ai to write code in existing languages with large training sets, and it&#x27;ll do better because of the large volume of training data. if you&#x27;re all-in on ai, you want to prioritize familiarity for agents.",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "隐私与合规",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
       }
     ],
     "category_counts": {
-      "集成与兼容": 3,
+      "可靠性与质量": 4,
       "其他": 3,
-      "价格与付费": 1,
-      "可靠性与质量": 3,
+      "需求缺口": 1,
       "易用性与流程": 1,
-      "隐私与合规": 1
+      "集成与兼容": 2,
+      "价格与付费": 1
     },
     "next_actions": [
-      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
       "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
