@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-07 00:53 CST",
+  "generated_at": "2026-11-07 23:51 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI News",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 06 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI News",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 06 Nov 2026 00:00:00 GMT"
+    },
     {
       "title": "Australian universities are creating AI-native graduates",
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
@@ -111,28 +133,6 @@
         "AI/科技"
       ],
       "published": "Wed, 04 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Introducing Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6",
-      "source": "OpenAI News",
-      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 04 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "source": "OpenAI News",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 04 Nov 2026 00:00:00 GMT"
     },
     {
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -273,190 +273,216 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 436997,
+      "score": 440062,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-06T16:52:36Z"
+      "published": "2026-11-07T15:51:16Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 394043,
+      "score": 394108,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-06T16:53:12Z"
+      "published": "2026-11-07T15:48:52Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 313445,
+      "score": 313946,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-06T16:52:40Z"
+      "published": "2026-11-07T15:51:05Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 298357,
+      "score": 298955,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-06T16:52:21Z"
+      "published": "2026-11-07T15:49:26Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 261113,
+      "score": 261402,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-06T16:48:45Z"
+      "published": "2026-11-07T15:49:47Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 261113,
+      "score": 261402,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-06T16:48:45Z"
+      "published": "2026-11-07T15:49:47Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 209696,
+      "score": 209754,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-06T16:47:28Z"
+      "published": "2026-11-07T15:45:06Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 199174,
+      "score": 199432,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-06T16:53:00Z"
+      "published": "2026-11-07T15:44:14Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 199174,
+      "score": 199432,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-06T16:53:00Z"
+      "published": "2026-11-07T15:44:14Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187923,
+      "score": 187931,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-06T16:49:46Z"
+      "published": "2026-11-07T15:43:41Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187923,
+      "score": 187931,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-06T16:49:46Z"
+      "published": "2026-11-07T15:43:41Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 186116,
+      "score": 186246,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "glm"
       ],
-      "published": "2026-11-06T16:50:23Z"
+      "published": "2026-11-07T15:49:56Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 188.45,
-      "change_percent": 3.77,
+      "price": 186.64,
+      "change_percent": 2.78,
       "signal": "关注",
-      "rationale": "近一交易日涨跌 +3.77%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +2.78%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1452.0,
-      "change_percent": 0.38,
+      "price": 1453.0,
+      "change_percent": 0.07,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +0.38%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +0.07%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
+      {
+        "title": "🐞 [BUG] Recover pending Refine publication against changed epic children",
+        "url": "https://github.com/kburson/ai-task-manager/issues/2142",
+        "source": "GitHub Issues",
+        "summary": "<!-- aitm-last-known-state state=\"test\" ts=\"2026-11-07T15:51:00.305Z\" -->\n<!-- aitm-refine-complete ts=\"2026-11-02T22:38:44.537Z\" -->\n\n## User Story\n\nAs a release operator\nI want to reconcile an interrupted refinement publication against current authority because its epic children can change before publication completes\nSo that confirmed effects remain attributable and application delivery can resume through the registered workflow\n\n## Scope\n\nOwning-source repair for existing Project-Estimator d",
+        "score": 11.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Scrolling up through long messages sometimes stalls before older history draws",
+        "url": "https://github.com/aakshintala/fiber/issues/4059",
+        "source": "GitHub Issues",
+        "summary": "> *This was generated by AI during triage.*\n\nReported by the owner on 2026-11-02, from Fiber on their work laptop. Seen once and not since.\n\n## What happens\n\nThe owner scrolled up through a conversation holding long messages. For a while nothing moved, then the history loaded and everything drew correctly. It is intermittent.\n\n## What it points at\n\nScrolling up past the terminal's rendered window asks the session for older pages with `history` (`docs/tui.md`, \"History is paged from the session\")",
+        "score": 5.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
       {
         "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
         "url": "https://stackoverflow.com/questions/80009709/how-do-i-enforce-that-an-llm-only-cites-chunk-ids-from-the-retrieved-set-when-t",
@@ -475,7 +501,7 @@
         "url": "https://stackoverflow.com/questions/80014897/amazon-bedrock-token-quotas-stuck-at-0-on-new-aws-accounts",
         "source": "Stack Overflow",
         "summary": "<p><strong>We recently created 5 new AWS accounts (after October 15, 2026) using a mix of common and unique registration details to explore Amazon Bedrock and access foundation models.</strong></p>\n<p>We are seeing inconsistent behavior across these accounts, and we have now found the root cause. We still need a way to resolve it.</p>\n<p>𝗪𝗵𝗮𝘁 𝗪𝗲 𝗙𝗼𝘂𝗻𝗱</p>\n<p>Token quotas are 0: In Amazon Bedrock → Quotas, the affected accounts show TPM = 0 and RPM = 0 (or “-”) for every model, including Claude H",
-        "score": -5.0,
+        "score": -6.0,
         "tags": [],
         "published": "",
         "category": "需求缺口",
@@ -484,11 +510,50 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[fetch-error] mistral (part 9)",
-        "url": "https://github.com/PedroTroller/statuswatch/issues/789",
+        "title": "[UI/UX] 全站界面体验治理：信息分层、视觉一致性与响应式验收",
+        "url": "https://github.com/dujiu1024-dotcom/iterwave-content-ops/issues/180",
         "source": "GitHub Issues",
-        "summary": "Automated report: fetch failures were detected for service `mistral`.\n\nContinues #784, retired after reaching 2000 comments (GitHub rejects new comments past 2500).",
-        "score": 183.0,
+        "summary": "## 背景与问题\n\n近期对 `main` 前端进行静态审查，发现 UI/UX 问题具有系统性：视觉密度与层级不一致、页面布局冗长、CSS 规则分散，以及后端数据结构直接泄漏到业务界面。需要按统一治理方案整改，而不是逐页追加 CSS 补丁。\n\n## 已确认的问题\n\n### 1. 内部字段与原始结构暴露\n- `web/src/pages/PlanCenter.tsx`：直接 stringify 展示资源依据、风险、假设、待确认事项。\n- `web/src/pages/Analytics.tsx`：原始 evidence JSON 直接展示。\n- `web/src/pages/TaskQueue.tsx`：普通详情展示 task_id、tenant_id、retry 关联 ID 和原始错误码。\n- `web/src/pages/GlobalOperations.tsx`：账号组运行矩阵展示 tenant_id，信息横向密集。\n- `web/src/components/ProductionPlanMonitor.tsx`：暴露 worker_id、内部任务/成品 ID、错误码及原始执行信息。",
+        "score": 59.0,
+        "tags": [],
+        "published": "",
+        "category": "需求缺口",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
+      },
+      {
+        "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
+        "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
+        "source": "Stack Overflow",
+        "summary": "<p>I am trying to compute the diagonal of the Fisher information matrix. I found this code that appears to do just that, but there are some issues with the code. First consider the code in its original form:</p>\n<pre><code>    estimated_fisher = {}\n\n    for n, p in model.named_parameters():\n        estimated_fisher[n] = torch.zeros_like(p)\n    model.eval()\n    for i, (input, target) in enumerate(dl, 0):\n        model.zero_grad()\n        output = model(input.to(device))\n        label = target.to(",
+        "score": 6.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Local decision model (Jev-style) that decides when to call the local LLM",
+        "url": "https://github.com/GianlucaBave/murmury/issues/20",
+        "source": "GitHub Issues",
+        "summary": "By \"decision model\" we mean the new family of models that started with TypeSafe's Jev in September 2026: small models that don't write text, they answer a typed question (yes/no, one choice out of a list, a score) and return a probability for each answer, in milliseconds. ([explainer](https://www.eesel.ai/blog/decision-models), [open-weight Decision 1.0](https://vllm-sr.ai/blog/decision-models/))\n\n## Why\n\nWith Ollama or LM Studio, every line Murmury hears goes to the big local model, which has t",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "手机版界面上残留的桌面说法与失效文案",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/747",
+        "source": "GitHub Issues",
+        "summary": "跟进 #729（PR #732）。那张票把引擎侧的排查提示按宿主取过词了，手机版界面上还有几处桌面说法，外加一处失效文案与两处没跟上宿主判断的地方。\n\n## 现象\n\n- `gui/app.py` 的 `diagnostics()`（约 1310 行）：「；电脑点击被拒（未开 USB 调试安全设置）」。手机版 Compose 会把整段诊断复制与上报，手机用户看到「电脑」。\n- `android/app/src/main/python/aac_android/view.py` 的 `_warnings()`（约 114 行）：「…不开它，自动关开关和营销通知都会失败，**中途还会锁屏**。」#728 之后手机版由 App 自己的屏幕锁兜着，这句话已经不成立。\n- `gui/app.py` 的 `child_env()`（约 263 行）：`AAC_EVENTS` 被显式 `pop` 掉，`AAC_HOST` 靠继承。桌面用户 shell 里碰巧导出 `AAC_HOST=phone`，引擎就会拿到手机版文案、插电常亮的告警也会被压掉。ADR-0019 增补段把这条写成了失效条件。\n- `to",
+        "score": 1.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -497,102 +562,11 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[YOS HQ] ProjectY自動司令部 v1｜毎時監視・安全な自動継続",
-        "url": "https://github.com/yskn0008-bot/ProjectY/issues/232",
+        "title": "手机版的提示里出现桌面版的说法（数据线、电脑）",
+        "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/729",
         "source": "GitHub Issues",
-        "summary": "## 目的\n\nProjectYを、ようすけが各チャット・PR・Issueを巡回しなくても前へ進む組織へ移行する。\n\nこのIssueは新しい人格・新しい製品・新しい開発チャットではない。既存資産を接続する運用規約である。\n\n- **ようすけ**：Founder / Owner。人生・価値観・大きな仕様・本番公開の最終判断\n- **YOS**：唯一の人格・司令塔。優先順位、統合、安全判断、最終承認\n- **Taxi Lab**：研究・分析・設計\n- **Codex**：コード実装の標準担当\n- **QA / Actions**：検査\n- **GitHub**：正本\n- **Issue #51**：全体管理・重要判断の記録\n- **Mission Control**：現在地の自動集約ダッシュボード\n\n> Issueタイトルの「毎時監視」は既存正式名称として維持する。運転方式は、2026-08-17以降 **イベント駆動を主経路、5分watchdogを取りこぼし・停滞検知の保険** とする。1時間待ちを標準動作にしない。\n\n## 運転方式\n\n### 主経路｜イベント駆動\n\nGitHub上で意味",
-        "score": 119.0,
-        "tags": [],
-        "published": "",
-        "category": "易用性与流程",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
-        "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
-        "source": "Stack Overflow",
-        "summary": "<p>I am trying to compute the diagonal of the Fisher information matrix. I found this code that appears to do just that, but there are some issues with the code. First consider the code in its original form:</p>\n<pre><code>    estimated_fisher = {}\n\n    for n, p in model.named_parameters():\n        estimated_fisher[n] = torch.zeros_like(p)\n    model.eval()\n    for i, (input, target) in enumerate(dl, 0):\n        model.zero_grad()\n        output = model(input.to(device))\n        label = target.to(",
-        "score": 7.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "[TV Settings] Low-severity findings roll-up (settings, profiles, setup, updater)",
-        "url": "https://github.com/TheShield2594/fetch/issues/362",
-        "source": "GitHub Issues",
-        "summary": "**Severity:** low · **Category:** mixed (ux, bug, perf, a11y) · **Confidence:** confirmed unless noted per item\n\n### Problem\nPaths are under `app/src/main/java/com/fetch/tv/` unless they start with `app/`.\n\n- [ ] **low / ux** — `core/parental/ParentalControls.kt:257-266` (`GATE_UNLOCK_WINDOW_MS`), `ui/screens/profile/ParentalGate.kt:63-66, 150-156`: `openGuardedScreen` says the gate stays unlocked while a guarded screen is open, but `isGateUnlocked()` also requires `now < gateUnlockedUntilMs` (5",
+        "summary": "> *This was generated by AI during triage.*\n\n## 现象\n\n0.4.0 手机版的错误日志里：\n\n- 4 份 vivo（V2419A、V2329A、V2502A、V2309A）在营销通知一步打出 `! 插电常亮没有设上，手机息屏会打断操作；请把自动锁屏时间调长后再跑。` 后面接 `XIAOMI_INPUT`：「不开它，电脑能读屏幕……已经打开了仍被拒：拔掉数据线重新插上」。手机版没有电脑和数据线；而且手机版要自己保持亮屏（#728），这条提示在手机版上不成立。\n- 小米 15 Ultra 读屏服务断开后，收尾一步写的是「手机和电脑已断开，这一步没有执行。重新连接手机后点「重试」」。\n\n同一类还有 `fast.py` 的「系统拒绝了电脑发出的点击」，小米手机版用户没开「USB 调试（安全设置）」时会看到。\n\n## 改法\n\n手机版给引擎的环境变量里加一个宿主标记，`troubleshooting.py` 按它给出手机版的说法（不提电脑、数据线）；`keep_awake()` 在手机版上不打这条提示；`gui/app.py` 的断开文案改成模块常量，",
         "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Bug: DSH ACP 图片能力与成员选定模型不一致",
-        "url": "https://github.com/zts212653/clowder-ai/issues/1899",
-        "source": "GitHub Issues",
-        "summary": "## What happened?\n\n通过一键检测添加 DSH 后，成员选择了支持图片的模型，发送图片仍被 Host 拒绝：\n\n```text\nimage_input_unsupported: 该 ACP agent 未声明图片输入能力，图片未发送。\n```\n\n选定模型与 DSH ACP profile 默认模型不同，且默认模型不支持图片时可以复现。切换模型后，启动握手声明的图片能力也可能与成员选定模型不一致。此问题不表示所有自动添加的 DSH 成员都失败。\n\n## Steps to reproduce\n\n1. 准备 DSH ACP profile，默认路由指向不支持图片的模型。\n2. 在 Clowder AI 中通过一键检测添加 DSH 成员，选择支持图片的 DSH 原生模型选项，例如 `[\"deepseek-official\",\"deepseek-flash\"]`。\n3. 向该成员发送一条带图片附件的消息。\n4. 观察 `image_input_unsupported`；然后在文本和视觉模型之间切换，核对新执行连接的 `promptCapabilities.image`。\n\n## ",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Knowledge graph (exploratory): connect projects, sessions, files, PRs, tickets and memories",
-        "url": "https://github.com/0xvasanth/gespan/issues/52",
-        "source": "GitHub Issues",
-        "summary": "> **Update 2026-11-06:** Tauri was removed in #324, so Gespan Native is the only desktop app. Wherever this issue says Tauri, `src-tauri`, `src/features/**` or \"both apps\", only the Native part still applies. Old names and paths were updated to Gespan.\n\n## Summary\n\n**Exploratory.** Build a **knowledge graph** that links the user's data together as an \"extended memory\":\n- projects, repositories, worktrees and branches;\n- sessions;\n- files touched;\n- pull requests and tickets;\n- board cards;\n- peo",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 3 项"
-      },
-      {
-        "title": "Memory: capture user preferences, embed locally and recall them for every agent",
-        "url": "https://github.com/0xvasanth/gespan/issues/51",
-        "source": "GitHub Issues",
-        "summary": "> **Update 2026-11-06:** Tauri was removed in #324, so Gespan Native is the only desktop app. Wherever this issue says Tauri, `src-tauri`, `src/features/**` or \"both apps\", only the Native part still applies. Old names and paths were updated to Gespan.\n\n## Summary\n\nLet Gespan **remember the user's preferences and ways of working**, and give that memory to **every** agent it runs: Claude Code, Codex, Cursor and the others. Examples of what it should hold:\n- \"I organize features as `src/features/<",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Ask HN: Who wants to be hired? (November 2026)",
-        "url": "https://news.ycombinator.com/item?id=50394700",
-        "source": "Hacker News",
-        "summary": "Location: Bangalore, India (UTC+5:30)\nRemote: Yes\nWilling to relocate: No\nTechnologies: Python (FastAPI, Flask), TypeScript (Next.js 14&#x2F;15&#x2F;16, React 19), \nAnthropic&#x2F;OpenAI&#x2F;Gemini SDKs, MCP server development, Supabase&#x2F;Postgres, \nRedis, Docker, Railway, Vercel, Stripe\nRésumé&#x2F;CV: Available on request\nEmail: shajin.ponnu [at] gmail [dot] com Solo founder who has shipped 5 AI products. I build LLM pipelines from the SDK up — no LangChain, all hand-built orchestration. M",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-        "url": "https://news.ycombinator.com/item?id=50394559",
-        "source": "Hacker News",
-        "summary": "Not a hope. Anthropic have proven that when they admitted to indisputable breaches of the CFAA twice. (1) They admitted its Claude models had breached the systems of three companies since April; including Huggingface. <a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-07-30&#x2F;anthropic-s-ai-models-hacked-three-organizations-during-tests\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-07-30&#x2F;anthropic...</a> (2) They secured",
-        "score": 0.0,
         "tags": [],
         "published": "",
         "category": "隐私与合规",
@@ -601,10 +575,36 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
-        "url": "https://news.ycombinator.com/item?id=50394482",
+        "title": "ai: 生成の encoding 事故を構造で抑止 — 書式違反のあった枚だけを 1 回再生成（PR #585）／デッキ生成の Markdown 出力化（D-2）は別 Issue（2026-11-07 現状を反映）",
+        "url": "https://github.com/zyuuryuu/slidecraft/issues/107",
+        "source": "GitHub Issues",
+        "summary": "## 概要\n\n新規デッキ生成（`slides` モード）はモデルに **JSON の DeckPlan**（スライド配列）を 1 回で返させる。弱いモデルは JSON 文字列の中で壊れた `\\uXXXX` や孤立した `\\` を出すことがあり、今は「壊れた文字を含む最小単位（箇条 1 行・フィールド・表セル）を**捨てて告知**」する床（floor）で守っている。捨てた箇所は内容が欠けるので、**違反のあった枚だけを 1 回だけ再生成**して欠落を無くす。**仕様の正は本 Issue の統括コメント（2026-11-07 の裁定）**。本文はその要約と現状。\n\n## 裁定（2026-11-07・統括コメント参照）\n\n- 本 Issue は「**違反のあった枚だけの再生成（最大 1 回）**」に再定義。現行の JSON 一括出力と floor は温存し、違反が出た枚だけ 1 枚用プロンプトで再生成して、違反ゼロで parse できた場合に限り差し替える。\n- 旧 D-1（全枚を per-slide に分割して生成）は**不採用**（ローカル LLM で N 倍遅くなる）。\n- 旧 D-2",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "ai: 部分生成 ops の続き — P2 placeholder テキスト ops（PR #586）／P3 chart・table・gantt ops／P4 refine・batch 配線（トラッカー・2026-11-07 現状を反映）",
+        "url": "https://github.com/zyuuryuu/slidecraft/issues/106",
+        "source": "GitHub Issues",
+        "summary": "## 概要\n\nAI パネルの「1 枚編集」は、図の中身だけが **ops**（モデルが「ノード A のラベルを B に」のような差分だけを返し、アプリ側が決定論で適用する方式）になっていて、**本文・タイトル・表・チャート数値はまだ Markdown 全文の再生成**。全文再生成は言っていない箇所が書き換わる「ドリフト」の温床（`reconcileSlideEdit` が後から整合させているが救済に過ぎない）。本 Issue はテキスト／データにも ops を広げる。**仕様の正は本 Issue の統括コメント（2026-11-07 の裁定）**。本文はその要約と現状。\n\n## 現状（2026-11-07・main `efedbd5` を実測）\n\n- **P1（図 ops）は出荷済み**: `src/engine/diagram-edit-ops.ts`（292 行）の `DiagramEditOpsSchema` に 7 種（`nodeUpdate` / `addNode` / `removeNode` / `edgeUpdate` / `addEdge` / `removeEdge",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Every Mac comes with an (undocumented) family member classifier",
+        "url": "https://news.ycombinator.com/item?id=50405514",
         "source": "Hacker News",
-        "summary": "Yeah; the open model markup goes to zero.  The manufacturers of the &quot;good enough&quot; inference chips are probably going to be some subset of NVidia, AMD, Apple, smartphone SoC manufacturers, and (long shot) Intel. I shortened my list to NVidia and AMD because putting Apple in muddies my point:  I&#x27;d argue they&#x27;ll be able to sell laptops + phones in that world, but only if you can run frontier open models on their devices, and do so efficiently.  This is definitely not the case fo",
+        "summary": "Hand-authored engagement or clout (LinkedIn) farming articles and corporate press releases are usually slop, most others aren&#x27;t. I&#x27;d be surprised if corporate press releases today weren&#x27;t largely AI-written - no one would know the difference.",
         "score": 0.0,
         "tags": [],
         "published": "",
@@ -615,17 +615,15 @@
       }
     ],
     "category_counts": {
-      "其他": 2,
-      "需求缺口": 1,
-      "可靠性与质量": 5,
-      "易用性与流程": 1,
-      "集成与兼容": 2,
-      "隐私与合规": 1
+      "可靠性与质量": 3,
+      "隐私与合规": 2,
+      "其他": 5,
+      "需求缺口": 2
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「其他」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「隐私与合规」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
