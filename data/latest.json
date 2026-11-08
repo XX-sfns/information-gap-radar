@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07 23:51 CST",
+  "generated_at": "2026-11-09 00:13 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -273,168 +273,168 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 440062,
+      "score": 442860,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-07T15:51:16Z"
+      "published": "2026-11-08T16:13:11Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 394108,
+      "score": 394187,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-07T15:48:52Z"
+      "published": "2026-11-08T15:56:59Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 313946,
+      "score": 314446,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-07T15:51:05Z"
+      "published": "2026-11-08T16:09:22Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 298955,
+      "score": 299511,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-07T15:49:26Z"
+      "published": "2026-11-08T16:11:51Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 261402,
+      "score": 261656,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-07T15:49:47Z"
+      "published": "2026-11-08T16:11:25Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 261402,
+      "score": 261656,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-07T15:49:47Z"
+      "published": "2026-11-08T16:11:25Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 209754,
+      "score": 209817,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-07T15:45:06Z"
+      "published": "2026-11-08T16:00:46Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 199432,
+      "score": 199708,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-07T15:44:14Z"
+      "published": "2026-11-08T16:02:30Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 199432,
+      "score": 199708,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-07T15:44:14Z"
+      "published": "2026-11-08T16:02:30Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187931,
+      "score": 187940,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-07T15:43:41Z"
+      "published": "2026-11-08T15:23:30Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187931,
+      "score": 187940,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-07T15:43:41Z"
+      "published": "2026-11-08T15:23:30Z"
     },
     {
-      "title": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub",
-      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 186246,
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "score": 186752,
       "tags": [
         "AI/Agent",
-        "deepseek",
-        "gemma",
-        "glm"
+        "agent-skills",
+        "ai-agents",
+        "claude"
       ],
-      "published": "2026-11-07T15:49:56Z"
+      "published": "2026-11-08T16:08:07Z"
     }
   ],
   "stocks": [
@@ -458,29 +458,42 @@
   "information_gap": {
     "items": [
       {
-        "title": "🐞 [BUG] Recover pending Refine publication against changed epic children",
-        "url": "https://github.com/kburson/ai-task-manager/issues/2142",
+        "title": "feat(webchat): agent-initiated secure credentials form and authenticated handoff",
+        "url": "https://github.com/nextlevelbuilder/dewee-webchat/issues/1",
         "source": "GitHub Issues",
-        "summary": "<!-- aitm-last-known-state state=\"test\" ts=\"2026-11-07T15:51:00.305Z\" -->\n<!-- aitm-refine-complete ts=\"2026-11-02T22:38:44.537Z\" -->\n\n## User Story\n\nAs a release operator\nI want to reconcile an interrupted refinement publication against current authority because its epic children can change before publication completes\nSo that confirmed effects remain attributable and application delivery can resume through the registered workflow\n\n## Scope\n\nOwning-source repair for existing Project-Estimator d",
-        "score": 11.0,
+        "summary": "## Summary\n\nSupport **agent-initiated, secure credential collection** in the embeddable `<dewee-chat>` widget. When an agent needs an API key, token or client secret, display a native Credentials form or a secure Dewee-hosted form link. Never ask the visitor to paste a secret into chat.\n\n**Companion gateway issue:** https://github.com/nextlevelbuilder/dewee/issues/931\n\nThis repository owns widget rendering, HTTP/SSE protocol and TS/PHP backend adapters. The Dewee gateway owns authorization, cred",
+        "score": 4.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 3 项"
       },
       {
-        "title": "Scrolling up through long messages sometimes stalls before older history draws",
-        "url": "https://github.com/aakshintala/fiber/issues/4059",
+        "title": "Add U.S. market-holiday + half-day gating and macro-event awareness so alerts and scanners respect the trading calendar",
+        "url": "https://github.com/francovp/cabros-bot/issues/806",
         "source": "GitHub Issues",
-        "summary": "> *This was generated by AI during triage.*\n\nReported by the owner on 2026-11-02, from Fiber on their work laptop. Seen once and not since.\n\n## What happens\n\nThe owner scrolled up through a conversation holding long messages. For a while nothing moved, then the history loaded and everything drew correctly. It is intermittent.\n\n## What it points at\n\nScrolling up past the terminal's rendered window asks the session for older pages with `history` (`docs/tui.md`, \"History is paged from the session\")",
-        "score": 5.0,
+        "summary": "## Problem\n\n`src/controllers/webhooks/handlers/newsMonitor/newsMonitor.js` and `src/controllers/webhooks/handlers/alert/alert.js` analyze and deliver crypto/equity/stock signals continuously, but the bot has **no awareness of when the relevant market is actually open or whether a major macro event is about to hit**. This produces two distinct, observable failure modes:\n\n1. **Late delivery on low-liquidity signals** — a `BINANCE:BTCUSDT 1h` signal fired during a thin weekend window or right befor",
+        "score": 4.0,
         "tags": [],
         "published": "",
-        "category": "隐私与合规",
+        "category": "价格与付费",
         "urgency": "高",
-        "audience": "个人用户",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "I will not be using LLMs in my coding",
+        "url": "https://news.ycombinator.com/item?id=50413940",
+        "source": "Hacker News",
+        "summary": "Disclaimer: I use LLMs for support and deep dives into existing code, not for creating new substantial code that I intend to publish. Quoting from the article: &gt; With these subsidized token prices currently, I bet we&#x27;re seeing less and less AI usage encouragement in companies in the future. I see a different trend, and for a different reason. Employees are encouraged to use open-weight LLMs hosted on-premise, or, at least, in the &quot;correct&quot; geographical area, in preference to mo",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "高",
+        "audience": "开发者",
         "evidence": "关键词命中 1 项"
       },
       {
@@ -510,17 +523,30 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[UI/UX] 全站界面体验治理：信息分层、视觉一致性与响应式验收",
-        "url": "https://github.com/dujiu1024-dotcom/iterwave-content-ops/issues/180",
+        "title": "[fetch-error] mistral (part 9)",
+        "url": "https://github.com/PedroTroller/statuswatch/issues/789",
         "source": "GitHub Issues",
-        "summary": "## 背景与问题\n\n近期对 `main` 前端进行静态审查，发现 UI/UX 问题具有系统性：视觉密度与层级不一致、页面布局冗长、CSS 规则分散，以及后端数据结构直接泄漏到业务界面。需要按统一治理方案整改，而不是逐页追加 CSS 补丁。\n\n## 已确认的问题\n\n### 1. 内部字段与原始结构暴露\n- `web/src/pages/PlanCenter.tsx`：直接 stringify 展示资源依据、风险、假设、待确认事项。\n- `web/src/pages/Analytics.tsx`：原始 evidence JSON 直接展示。\n- `web/src/pages/TaskQueue.tsx`：普通详情展示 task_id、tenant_id、retry 关联 ID 和原始错误码。\n- `web/src/pages/GlobalOperations.tsx`：账号组运行矩阵展示 tenant_id，信息横向密集。\n- `web/src/components/ProductionPlanMonitor.tsx`：暴露 worker_id、内部任务/成品 ID、错误码及原始执行信息。",
-        "score": 59.0,
+        "summary": "Automated report: fetch failures were detected for service `mistral`.\n\nContinues #784, retired after reaching 2000 comments (GitHub rejects new comments past 2500).",
+        "score": 755.0,
         "tags": [],
         "published": "",
-        "category": "需求缺口",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "feat(context): optional current-page awareness for embedded webchat",
+        "url": "https://github.com/nextlevelbuilder/dewee-webchat/issues/2",
+        "source": "GitHub Issues",
+        "summary": "## Mục tiêu\n\nKhi khách truy cập mở `<dewee-chat>` trên website **đã bật tính năng**, Dewee agent có thể hiểu nội dung trang hiện tại (bài viết, tài liệu, trang sản phẩm, mục hỗ trợ...) và trả lời câu hỏi như \"trang này nói gì?\" mà khách không phải dán URL hoặc copy nội dung.\n\n**Khác Chrome Extension:** widget là script nhúng trên website, không có quyền đọc các tab/browser khác và không cần `activeTab` hay host permissions. Quyền truy cập context do site owner cấu hình + visitor kiểm soát; mặc đ",
+        "score": 7.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 3 项"
+        "evidence": "关键词命中 4 项"
       },
       {
         "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
@@ -536,94 +562,69 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Local decision model (Jev-style) that decides when to call the local LLM",
-        "url": "https://github.com/GianlucaBave/murmury/issues/20",
+        "title": "ai-research-helper: auto provider pins tier models to openai and never falls back to Anthropic",
+        "url": "https://github.com/marcusquinn/aidevops/issues/37205",
         "source": "GitHub Issues",
-        "summary": "By \"decision model\" we mean the new family of models that started with TypeSafe's Jev in September 2026: small models that don't write text, they answer a typed question (yes/no, one choice out of a list, a score) and return a probability for each answer, in milliseconds. ([explainer](https://www.eesel.ai/blog/decision-models), [open-weight Decision 1.0](https://vllm-sr.ai/blog/decision-models/))\n\n## Why\n\nWith Ollama or LM Studio, every line Murmury hears goes to the big local model, which has t",
-        "score": 3.0,
+        "summary": "## What\n\n`ai-research-helper.sh` with the default `--provider auto` always goes through `call_opencode` when the `opencode` binary exists. For tier names (`simple|standard|thinking`) it resolves the model with `model_tier_candidate_for_provider \"$name\" openai`, so it is pinned to OpenAI. On a runner whose OAuth pool holds only Anthropic, and where OpenAI has no API key, every call fails with `OpenAI API key is missing`. Nothing falls back to Anthropic direct (`call_anthropic`), even though the h",
+        "score": 5.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
       },
       {
-        "title": "手机版界面上残留的桌面说法与失效文案",
-        "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/747",
+        "title": "reasoning 能力描述符：契约形态 / 由谁填 / 缺失时 fallback —— 须先修订或取代 ADR-017（阻塞 #785 的判据 5、6）",
+        "url": "https://github.com/ErixWong/erix-agent/issues/788",
         "source": "GitHub Issues",
-        "summary": "跟进 #729（PR #732）。那张票把引擎侧的排查提示按宿主取过词了，手机版界面上还有几处桌面说法，外加一处失效文案与两处没跟上宿主判断的地方。\n\n## 现象\n\n- `gui/app.py` 的 `diagnostics()`（约 1310 行）：「；电脑点击被拒（未开 USB 调试安全设置）」。手机版 Compose 会把整段诊断复制与上报，手机用户看到「电脑」。\n- `android/app/src/main/python/aac_android/view.py` 的 `_warnings()`（约 114 行）：「…不开它，自动关开关和营销通知都会失败，**中途还会锁屏**。」#728 之后手机版由 App 自己的屏幕锁兜着，这句话已经不成立。\n- `gui/app.py` 的 `child_env()`（约 263 行）：`AAC_EVENTS` 被显式 `pop` 掉，`AAC_HOST` 靠继承。桌面用户 shell 里碰巧导出 `AAC_HOST=phone`，引擎就会拿到手机版文案、插电常亮的告警也会被压掉。ADR-0019 增补段把这条写成了失效条件。\n- `to",
-        "score": 1.0,
+        "summary": "## 一句话\n\n`reasoning_effort` / `thinking` / `enable_thinking` / `chat_template_kwargs` 这类字段的**值空间与形态是 vendor/模型的属性**，本包今天既不声明也不校验（按型号名硬编码一条 GLM 特例）。本票要定的是**能力描述符的契约形态 + 由谁填 + 缺失时的 fallback**，并**修订或取代 ADR-017**。**#785 的判据 5、6 阻塞在本票上。**\n\n## 为什么必须先做这张（不能直接实现 #785 判据 5）\n\n两条逻辑硬伤（外部检查 + 本仓库复验，2026-11-08，树 `e1bd9cf`）：\n\n1. **「删掉 `payload.js` 里按型号名的 `none → low` 翻译」与「描述符缺失时不拦」不能同时成立。** 没有描述符的既有 GLM slot 会把 `none` 原样发出，**丢掉 ADR-017 已有的保护**。⇒ 删正门前必须有迁移或兼容期，且要有测试钉住「无描述符的 GLM slot 现在的行为是什么」。\n2. **ADR-017 的 rev",
+        "score": 4.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
         "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "手机版的提示里出现桌面版的说法（数据线、电脑）",
-        "url": "https://github.com/rddmwmddr/android-ad-cleaner/issues/729",
-        "source": "GitHub Issues",
-        "summary": "> *This was generated by AI during triage.*\n\n## 现象\n\n0.4.0 手机版的错误日志里：\n\n- 4 份 vivo（V2419A、V2329A、V2502A、V2309A）在营销通知一步打出 `! 插电常亮没有设上，手机息屏会打断操作；请把自动锁屏时间调长后再跑。` 后面接 `XIAOMI_INPUT`：「不开它，电脑能读屏幕……已经打开了仍被拒：拔掉数据线重新插上」。手机版没有电脑和数据线；而且手机版要自己保持亮屏（#728），这条提示在手机版上不成立。\n- 小米 15 Ultra 读屏服务断开后，收尾一步写的是「手机和电脑已断开，这一步没有执行。重新连接手机后点「重试」」。\n\n同一类还有 `fast.py` 的「系统拒绝了电脑发出的点击」，小米手机版用户没开「USB 调试（安全设置）」时会看到。\n\n## 改法\n\n手机版给引擎的环境变量里加一个宿主标记，`troubleshooting.py` 按它给出手机版的说法（不提电脑、数据线）；`keep_awake()` 在手机版上不打这条提示；`gui/app.py` 的断开文案改成模块常量，",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "隐私与合规",
-        "urgency": "中",
-        "audience": "个人用户",
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "ai: 生成の encoding 事故を構造で抑止 — 書式違反のあった枚だけを 1 回再生成（PR #585）／デッキ生成の Markdown 出力化（D-2）は別 Issue（2026-11-07 現状を反映）",
-        "url": "https://github.com/zyuuryuu/slidecraft/issues/107",
+        "title": "31 problems whose Examples don't match their sample Test Cases (EXAMPLES_DIFFER_FROM_SAMPLES)",
+        "url": "https://github.com/Kyu-seok/CodeBite/issues/193",
         "source": "GitHub Issues",
-        "summary": "## 概要\n\n新規デッキ生成（`slides` モード）はモデルに **JSON の DeckPlan**（スライド配列）を 1 回で返させる。弱いモデルは JSON 文字列の中で壊れた `\\uXXXX` や孤立した `\\` を出すことがあり、今は「壊れた文字を含む最小単位（箇条 1 行・フィールド・表セル）を**捨てて告知**」する床（floor）で守っている。捨てた箇所は内容が欠けるので、**違反のあった枚だけを 1 回だけ再生成**して欠落を無くす。**仕様の正は本 Issue の統括コメント（2026-11-07 の裁定）**。本文はその要約と現状。\n\n## 裁定（2026-11-07・統括コメント参照）\n\n- 本 Issue は「**違反のあった枚だけの再生成（最大 1 回）**」に再定義。現行の JSON 一括出力と floor は温存し、違反が出た枚だけ 1 枚用プロンプトで再生成して、違反ゼロで parse できた場合に限り差し替える。\n- 旧 D-1（全枚を per-slide に分割して生成）は**不採用**（ローカル LLM で N 倍遅くなる）。\n- 旧 D-2",
+        "summary": "`StatementsMatchTestCasesTest` keeps `EXAMPLES_DIFFER_FROM_SAMPLES`, the problems whose **Example N** is not sample Test Case N, or whose statement has no Example with an Input and Output to compare. The set holds 31 slugs today, each a known statement defect nobody has ticketed (found while closing #168, whose sibling set `CONSTRAINTS_NAME_NO_PARAMETER` is now empty):\n\nbinary-tree-level-order, capture-enclosed-tiles, chat-log-codec, chat-ring-buffer, fizz-buzz, graph-valid-tree, group-anagrams,",
         "score": 1.0,
         "tags": [],
         "published": "",
         "category": "其他",
         "urgency": "低",
-        "audience": "个人用户",
+        "audience": "开发者",
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "ai: 部分生成 ops の続き — P2 placeholder テキスト ops（PR #586）／P3 chart・table・gantt ops／P4 refine・batch 配線（トラッカー・2026-11-07 現状を反映）",
-        "url": "https://github.com/zyuuryuu/slidecraft/issues/106",
-        "source": "GitHub Issues",
-        "summary": "## 概要\n\nAI パネルの「1 枚編集」は、図の中身だけが **ops**（モデルが「ノード A のラベルを B に」のような差分だけを返し、アプリ側が決定論で適用する方式）になっていて、**本文・タイトル・表・チャート数値はまだ Markdown 全文の再生成**。全文再生成は言っていない箇所が書き換わる「ドリフト」の温床（`reconcileSlideEdit` が後から整合させているが救済に過ぎない）。本 Issue はテキスト／データにも ops を広げる。**仕様の正は本 Issue の統括コメント（2026-11-07 の裁定）**。本文はその要約と現状。\n\n## 現状（2026-11-07・main `efedbd5` を実測）\n\n- **P1（図 ops）は出荷済み**: `src/engine/diagram-edit-ops.ts`（292 行）の `DiagramEditOpsSchema` に 7 種（`nodeUpdate` / `addNode` / `removeNode` / `edgeUpdate` / `addEdge` / `removeEdge",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Every Mac comes with an (undocumented) family member classifier",
-        "url": "https://news.ycombinator.com/item?id=50405514",
+        "title": "Agent memory needs its OpenTelemetry moment",
+        "url": "https://news.ycombinator.com/item?id=50414468",
         "source": "Hacker News",
-        "summary": "Hand-authored engagement or clout (LinkedIn) farming articles and corporate press releases are usually slop, most others aren&#x27;t. I&#x27;d be surprised if corporate press releases today weren&#x27;t largely AI-written - no one would know the difference.",
+        "summary": "We need just a few more fully AI written articles and vibecoded startups about agent memory. Surely the random seed of my agent session will spit out the right one.",
         "score": 0.0,
         "tags": [],
         "published": "",
         "category": "其他",
         "urgency": "低",
-        "audience": "个人用户",
+        "audience": "开发者",
         "evidence": "关键词命中 0 项"
       }
     ],
     "category_counts": {
-      "可靠性与质量": 3,
-      "隐私与合规": 2,
-      "其他": 5,
-      "需求缺口": 2
+      "集成与兼容": 2,
+      "价格与付费": 2,
+      "其他": 3,
+      "需求缺口": 1,
+      "可靠性与质量": 4
     },
     "next_actions": [
-      "优先验证「其他」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「隐私与合规」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
