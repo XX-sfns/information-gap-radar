@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-10 03:58 CST",
+  "generated_at": "2026-11-11 01:13 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 10 Nov 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "OpenAI News",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 10 Nov 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source": "OpenAI News",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 10 Nov 2026 07:00:00 GMT"
+    },
     {
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
@@ -12,6 +45,28 @@
         "AI/科技"
       ],
       "published": "Mon, 09 Nov 2026 19:00:00 GMT"
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "source": "OpenAI News",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 09 Nov 2026 13:00:00 GMT"
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI News",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 09 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "Kuken Industries searches 70 years of drawings in minutes",
@@ -80,59 +135,26 @@
       "published": "Thu, 05 Nov 2026 09:00:00 GMT"
     },
     {
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "source": "OpenAI News",
-      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Thu, 05 Nov 2026 08:00:00 GMT"
+      "published": "Tue, 10 Nov 2026 00:00:00 GMT"
     },
     {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "source": "OpenAI News",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Thu, 05 Nov 2026 02:00:00 GMT"
-    },
-    {
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "source": "OpenAI News",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 05 Nov 2026 00:45:15 GMT"
-    },
-    {
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "url": "https://openai.com/index/franklin-templeton",
-      "source": "OpenAI News",
-      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 05 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI News",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 04 Nov 2026 14:30:00 GMT"
+      "published": "Tue, 10 Nov 2026 00:00:00 GMT"
     },
     {
       "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
@@ -243,28 +265,6 @@
         "AI/科技"
       ],
       "published": "Thu, 29 Oct 2026 13:37:07 GMT"
-    },
-    {
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 29 Oct 2026 00:00:00 GMT"
     }
   ],
   "github_trending": [
@@ -273,228 +273,202 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 446489,
+      "score": 449291,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-09T19:58:12Z"
+      "published": "2026-11-10T17:13:44Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 394245,
+      "score": 394301,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-09T19:55:41Z"
+      "published": "2026-11-10T17:13:45Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 315058,
+      "score": 315564,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-09T19:56:25Z"
+      "published": "2026-11-10T17:12:28Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 300146,
+      "score": 300640,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-09T19:58:11Z"
+      "published": "2026-11-10T17:12:28Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 262021,
+      "score": 262360,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-09T19:56:00Z"
+      "published": "2026-11-10T17:13:24Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 262021,
+      "score": 262360,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-09T19:56:00Z"
+      "published": "2026-11-10T17:13:24Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 209923,
+      "score": 210003,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-09T19:46:18Z"
+      "published": "2026-11-10T17:12:28Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 200105,
+      "score": 200421,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-09T19:57:33Z"
+      "published": "2026-11-10T17:12:58Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 200105,
+      "score": 200421,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-09T19:57:33Z"
-    },
-    {
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "source": "GitHub",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187972,
-      "tags": [
-        "AI/Agent",
-        "agentic-ai",
-        "agents",
-        "ai"
-      ],
-      "published": "2026-11-09T19:11:44Z"
-    },
-    {
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "source": "GitHub",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 187972,
-      "tags": [
-        "AI/Agent",
-        "agentic-ai",
-        "agents",
-        "ai"
-      ],
-      "published": "2026-11-09T19:11:44Z"
+      "published": "2026-11-10T17:12:58Z"
     },
     {
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "score": 187562,
+      "score": 188244,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "claude"
       ],
-      "published": "2026-11-09T19:57:24Z"
+      "published": "2026-11-10T17:12:36Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187982,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-10T17:13:34Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187982,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-10T17:13:34Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 176.99,
-      "change_percent": -5.17,
+      "price": 167.24,
+      "change_percent": -6.39,
       "signal": "谨慎",
-      "rationale": "近一交易日涨跌 -5.17%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 -6.39%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1453.0,
-      "change_percent": 0.07,
+      "price": 1444.99,
+      "change_percent": -0.55,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +0.07%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 -0.55%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "Brush cannot upgrade some roads that the base game upgrade tool can upgrade",
-        "url": "https://github.com/kergekacsa/tf3_road_upgrade_by_brush/issues/3",
+        "title": "[FEATURE] Warn on unclassified sdk-endpoints.txt entries when regenerating OpenAPI spec",
+        "url": "https://github.com/mozilla-ai/otari/issues/3123",
         "source": "GitHub Issues",
-        "summary": "### Problem\n\nSome roads fail in the brush even though a street upgrade tool upgrades them to the same road type. The base game tool removes or moves a few houses to do it. This is acceptable for the brush too.\n\n### Aim\n\n- The brush solves as many of these failures as the evidence allows.\n- When an upgrade is not possible, the brush shows a clear error message that names the cause.\n- Hopefully the only failing roads are the ones where the base game upgrade tool fails too.\n\n### Facts from the SPEC",
-        "score": 9.0,
+        "summary": "### Problem or use case\n\n<!-- What are you trying to do that you can't do today? -->\n\nWhen a contributor adds or modifies a route and regenerates docs/public/openapi.json, they have no local signal that scripts/sdk_codegen/sdk-endpoints.txt also needs updating. The first sign is a CI failure in tests/unit/test_sdk_endpoint_coverage.py, which is a slow, avoidable feedback loop, especially for first-time contributors.\n\n### Proposed solution\n\n<!-- What would you like to see? How should it work? -->",
+        "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "易用性与流程",
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Split prompts into a general part and toolkit fragments",
-        "url": "https://github.com/MarcusJellinghaus/mcp_coder/issues/1197",
-        "source": "GitHub Issues",
-        "summary": "## Dependencies / references\r\n\r\n- Part of #1192 (specification: collapsed section \"Toolkit interface\", subsection \"Prompts\", as amended by its comments).\r\n- Depends on: #1195 (merged, #1401). Uses the `command` toolkit from #1196 (merged, #1405) as the non-Python test case.\r\n- Follow-up: #1389 reads the raw `fix.check` / `fix.test` fragments and adds test handling to the fix loop.\r\n- Skills rollout: #1198.\r\n\r\n## Goal\r\n\r\nPrompts stop assuming Python. A general part stays in mcp-coder, and the con",
-        "score": 3.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Remove libcrux-kem allowlist once openmls_rust_crypto ships hpke-rs >=0.8 (RUSTSEC-2026-0330/0331)",
-        "url": "https://github.com/Llamenos-Hotline/llamenos-platform/issues/1713",
-        "source": "GitHub Issues",
-        "summary": "Follow-up to #1676. Two `libcrux-kem` 0.0.9 advisories are allowlisted in\n`packages/crypto/.cargo/audit.toml` because no published `openmls` release can reach the\nfixed 0.0.10:\n\n| advisory | affected path | fixed in |\n|---|---|---|\n| RUSTSEC-2026-0331 | `PrivateKey/PublicKey::decode` (X25519MlKem768Draft00, XWingKemDraft06) | libcrux-kem 0.0.10 |\n| RUSTSEC-2026-0330 | `PublicKey::encapsulate_derand` (WingKemDraft06, X25519MlKem768Draft06) | libcrux-kem 0.0.10 |\n\n## Why it is blocked\n\n`hpke-rs-li",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
       },
       {
         "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
@@ -523,16 +497,16 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[CLEANUP][STASH] Campagne 4 — recyclage des git stashes : tous workspaces, toutes machines",
-        "url": "https://github.com/jsboige/roo-extensions/issues/3147",
+        "title": "Research: MERGE that moves rows between partitions drops them from the UPDATE transition tables; Postgres bug or documented, which versions (#897)",
+        "url": "https://github.com/salesforce-misc/trellis/issues/942",
         "source": "GitHub Issues",
-        "summary": "## Contexte\n\n**Demande utilisateur (2026-08-17)** : « dans le flot de l'activité agentique intensive, il n'est pas rare qu'un stash soit perdu ou oublié, et ces stashs s'accumulent silencieusement. » Nouvelle campagne de recyclage — la 4ᵉ — après #646 (mars, 6 machines), #1157 (avril, post-crise MCP), #2638 (juin, ai-01, encore OPEN). Les précédentes ont toutes remonté des pépites. **Ownership : coordinateur myia-ai-01** (suivi des rounds, agrégation).\n\n**Différence avec les campagnes précédente",
-        "score": 195.0,
+        "summary": "Part of epic #897. **Research, then docs.** Found in #898 X3 (see its comment for the full setup). It changes nothing in `trellis/src`.\n\n## What was observed\n\nOn PG 17.11, a `MERGE` whose `UPDATE` action moves a row across partitions (it changes the partition key) drops that row from the `UPDATE` transition tables (`old = 0, new = 0`). Where the row ends up in capture's counts depends on which other actions the `MERGE` has: the row is lost, double-counted or under-counted. It is exact only when ",
+        "score": 8.0,
         "tags": [],
         "published": "",
-        "category": "集成与兼容",
+        "category": "可靠性与质量",
         "urgency": "中",
-        "audience": "开发者",
+        "audience": "个人用户",
         "evidence": "关键词命中 1 项"
       },
       {
@@ -549,11 +523,63 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "When using multiline examples the docs generator breaks",
-        "url": "https://github.com/SkriptLang/Skript/issues/8383",
+        "title": "[Feature]: Make dual-pods controller manage vLLM instance inference ports",
+        "url": "https://github.com/llm-d-incubation/llm-d-fast-model-actuation/issues/779",
         "source": "GitHub Issues",
-        "summary": "### Skript/Server Version\n\n```markdown\nN/A\n```\n\n### Bug Description\n\nWhen using multiline java strings in examples on functions the docs generator seems to mess up and loses indentions leading to syntax joining together on a single line (see image)\n\n### Expected Behavior\n\nSkript to properly handle newlines & indentions when using multiline string in function examples\n\n### Steps to Reproduce\n\nhttps://docs.skriptlang.org/docs.html?search=#fromBase\n\n### Errors or Screenshots\n\n<img width=\"1546\" heig",
-        "score": 4.0,
+        "summary": "### Feature Area\n\nOther\n\n### Problem Statement\n\nAs outlined in #778, we need to shift the burden of managing inference server ports from users to the DPC.\n\nThis includes deciding where the pool that the DPC uses comes from. Possible choices include the following.\n\n- command line arguments of the DPC\n- a `ConfigMap` object\n- a new field of the relevant `LauncherConfig`\n\n\n### Proposed Solution\n\nDo it.\n\n### Alternatives Considered\n\n_No response_\n\n### Willingness to Contribute\n\nYes, I can submit a P",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "E015 places the worked example's table miscitations on the wrong page",
+        "url": "https://github.com/philoserf/ctchargen/issues/462",
+        "source": "GitHub Issues",
+        "summary": "**Source:** Traveller rules-expert review of rc.4 (an agent review, 2026-11-10), pages read visually.\n\nE015's **Why** says the narration \"mislabels the Acquired Skills tables twice on p. 24, calling the Personal Development table 'Table 7'\".\n\n- P. 24 (PDF 30) has exactly one \"Table 7\": \"[Table 7, roll 5 = blade combat]\".\n- The second miscitation is on p. 25 (PDF 31): \"and six rolls on Table 2 [he rolls 5 (+1=6) = +1 education; …\". These are the rank +1 rolls, so they can only be Table 1.\n- E015'",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "E009 says the page offers no medic DM, but p. 21 prints one",
+        "url": "https://github.com/philoserf/ctchargen/issues/463",
+        "source": "GitHub Issues",
+        "summary": "**Source:** Traveller rules-expert review of rc.4 (an agent review, 2026-11-10), pages read visually.\n\nE009's **The gap** says the printed DM for \"the expertise of attending medical personnel\" has \"no referent, and the page offers no value for it\".\n\nBook 1 p. 21 (PDF 27), Low Passage, inside the chargen pages, prints a value for an analogous life-or-death revival throw: \"DMs: Attending medic of expertise 2 or better, +1\".\n\nThe reading's main ground still stands: generation has no attending perso",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "A sixth Free Trader roll is decided with no reading",
+        "url": "https://github.com/philoserf/ctchargen/issues/464",
+        "source": "GitHub Issues",
+        "summary": "**Source:** Traveller rules-expert review of rc.4 (an agent review, 2026-11-10). The code was checked in-session.\n\nPp. 22–23 describe Free Trader receipts up to the fifth: one to obtain the ship and four to pay it off, after which \"The ship is also 40 years old\". The page says nothing about a sixth.\n\n`internal/chargen/muster.go:380-383` handles a sixth anyway. It adds another 10 years to the ship's age and clamps the payment years at 0:\n\n```go\nship.Years += freeTraderYearsPerRoll\nship.PaymentYea",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "chore: preserve or drop the fixes that live only in local-build",
+        "url": "https://github.com/kojiromike/goose/issues/13",
+        "source": "GitHub Issues",
+        "summary": "## Problem\n\nThe local-build branch is the integration branch the running app is built from. It last merged origin/main on 2026-09-09 from base a8a4dbce82 and is now 310 commits behind it. It carries about forty features that are absent from origin/main, listed in the tables below, so the next reset onto origin/main has to carry or drop each one. This is a housekeeping issue and not an upstream bug report.\n\n## Durability\n\nDurability is no longer the risk: every working branch is pushed to the for",
+        "score": 1.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -562,70 +588,42 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Native endpoint efficiency and admission — audited implementation track",
-        "url": "https://github.com/the-sarge/quic-go-fast/issues/1193",
-        "source": "GitHub Issues",
-        "summary": "**Identity:** `QGF-MP646-20261024-N`\n\nImplement only through audited child slices in the [native pipeline plan](https://github.com/the-sarge/quic-go-fast/blob/main/docs/adr/2026-11-04-native-endpoint-efficiency-plan.md); do not dispatch this parent. The plan owns the current contract and scoped waiver.\n\n- Status: **11/11 implementation slices complete**; N3 #1202 fully closed in PR #1280/journal PR #1283. R18 #1038 retains 12 clean observations, GSO-on PASS, GSO-off echo margin +114.112 µs and 2",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Roll out toolkit configuration to every repo using mcp-coder",
-        "url": "https://github.com/MarcusJellinghaus/mcp_coder/issues/1198",
-        "source": "GitHub Issues",
-        "summary": "## Dependencies / references\r\n\r\nPart of #1192 (specification: collapsed section \"Toolkit configuration\" there, as amended by the comments on #1192).\r\n\r\nDepends on: #1195 (closed; config format and location fixed). The npm row also depends on #1196 (closed; `command` toolkit, merged in #1405). Blocks the hard break (#1199). Related: #1197 (prompt split; does not change `.claude/skills/*`), #1204 (configurable project setup, needed before the npm repo can run workflows end to end).\r\n\r\n## Goal\r\n\r\nE",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Too many men suffering in silence, national health report finds (Canada)",
-        "url": "https://news.ycombinator.com/item?id=50430595",
+        "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+        "url": "https://news.ycombinator.com/item?id=50443071",
         "source": "Hacker News",
-        "summary": "It&#x27;s the nature making decisions here. It has decided to lower the sprawl of human race to rebalance the ecosystem. The nature&#x27;s correcting forces restore the equilibrium. Governments focussed on worker-driven economy rather than family well-being would naturally force everything towards genderless robotic societies which are ideal for work. European nations even started making policies specifically for punishing people opting to not to work. The world is taken over by powerful new rac",
+        "summary": "&gt; non-LLM models just aren&#x27;t visible to consumers. Yeah, exactly. Your phone just...does stuff. Bar&#x2F;QR code scanning is probably using a CNN to minimize resource utilization. LLMs are like an ice breaker to talk about AI and all the ways it has existed for decades, and what AI really refers to.",
         "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "隐私与合规",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
       },
       {
-        "title": "Ask HN: Who is hiring? (November 2026)",
-        "url": "https://news.ycombinator.com/item?id=50430411",
+        "title": "The Death Knell of Digital Search",
+        "url": "https://news.ycombinator.com/item?id=50443030",
         "source": "Hacker News",
-        "summary": "Location: Bangalore, India (IST &#x2F; UTC+5:30)\nRemote: Yes (Worldwide)\nWilling to relocate: Yes (Worldwide, visa sponsorship required)\nTechnologies: TypeScript, Node.js, Go, Python, React, PostgreSQL, MongoDB, Redis, RabbitMQ, BullMQ, AWS, Docker, WebSockets, WebRTC, GraphQL, OpenAI, RAG, Vector DBs, ONNX Runtime, Grafana&#x2F;Loki\nRésumé&#x2F;CV: <a href=\"https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1kHPNmquEQniZlqC8bJYhCKPTztCPh9Q6&#x2F;view\" rel=\"nofollow\">https:&#x2F;&#x2F;driv",
+        "summary": "AI web search is really only as good as the index it is relying on. Maybe it can generate stuff without needing to search but... Just hope that the index quality does not get further deprioritized... It might make sense to make a public indexes if corporations aren&#x27;t interested in maintaining them...",
         "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
       }
     ],
     "category_counts": {
-      "可靠性与质量": 5,
-      "其他": 2,
+      "易用性与流程": 1,
+      "其他": 7,
       "需求缺口": 1,
-      "集成与兼容": 2,
-      "价格与付费": 1,
-      "隐私与合规": 1
+      "可靠性与质量": 3
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「其他」：今天出现 7 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「易用性与流程」：今天出现 1 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
