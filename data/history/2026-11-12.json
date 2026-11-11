@@ -1,0 +1,631 @@
+{
+  "generated_at": "2026-11-12 01:23 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI News",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 12 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI News",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 11 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 10 Nov 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI News",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 10 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "OpenAI News",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 10 Nov 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "source": "OpenAI News",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 10 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source": "OpenAI News",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 10 Nov 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "source": "OpenAI News",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 10 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI News",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 09 Nov 2026 19:00:00 GMT"
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "source": "OpenAI News",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 09 Nov 2026 13:00:00 GMT"
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI News",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 09 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "source": "OpenAI News",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 09 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 11 Nov 2026 05:01:16 GMT"
+    },
+    {
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 11 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 10 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 10 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 09 Nov 2026 15:05:57 GMT"
+    },
+    {
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 09 Nov 2026 12:34:29 GMT"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 06 Nov 2026 14:00:48 GMT"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 06 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 05 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 04 Nov 2026 17:50:10 GMT"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 16:35:36 GMT"
+    },
+    {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 03 Nov 2026 00:00:00 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 452110,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai",
+        "android"
+      ],
+      "published": "2026-11-11T17:22:54Z"
+    },
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 394345,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-11-11T17:13:06Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 316135,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-11-11T17:22:35Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 301190,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-11-11T17:21:03Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 262664,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-11-11T17:22:37Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 262664,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-11-11T17:22:37Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 210155,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-11-11T17:19:18Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 200848,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-11-11T17:21:45Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "score": 200848,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-11-11T17:21:45Z"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "score": 188940,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai-agents",
+        "claude"
+      ],
+      "published": "2026-11-11T17:17:19Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187995,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-11T17:20:06Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 187995,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-11T17:20:06Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 176.56,
+      "change_percent": 4.54,
+      "signal": "关注",
+      "rationale": "近一交易日涨跌 +4.54%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1439.0,
+      "change_percent": -0.41,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -0.41%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "feat(onnx): add CPU classification and captioning backends",
+        "url": "https://github.com/xberg-io/xberg/issues/2335",
+        "source": "GitHub Issues",
+        "summary": "Implement reusable, optional CPU ONNX classification and captioning in the Xberg SDK. Start with an explicitly experimental adapter that can be measured; gate supported presets and defaults on model qualification. Pro and Enterprise should select SDK backends and presets; neither product should implement a separate inference engine. This blocks xberg-io/xberg-enterprise#1510.\n\nThe SDK already implements provider-backed classify_text and caption_image through liter-llm. Keep those supported and p",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "feat(models): publish pinned ONNX artifacts and SDK inventory",
+        "url": "https://github.com/xberg-io/xberg/issues/2336",
+        "source": "GitHub Issues",
+        "summary": "Stage pinned candidate classification and captioning ONNX artifacts, then publish qualified supported variants to Hugging Face repositories owned by xberg-io and make the SDK consume those immutable artifacts. Pro should consume the SDK's canonical inventory when selecting and packaging defaults. This blocks xberg-io/xberg-enterprise#1510; an experimental staging upload permits evaluation but does not establish a supported model or resolve this issue.\n\nAcceptance:\n- Preserve upstream license not",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Amazon bedrock token quotas stuck at 0 on new AWS accounts",
+        "url": "https://stackoverflow.com/questions/80014897/amazon-bedrock-token-quotas-stuck-at-0-on-new-aws-accounts",
+        "source": "Stack Overflow",
+        "summary": "<p><strong>We recently created 5 new AWS accounts (after October 15, 2026) using a mix of common and unique registration details to explore Amazon Bedrock and access foundation models.</strong></p>\n<p>We are seeing inconsistent behavior across these accounts, and we have now found the root cause. We still need a way to resolve it.</p>\n<p>𝗪𝗵𝗮𝘁 𝗪𝗲 𝗙𝗼𝘂𝗻𝗱</p>\n<p>Token quotas are 0: In Amazon Bedrock → Quotas, the affected accounts show TPM = 0 and RPM = 0 (or “-”) for every model, including Claude H",
+        "score": -6.0,
+        "tags": [],
+        "published": "",
+        "category": "需求缺口",
+        "urgency": "高",
+        "audience": "团队/企业",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Upload file to SFTP using PowerShell",
+        "url": "https://stackoverflow.com/questions/38732025/upload-file-to-sftp-using-powershell",
+        "source": "Stack Overflow",
+        "summary": "<p>We were asked to set up an automated upload from one of our servers to an SFTP site. There will be a file that is exported from a database to a filer every Monday morning and they want the file to be uploaded to SFTP on Tuesday. The current authentication method we are using is username and password (I believe there was an option to have key file as well but username/password option was chosen).</p>\n\n<p>The way I am envisioning this is to have a script sitting on a server that will be trigger",
+        "score": 54.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Copilot Harness: BYOK custom-endpoint model not selectable for Remote Scenarios (WSL, Dev Containers, SSH etc)",
+        "url": "https://github.com/microsoft/vscode/issues/332085",
+        "source": "GitHub Issues",
+        "summary": "**Issue Type:** Bug Report\n\n**VS Code version:** 1.134.0 (user setup)\n**Copilot:** 1.0.81-0\n**OS:** Windows 11, WSL2 (Remote-WSL, Ubuntu)\n\n---\n\n## Summary\n\nA Bring-Your-Own-Key (BYOK) model configured via the Custom Endpoint provider appears in the Agents window model picker for **local Windows workspaces**, but is missing for **WSL workspaces**, even with the required experimental flag enabled.\n\n## Settings (User scope, global `settings.json`)\n\n```json\n\"chat.agentHost.enabled\": true,\n\"chat.agen",
+        "score": 36.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Nightly scenario failed: plain-yes",
+        "url": "https://github.com/MichaelZelbel/godspeed-mission-control/issues/372",
+        "source": "GitHub Issues",
+        "summary": "Night of 2026-11-09: plain-yes failed.\n\nRun: https://github.com/MichaelZelbel/godspeed-mission-control/actions/runs/42597780283\n\nThe last lines:\n\n```\n##[group]Run grep -qE \"^(PASS|FAIL) plain-yes:\" \"$RUNNER_TEMP/verdict\" 2>/dev/null || echo \"FAIL plain-yes: it stopped before its own verdict (its step log says how)\" | tee -a \"$GITHUB_STEP_SUMMARY\"\ngrep -qE \"^(PASS|FAIL) plain-yes:\" \"$RUNNER_TEMP/verdict\" 2>/dev/null || echo \"FAIL plain-yes: it stopped before its own verdict (its step log says how",
+        "score": 9.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
+        "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
+        "source": "Stack Overflow",
+        "summary": "<p>I am trying to compute the diagonal of the Fisher information matrix. I found this code that appears to do just that, but there are some issues with the code. First consider the code in its original form:</p>\n<pre><code>    estimated_fisher = {}\n\n    for n, p in model.named_parameters():\n        estimated_fisher[n] = torch.zeros_like(p)\n    model.eval()\n    for i, (input, target) in enumerate(dl, 0):\n        model.zero_grad()\n        output = model(input.to(device))\n        label = target.to(",
+        "score": 6.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "【商城】订单详情页「确认收货」只改前端状态未调接口：DB 仍是已发货，ERP 订单资讯不前进（JDL26110002）",
+        "url": "https://github.com/wzbzy/guoji-issues/issues/321",
+        "source": "GitHub Issues",
+        "summary": "## 问题描述\n\n订单 `JDL26110002` 在商城点「确认收货」后，商城页面显示已收货（进度走到第 4 步、带收货时间），但 ERP「订单资讯」（`mall_order/mallOrderList`）里该订单仍停在「已發貨」，订单状态不前进、后续流程走不下去。\n\n**根因已确认（读码 + 截图细节吻合）**：商城订单详情页的「确认收货」是**纯前端假动作**——`OrderDetail.vue` 里调用后端的那行被注释掉了，只改了页面本地状态，从未请求 `/mall_order/mallOrder/confirmReceive`，所以数据库 `mall_order.status` 一直是 5（已发货），ERP 自然不动。\n\n## 复现步骤\n\n1. 商城用订单所属客户账号打开 `JDL26110002` 订单详情（当前状态：已发货）\n2. 点「确认收货」→ 弹确认框 → 确定\n3. 页面提示「确认收货成功」，进度条第 4 步「确认收货」变蓝并带时间，顶部状态图标变成 ✓\n4. 打开 ERP「订单资讯」查 `JDL26110002` → 訂單狀態仍为「已發貨」\n5. 刷新商城订单详",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[bug] pipeline.run logs the draft flicker line before the MT worker drains: test_pipeline_wires_whole_mode fails in the full suite",
+        "url": "https://github.com/sunososobro-hub/tinglongwu/issues/297",
+        "source": "GitHub Issues",
+        "summary": "Found by AI worker while fixing #254.\n\nOn dev (ff77653, after #286), `python -m pytest -q --ignore=tests/test_tlwu_app.py` fails `tests/test_retranslation.py::test_pipeline_wires_whole_mode_and_keeps_latency_lines` (2 of 2 full runs; the file alone passes): `logs[-1]` is `latency: final epoch=0 ...` instead of `latency: draft rewrites ...`. Cause: `tinglongwu/pipeline.py:223-224` says the flicker line right after `merger.flush()` and BEFORE `mtq.put(_DONE)` / `worker.join`, so the MT worker thre",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Per-Owner daily Allowance",
+        "url": "https://github.com/davidyapcc/django-rag-api/issues/6",
+        "source": "GitHub Issues",
+        "summary": "> *This was generated by AI during triage.*\n\nFrom the README roadmap item \"Per-user monthly cost budget enforced at `/ask`\", reshaped during a grilling session.\n\n**Why daily, not monthly:** the Demo budget resets every UTC day, so a monthly per-user cap would not stop one Owner from using up *today's* shared budget, and Guests live 24 hours, so a monthly cap would never bite them. An **Allowance** (see `CONTEXT.md`) is the share of one UTC day's Demo budget a single Owner may spend; it covers Qu",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+        "url": "https://news.ycombinator.com/item?id=50455885",
+        "source": "Hacker News",
+        "summary": "looks amazing! if you used AI coding agents to build this, any reason why you couldn&#x27;t refactor this to use gpui or rune to still get cross platform but have better performance?",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+        "url": "https://news.ycombinator.com/item?id=50455870",
+        "source": "Hacker News",
+        "summary": "Title update (of submission and blog post)? My AI Agents (re)Discovered an Unmapped Maya Site",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      }
+    ],
+    "category_counts": {
+      "集成与兼容": 4,
+      "可靠性与质量": 4,
+      "需求缺口": 1,
+      "价格与付费": 1,
+      "其他": 2
+    },
+    "next_actions": [
+      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}
