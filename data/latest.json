@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-13 01:42 CST",
+  "generated_at": "2026-11-14 01:19 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI News",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 13 Nov 2026 15:00:00 GMT"
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI News",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 12 Nov 2026 20:00:00 GMT"
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "source": "OpenAI News",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 12 Nov 2026 12:00:00 GMT"
+    },
     {
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
@@ -102,37 +135,37 @@
       "published": "Tue, 10 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "OpenAI News",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Tue, 10 Nov 2026 07:00:00 GMT"
+      "published": "Fri, 13 Nov 2026 17:02:35 GMT"
     },
     {
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "url": "https://openai.com/index/cogent-security",
-      "source": "OpenAI News",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Tue, 10 Nov 2026 00:00:00 GMT"
+      "published": "Fri, 13 Nov 2026 14:05:22 GMT"
     },
     {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "source": "OpenAI News",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Mon, 09 Nov 2026 19:00:00 GMT"
+      "published": "Thu, 12 Nov 2026 19:07:35 GMT"
     },
     {
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
@@ -212,17 +245,6 @@
       "published": "Mon, 09 Nov 2026 12:34:29 GMT"
     },
     {
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 06 Nov 2026 14:00:48 GMT"
-    },
-    {
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "source": "Hugging Face Blog",
@@ -243,28 +265,6 @@
         "AI/科技"
       ],
       "published": "Thu, 05 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 04 Nov 2026 17:50:10 GMT"
-    },
-    {
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Tue, 03 Nov 2026 16:35:36 GMT"
     }
   ],
   "github_trending": [
@@ -273,215 +273,241 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 454759,
+      "score": 457068,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-12T17:41:46Z"
+      "published": "2026-11-13T17:19:28Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 394406,
+      "score": 394431,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-12T17:29:11Z"
+      "published": "2026-11-13T17:19:55Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 316661,
+      "score": 317140,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-12T17:39:44Z"
+      "published": "2026-11-13T17:18:14Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 301856,
+      "score": 302348,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-12T17:34:01Z"
+      "published": "2026-11-13T17:18:52Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 262916,
+      "score": 263169,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-12T17:42:02Z"
+      "published": "2026-11-13T17:15:20Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 262916,
+      "score": 263169,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-12T17:42:02Z"
+      "published": "2026-11-13T17:15:20Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 210308,
+      "score": 210386,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-12T17:14:01Z"
+      "published": "2026-11-13T16:56:07Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 201211,
+      "score": 201500,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-12T17:40:45Z"
+      "published": "2026-11-13T17:18:47Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 201211,
+      "score": 201500,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-12T17:40:45Z"
+      "published": "2026-11-13T17:18:47Z"
     },
     {
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "score": 189653,
+      "score": 190218,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "claude"
       ],
-      "published": "2026-11-12T17:41:52Z"
+      "published": "2026-11-13T17:17:39Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188010,
+      "score": 188015,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-12T17:35:13Z"
+      "published": "2026-11-13T15:38:46Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188010,
+      "score": 188015,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-12T17:35:13Z"
+      "published": "2026-11-13T15:38:46Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 165.48,
-      "change_percent": -4.75,
+      "price": 160.82,
+      "change_percent": -3.23,
       "signal": "谨慎",
-      "rationale": "近一交易日涨跌 -4.75%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 -3.23%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1402.3,
-      "change_percent": -2.55,
-      "signal": "谨慎",
-      "rationale": "近一交易日涨跌 -2.55%；只作信息展示，不构成投资建议。"
+      "price": 1410.27,
+      "change_percent": 0.57,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +0.57%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "CUDA KV pool sizing is non-deterministic and starves activation allocations under concurrent decode on 24 GB devices",
-        "url": "https://github.com/anthony-chaudhary/fak/issues/14344",
+        "title": "Separate orchestration from implementation with a GitHub-native worker exchange",
+        "url": "https://github.com/ktogias/gnostoa/issues/325",
         "source": "GitHub Issues",
-        "summary": "# CUDA KV pool sizing is non-deterministic and starves activation allocations under concurrent decode on 24 GB devices\n\n## Working spine\nMake CUDA KV pool sizing a deterministic function of the admitted plan and reserve activation headroom in the device admission budget, so concurrent decode on 24 GB devices cannot OOM mid-decode on a small allocation.\n\n## Parent context\n#2236 (epic(superset): fak > best of vLLM + SGLang + Dynamo + TRT-LLM/LMDeploy/llama.cpp) - this leaf closes the CUDA device-m",
-        "score": 8.0,
+        "summary": "## Capture / admission status\n\n**OWNER-DIRECTED BOUNDED ENABLING SLICE — schedule immediately after #324-R0 and before #318.**\n\nThis Work Item records the architecture selected on 2026-09-26 for separating the **orchestrating agent** from the **implementing agent** while keeping GitHub as the first concrete provider/control plane.\n\nIt is intentionally smaller than a general multi-agent platform or the optional #15-L4 / #201 executor-fabric work.\n\nCreating this issue does not create a competing b",
+        "score": 982.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 3 项"
       },
       {
-        "title": "GPT-6.1 Sol Usage Limits Depleting Much Faster Than Before",
-        "url": "https://github.com/openai/codex/issues/60530",
+        "title": "Process never exits after evolveDir returns following a worker quarantine (7.0.66): industry EvolveApp silent 2 h after its last statement, stale-window kill loses the run's model check-in",
+        "url": "https://github.com/stSoftwareAU/NEAT-AI/issues/4126",
         "source": "GitHub Issues",
-        "summary": "### What version of the Codex App are you using (From “About Codex” dialog)?\n\nGPT-6.1\n\n### What subscription do you have?\n\n26.1029.70936\n\n### What platform is your computer?\n\nwindows\n\n### What issue are you seeing?\n\nI'm experiencing a dramatic increase in how quickly GPT-6.1 Sol consumes my five-hour and weekly usage allowances in Codex.\n\nI'm using the same model and reasoning settings as before, without a corresponding increase in workload complexity. However, my allowances have recently been d",
-        "score": 5.0,
+        "summary": "## ⏳ Summary\n\nAn industry `EvolveApp` on **neat-ai 7.0.66** finished its work: the last `evolveDir` returned, the creature was saved, and the script ran its final statement. Then the **deno process never exited**. Two hours of silence later GRQ's stale-window watchdog killed the whole task, so `model-checkin` never ran and every model the run evolved stayed unpublished. The only unusual event in that unit was a **worker quarantine** inside the last `evolveDir`.\n\n## 🔎 Evidence\n\n- Source log: `GRQ",
+        "score": 19.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[Bug]: Windows Node does not advertise computer.act despite Screen Capture being enabled",
+        "url": "https://github.com/openclaw/openclaw/issues/196836",
+        "source": "GitHub Issues",
+        "summary": "### Bug type\n\nRegression (worked before, now fails)\n\n### Beta release blocker\n\nNo\n\n### Summary\n\n### Environment\n- Windows Node version: 2026.11.1\n- Node name: `DESKTOP-BI907L8`\n- Node type: Windows\n- Node status: Connected\n- Installation: OpenClaw graphical Windows application\n- Gateway environment: Linux / WSL\n\n### Problem Description\n\nMy Windows Node is successfully connected to the OpenClaw Gateway, but the agent cannot recognize it as a computer-capable node.\n\nWhen I ask the agent to capture",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+        "url": "https://news.ycombinator.com/item?id=50486131",
+        "source": "Hacker News",
+        "summary": "In the making of Bravado Remix (<a href=\"https:&#x2F;&#x2F;imgur.com&#x2F;gallery&#x2F;bravado-remix-quakeworld-map-quake-4-Hmu5Kud\" rel=\"nofollow\">https:&#x2F;&#x2F;imgur.com&#x2F;gallery&#x2F;bravado-remix-quakeworld-map-quake...</a>) I did end up using both DarkRadiant and NR-Custom, the latter I have recommended here in the past.\nI have no firm intention of doing another such project in the near future again, even though I am now familiar with the texture sets :D But in general, these tools ",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "需求缺口",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
@@ -497,19 +523,6 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "[design-gate][channels] Clean channel interface: in-process WhatsApp and no-code Discord port",
-        "url": "https://github.com/division-sh/swarm/issues/2338",
-        "source": "GitHub Issues",
-        "summary": "## Status (2026-11-07)\n\nThe older continuation status below is history. #2577 carries in-process WhatsApp: PR #2614 is merged, with #2984, #2985 and #2986 merged after it and #2987 open.\n\nNow on this issue:\n- **R130 = a** ([record](https://github.com/division-sh/swarm/issues/2338#issuecomment-6702016865)): the v0.8 common provider boundary. D's plan is [6702092092](https://github.com/division-sh/swarm/issues/2338#issuecomment-6702092092), screened by reviewer-d at [6702102739](https://github.com",
-        "score": 58.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 4 项"
-      },
-      {
         "title": "Upload file to SFTP using PowerShell",
         "url": "https://stackoverflow.com/questions/38732025/upload-file-to-sftp-using-powershell",
         "source": "Stack Overflow",
@@ -520,6 +533,19 @@
         "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[thought experiment] MCP server for agents",
+        "url": "https://github.com/jzombie/term-wm/issues/87",
+        "source": "GitHub Issues",
+        "summary": "By exposing an MCP server to an agent, it could dynamically update the UI, moving windows around, etc.\n\nThe primary purpose *could be* useful for debugging, where tasks could be invoked as shell commands in other windows, brought to the front, etc., moved to the side, etc.\n\nNot entirely sure if it's a good idea, though.\n\n",
+        "score": 9.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
         "evidence": "关键词命中 1 项"
       },
       {
@@ -536,23 +562,49 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "AI Chat sends the message and the active file when no API key is set, instead of stopping before anything leaves",
-        "url": "https://github.com/hexide-io/HexIDE/issues/3649",
+        "title": ":bug:(dlq-service): Keep the service field in CLAIM_PROJECTION so DLQ replays target the failed subscriber instead of every subscriber",
+        "url": "https://github.com/docteur-turboss/trading-model/issues/1005",
         "source": "GitHub Issues",
-        "summary": "With no API key set anywhere, AI Chat still sends the developer's message and the active file to the configured endpoint, and only then shows the endpoint's refusal. On the default route the reply is `Invalid bearer token` from `api.anthropic.com`.\n\nSeen on #3616's head, 2026-11-10, during the setup for its live check: no key in `chat-settings.json` and none in `HEXIDE_AI_API_KEY`, `ANTHROPIC_API_KEY` or `OPENAI_API_KEY`. From reading main, `ChatSettings` already knows whether a key is present, ",
+        "summary": "## Bug Description\n\nLe rejeu ciblé de l'ADR-0043 (`POST /message/replay` vers le seul abonné en échec) n'est jamais emprunté. La projection Mongo utilisée pour réclamer les entrées, `CLAIM_PROJECTION`, ne contient pas `service` : chaque entrée réclamée arrive avec `service: null`, et `delivery-executor.ts` la republie par `POST /message`, donc à **tous** les abonnés du topic. Le défaut touche les trois chemins de rejeu (manuel, auto-retry, file Redis).\n\n## Reproduction Steps\n\n1. Lire `services/d",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[phase 3] Query router: identifiers, paths and structural questions answered by exact lookup; embeddings only for conceptual questions",
+        "url": "https://github.com/PIIIX-org/chapters/issues/1060",
+        "source": "GitHub Issues",
+        "summary": "**Problem**\nEvery question goes through the same hybrid path (keyword + vector legs, fusion, boosts), including the questions that have one exact answer. For \"where is `assembleGraph` defined\", \"who calls `searchNotes`\", \"the file `server/src/mcp/server.ts`\", the exact answer is already in the index (symbol table, block spans, `code_edges`, paths), but the agent receives a ranked list of look-alikes and pays for reading them. This is where `hit1` is lost: the identifier suites (`chapters` exact-",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "A debugpy session exited 1 once on Linux CI: debugpy failed while handling HexIDE's disconnect",
+        "url": "https://github.com/hexide-io/HexIDE/issues/3894",
+        "source": "GitHub Issues",
+        "summary": "`ForeignAdapterTests.Debugpy_runs_a_complete_session` failed once in `build-ide (linux)`, on PR #3884's CI ([job](https://github.com/hexide-io/HexIDE/actions/runs/43450924701/job/131979404995)), at 15:53Z on 11-13. #3884 changes only `get_form_controls`.\n\n```\nExpected result.ExitCode[1] to be 0 because E+00002.711: /handling #11 request \"disconnect\" from Client[1]/\n…\n  File \".../python3.14/contextlib.py\", line 148, in __exit__\n  …\n    message_dict = self.stream.read_json(decoder)\n```\n\nSo debugpy",
         "score": 2.0,
         "tags": [],
         "published": "",
-        "category": "集成与兼容",
+        "category": "可靠性与质量",
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Windows: QSysInfo::windowsVersion() no longer exists in Qt 6",
-        "url": "https://github.com/heluca/overte/issues/170",
-        "source": "GitHub Issues",
-        "summary": "## What\n\nThe Windows branch of the OS-version report in `Application::initialize` still calls `QSysInfo::windowsVersion()` and compares it with `QSysInfo::WV_None` (`interface/src/Application_Setup.cpp:930-934`):\n\n```cpp\n#elifdef Q_OS_WIN\n        auto windowsVersion = QSysInfo::windowsVersion();\n        if (windowsVersion != QSysInfo::WV_None) {\n            properties[\"os_win_version\"] = QSysInfo::windowsVersion();\n        }\n#endif\n```\n\n`QSysInfo::windowsVersion()` and the `WinVersion` enum were",
+        "title": "Can anybody suggest another method to split a large Excel file into multiple files in any tool other than VBA?",
+        "url": "https://stackoverflow.com/questions/80004398/can-anybody-suggest-another-method-to-split-a-large-excel-file-into-multiple-fil",
+        "source": "Stack Overflow",
+        "summary": "<p>I need to split a large Excel file into multiple small files based on the first five digits of the values in a column.</p>\n<p>For example, I have values 1396A0001A,1396A0002A to split based on the first five digits, 1396A, into a separate sheet.</p>\n<p>I have VBA code to do this, but it is taking too much time - 3 hours to split the entire file of 15000 records in a file. Can you suggest any other method to split the file?</p>\n<pre><code>Sub SplitSheetIntoMultipleWorkbooksBasedOnColumn()\n    ",
         "score": 1.0,
         "tags": [],
         "published": "",
@@ -560,71 +612,18 @@
         "urgency": "低",
         "audience": "开发者",
         "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Press framing on trade-press headlines (from Griffon) — measurement gate first",
-        "url": "https://github.com/marcioyoshida/Signals-Competitor-Intelligence/issues/383",
-        "source": "GitHub Issues",
-        "summary": "## Why\nGriffon classifies news into 15 frames (e.g. regulatory trouble, conflict, economic consequences, growth) for about $0.00006/doc with Nova Lite. Applied to Onça's 19 Brazilian trade-press feeds, it could show how the press is framing each competitor (\"Bank X coverage turned 60% regulatory-trouble this month\").\n\n## The catch: measure before building\nOnça stores **headlines only** (syndication posture, no article bodies), and Griffon's framing was built on full text. Griffon's own distilled",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "NVIDIA Announces CEO Transition",
-        "url": "https://news.ycombinator.com/item?id=50470972",
-        "source": "Hacker News",
-        "summary": "Quite surprised they did not replace him with AI CEO-Class Agent. This would be sweet irony...",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Anthropic IPO",
-        "url": "https://news.ycombinator.com/item?id=50470861",
-        "source": "Hacker News",
-        "summary": "The domains where they apply it, privately for instance, aren&#x27;t of immediate import. Their fuck-ups stay local. The consequences of &quot;AI use&quot; are manifold and very poorly understood. That doesn&#x27;t make them less impactful, on the contrary. Whether you look at &quot;humanoid robots&quot; or incorporeal LLMs, when they are more capable than yourself, you become their <i>dependent</i> counterpart, not their &quot;master&quot;.",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Apple has new Mac app coming to make running local AI models easy",
-        "url": "https://news.ycombinator.com/item?id=50470786",
-        "source": "Hacker News",
-        "summary": "There is AI for devs and corps, and there is AI for end users, a more convenient search widget. &quot;Who took gold * in 2007 in X&quot;. &quot;How long should I air fry French fry and at what temp&quot;. I use my ChatGTP sub like that too, that&#x27;s OS agnostic. The Apple platform provides certain benefits to me. Take a look at Matthew Cassinelli&#x27; work (great speaker), if you have time (and a Mac I guess): <a href=\"https:&#x2F;&#x2F;matthewcassinelli.com&#x2F;sirishortcuts&#x2F;library&#",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "隐私与合规",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
       }
     ],
     "category_counts": {
-      "集成与兼容": 5,
-      "可靠性与质量": 2,
-      "其他": 3,
-      "价格与付费": 1,
-      "隐私与合规": 1
+      "集成与兼容": 3,
+      "可靠性与质量": 6,
+      "需求缺口": 1,
+      "其他": 2
     },
     "next_actions": [
-      "优先验证「集成与兼容」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
