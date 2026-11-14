@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14 01:19 CST",
+  "generated_at": "2026-11-14 23:58 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -12,6 +12,17 @@
         "AI/科技"
       ],
       "published": "Fri, 13 Nov 2026 15:00:00 GMT"
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 13 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -124,15 +135,15 @@
       "published": "Tue, 10 Nov 2026 09:00:00 GMT"
     },
     {
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "source": "OpenAI News",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Tue, 10 Nov 2026 08:00:00 GMT"
+      "published": "Fri, 13 Nov 2026 18:00:39 GMT"
     },
     {
       "title": "XYBench: Helping with the problem behind the question",
@@ -223,17 +234,6 @@
       "published": "Tue, 10 Nov 2026 00:00:00 GMT"
     },
     {
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 09 Nov 2026 15:05:57 GMT"
-    },
-    {
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
       "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
       "source": "Hugging Face Blog",
@@ -273,186 +273,186 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 457068,
+      "score": 459145,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-13T17:19:28Z"
+      "published": "2026-11-14T15:58:28Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 394431,
+      "score": 394440,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-13T17:19:55Z"
+      "published": "2026-11-14T15:54:32Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 317140,
+      "score": 317499,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-13T17:18:14Z"
+      "published": "2026-11-14T15:56:31Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 302348,
+      "score": 302743,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-13T17:18:52Z"
+      "published": "2026-11-14T15:57:11Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 263169,
+      "score": 263323,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-13T17:15:20Z"
+      "published": "2026-11-14T15:57:49Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 263169,
+      "score": 263323,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-13T17:15:20Z"
+      "published": "2026-11-14T15:57:49Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 210386,
+      "score": 210473,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-13T16:56:07Z"
+      "published": "2026-11-14T15:47:51Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 201500,
+      "score": 201729,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-13T17:18:47Z"
+      "published": "2026-11-14T15:54:13Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 201500,
+      "score": 201729,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-13T17:18:47Z"
+      "published": "2026-11-14T15:54:13Z"
     },
     {
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "score": 190218,
+      "score": 190704,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "claude"
       ],
-      "published": "2026-11-13T17:17:39Z"
+      "published": "2026-11-14T15:56:24Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188015,
+      "score": 188023,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-13T15:38:46Z"
+      "published": "2026-11-14T15:27:00Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188015,
+      "score": 188023,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-13T15:38:46Z"
+      "published": "2026-11-14T15:27:00Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 160.82,
-      "change_percent": -3.23,
+      "price": 162.85,
+      "change_percent": -2.01,
       "signal": "谨慎",
-      "rationale": "近一交易日涨跌 -3.23%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 -2.01%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1410.27,
-      "change_percent": 0.57,
+      "price": 1435.26,
+      "change_percent": 1.77,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +0.57%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +1.77%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
@@ -462,7 +462,7 @@
         "url": "https://github.com/ktogias/gnostoa/issues/325",
         "source": "GitHub Issues",
         "summary": "## Capture / admission status\n\n**OWNER-DIRECTED BOUNDED ENABLING SLICE — schedule immediately after #324-R0 and before #318.**\n\nThis Work Item records the architecture selected on 2026-09-26 for separating the **orchestrating agent** from the **implementing agent** while keeping GitHub as the first concrete provider/control plane.\n\nIt is intentionally smaller than a general multi-agent platform or the optional #15-L4 / #201 executor-fabric work.\n\nCreating this issue does not create a competing b",
-        "score": 982.0,
+        "score": 1270.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
@@ -471,11 +471,11 @@
         "evidence": "关键词命中 3 项"
       },
       {
-        "title": "Process never exits after evolveDir returns following a worker quarantine (7.0.66): industry EvolveApp silent 2 h after its last statement, stale-window kill loses the run's model check-in",
-        "url": "https://github.com/stSoftwareAU/NEAT-AI/issues/4126",
+        "title": "acp-dsh: Genie cannot open the person's images (profile hides outside files; attach kills dsh on Linux)",
+        "url": "https://github.com/automagik-si/automagik/issues/1272",
         "source": "GitHub Issues",
-        "summary": "## ⏳ Summary\n\nAn industry `EvolveApp` on **neat-ai 7.0.66** finished its work: the last `evolveDir` returned, the creature was saved, and the script ran its final statement. Then the **deno process never exited**. Two hours of silence later GRQ's stale-window watchdog killed the whole task, so `model-checkin` never ran and every model the run evolved stayed unpublished. The only unusual event in that unit was a **worker quarantine** inside the last `evolveDir`.\n\n## 🔎 Evidence\n\n- Source log: `GRQ",
-        "score": 19.0,
+        "summary": "A person can no longer open their own images in a Codex Bot's chat (Genie) on Linux. Two separate defects\nshow up as \"the image gives an error\".\n\n## 1. Images outside the workspace are invisible at Read only and Workspace (since #1234)\n\nSince #1234 (in releases from v3.139.6), a Codex Bot at Read only or Workspace runs under the app-owned\nprofile `automagik-read-<hex>` / `automagik-workspace-<hex>`, whose filesystem policy is `:root = deny`\nplus the workspace and Codex runtime grants (`apps/acp-",
+        "score": 2.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -484,27 +484,27 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[Bug]: Windows Node does not advertise computer.act despite Screen Capture being enabled",
-        "url": "https://github.com/openclaw/openclaw/issues/196836",
-        "source": "GitHub Issues",
-        "summary": "### Bug type\n\nRegression (worked before, now fails)\n\n### Beta release blocker\n\nNo\n\n### Summary\n\n### Environment\n- Windows Node version: 2026.11.1\n- Node name: `DESKTOP-BI907L8`\n- Node type: Windows\n- Node status: Connected\n- Installation: OpenClaw graphical Windows application\n- Gateway environment: Linux / WSL\n\n### Problem Description\n\nMy Windows Node is successfully connected to the OpenClaw Gateway, but the agent cannot recognize it as a computer-capable node.\n\nWhen I ask the agent to capture",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-        "url": "https://news.ycombinator.com/item?id=50486131",
+        "title": "Jensen Huang Admitted He Was Facing an \"Avalanche\" of Excess Wafers and Memory",
+        "url": "https://news.ycombinator.com/item?id=50496733",
         "source": "Hacker News",
-        "summary": "In the making of Bravado Remix (<a href=\"https:&#x2F;&#x2F;imgur.com&#x2F;gallery&#x2F;bravado-remix-quakeworld-map-quake-4-Hmu5Kud\" rel=\"nofollow\">https:&#x2F;&#x2F;imgur.com&#x2F;gallery&#x2F;bravado-remix-quakeworld-map-quake...</a>) I did end up using both DarkRadiant and NR-Custom, the latter I have recommended here in the past.\nI have no firm intention of doing another such project in the near future again, even though I am now familiar with the texture sets :D But in general, these tools ",
+        "summary": "A) The point is mainly that if someone is reporting on something they need to separate facts from inference. If he did not say excess, you cannot say he did, and there is no support from the WSJ source article for this claim. B) Huang has been clear that he needs to diversify his customer base, in part bc of the threat posed by in house accelerator programs. He could see urgency in finding customers beyond those key accounts without necessarily seeing excess supply across the industry. He is als",
         "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "需求缺口",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "团队/企业",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "fix(dedup): suggest best copies with ordered preservation rules",
+        "url": "https://github.com/lgtm-hq/winnow/issues/407",
+        "source": "GitHub Issues",
+        "summary": "## Summary\n\nReplace the weighted quality score with an explained, ordered preservation\npreference. Preserve provenance and metadata before resolution, report ties and\ntradeoffs, and never make an upscaled stripped derivative outrank its original.\n\n## Problem\n\n`QualityComparator` divides metrics by group maxima, then averages weighted\nresolution, size, sharpness and bitrate (`winnow/dedup/quality.py:299`). `_rank_key`\nuses path as the final tiebreak (line 362); `rank_group` selects the first targ",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 2 项"
@@ -523,6 +523,19 @@
         "evidence": "关键词命中 0 项"
       },
       {
+        "title": "[YOS HQ] ProjectY自動司令部 v1｜毎時監視・安全な自動継続",
+        "url": "https://github.com/yskn0008-bot/ProjectY/issues/232",
+        "source": "GitHub Issues",
+        "summary": "## 目的\n\nProjectYを、ようすけが各チャット・PR・Issueを巡回しなくても前へ進む組織へ移行する。\n\nこのIssueは新しい人格・新しい製品・新しい開発チャットではない。既存資産を接続する運用規約である。\n\n- **ようすけ**：Founder / Owner。人生・価値観・大きな仕様・本番公開の最終判断\n- **YOS**：唯一の人格・司令塔。優先順位、統合、安全判断、最終承認\n- **Taxi Lab**：研究・分析・設計\n- **Codex**：コード実装の標準担当\n- **QA / Actions**：検査\n- **GitHub**：正本\n- **Issue #51**：全体管理・重要判断の記録\n- **Mission Control**：現在地の自動集約ダッシュボード\n\n> Issueタイトルの「毎時監視」は既存正式名称として維持する。運転方式は、2026-08-17以降 **イベント駆動を主経路、5分watchdogを取りこぼし・停滞検知の保険** とする。1時間待ちを標準動作にしない。\n\n## 運転方式\n\n### 主経路｜イベント駆動\n\nGitHub上で意味",
+        "score": 127.0,
+        "tags": [],
+        "published": "",
+        "category": "易用性与流程",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
         "title": "Upload file to SFTP using PowerShell",
         "url": "https://stackoverflow.com/questions/38732025/upload-file-to-sftp-using-powershell",
         "source": "Stack Overflow",
@@ -536,17 +549,30 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[thought experiment] MCP server for agents",
-        "url": "https://github.com/jzombie/term-wm/issues/87",
+        "title": "Prioritize finishing and integrating existing PRs before starting new implementation work",
+        "url": "https://github.com/trebizondoculpepper/presidential-daily-briefing/issues/182",
         "source": "GitHub Issues",
-        "summary": "By exposing an MCP server to an agent, it could dynamically update the UI, moving windows around, etc.\n\nThe primary purpose *could be* useful for debugging, where tasks could be invoked as shell commands in other windows, brought to the front, etc., moved to the side, etc.\n\nNot entirely sure if it's a good idea, though.\n\n",
-        "score": 9.0,
+        "summary": "## Owner-approved priority direction\n\nThe Poker Blocks owner agrees that an implementer should generally finish and merge existing pull requests before starting new tickets. Adjust the implementer view to make actionable completion/integration work prominent, rather than allowing green reviewed PRs to disappear into background waiting while new work remains available.\n\nThis is a ranking recommendation, never permission to merge, steal another agent's claim, or bypass review/dependency checks. Tr",
+        "score": 10.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "集成与兼容",
         "urgency": "中",
         "audience": "个人用户",
         "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Investigate docs preview failures",
+        "url": "https://github.com/satyrn-ai/satyrn-zen/issues/44",
+        "source": "GitHub Issues",
+        "summary": "",
+        "score": 7.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
@@ -562,42 +588,16 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": ":bug:(dlq-service): Keep the service field in CLAIM_PROJECTION so DLQ replays target the failed subscriber instead of every subscriber",
-        "url": "https://github.com/docteur-turboss/trading-model/issues/1005",
+        "title": "[BUG] Equipment copies are being duplicated",
+        "url": "https://github.com/MillenniumDawn/Millennium-Dawn/issues/6605",
         "source": "GitHub Issues",
-        "summary": "## Bug Description\n\nLe rejeu ciblé de l'ADR-0043 (`POST /message/replay` vers le seul abonné en échec) n'est jamais emprunté. La projection Mongo utilisée pour réclamer les entrées, `CLAIM_PROJECTION`, ne contient pas `service` : chaque entrée réclamée arrive avec `service: null`, et `delivery-executor.ts` la republie par `POST /message`, donc à **tous** les abonnés du topic. Le défaut touche les trois chemins de rejeu (manuel, auto-retry, file Redis).\n\n## Reproduction Steps\n\n1. Lire `services/d",
-        "score": 3.0,
-        "tags": [],
-        "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "[phase 3] Query router: identifiers, paths and structural questions answered by exact lookup; embeddings only for conceptual questions",
-        "url": "https://github.com/PIIIX-org/chapters/issues/1060",
-        "source": "GitHub Issues",
-        "summary": "**Problem**\nEvery question goes through the same hybrid path (keyword + vector legs, fusion, boosts), including the questions that have one exact answer. For \"where is `assembleGraph` defined\", \"who calls `searchNotes`\", \"the file `server/src/mcp/server.ts`\", the exact answer is already in the index (symbol table, block spans, `code_edges`, paths), but the agent receives a ranked list of look-alikes and pays for reading them. This is where `hit1` is lost: the identifier suites (`chapters` exact-",
-        "score": 3.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "A debugpy session exited 1 once on Linux CI: debugpy failed while handling HexIDE's disconnect",
-        "url": "https://github.com/hexide-io/HexIDE/issues/3894",
-        "source": "GitHub Issues",
-        "summary": "`ForeignAdapterTests.Debugpy_runs_a_complete_session` failed once in `build-ide (linux)`, on PR #3884's CI ([job](https://github.com/hexide-io/HexIDE/actions/runs/43450924701/job/131979404995)), at 15:53Z on 11-13. #3884 changes only `get_form_controls`.\n\n```\nExpected result.ExitCode[1] to be 0 because E+00002.711: /handling #11 request \"disconnect\" from Client[1]/\n…\n  File \".../python3.14/contextlib.py\", line 148, in __exit__\n  …\n    message_dict = self.stream.read_json(decoder)\n```\n\nSo debugpy",
+        "summary": "> *Reported by **discord-sync** via [Discord](https://discord.com/channels/210890013334831104/1571192212312821800) on 2026-11-14*\n> *Tags: general-bug*\n\n<!-- bot-created-from-discord -->\n\n**What happens**\nI’ve noticed that the equipment, gear, transport vehicles, etc., being produced are getting duplicated. The same items appear multiple times in the warehouse inventory for no apparent reason—they suddenly show up, even though I haven’t made any changes to them.\n\n**To Reproduce**\nSee Discord thr",
         "score": 2.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
-        "audience": "开发者",
+        "audience": "个人用户",
         "evidence": "关键词命中 1 项"
       },
       {
@@ -615,15 +615,15 @@
       }
     ],
     "category_counts": {
-      "集成与兼容": 3,
-      "可靠性与质量": 6,
-      "需求缺口": 1,
-      "其他": 2
+      "集成与兼容": 5,
+      "可靠性与质量": 3,
+      "其他": 3,
+      "易用性与流程": 1
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「集成与兼容」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
