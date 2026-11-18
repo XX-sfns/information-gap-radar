@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-18 02:42 CST",
+  "generated_at": "2026-11-19 02:19 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI News",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI News",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI News",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI News",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
     {
       "title": "Introducing GPT-6.2 Astra and Sol",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
@@ -23,6 +67,17 @@
         "AI/科技"
       ],
       "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI News",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "Introducing OpenAI for Chile",
@@ -80,59 +135,37 @@
       "published": "Mon, 16 Nov 2026 12:00:00 GMT"
     },
     {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI News",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 16 Nov 2026 09:30:00 GMT"
-    },
-    {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "source": "OpenAI News",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 16 Nov 2026 09:00:00 GMT"
-    },
-    {
-      "title": "Our first phase of embedded assessments",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "source": "OpenAI News",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 16 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "source": "OpenAI News",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face Blog",
       "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Mon, 16 Nov 2026 06:00:00 GMT"
+      "published": "Wed, 18 Nov 2026 15:00:23 GMT"
     },
     {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "source": "OpenAI News",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Mon, 16 Nov 2026 06:00:00 GMT"
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
     },
     {
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
@@ -232,39 +265,6 @@
         "AI/科技"
       ],
       "published": "Tue, 10 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Tue, 10 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 09 Nov 2026 12:34:29 GMT"
-    },
-    {
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 06 Nov 2026 00:00:00 GMT"
     }
   ],
   "github_trending": [
@@ -273,216 +273,190 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 465940,
+      "score": 467933,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-17T18:41:32Z"
+      "published": "2026-11-18T18:19:15Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 394665,
+      "score": 394748,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-17T18:40:43Z"
+      "published": "2026-11-18T18:18:46Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 319165,
+      "score": 319880,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-17T18:38:58Z"
+      "published": "2026-11-18T18:19:06Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 305281,
+      "score": 306310,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-17T18:41:22Z"
+      "published": "2026-11-18T18:19:32Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 264162,
+      "score": 264463,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-17T18:40:19Z"
+      "published": "2026-11-18T18:11:39Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 264162,
+      "score": 264463,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-17T18:40:19Z"
+      "published": "2026-11-18T18:11:39Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 210940,
+      "score": 210948,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-17T18:40:24Z"
+      "published": "2026-11-18T18:19:53Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 202577,
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "score": 202927,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-17T18:39:52Z"
+      "published": "2026-11-18T18:19:05Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
-      "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "score": 202577,
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "score": 202927,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-17T18:39:52Z"
+      "published": "2026-11-18T18:19:05Z"
     },
     {
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "score": 192850,
+      "score": 193893,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "claude"
       ],
-      "published": "2026-11-17T18:40:20Z"
+      "published": "2026-11-18T18:15:20Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188078,
+      "score": 188084,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-17T17:39:02Z"
+      "published": "2026-11-18T18:18:55Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188078,
+      "score": 188084,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-17T17:39:02Z"
+      "published": "2026-11-18T18:18:55Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 153.22,
-      "change_percent": -1.87,
-      "signal": "观望",
-      "rationale": "近一交易日涨跌 -1.87%；只作信息展示，不构成投资建议。"
+      "price": 151.79,
+      "change_percent": -2.36,
+      "signal": "谨慎",
+      "rationale": "近一交易日涨跌 -2.36%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1453.9,
-      "change_percent": 1.3,
+      "price": 1457.7,
+      "change_percent": 0.26,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +1.30%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +0.26%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
-      {
-        "title": "Separate orchestration from implementation with a GitHub-native worker exchange",
-        "url": "https://github.com/ktogias/gnostoa/issues/325",
-        "source": "GitHub Issues",
-        "summary": "## Capture / admission status\n\n**OWNER-DIRECTED BOUNDED ENABLING SLICE — schedule immediately after #324-R0 and before #318.**\n\nThis Work Item records the architecture selected on 2026-09-26 for separating the **orchestrating agent** from the **implementing agent** while keeping GitHub as the first concrete provider/control plane.\n\nIt is intentionally smaller than a general multi-agent platform or the optional #15-L4 / #201 executor-fabric work.\n\nCreating this issue does not create a competing b",
-        "score": 1910.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 3 项"
-      },
-      {
-        "title": "Refresh the source graph without rendering or embedding the whole wiki",
-        "url": "https://github.com/repowise-dev/repowise/issues/4811",
-        "source": "GitHub Issues",
-        "summary": "# Refresh the source graph without rebuilding the whole wiki\n\n## What happens in official 0.59.0\n\nThe original published `repowise update --index-only --no-workspace --no-agents --no-cost-tracking --progress json` correctly avoids generative model calls, but it still renders and embeds pages before committing the refreshed graph for a deterministic wiki. `_index_only_update` calls `_render_template_pages`; a renderer fingerprint change selects `full_scope`, and `_render_pages` constructs the exp",
-        "score": 13.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
       {
         "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
         "url": "https://stackoverflow.com/questions/80009709/how-do-i-enforce-that-an-llm-only-cites-chunk-ids-from-the-retrieved-set-when-t",
@@ -497,24 +471,11 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "Canonical migration plan: restore interplanetary-fund2 main UX and replace Base44 dependencies",
-        "url": "https://github.com/interplanetarysister/InterplanetaryFund/issues/203",
-        "source": "GitHub Issues",
-        "summary": "# Authoritative migration decision — 2026-11-03\n\n**New source of truth:** `interplanetarysister/interplanetary-fund2@main` is the canonical **frontend, interaction, asset, and functional reference** (original Base44-era APK experience). It is NOT the target production runtime. `interplanetarysister/InterplanetaryFund` remains the deployable migration repository, hosted on Cloudflare Pages/Workers with Supabase. Preserve all working migration code; no Convex or Vercel.\n\n## Implementation order\n1.",
-        "score": 1434.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
         "title": "[YOS HQ] ProjectY自動司令部 v1｜毎時監視・安全な自動継続",
         "url": "https://github.com/yskn0008-bot/ProjectY/issues/232",
         "source": "GitHub Issues",
         "summary": "## 目的\n\nProjectYを、ようすけが各チャット・PR・Issueを巡回しなくても前へ進む組織へ移行する。\n\nこのIssueは新しい人格・新しい製品・新しい開発チャットではない。既存資産を接続する運用規約である。\n\n- **ようすけ**：Founder / Owner。人生・価値観・大きな仕様・本番公開の最終判断\n- **YOS**：唯一の人格・司令塔。優先順位、統合、安全判断、最終承認\n- **Taxi Lab**：研究・分析・設計\n- **Codex**：コード実装の標準担当\n- **QA / Actions**：検査\n- **GitHub**：正本\n- **Issue #51**：全体管理・重要判断の記録\n- **Mission Control**：現在地の自動集約ダッシュボード\n\n> Issueタイトルの「毎時監視」は既存正式名称として維持する。運転方式は、2026-08-17以降 **イベント駆動を主経路、5分watchdogを取りこぼし・停滞検知の保険** とする。1時間待ちを標準動作にしない。\n\n## 運転方式\n\n### 主経路｜イベント駆動\n\nGitHub上で意味",
-        "score": 135.0,
+        "score": 148.0,
         "tags": [],
         "published": "",
         "category": "易用性与流程",
@@ -536,6 +497,32 @@
         "evidence": "关键词命中 1 项"
       },
       {
+        "title": "enhancement(cli): flag and path friction across verify, occupancy, xbrief:preflight, session:start and finalize on Windows",
+        "url": "https://github.com/deftai/directive/issues/6647",
+        "source": "GitHub Issues",
+        "summary": "CLI flag and path friction across verify, occupancy, xbrief:preflight and session:start.\n\n## Acceptance Criteria\n\n- [ ] `deft verify:*` drops a lone `--` in one shared argv helper, so `deft` and `task` take the same arguments.\n- [ ] `deft occupancy:release` without `--session-id` defaults to the caller's own identity (`DEFT_SESSION_ID`, then the applying-host id) and never to the live occupant.\n- [ ] `deft xbrief:preflight` accepts an absolute path by converting it to a repo-relative path at the",
+        "score": 15.0,
+        "tags": [],
+        "published": "",
+        "category": "需求缺口",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Settings welcome capture has unstable saved-toast raster",
+        "url": "https://github.com/AaronBuxbaum/diveday/issues/4744",
+        "source": "GitHub Issues",
+        "summary": "> *This was generated by AI during triage.*\n\n**Kind:** risk\n**Effort:** S\n**Touches:** `e2e/visual-shop-welcome.spec.ts`\n\n## What I noticed\n\nIn [#4741's visual comparison](https://github.com/AaronBuxbaum/diveday/actions/runs/44310194497/artifacts/14430877566), `settings-owner-welcome-light-vw-1280` changed only in the saved toast and shadow (25,704 pixels, maximum channel delta 16). Text and geometry are unchanged; #4741 changes neither this test nor the toast. Animation or paint timing is possi",
+        "score": 8.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
         "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
         "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
         "source": "Stack Overflow",
@@ -549,16 +536,42 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "El color de la j no esta bien, deberia ser un azul palido",
-        "url": "https://github.com/MVITProjects/claude-tetris/issues/4",
+        "title": "Large-text settings capture clips the Inbox navigation label",
+        "url": "https://github.com/AaronBuxbaum/diveday/issues/4746",
         "source": "GitHub Issues",
-        "summary": "El color de la J o L invertida deberia ser un azul palido\n\n<img width=\"300\" height=\"148\" alt=\"pieza-L\" src=\"https://github.com/user-attachments/assets/946dfb18-0f27-48ad-81ca-02ac24a0ff6b\" />",
-        "score": 3.0,
+        "summary": "> *This was generated by AI during triage.*\n\n**Kind:** risk\n**Effort:** S\n**Touches:** `e2e/visual-device-text-size.spec.ts`, `src/components/ShopSectionNav.tsx`\n\n## What I noticed\n\nThe exact-head [visual artifact for #4741](https://github.com/AaronBuxbaum/diveday/actions/runs/44318202227/artifacts/14435492398) shows `settings-editor-device-body-53-light-vw-820` with the right-scroll chevron overlapping and truncating Inbox and shifting More compared with the baseline. The rest of the 820×10480 ",
+        "score": 4.0,
         "tags": [],
         "published": "",
         "category": "其他",
         "urgency": "低",
         "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Fix intermittent keyboard calendar-link revocation dialog focus in E2E",
+        "url": "https://github.com/design4pro/planned.travel/issues/1943",
+        "source": "GitHub Issues",
+        "summary": "## Problem\n\nThe calendar-link keyboard E2E journey failed intermittently during PR #1942, then passed on a failed-jobs rerun at the identical source head `2ea8a1e193c1e72811efd9af18efab5dc19e8161`. The release import/review change does not modify this calendar flow. No test or source changes were made to obtain the passing rerun.\n\n## Executed evidence\n\n- Workflow: https://github.com/design4pro/planned.travel/actions/runs/44001622716\n- Attempt 1: E2E shard 1 failed, including its Playwright retri",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "易用性与流程",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Phase 2e: typed token hand-off, with = module, Embedded<T>",
+        "url": "https://github.com/JPHutchins/cbor-static/issues/38",
+        "source": "GitHub Issues",
+        "summary": "> [!WARNING]\n> **LLM Disclosure**\n>\n> This post was authored by claude-opus-5-5 on behalf of @JPHutchins. It is a Phase 2 slice created from the resolved spec JP accepted on 2026-11-17.\n\n**Parent:** #5. **Spec:** the [resolved spec](https://github.com/JPHutchins/cbor-static/issues/5#issuecomment-6965162142), questions Q11, Q18, Q19, which are authoritative.\n\n### Scope\n- `Tokens::decode_into::<T>` (returning `&mut T`) and `TokenWriter::encode(&T)`.\n- A doctest of an `Encoder` or `Decoder` placed ",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
         "evidence": "关键词命中 0 项"
       },
       {
@@ -575,6 +588,19 @@
         "evidence": "关键词命中 0 项"
       },
       {
+        "title": "extract: X9a 版の引上げ・登録版・配線（世代12/ルール30/文脈5）",
+        "url": "https://github.com/yusuketakuma/hermes-mcs/issues/216",
+        "source": "GitHub Issues",
+        "summary": "## 背景\n全ブロックが入った後、版の数値と配線を一度にまとめて入れる統合 X9 の中心。上げる版: `LLM_EXTRACT_VERSION` 11→12、`RULE_VERSION` 29→30、`PATIENT_CONTEXT_VERSION` 4→5、`semantic_projection.PROJECTION_VERSION` 7→8、`semantic_jev.REGISTRY_VERSION`（commit の日付。所有者承認済み）、走査入力署名の印 `/1`→`/2`、`clinical_allergies.FIELD_GENERATION=12`。公開版 `CURRENT_VERSION='1.0'` などは変えない。リリースは 1.2.0。\n\n## やること\n1. 版の定数の引上げ（上記）。`mcs/core/inference_version.py`・`extract_llm_source_contract.PATIENT_CONTEXT_VERSION`・`rules/extract.RULE_VERSION`・`semantic_projection.PRO",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
         "title": "Why is searching by Class Chain in iOS faster than XPath?",
         "url": "https://stackoverflow.com/questions/64886602/why-is-searching-by-class-chain-in-ios-faster-than-xpath",
         "source": "Stack Overflow",
@@ -586,45 +612,19 @@
         "urgency": "低",
         "audience": "开发者",
         "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Jensen Huang Posts on X",
-        "url": "https://news.ycombinator.com/item?id=50535789",
-        "source": "Hacker News",
-        "summary": "The GPU pricing allegations are just chaff and flare to attempt to rally the court of public opinion against him. Though outrageous, it&#x27;s no more outrageous than a dozen deals that are made daily, and is dwarfed by things the public aren&#x27;t concerned with, like incestuous investment between all the major AI players that&#x27;s created an economic house of cards. Consumer GPU prices affect us personally, however, and thus that story was dropped in the days after Huang was ousted to attem",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-        "url": "https://news.ycombinator.com/item?id=50535608",
-        "source": "Hacker News",
-        "summary": "&gt; Something in me doubts you&#x27;ll be back to apologize if these issues aren&#x27;t related to AI Well, don&#x27;t you want to be worried, I can issue an apology! Who should I be apologizing to? I figure once I have clear evidence this is not AI related, I&#x27;ll shoot Satya an email, I promise.",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
       }
     ],
     "category_counts": {
-      "集成与兼容": 3,
-      "价格与付费": 2,
-      "其他": 5,
-      "易用性与流程": 1,
+      "其他": 6,
+      "易用性与流程": 2,
+      "集成与兼容": 2,
+      "需求缺口": 1,
       "可靠性与质量": 1
     },
     "next_actions": [
-      "优先验证「其他」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「价格与付费」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「其他」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「易用性与流程」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
