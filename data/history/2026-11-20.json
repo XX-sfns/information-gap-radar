@@ -1,0 +1,630 @@
+{
+  "generated_at": "2026-11-20 02:32 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI News",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI News",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI News",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI News",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI News",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "source": "OpenAI News",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 06:00:00 GMT"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI News",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI News",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI News",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 17 Nov 2026 17:45:00 GMT"
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI News",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI News",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI News",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 19:54:56 GMT"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 18:53:43 GMT"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 15:00:23 GMT"
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 16 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 13 Nov 2026 18:00:39 GMT"
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 13 Nov 2026 17:02:35 GMT"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 13 Nov 2026 14:05:22 GMT"
+    },
+    {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 12 Nov 2026 19:07:35 GMT"
+    },
+    {
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 12 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 11 Nov 2026 05:01:16 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 469683,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai",
+        "android"
+      ],
+      "published": "2026-11-19T18:31:53Z"
+    },
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 394816,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-11-19T18:31:31Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 321911,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-11-19T18:26:49Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 307135,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-11-19T18:32:00Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 264711,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-11-19T18:26:30Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 264711,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-11-19T18:26:30Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 211408,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-11-19T18:29:09Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "score": 203927,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-11-19T18:32:22Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "score": 203927,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-11-19T18:32:22Z"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "score": 194735,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai-agents",
+        "claude"
+      ],
+      "published": "2026-11-19T18:30:50Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 188102,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-19T18:23:51Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 188102,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-19T18:23:51Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 149.06,
+      "change_percent": -1.26,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -1.26%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1442.66,
+      "change_percent": -1.03,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -1.03%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "bug: sidecar-only approval PRs never get awaiting-approval, so four founder approvals cannot reach any human-ready gate",
+        "url": "https://github.com/AIClarityAU/minspec/issues/2133",
+        "source": "GitHub Issues",
+        "summary": "## What I measured\n\nFour sidecar-only approval PRs are invisible to every human-ready gate because they never get\n`awaiting-approval`, while a fifth approval PR in the same batch does get it.\n\nMeasured 2026-09-25 on `origin/main` at `aa5483f2`:\n\n| PR | files | labels |\n|---|---|---|\n| #2072 SPEC-068 | sidecar **+** `specs/.../requirements.md` | `ai-review:pass`, `docs-lane`, **`awaiting-approval`** |\n| #2083 SPEC-011 | sidecar only | `ai-review:pass`, `docs-lane` |\n| #2084 SPEC-013 | sidecar onl",
+        "score": 5.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[LOW] PR #70 open 7 days unreviewed; 7 Dependabot PRs (#71–#77) open — merge-or-close decisions needed before freeze",
+        "url": "https://github.com/wladimirkarpicki/ai-inventory-management/issues/83",
+        "source": "GitHub Issues",
+        "summary": "Found by the 2026-11-18 retro-freeze audit (card t_11fee169).\n\nOpen pull requests at freeze time (repo has 0 issues, so numbering continues from #78):\n\n**PR #70 — `feat/ai-refinement-parity`** — \"feat: share the LLM refinement window between forecast and recommendations\". Created 2026-11-10, 1 commit / 9 files, `mergeable=true`, `mergeable_state=blocked` (review required by branch protection: 1 approving review, strict checks). No requested reviewers, no reviews on record. CI conclusion `success",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "We need smart people who give a shit",
+        "url": "https://news.ycombinator.com/item?id=50561598",
+        "source": "Hacker News",
+        "summary": "It kinda makes sense from a cynical business point of view. A company increases its revenue by acquiring customers and&#x2F;or raising prices. It makes sense to spend resources on adding features (increasing the customer base and justifying price increases) instead of on fixing bugs&#x2F;issues because the existing customers are already willing to pay for the somewhat broken product. But absent other info I think it is pretty harsh to fire an employee for not viewing things in this way, it could",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "团队/企业",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
+        "url": "https://stackoverflow.com/questions/80009709/how-do-i-enforce-that-an-llm-only-cites-chunk-ids-from-the-retrieved-set-when-t",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm building a RAG app with LangChain. Retrieval returns a list of chunks, each with an ID such as doc_3. The model answers with citations like [doc_3], but sometimes it cites an ID that was never retrieved. I already check every cited ID against the retrieved list in code and reject unknown IDs. That catches invented IDs, but it does not catch a real ID attached to a claim the chunk does not support, and it fails when the model paraphrases instead of quoting.</p>\n<p>What is the robust way to",
+        "score": -5.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Upload file to SFTP using PowerShell",
+        "url": "https://stackoverflow.com/questions/38732025/upload-file-to-sftp-using-powershell",
+        "source": "Stack Overflow",
+        "summary": "<p>We were asked to set up an automated upload from one of our servers to an SFTP site. There will be a file that is exported from a database to a filer every Monday morning and they want the file to be uploaded to SFTP on Tuesday. The current authentication method we are using is username and password (I believe there was an option to have key file as well but username/password option was chosen).</p>\n\n<p>The way I am envisioning this is to have a script sitting on a server that will be trigger",
+        "score": 54.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[Security Solution] [Bug] No message shown to user why the 'Generate Button' is not available on Attack Discovery tab when privilege for AI is set to NONE",
+        "url": "https://github.com/elastic/kibana/issues/183123",
+        "source": "GitHub Issues",
+        "summary": "**Describe the bug:**\r\nNo message shown to user why the 'Generate Button' is not available on Attack Discovery tab when privilege for AI is set to NONE\r\n\r\n**Kibana/Elasticsearch Stack version**\r\n```\r\nVERSION: 8.14.0\r\nBUILD: 73836\r\nCOMMIT: 23ed1207772b3ae958cb05bc4cdbe39b83507707\r\n```\r\n\r\n**Pre conditions**\r\n- Kibana 8.14.0 BC4 should exist\r\n- Custom role should be created with AIset to NONE\r\n- A custom user should be created and logged in using the above mentioned custom role\r\n\r\n**Steps to reprod",
+        "score": 7.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
+        "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
+        "source": "Stack Overflow",
+        "summary": "<p>I am trying to compute the diagonal of the Fisher information matrix. I found this code that appears to do just that, but there are some issues with the code. First consider the code in its original form:</p>\n<pre><code>    estimated_fisher = {}\n\n    for n, p in model.named_parameters():\n        estimated_fisher[n] = torch.zeros_like(p)\n    model.eval()\n    for i, (input, target) in enumerate(dl, 0):\n        model.zero_grad()\n        output = model(input.to(device))\n        label = target.to(",
+        "score": 6.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[Feature / Optimization] Route _maybe_summarize to Reasoning/Classifier tier & optional id_slot pinning to preserve local KV-cache",
+        "url": "https://github.com/sam3gp8/jarvis-aio/issues/575",
+        "source": "GitHub Issues",
+        "summary": "### What would you like JARVIS to do?\n\n\nHi! First of all, thank you for #561 (v9.146.0) and #564 (v9.147.0) — moving the dynamic context to the tail of the request already works great for intra-turn tool-call follow-ups (~70–150 ms prompt eval).\nWhile profiling llama.cpp (llama-server) slot logs across multi-turn voice sessions, I analyzed why the ~14k static system prompt KV-cache still gets invalidated between separate voice turns on local backends, and tested a small local workaround that dro",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Can anybody suggest another method to split a large Excel file into multiple files in any tool other than VBA?",
+        "url": "https://stackoverflow.com/questions/80004398/can-anybody-suggest-another-method-to-split-a-large-excel-file-into-multiple-fil",
+        "source": "Stack Overflow",
+        "summary": "<p>I need to split a large Excel file into multiple small files based on the first five digits of the values in a column.</p>\n<p>For example, I have values 1396A0001A,1396A0002A to split based on the first five digits, 1396A, into a separate sheet.</p>\n<p>I have VBA code to do this, but it is taking too much time - 3 hours to split the entire file of 15000 records in a file. Can you suggest any other method to split the file?</p>\n<pre><code>Sub SplitSheetIntoMultipleWorkbooksBasedOnColumn()\n    ",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Darwin case runner: refuse non-finite recorded durations in is_ms",
+        "url": "https://github.com/GridCastIO/quicquic-go/issues/1581",
+        "source": "GitHub Issues",
+        "summary": "Part of #1484\n\n## What\n\nThe Darwin case runner's shared timing predicate `is_ms` in `interop/multipath/native_darwin.py` accepts positive infinity. Python's `json.loads` decodes `1e999` (and the literal `Infinity`) to `inf`. `is_ms` only checks `type(value) in (int, float) and value >= 0`, so a readback receipt with an infinite duration passes `check_record` and `validate_results`. NaN is already refused, because `nan >= 0` is false.\n\nThe same predicate validates every recorded duration in the `",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "guest: run agents in a wasm32-wasip2 component with host-provided LLM and MCP, plus an atomic-agent-runner component",
+        "url": "https://github.com/savvagent/atomic-agents-rs/issues/7",
+        "source": "GitHub Issues",
+        "summary": "## Problem\n\natomic-agents can't run inside a WebAssembly component today: it depends on tokio, reqwest (native-tls), rmcp and tiktoken, none of which build for `wasm32-wasip2`. Hosts that want to run agents in a sandbox, with the network and credentials kept outside it, need a build where the LLM client and MCP tools are provided by the host.\n\n## Approach\n\n- A `guest` feature that builds the core crate for `wasm32-wasip2` without tokio, reqwest, rmcp or tiktoken.\n- A WIT world with host imports ",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Why is searching by Class Chain in iOS faster than XPath?",
+        "url": "https://stackoverflow.com/questions/64886602/why-is-searching-by-class-chain-in-ios-faster-than-xpath",
+        "source": "Stack Overflow",
+        "summary": "<p>I am working on an Appium project to automate an app using Python in both iOS and Android. I usually stick with using XPath to search for elements but in iOS, there is a wonderful searching mechanism called <code>Class Chain</code>, which allows you to search by element's class, such as <code>XCUIElementTypeStaticText</code> for <code>XCUITest</code>.</p>\n<p>So I was comparing the performance of searching by XPath and Class Chain, to which I found out that Class Chain performance is much fast",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      }
+    ],
+    "category_counts": {
+      "价格与付费": 1,
+      "集成与兼容": 4,
+      "可靠性与质量": 3,
+      "其他": 4
+    },
+    "next_actions": [
+      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}
