@@ -1,0 +1,630 @@
+{
+  "generated_at": "2026-11-21 01:56 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI News",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI News",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI News",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI News",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI News",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI News",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI News",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI News",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI News",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "source": "OpenAI News",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 06:00:00 GMT"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI News",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI News",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 19:54:56 GMT"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 18:53:43 GMT"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 15:00:23 GMT"
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 16 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 13 Nov 2026 18:00:39 GMT"
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 13 Nov 2026 17:02:35 GMT"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 13 Nov 2026 14:05:22 GMT"
+    },
+    {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 12 Nov 2026 19:07:35 GMT"
+    },
+    {
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 12 Nov 2026 00:00:00 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 471218,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai",
+        "android"
+      ],
+      "published": "2026-11-20T17:56:07Z"
+    },
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 394910,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-11-20T17:53:45Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 322683,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-11-20T17:56:40Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 307699,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-11-20T17:56:47Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 264938,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-11-20T17:51:19Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 264938,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-11-20T17:51:19Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 211530,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-11-20T17:46:57Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "score": 205019,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-11-20T17:56:19Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "score": 205019,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-11-20T17:56:19Z"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "score": 195441,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai-agents",
+        "claude"
+      ],
+      "published": "2026-11-20T17:54:53Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 188116,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-20T15:53:43Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 188116,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-20T15:53:43Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 135.54,
+      "change_percent": -7.15,
+      "signal": "谨慎",
+      "rationale": "近一交易日涨跌 -7.15%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1460.21,
+      "change_percent": 1.22,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +1.22%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "feat(guard): evaluate exact-literal windows.<w>.channels grants for webview principals in dispatch_privileged (KEL-102 task unit)",
+        "url": "https://github.com/gyldlab/keld/issues/552",
+        "source": "GitHub Issues",
+        "summary": "> Generated by an AI agent (Claude Code) on behalf of @0monish during Wayfinder charting of the Electron compatibility program; rewritten 2026-10-07 by the doctrine-audit repair pass (change log at the end). Planning only — no implementation is authorized by this issue.\n\n## Parent\n\nEpic #463 · Map #391 · Unit F04 · Kind: `feature` · Tier: Tier 1 · Maturity target: **L1** · Size: M · Milestone: `first-proof`\n\n## What to build\n\nImplement the F04-T7 amendment in keld-guard and keld-ipc guard dispat",
+        "score": 26.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "spec(guard): KEL-102 amendment — exact-literal windows.<w>.channels grants for webview principals and the single navigation-generation contract; revise the arch 03 el:* example",
+        "url": "https://github.com/gyldlab/keld/issues/541",
+        "source": "GitHub Issues",
+        "summary": "> Generated by an AI agent (Claude Code) on behalf of @0monish during Wayfinder charting of the Electron compatibility program; rewritten 2026-10-07 by the doctrine-audit repair pass (change log at the end). Planning only — no implementation is authorized by this issue.\n\n## Parent\n\nEpic #463 · Map #391 · Unit F04 · Kind: `spec` · Tier: Tier 1 · Maturity target: **L1** · Size: S · Milestone: `first-proof`\n\n## What to build\n\nDraft the KEL-102 amendment decided by F04-A1 and F04-A4: one new KEL-102",
+        "score": 12.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "A per-user self-update leaves the daemon down until the next logon: RegisterAutostart cannot replace a task registered elevated",
+        "url": "https://github.com/gjovanov/roomler-ai/issues/3507",
+        "source": "GitHub Issues",
+        "summary": "**Found while reading #3302 on agent 0.4.200.** No fix is proposed or in progress here.\n\n## What I saw\n\nThe rig was a throwaway Windows 11 lab guest. Per-user 0.4.199 was installed there with `msiexec /i … /qn` from an elevated session, enrolled, and started through its Scheduled Task (`schtasks /Run /TN Roomler`), so the launcher and the daemon ran in the console session. At 12:34:09Z on 2026-11-05, three seconds after that start, the updater found 0.4.200, spawned the per-user MSI and exited. ",
+        "score": 3.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "DownloadCache: a 31-bit hash in cache names lets a colliding URL overwrite another's cached file",
+        "url": "https://github.com/Sanne/incus-spawn/issues/2418",
+        "source": "GitHub Issues",
+        "summary": "discovered-in #2416\n\n## Problem\n\n`DownloadCache.cacheFilename` names a cached file by `String.hashCode` of the URL (31 bits) plus its basename.\nColliding URLs are easy to craft: the hash is linear, so `.../Aa/asset` and `.../BB/asset` share a name, and so do `https://evil.example/p/acgysyfc/latest` and `https://downloads.claude.ai/claude-code-releases/latest` (both `66129e10-latest`).\nTwo downloads of colliding URLs share the cached path, so one can overwrite the file the other has just returned",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+        "url": "https://news.ycombinator.com/item?id=50578881",
+        "source": "Hacker News",
+        "summary": "&gt; I wonder if the money open ai and anthropic have spent just on solving these problems was spent on human mathematicians and resources would we have gotten these solved? Sooner? Would the problems have been solved? Yes Sooner? Probably not. No government or private sector entity would have one-shotted the financing since it would have been part of their &#x27;fundamental research&#x27; budget. Basic research is risky, is not guaranteed to provide any useful results and as a result tends to b",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
+        "url": "https://stackoverflow.com/questions/80009709/how-do-i-enforce-that-an-llm-only-cites-chunk-ids-from-the-retrieved-set-when-t",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm building a RAG app with LangChain. Retrieval returns a list of chunks, each with an ID such as doc_3. The model answers with citations like [doc_3], but sometimes it cites an ID that was never retrieved. I already check every cited ID against the retrieved list in code and reject unknown IDs. That catches invented IDs, but it does not catch a real ID attached to a claim the chunk does not support, and it fails when the model paraphrases instead of quoting.</p>\n<p>What is the robust way to",
+        "score": -5.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Upload file to SFTP using PowerShell",
+        "url": "https://stackoverflow.com/questions/38732025/upload-file-to-sftp-using-powershell",
+        "source": "Stack Overflow",
+        "summary": "<p>We were asked to set up an automated upload from one of our servers to an SFTP site. There will be a file that is exported from a database to a filer every Monday morning and they want the file to be uploaded to SFTP on Tuesday. The current authentication method we are using is username and password (I believe there was an option to have key file as well but username/password option was chosen).</p>\n\n<p>The way I am envisioning this is to have a script sitting on a server that will be trigger",
+        "score": 54.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
+        "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
+        "source": "Stack Overflow",
+        "summary": "<p>I am trying to compute the diagonal of the Fisher information matrix. I found this code that appears to do just that, but there are some issues with the code. First consider the code in its original form:</p>\n<pre><code>    estimated_fisher = {}\n\n    for n, p in model.named_parameters():\n        estimated_fisher[n] = torch.zeros_like(p)\n    model.eval()\n    for i, (input, target) in enumerate(dl, 0):\n        model.zero_grad()\n        output = model(input.to(device))\n        label = target.to(",
+        "score": 6.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[BUG] v2.1.295 Apple could not verify “claude” is free of malware that may harm your Mac or compromise your privacy.",
+        "url": "https://github.com/anthropics/claude-code/issues/100735",
+        "source": "GitHub Issues",
+        "summary": "### Preflight Checklist\n\n- [x] I have searched [existing issues](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug) and this hasn't been reported yet\n- [x] This is a single bug report (please file separate reports for different bugs)\n- [x] I am using the latest version of Claude Code\n\n### What's Wrong?\n\nTrying to open claude using 'claude' in the terminal presents with 'claude' Not Opened block prompt, with the description \"Apple could not verify “claude”",
+        "score": 5.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Evaluate unexplored Arrow scheduling mechanisms under shifting demand",
+        "url": "https://github.com/athrael-soju/Narwhal/issues/315",
+        "source": "GitHub Issues",
+        "summary": "## Outcome\n\nNarwhal evaluates the Arrow mechanisms it does not implement yet against workloads whose prefill and decode demand shift over time. Each mechanism either ships behind a setting with fleet evidence that it raises the request rate served within SLO, or this issue records why it was dropped.\n\n## Scope\n\n- Shifting-demand evaluation: public timestamped traces replayed at scaled rates, scored by the highest rate that meets a target SLO attainment.\n- Decode-role engines taking prefill legs ",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Can anybody suggest another method to split a large Excel file into multiple files in any tool other than VBA?",
+        "url": "https://stackoverflow.com/questions/80004398/can-anybody-suggest-another-method-to-split-a-large-excel-file-into-multiple-fil",
+        "source": "Stack Overflow",
+        "summary": "<p>I need to split a large Excel file into multiple small files based on the first five digits of the values in a column.</p>\n<p>For example, I have values 1396A0001A,1396A0002A to split based on the first five digits, 1396A, into a separate sheet.</p>\n<p>I have VBA code to do this, but it is taking too much time - 3 hours to split the entire file of 15000 records in a file. Can you suggest any other method to split the file?</p>\n<pre><code>Sub SplitSheetIntoMultipleWorkbooksBasedOnColumn()\n    ",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Why is searching by Class Chain in iOS faster than XPath?",
+        "url": "https://stackoverflow.com/questions/64886602/why-is-searching-by-class-chain-in-ios-faster-than-xpath",
+        "source": "Stack Overflow",
+        "summary": "<p>I am working on an Appium project to automate an app using Python in both iOS and Android. I usually stick with using XPath to search for elements but in iOS, there is a wonderful searching mechanism called <code>Class Chain</code>, which allows you to search by element's class, such as <code>XCUIElementTypeStaticText</code> for <code>XCUITest</code>.</p>\n<p>So I was comparing the performance of searching by XPath and Class Chain, to which I found out that Class Chain performance is much fast",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      }
+    ],
+    "category_counts": {
+      "集成与兼容": 3,
+      "可靠性与质量": 3,
+      "其他": 5,
+      "价格与付费": 1
+    },
+    "next_actions": [
+      "优先验证「其他」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}
