@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-21 01:56 CST",
+  "generated_at": "2026-11-22 00:54 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI News",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 20 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI News",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI News",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT"
+    },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
@@ -14,10 +47,10 @@
       "published": "Thu, 19 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "source": "OpenAI News",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -36,10 +69,10 @@
       "published": "Thu, 19 Nov 2026 00:00:00 GMT"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "source": "OpenAI News",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -47,10 +80,10 @@
       "published": "Thu, 19 Nov 2026 00:00:00 GMT"
     },
     {
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -69,10 +102,10 @@
       "published": "Wed, 18 Nov 2026 10:00:00 GMT"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI News",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -80,10 +113,10 @@
       "published": "Wed, 18 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "source": "OpenAI News",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -102,37 +135,15 @@
       "published": "Wed, 18 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "Managing frontier AI risk: From training to deployment",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "source": "OpenAI News",
-      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Wed, 18 Nov 2026 06:00:00 GMT"
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "source": "OpenAI News",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "source": "OpenAI News",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT"
     },
     {
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
@@ -254,17 +265,6 @@
         "AI/科技"
       ],
       "published": "Thu, 12 Nov 2026 19:07:35 GMT"
-    },
-    {
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 12 Nov 2026 00:00:00 GMT"
     }
   ],
   "github_trending": [
@@ -273,222 +273,196 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 471218,
+      "score": 472462,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-20T17:56:07Z"
+      "published": "2026-11-21T16:54:06Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 394910,
+      "score": 394969,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-20T17:53:45Z"
+      "published": "2026-11-21T16:52:16Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 322683,
+      "score": 323494,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-20T17:56:40Z"
+      "published": "2026-11-21T16:53:38Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 307699,
+      "score": 308205,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-20T17:56:47Z"
+      "published": "2026-11-21T16:53:14Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 264938,
+      "score": 265145,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-20T17:51:19Z"
+      "published": "2026-11-21T16:52:34Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 264938,
+      "score": 265145,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-20T17:51:19Z"
+      "published": "2026-11-21T16:52:34Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 211530,
+      "score": 211609,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-20T17:46:57Z"
+      "published": "2026-11-21T16:44:43Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
-      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
-      "score": 205019,
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "score": 205905,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-20T17:56:19Z"
+      "published": "2026-11-21T16:52:43Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
-      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
-      "score": 205019,
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "score": 205905,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-20T17:56:19Z"
+      "published": "2026-11-21T16:52:43Z"
     },
     {
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "score": 195441,
+      "score": 196155,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "claude"
       ],
-      "published": "2026-11-20T17:54:53Z"
+      "published": "2026-11-21T16:52:26Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188116,
+      "score": 188125,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-20T15:53:43Z"
+      "published": "2026-11-21T16:06:09Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188116,
+      "score": 188125,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-20T15:53:43Z"
+      "published": "2026-11-21T16:06:09Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 135.54,
-      "change_percent": -7.15,
+      "price": 125.53,
+      "change_percent": -14.01,
       "signal": "谨慎",
-      "rationale": "近一交易日涨跌 -7.15%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 -14.01%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1460.21,
-      "change_percent": 1.22,
+      "price": 1485.75,
+      "change_percent": 1.75,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +1.22%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +1.75%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "feat(guard): evaluate exact-literal windows.<w>.channels grants for webview principals in dispatch_privileged (KEL-102 task unit)",
-        "url": "https://github.com/gyldlab/keld/issues/552",
+        "title": "Needs owner decision: self-update exits successfully when the configured npm registry refuses the connection",
+        "url": "https://github.com/Cotal-AI/Cotal/issues/8745",
         "source": "GitHub Issues",
-        "summary": "> Generated by an AI agent (Claude Code) on behalf of @0monish during Wayfinder charting of the Electron compatibility program; rewritten 2026-10-07 by the doctrine-audit repair pass (change log at the end). Planning only — no implementation is authorized by this issue.\n\n## Parent\n\nEpic #463 · Map #391 · Unit F04 · Kind: `feature` · Tier: Tier 1 · Maturity target: **L1** · Size: M · Milestone: `first-proof`\n\n## What to build\n\nImplement the F04-T7 amendment in keld-guard and keld-ipc guard dispat",
-        "score": 26.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "spec(guard): KEL-102 amendment — exact-literal windows.<w>.channels grants for webview principals and the single navigation-generation contract; revise the arch 03 el:* example",
-        "url": "https://github.com/gyldlab/keld/issues/541",
-        "source": "GitHub Issues",
-        "summary": "> Generated by an AI agent (Claude Code) on behalf of @0monish during Wayfinder charting of the Electron compatibility program; rewritten 2026-10-07 by the doctrine-audit repair pass (change log at the end). Planning only — no implementation is authorized by this issue.\n\n## Parent\n\nEpic #463 · Map #391 · Unit F04 · Kind: `spec` · Tier: Tier 1 · Maturity target: **L1** · Size: S · Milestone: `first-proof`\n\n## What to build\n\nDraft the KEL-102 amendment decided by F04-A1 and F04-A4: one new KEL-102",
-        "score": 12.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "A per-user self-update leaves the daemon down until the next logon: RegisterAutostart cannot replace a task registered elevated",
-        "url": "https://github.com/gjovanov/roomler-ai/issues/3507",
-        "source": "GitHub Issues",
-        "summary": "**Found while reading #3302 on agent 0.4.200.** No fix is proposed or in progress here.\n\n## What I saw\n\nThe rig was a throwaway Windows 11 lab guest. Per-user 0.4.199 was installed there with `msiexec /i … /qn` from an elevated session, enrolled, and started through its Scheduled Task (`schtasks /Run /TN Roomler`), so the launcher and the daemon ran in the console session. At 12:34:09Z on 2026-11-05, three seconds after that start, the updater found 0.4.200, spawned the per-user MSI and exited. ",
-        "score": 3.0,
+        "summary": "## What a user does\n\nInstall Cotal into a user-owned npm prefix and use a local space. Then point npm's default registry at a local mirror that is not listening. This also covers the case where a developer shuts down the mirror but leaves its registry line in `.npmrc`.\n\n```sh\nnpm install -g --prefix <home>/npm-prefix cotal-ai@0.173.0\nexport PATH=\"<home>/npm-prefix/bin:$PATH\"\nmkdir -m 700 <project>\ncd <project>\ncotal up --foreground --open --no-manager --server nats://127.0.0.1:36101\n```\n\nIn a se",
+        "score": 1.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
@@ -497,30 +471,43 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "DownloadCache: a 31-bit hash in cache names lets a colliding URL overwrite another's cached file",
-        "url": "https://github.com/Sanne/incus-spawn/issues/2418",
-        "source": "GitHub Issues",
-        "summary": "discovered-in #2416\n\n## Problem\n\n`DownloadCache.cacheFilename` names a cached file by `String.hashCode` of the URL (31 bits) plus its basename.\nColliding URLs are easy to craft: the hash is linear, so `.../Aa/asset` and `.../BB/asset` share a name, and so do `https://evil.example/p/acgysyfc/latest` and `https://downloads.claude.ai/claude-code-releases/latest` (both `66129e10-latest`).\nTwo downloads of colliding URLs share the cached path, so one can overwrite the file the other has just returned",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-        "url": "https://news.ycombinator.com/item?id=50578881",
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "url": "https://news.ycombinator.com/item?id=50579371",
         "source": "Hacker News",
-        "summary": "&gt; I wonder if the money open ai and anthropic have spent just on solving these problems was spent on human mathematicians and resources would we have gotten these solved? Sooner? Would the problems have been solved? Yes Sooner? Probably not. No government or private sector entity would have one-shotted the financing since it would have been part of their &#x27;fundamental research&#x27; budget. Basic research is risky, is not guaranteed to provide any useful results and as a result tends to b",
+        "summary": " <pre><code>  &gt; same as interaction nets, no?\n</code></pre>\nExactly my point. But well researched and has compilers from high level languages (Id and some others). <pre><code>  &gt; except they are strongly confluent and have incremental sharing\n</code></pre>\nData flow is an inverted representation of data demand (lazy evaluation, which is strongly confluent) [1] and I do not see why it cannot (be constrained to) have strong confluence. [1] <a href=\"https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;",
         "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "其他",
+        "category": "易用性与流程",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "I'll never buy Framework hardware again",
+        "url": "https://news.ycombinator.com/item?id=50587851",
+        "source": "Hacker News",
+        "summary": "With this kind of customer base, you should have kick-ass customer support. Just for comparison: A few years ago, I had trouble with my Dell XPS. They sent a technician who fixed it in my kitchen (screen replacement). While I cannot recommend that particular XPS, the customer service is a benchmark for me. Having good customer support might be expensive, but what do you think how much this story cost you? (in terms of lost revenue and brand perception)",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "价格与付费",
         "urgency": "高",
         "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Access the AI audit trail: detected intent + prompting messages per AI reply",
+        "url": "https://github.com/RieCo432/becycle-mx/issues/510",
+        "source": "GitHub Issues",
+        "summary": "> **Part of the LLM Agent plan** — sibling issues: #482 · #500 · #501 · #503\n\n## Purpose\n\n#500/#501 store an audit trail on the assistant's replies (the detected intent, and a trace of the burst it answered), but there is no way for staff or admins to actually look at it. This ticket adds two complementary access points:\n\n1. **Staff, per reply** — in a client conversation, clicking an AI answer reveals the detected intent.\n2. **Admin, aggregated** — an admin view listing all client‑route AI repl",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
@@ -536,17 +523,30 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "Upload file to SFTP using PowerShell",
-        "url": "https://stackoverflow.com/questions/38732025/upload-file-to-sftp-using-powershell",
-        "source": "Stack Overflow",
-        "summary": "<p>We were asked to set up an automated upload from one of our servers to an SFTP site. There will be a file that is exported from a database to a filer every Monday morning and they want the file to be uploaded to SFTP on Tuesday. The current authentication method we are using is username and password (I believe there was an option to have key file as well but username/password option was chosen).</p>\n\n<p>The way I am envisioning this is to have a script sitting on a server that will be trigger",
-        "score": 54.0,
+        "title": "factory: support excluding a GPU from the pool; exclude pro5000",
+        "url": "https://github.com/clearmeasure-aisf-sample-apps/cmdemo1-system/issues/816",
+        "source": "GitHub Issues",
+        "summary": "Jeffrey (Nov 20, 10:13 PM CT): \"Remove pro5000 from gpu pool.\" Today the only way to keep the factory off a GPU is to unset its secrets. The factory should support excluding a GPU from the pool without touching its secrets or its model server.\n\n## Acceptance criteria\n- `factory/pi/gpu.py` has `excluded(env=None)`: the union of `FACTORY_GPU_EXCLUDE` (comma/space separated) and the file `~/.config/factory/gpu-exclude` (path override `FACTORY_GPU_EXCLUDE_FILE`; one GPU per line or comma separated; ",
+        "score": 10.0,
         "tags": [],
         "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
+        "category": "其他",
+        "urgency": "低",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "feat(lean): bind lanes to the issue's outcome, not to the fix the issue proposes",
+        "url": "https://github.com/RapierCraftStudios/ForgeDock/issues/5750",
+        "source": "GitHub Issues",
+        "summary": "## Problem\nAn issue often contains two different things: what's wrong, or what's wanted (the outcome), and how the author thinks it should be fixed (a proposed change). The contract treats every sentence as a binding requirement, and narrowing a requirement fails conformance. A proposed fix therefore becomes mandatory. A lane must build the author's guess even when its own investigation finds a better fix, and it is blocked if it deviates.\n\nThis bites hardest when issues are filed automatically ",
+        "score": 6.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
@@ -562,27 +562,14 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[BUG] v2.1.295 Apple could not verify “claude” is free of malware that may harm your Mac or compromise your privacy.",
-        "url": "https://github.com/anthropics/claude-code/issues/100735",
+        "title": "agent: optional web_search tool on a separate Google/Anthropic search model (native search only)",
+        "url": "https://github.com/mdfranz/partex/issues/111",
         "source": "GitHub Issues",
-        "summary": "### Preflight Checklist\n\n- [x] I have searched [existing issues](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug) and this hasn't been reported yet\n- [x] This is a single bug report (please file separate reports for different bugs)\n- [x] I am using the latest version of Claude Code\n\n### What's Wrong?\n\nTrying to open claude using 'claude' in the terminal presents with 'claude' Not Opened block prompt, with the description \"Apple could not verify “claude”",
-        "score": 5.0,
+        "summary": "Agent hostname: acer-cr516g\nAgent Name: Claude\n\nRelated: #83 (Monty Code Mode, merged), #100 (telemetry/credential precedence), #65 (approvals), PLAN §9 (role-based model routing, not yet implemented).\n\n## Problem\n\nThe tester has no way to look anything up outside the target: CVEs for a disclosed version (`version-disclosure` findings), a framework's default routes/headers, what a response header means. The operator also wants search to run on **a specific provider (Google or Anthropic) that is ",
+        "score": 3.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Evaluate unexplored Arrow scheduling mechanisms under shifting demand",
-        "url": "https://github.com/athrael-soju/Narwhal/issues/315",
-        "source": "GitHub Issues",
-        "summary": "## Outcome\n\nNarwhal evaluates the Arrow mechanisms it does not implement yet against workloads whose prefill and decode demand shift over time. Each mechanism either ships behind a setting with fleet evidence that it raises the request rate served within SLO, or this issue records why it was dropped.\n\n## Scope\n\n- Shifting-demand evaluation: public timestamped traces replayed at scaled rates, scored by the highest rate that meets a target SLO attainment.\n- Decode-role engines taking prefill legs ",
-        "score": 4.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
+        "category": "集成与兼容",
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 2 项"
@@ -601,6 +588,19 @@
         "evidence": "关键词命中 0 项"
       },
       {
+        "title": "GenerateWithTools drops tool_use input: ToolUse.Input is always nil",
+        "url": "https://github.com/philipsahli/innominatus-ai-sdk/issues/39",
+        "source": "GitHub Issues",
+        "summary": "> *This was generated by AI during triage.*\n\nFound while implementing #4 (PR #33).\n\n`anthropicContentBlock.Input` is tagged `json:\"-\"` so that `MarshalJSON` can always send `input` on outgoing `tool_use` blocks. The type has no `UnmarshalJSON`, so when an API response is decoded the `input` object of each `tool_use` block is dropped. `GenerateResponse.ToolUses[i].Input` is therefore always nil, for both `Generate` and `GenerateWithTools`.\n\n**Impact:** any caller that executes the tool the model ",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
         "title": "Why is searching by Class Chain in iOS faster than XPath?",
         "url": "https://stackoverflow.com/questions/64886602/why-is-searching-by-class-chain-in-ios-faster-than-xpath",
         "source": "Stack Overflow",
@@ -615,15 +615,17 @@
       }
     ],
     "category_counts": {
-      "集成与兼容": 3,
-      "可靠性与质量": 3,
+      "可靠性与质量": 2,
+      "易用性与流程": 1,
+      "价格与付费": 1,
+      "隐私与合规": 1,
       "其他": 5,
-      "价格与付费": 1
+      "集成与兼容": 2
     },
     "next_actions": [
       "优先验证「其他」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
