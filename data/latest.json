@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22 00:54 CST",
+  "generated_at": "2026-11-23 01:18 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -273,168 +273,168 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 472462,
+      "score": 473773,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-21T16:54:06Z"
+      "published": "2026-11-22T17:16:35Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 394969,
+      "score": 395043,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-21T16:52:16Z"
+      "published": "2026-11-22T17:17:50Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 323494,
+      "score": 323981,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-21T16:53:38Z"
+      "published": "2026-11-22T17:11:43Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 308205,
+      "score": 308799,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-21T16:53:14Z"
+      "published": "2026-11-22T17:18:35Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 265145,
+      "score": 265354,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-21T16:52:34Z"
+      "published": "2026-11-22T17:15:07Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 265145,
+      "score": 265354,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-21T16:52:34Z"
+      "published": "2026-11-22T17:15:07Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 211609,
+      "score": 211795,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-21T16:44:43Z"
+      "published": "2026-11-22T17:07:50Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "score": 205905,
+      "score": 206773,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-21T16:52:43Z"
+      "published": "2026-11-22T17:17:00Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "score": 205905,
+      "score": 206773,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-21T16:52:43Z"
+      "published": "2026-11-22T17:17:00Z"
     },
     {
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "score": 196155,
+      "score": 196763,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "claude"
       ],
-      "published": "2026-11-21T16:52:26Z"
+      "published": "2026-11-22T17:18:29Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188125,
+      "score": 188137,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-21T16:06:09Z"
+      "published": "2026-11-22T17:03:42Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188125,
+      "score": 188137,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-21T16:06:09Z"
+      "published": "2026-11-22T17:03:42Z"
     }
   ],
   "stocks": [
@@ -458,17 +458,30 @@
   "information_gap": {
     "items": [
       {
-        "title": "Needs owner decision: self-update exits successfully when the configured npm registry refuses the connection",
-        "url": "https://github.com/Cotal-AI/Cotal/issues/8745",
+        "title": "prework-discovery-helper: warn when --files is not a comma-separated list (empty output reads as no collisions)",
+        "url": "https://github.com/marcusquinn/aidevops/issues/39880",
         "source": "GitHub Issues",
-        "summary": "## What a user does\n\nInstall Cotal into a user-owned npm prefix and use a local space. Then point npm's default registry at a local mirror that is not listening. This also covers the case where a developer shuts down the mirror but leaves its registry line in `.npmrc`.\n\n```sh\nnpm install -g --prefix <home>/npm-prefix cotal-ai@0.173.0\nexport PATH=\"<home>/npm-prefix/bin:$PATH\"\nmkdir -m 700 <project>\ncd <project>\ncotal up --foreground --open --no-manager --server nats://127.0.0.1:36101\n```\n\nIn a se",
+        "summary": "## What\n\n`prework-discovery-helper.sh --files` must not print an empty \"Recent commits on target files\" section when its value was mis-formatted. Warn on stderr for any `--files` entry that cannot be a path (it contains whitespace) or matches no file known to git, and keep the exit code and stdout contract unchanged.\n\n## Why\n\nThe helper splits `--files` only on commas (`.agents/scripts/prework-discovery-helper.sh:129`). A space-separated list, the natural way to write several paths, becomes one ",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Stop the idle-release loop and surface queued messages stuck as uncertain",
+        "url": "https://github.com/terran-labs/vorteo/issues/568",
+        "source": "GitHub Issues",
+        "summary": "(AI Generated)\n\nFiled by the Foreman with the owner's approval (Nov 22) while Triage is out on a usage limit. Follow-up to #558; cause found in https://github.com/terran-labs/vorteo/issues/558#issuecomment-7077336716. Related: #550.\n\n**Problem.** While a session host upgrade is pending, the daemon releases idle hosted sessions every 60 s, and released threads are resumed within a second, so the host never empties. Cause: two agents each hold a queued message stuck as `uncertain` since the Nov 14",
         "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "其他",
         "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
       },
       {
         "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
@@ -481,32 +494,6 @@
         "category": "易用性与流程",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "I'll never buy Framework hardware again",
-        "url": "https://news.ycombinator.com/item?id=50587851",
-        "source": "Hacker News",
-        "summary": "With this kind of customer base, you should have kick-ass customer support. Just for comparison: A few years ago, I had trouble with my Dell XPS. They sent a technician who fixed it in my kitchen (screen replacement). While I cannot recommend that particular XPS, the customer service is a benchmark for me. Having good customer support might be expensive, but what do you think how much this story cost you? (in terms of lost revenue and brand perception)",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "价格与付费",
-        "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 2 项"
-      },
-      {
-        "title": "Access the AI audit trail: detected intent + prompting messages per AI reply",
-        "url": "https://github.com/RieCo432/becycle-mx/issues/510",
-        "source": "GitHub Issues",
-        "summary": "> **Part of the LLM Agent plan** — sibling issues: #482 · #500 · #501 · #503\n\n## Purpose\n\n#500/#501 store an audit trail on the assistant's replies (the detected intent, and a trace of the burst it answered), but there is no way for staff or admins to actually look at it. This ticket adds two complementary access points:\n\n1. **Staff, per reply** — in a client conversation, clicking an AI answer reveals the detected intent.\n2. **Admin, aggregated** — an admin view listing all client‑route AI repl",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "隐私与合规",
-        "urgency": "高",
-        "audience": "个人用户",
         "evidence": "关键词命中 1 项"
       },
       {
@@ -523,30 +510,43 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "factory: support excluding a GPU from the pool; exclude pro5000",
-        "url": "https://github.com/clearmeasure-aisf-sample-apps/cmdemo1-system/issues/816",
+        "title": "Canonical migration plan: restore interplanetary-fund2 main UX and replace Base44 dependencies",
+        "url": "https://github.com/interplanetarysister/InterplanetaryFund/issues/203",
         "source": "GitHub Issues",
-        "summary": "Jeffrey (Nov 20, 10:13 PM CT): \"Remove pro5000 from gpu pool.\" Today the only way to keep the factory off a GPU is to unset its secrets. The factory should support excluding a GPU from the pool without touching its secrets or its model server.\n\n## Acceptance criteria\n- `factory/pi/gpu.py` has `excluded(env=None)`: the union of `FACTORY_GPU_EXCLUDE` (comma/space separated) and the file `~/.config/factory/gpu-exclude` (path override `FACTORY_GPU_EXCLUDE_FILE`; one GPU per line or comma separated; ",
-        "score": 10.0,
+        "summary": "# Authoritative migration decision — 2026-11-03\n\n**New source of truth:** `interplanetarysister/interplanetary-fund2@main` is the canonical **frontend, interaction, asset, and functional reference** (original Base44-era APK experience). It is NOT the target production runtime. `interplanetarysister/InterplanetaryFund` remains the deployable migration repository, hosted on Cloudflare Pages/Workers with Supabase. Preserve all working migration code; no Convex or Vercel.\n\n## Implementation order\n1.",
+        "score": 2006.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
+        "category": "集成与兼容",
+        "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 0 项"
+        "evidence": "关键词命中 2 项"
       },
       {
-        "title": "feat(lean): bind lanes to the issue's outcome, not to the fix the issue proposes",
-        "url": "https://github.com/RapierCraftStudios/ForgeDock/issues/5750",
-        "source": "GitHub Issues",
-        "summary": "## Problem\nAn issue often contains two different things: what's wrong, or what's wanted (the outcome), and how the author thinks it should be fixed (a proposed change). The contract treats every sentence as a binding requirement, and narrowing a requirement fails conformance. A proposed fix therefore becomes mandatory. A lane must build the author's guess even when its own investigation finds a better fix, and it is blocked if it deviates.\n\nThis bites hardest when issues are filed automatically ",
-        "score": 6.0,
+        "title": "Upload file to SFTP using PowerShell",
+        "url": "https://stackoverflow.com/questions/38732025/upload-file-to-sftp-using-powershell",
+        "source": "Stack Overflow",
+        "summary": "<p>We were asked to set up an automated upload from one of our servers to an SFTP site. There will be a file that is exported from a database to a filer every Monday morning and they want the file to be uploaded to SFTP on Tuesday. The current authentication method we are using is username and password (I believe there was an option to have key file as well but username/password option was chosen).</p>\n\n<p>The way I am envisioning this is to have a script sitting on a server that will be trigger",
+        "score": 54.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[8.2] Replace TinyMCE 6.8.6 with TipTap/ProseMirror (spike #4717 follow-on)",
+        "url": "https://github.com/intersoftdatalabs-in/percussioncms/issues/5622",
+        "source": "GitHub Issues",
+        "summary": "## Parent\nSpike: #4717 (research complete — TipTap 2 / ProseMirror MIT recommended). Full report: `docs/ai-generated/issue-4717-tinymce-replacement-spike.md` (merged via #5620).\n\n## Type\n**Implementation epic** — phased vertical slices. Do **not** land as one mega-PR.\n\n## Problem\nPercussion CMS ships TinyMCE 6.8.6 (MIT, frozen — `tinymce.version` in root POM + `modules/perc-tinymce`). TinyMCE 7+ is GPL-2.0-or-later, incompatible with Apache-2.0 distribution. Staying on unmaintained 6.8.x accumul",
+        "score": 44.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
@@ -562,16 +562,29 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "agent: optional web_search tool on a separate Google/Anthropic search model (native search only)",
-        "url": "https://github.com/mdfranz/partex/issues/111",
+        "title": "Recover when an implementation worker finishes without its result block",
+        "url": "https://github.com/rochecompaan/patchmill/issues/407",
         "source": "GitHub Issues",
-        "summary": "Agent hostname: acer-cr516g\nAgent Name: Claude\n\nRelated: #83 (Monty Code Mode, merged), #100 (telemetry/credential precedence), #65 (approvals), PLAN §9 (role-based model routing, not yet implemented).\n\n## Problem\n\nThe tester has no way to look anything up outside the target: CVEs for a disclosed version (`version-disclosure` findings), a framework's default routes/headers, what a response header means. The operator also wants search to run on **a specific provider (Google or Anthropic) that is ",
-        "score": 3.0,
+        "summary": "## Problem\n\nAn implementation worker can finish its work and end its turn normally without writing the final fenced JSON result block. Patchmill then reads the phase as invalid. `parseJsonBlock` (`src/kernel/result.ts`) returns `no result`. The run stops as `needs-info` with a comment like:\n\n```\nno result Log: …/session-2.log\n\nExit code: 0\n```\n\nThe work is done: the branch is pushed and the PR is ready and closes the issue. But the issue moves to needs-info, the interactive run ends without the ",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "需求缺口",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "epic(v3): counter sales — bounded receipts, tenders and stored-value instruments with country readiness",
+        "url": "https://github.com/fdittgen-png/deskilo/issues/4180",
+        "source": "GitHub Issues",
+        "summary": "## Outcome and boundary\n\nAn authorized counter operator completes a sale, produces its supported fiscal/business document, records tender and corrections, and traces goods/service delivery without double money or stock effects. Reuse #4162/#4165 and goods #4170–#4173, plus studio #3633 products. A counter sale can have no login customer; any financial subject uses #4164's supported model. Invoice payment, stock movement and receipt are still separate facts.\n\nCountry-specific obligations are a ca",
+        "score": 2.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
         "urgency": "中",
-        "audience": "开发者",
+        "audience": "个人用户",
         "evidence": "关键词命中 2 项"
       },
       {
@@ -588,19 +601,6 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "GenerateWithTools drops tool_use input: ToolUse.Input is always nil",
-        "url": "https://github.com/philipsahli/innominatus-ai-sdk/issues/39",
-        "source": "GitHub Issues",
-        "summary": "> *This was generated by AI during triage.*\n\nFound while implementing #4 (PR #33).\n\n`anthropicContentBlock.Input` is tagged `json:\"-\"` so that `MarshalJSON` can always send `input` on outgoing `tool_use` blocks. The type has no `UnmarshalJSON`, so when an API response is decoded the `input` object of each `tool_use` block is dropped. `GenerateResponse.ToolUses[i].Input` is therefore always nil, for both `Generate` and `GenerateWithTools`.\n\n**Impact:** any caller that executes the tool the model ",
-        "score": 1.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
         "title": "Why is searching by Class Chain in iOS faster than XPath?",
         "url": "https://stackoverflow.com/questions/64886602/why-is-searching-by-class-chain-in-ios-faster-than-xpath",
         "source": "Stack Overflow",
@@ -615,17 +615,16 @@
       }
     ],
     "category_counts": {
-      "可靠性与质量": 2,
-      "易用性与流程": 1,
-      "价格与付费": 1,
-      "隐私与合规": 1,
       "其他": 5,
-      "集成与兼容": 2
+      "易用性与流程": 1,
+      "集成与兼容": 3,
+      "可靠性与质量": 2,
+      "需求缺口": 1
     },
     "next_actions": [
       "优先验证「其他」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
