@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-23 01:18 CST",
+  "generated_at": "2026-11-24 05:37 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
+    {
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "OpenAI News",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 23 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI News",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 23 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI News",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Sun, 22 Nov 2026 00:00:00 GMT"
+    },
     {
       "title": "Combatting adversarial distillation",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
@@ -47,32 +80,10 @@
       "published": "Thu, 19 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "source": "OpenAI News",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
-    },
-    {
       "title": "See PR scans in action",
       "url": "https://openai.com/business/learn/pr-scans-demo",
       "source": "OpenAI News",
       "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "source": "OpenAI News",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "score": 0.0,
       "tags": [
         "AI/科技"
@@ -91,6 +102,28 @@
       "published": "Thu, 19 Nov 2026 00:00:00 GMT"
     },
     {
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI News",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI News",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
       "title": "The Silent Consensus",
       "url": "https://openai.com/index/the-silent-consensus",
       "source": "OpenAI News",
@@ -102,37 +135,26 @@
       "published": "Wed, 18 Nov 2026 10:00:00 GMT"
     },
     {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "source": "OpenAI News",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+      "published": "Mon, 23 Nov 2026 17:20:37 GMT"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI News",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face Blog",
+      "summary": "",
       "score": 0.0,
       "tags": [
         "AI/科技"
       ],
-      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Inside the Codex sandbox",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "source": "OpenAI News",
-      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+      "published": "Mon, 23 Nov 2026 00:00:00 GMT"
     },
     {
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
@@ -234,17 +256,6 @@
       "published": "Fri, 13 Nov 2026 18:00:39 GMT"
     },
     {
-      "title": "XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Fri, 13 Nov 2026 17:02:35 GMT"
-    },
-    {
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
       "source": "Hugging Face Blog",
@@ -254,17 +265,6 @@
         "AI/科技"
       ],
       "published": "Fri, 13 Nov 2026 14:05:22 GMT"
-    },
-    {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Thu, 12 Nov 2026 19:07:35 GMT"
     }
   ],
   "github_trending": [
@@ -273,178 +273,178 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 473773,
+      "score": 475465,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-22T17:16:35Z"
+      "published": "2026-11-23T21:37:09Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 395043,
+      "score": 395112,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-22T17:17:50Z"
+      "published": "2026-11-23T21:33:39Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 323981,
+      "score": 324967,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-22T17:11:43Z"
+      "published": "2026-11-23T21:37:24Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 308799,
+      "score": 309518,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-22T17:18:35Z"
+      "published": "2026-11-23T21:36:00Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 265354,
+      "score": 265646,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-22T17:15:07Z"
+      "published": "2026-11-23T21:37:07Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 265354,
+      "score": 265646,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-22T17:15:07Z"
+      "published": "2026-11-23T21:37:07Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 211795,
+      "score": 211822,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-22T17:07:50Z"
+      "published": "2026-11-23T21:34:21Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "score": 206773,
+      "score": 207805,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-22T17:17:00Z"
+      "published": "2026-11-23T21:37:11Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "score": 206773,
+      "score": 207805,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-22T17:17:00Z"
+      "published": "2026-11-23T21:37:11Z"
     },
     {
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "score": 196763,
+      "score": 197462,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "claude"
       ],
-      "published": "2026-11-22T17:18:29Z"
+      "published": "2026-11-23T21:37:02Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188137,
+      "score": 188155,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-22T17:03:42Z"
+      "published": "2026-11-23T19:17:12Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188137,
+      "score": 188155,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-22T17:03:42Z"
+      "published": "2026-11-23T19:17:12Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 125.53,
-      "change_percent": -14.01,
-      "signal": "谨慎",
-      "rationale": "近一交易日涨跌 -14.01%；只作信息展示，不构成投资建议。"
+      "price": 165.05,
+      "change_percent": 31.48,
+      "signal": "关注",
+      "rationale": "近一交易日涨跌 +31.48%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
@@ -458,30 +458,17 @@
   "information_gap": {
     "items": [
       {
-        "title": "prework-discovery-helper: warn when --files is not a comma-separated list (empty output reads as no collisions)",
-        "url": "https://github.com/marcusquinn/aidevops/issues/39880",
+        "title": "[BUG] claude --teleport <id> fails with \"Couldn't load the history of cloud session\" for 31 of 150 sessions; 20 of them loaded three days earlier",
+        "url": "https://github.com/anthropics/claude-code/issues/111387",
         "source": "GitHub Issues",
-        "summary": "## What\n\n`prework-discovery-helper.sh --files` must not print an empty \"Recent commits on target files\" section when its value was mis-formatted. Warn on stderr for any `--files` entry that cannot be a path (it contains whitespace) or matches no file known to git, and keep the exit code and stdout contract unchanged.\n\n## Why\n\nThe helper splits `--files` only on commas (`.agents/scripts/prework-discovery-helper.sh:129`). A space-separated list, the natural way to write several paths, becomes one ",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "高",
-        "audience": "开发者",
-        "evidence": "关键词命中 0 项"
-      },
-      {
-        "title": "Stop the idle-release loop and surface queued messages stuck as uncertain",
-        "url": "https://github.com/terran-labs/vorteo/issues/568",
-        "source": "GitHub Issues",
-        "summary": "(AI Generated)\n\nFiled by the Foreman with the owner's approval (Nov 22) while Triage is out on a usage limit. Follow-up to #558; cause found in https://github.com/terran-labs/vorteo/issues/558#issuecomment-7077336716. Related: #550.\n\n**Problem.** While a session host upgrade is pending, the daemon releases idle hosted sessions every 60 s, and released threads are resumed within a second, so the host never empties. Cause: two agents each hold a queued message stuck as `uncertain` since the Nov 14",
+        "summary": "### Preflight Checklist\n\n- [x] I have searched [existing issues](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug) and this hasn't been reported yet\n- [x] This is a single bug report (please file separate reports for different bugs)\n- [x] I am using the latest version of Claude Code\n\n### What's Wrong?\n\n`claude --teleport <session-id>` no longer loads 31 of my 150 cloud sessions. 20 of them loaded on 17 Nov 2026. Other sessions still load.\n\n**Situation**\n",
         "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "其他",
+        "category": "可靠性与质量",
         "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
@@ -514,7 +501,7 @@
         "url": "https://github.com/interplanetarysister/InterplanetaryFund/issues/203",
         "source": "GitHub Issues",
         "summary": "# Authoritative migration decision — 2026-11-03\n\n**New source of truth:** `interplanetarysister/interplanetary-fund2@main` is the canonical **frontend, interaction, asset, and functional reference** (original Base44-era APK experience). It is NOT the target production runtime. `interplanetarysister/InterplanetaryFund` remains the deployable migration repository, hosted on Cloudflare Pages/Workers with Supabase. Preserve all working migration code; no Convex or Vercel.\n\n## Implementation order\n1.",
-        "score": 2006.0,
+        "score": 2106.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
@@ -523,30 +510,69 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Upload file to SFTP using PowerShell",
-        "url": "https://stackoverflow.com/questions/38732025/upload-file-to-sftp-using-powershell",
-        "source": "Stack Overflow",
-        "summary": "<p>We were asked to set up an automated upload from one of our servers to an SFTP site. There will be a file that is exported from a database to a filer every Monday morning and they want the file to be uploaded to SFTP on Tuesday. The current authentication method we are using is username and password (I believe there was an option to have key file as well but username/password option was chosen).</p>\n\n<p>The way I am envisioning this is to have a script sitting on a server that will be trigger",
-        "score": 54.0,
+        "title": "Feature request: Dynamic categories",
+        "url": "https://github.com/lcdcode/mood-cairns/issues/31",
+        "source": "GitHub Issues",
+        "summary": "Hey there! Appreciate the job u r doing!\nI'm not familiar with Android SDK, so basically can only guess. \nAre the categories (Places/People/Activities/Moods/Other) hard coded? \nI'd really like to be able to set my own groups/categories. Is it doable?\nAnyway appreciate the effort",
+        "score": 23.0,
         "tags": [],
         "published": "",
-        "category": "集成与兼容",
+        "category": "需求缺口",
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[8.2] Replace TinyMCE 6.8.6 with TipTap/ProseMirror (spike #4717 follow-on)",
-        "url": "https://github.com/intersoftdatalabs-in/percussioncms/issues/5622",
+        "title": "Fleet: PR #1463's union duplicated/interleaved bullets on master (planner + implementer mirrors)",
+        "url": "https://github.com/andyholst/trending-local-llms/issues/1468",
         "source": "GitHub Issues",
-        "summary": "## Parent\nSpike: #4717 (research complete — TipTap 2 / ProseMirror MIT recommended). Full report: `docs/ai-generated/issue-4717-tinymce-replacement-spike.md` (merged via #5620).\n\n## Type\n**Implementation epic** — phased vertical slices. Do **not** land as one mega-PR.\n\n## Problem\nPercussion CMS ships TinyMCE 6.8.6 (MIT, frozen — `tinymce.version` in root POM + `modules/perc-tinymce`). TinyMCE 7+ is GPL-2.0-or-later, incompatible with Apache-2.0 distribution. Staying on unmaintained 6.8.x accumul",
-        "score": 44.0,
+        "summary": "## Why\n\nPR #1463 merged at 2026-11-23T20:25:35Z as squash `cf3e46f380ca832435d591fbaa10ebabeab7c1e1` (head `b2a260368fed7c570c4cdad87551f0f1d4e1cc06`, base `84cace0b`). Its four-lane host-ahead union violated #1462's Done-when (\"no new duplicate bullets\") and its own OpenSpec requirement (\"The union SHALL NOT introduce a duplicate of a rule already present in the base\"). Measured on `origin/master` `cf3e46f3` with a line Counter over the blobs:\n\n- `agents/tll-planner/skills/tll-planner/SKILL.md`",
+        "score": 15.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "What does dimensionality reduction mean?",
+        "url": "https://stackoverflow.com/questions/1994431/what-does-dimensionality-reduction-mean",
+        "source": "Stack Overflow",
+        "summary": "<p>What does dimensionality reduction mean exactly?</p>\n\n<p>I searched for its meaning, I just found that it means the transformation of raw data into a more useful form.  So what is the benefit of having data in useful form, I mean how can I use it in a practical life (application)?</p>\n",
+        "score": 15.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "bug(YouTube): \"Video effect\" fullscreen flyout menu scrolling problem",
+        "url": "https://github.com/MorpheApp/morphe-patches/issues/5253",
+        "source": "GitHub Issues",
+        "summary": "### App\n\nYouTube\n\n### App version\n\n21.46.528\n\n### Patches version\n\n2.4.0- dev.9\n\n### Bug description\n\nIts not opening in video while in full screen...\nIts not happening with every video.\n\nhttps://github.com/user-attachments/assets/89809533-d31b-4db7-a466-778f358676ad\n\nVideo link- https://youtu.be/LlmwQQjtsGk\n\n### Error logs\n\n```shell\n\n```\n\n### Acknowledgements\n\n- [x] I have checked all open and closed bug reports and this is not a duplicate.\n- [x] All requested information has been provided prop",
+        "score": 11.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "How do I install pipx on Windows?",
+        "url": "https://stackoverflow.com/questions/66822627/how-do-i-install-pipx-on-windows",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm currently trying to follow the guides from <a href=\"https://github.com/SFDO-Tooling/CumulusCI\" rel=\"nofollow noreferrer\">CumulusCI</a>, and I'm having some trouble installing pipx inside my computer.</p>\n<p>I already have installed Python 3, and I'm currently running the following command:</p>\n<pre class=\"lang-none prettyprint-override\"><code>pip install --user pipx\n</code></pre>\n<p>The result is the following:</p>\n<pre class=\"lang-none prettyprint-override\"><code>Requirement already sati",
+        "score": 11.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
@@ -560,32 +586,6 @@
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Recover when an implementation worker finishes without its result block",
-        "url": "https://github.com/rochecompaan/patchmill/issues/407",
-        "source": "GitHub Issues",
-        "summary": "## Problem\n\nAn implementation worker can finish its work and end its turn normally without writing the final fenced JSON result block. Patchmill then reads the phase as invalid. `parseJsonBlock` (`src/kernel/result.ts`) returns `no result`. The run stops as `needs-info` with a comment like:\n\n```\nno result Log: …/session-2.log\n\nExit code: 0\n```\n\nThe work is done: the branch is pushed and the PR is ready and closes the issue. But the issue moves to needs-info, the interactive run ends without the ",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "需求缺口",
-        "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "epic(v3): counter sales — bounded receipts, tenders and stored-value instruments with country readiness",
-        "url": "https://github.com/fdittgen-png/deskilo/issues/4180",
-        "source": "GitHub Issues",
-        "summary": "## Outcome and boundary\n\nAn authorized counter operator completes a sale, produces its supported fiscal/business document, records tender and corrections, and traces goods/service delivery without double money or stock effects. Reuse #4162/#4165 and goods #4170–#4173, plus studio #3633 products. A counter sale can have no login customer; any financial subject uses #4164's supported model. Invoice payment, stock movement and receipt are still separate facts.\n\nCountry-specific obligations are a ca",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 2 项"
       },
       {
         "title": "Can anybody suggest another method to split a large Excel file into multiple files in any tool other than VBA?",
@@ -615,16 +615,17 @@
       }
     ],
     "category_counts": {
-      "其他": 5,
+      "可靠性与质量": 4,
       "易用性与流程": 1,
-      "集成与兼容": 3,
-      "可靠性与质量": 2,
-      "需求缺口": 1
+      "其他": 3,
+      "集成与兼容": 2,
+      "需求缺口": 1,
+      "隐私与合规": 1
     },
     "next_actions": [
-      "优先验证「其他」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「集成与兼容」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
