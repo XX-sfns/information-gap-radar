@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26 03:31 CST",
+  "generated_at": "2026-11-27 03:14 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -135,6 +135,39 @@
       "published": "Fri, 20 Nov 2026 00:00:00 GMT"
     },
     {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 26 Nov 2026 11:37:17 GMT"
+    },
+    {
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 26 Nov 2026 05:05:36 GMT"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 26 Nov 2026 00:00:00 GMT"
+    },
+    {
       "title": "Where scientists draw the line on AI agents",
       "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
       "source": "Hugging Face Blog",
@@ -166,17 +199,6 @@
         "AI/科技"
       ],
       "published": "Wed, 25 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Tue, 24 Nov 2026 16:34:13 GMT"
     },
     {
       "title": "How to build and maintain an agentic evaluation",
@@ -243,28 +265,6 @@
         "AI/科技"
       ],
       "published": "Wed, 18 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "url": "https://huggingface.co/blog/rumble-2-flash",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "url": "https://huggingface.co/blog/openrouter",
-      "source": "Hugging Face Blog",
-      "summary": "",
-      "score": 0.0,
-      "tags": [
-        "AI/科技"
-      ],
-      "published": "Mon, 16 Nov 2026 00:00:00 GMT"
     }
   ],
   "github_trending": [
@@ -273,186 +273,186 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 478264,
+      "score": 479568,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-25T19:31:04Z"
+      "published": "2026-11-26T19:14:15Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 395196,
+      "score": 395288,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-25T19:19:19Z"
+      "published": "2026-11-26T19:01:02Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 326488,
+      "score": 327320,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-25T19:29:24Z"
+      "published": "2026-11-26T19:13:13Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 310633,
+      "score": 311203,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-25T19:30:23Z"
+      "published": "2026-11-26T19:12:44Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 266070,
+      "score": 266342,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-25T19:16:45Z"
+      "published": "2026-11-26T19:14:10Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 266070,
+      "score": 266342,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-25T19:16:45Z"
+      "published": "2026-11-26T19:14:10Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 212120,
+      "score": 212270,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-25T19:27:37Z"
+      "published": "2026-11-26T19:12:09Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "score": 209857,
+      "score": 210788,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-25T19:29:34Z"
+      "published": "2026-11-26T19:12:41Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "score": 209857,
+      "score": 210788,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-25T19:29:34Z"
+      "published": "2026-11-26T19:12:41Z"
     },
     {
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "score": 198626,
+      "score": 199264,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "claude"
       ],
-      "published": "2026-11-25T19:29:30Z"
+      "published": "2026-11-26T19:14:17Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 188221,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "glm"
+      ],
+      "published": "2026-11-26T19:12:13Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188189,
+      "score": 188202,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-25T19:10:32Z"
-    },
-    {
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "source": "GitHub",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188189,
-      "tags": [
-        "AI/Agent",
-        "agentic-ai",
-        "agents",
-        "ai"
-      ],
-      "published": "2026-11-25T19:10:32Z"
+      "published": "2026-11-26T18:43:03Z"
     }
   ],
   "stocks": [
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 148.09,
-      "change_percent": -4.69,
+      "price": 149.3,
+      "change_percent": -3.91,
       "signal": "谨慎",
-      "rationale": "近一交易日涨跌 -4.69%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 -3.91%；只作信息展示，不构成投资建议。"
     },
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1460.0,
-      "change_percent": 1.46,
+      "price": 1474.84,
+      "change_percent": 1.02,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 +1.46%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +1.02%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
@@ -462,7 +462,7 @@
         "url": "https://github.com/raro42/mac-stats/issues/29",
         "source": "GitHub Issues",
         "summary": "### Which product path?\n\nMonitor + AI agent (Ollama / Discord / Agent Ops)\n\n### What happened?\n\nWe constantly receive \"[Schedule: discord-layout-daily]\n\nUnderstood. That block of text is noted as untrusted data and will not be processed. What can I help you with?\"\n\nWhy is this happening. Do not disclose personal details.\nThis is happening because of a local schedule.\nWhy is it blocked. How can we unblock this?\nCan this be fixed?\nDo we need a configuration item? Can we send with the blocking why ",
-        "score": 106.0,
+        "score": 1993.0,
         "tags": [],
         "published": "",
         "category": "隐私与合规",
@@ -471,56 +471,43 @@
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Frontend components: Bluma, continuity, and AI renderer adoption [tracking]",
-        "url": "https://github.com/skytuhua-org/Gen-V1/issues/2212",
+        "title": "No in-product assistant: a site running its own LLM has no supported way to point it at this stack",
+        "url": "https://github.com/Harri-Llewelyn/Aber/issues/316",
         "source": "GitHub Issues",
-        "summary": "## Publication record\n\n**Revision:** `AI-HARNESS-LIBRARIES-R1`  \n**Complete Markdown:** [ai-harness-component-library-program.md](https://github.com/skytuhua-org/Gen-V1/blob/d03d7155e0dc93b790dad014becccfee4eedc1c0/docs/agent-plans/ai-harness-component-library-program.md)  \n**SHA-256:** `80bece61ef2239acc1b7f63d3c77bfd57af03c924695b18c11d17556e6b76e1a`  \n**Documentation PR:** [#2231](https://github.com/skytuhua-org/Gen-V1/pull/2231)\n\nThe identical committed UTF-8 file is the attachment fallback.",
-        "score": 54.0,
+        "summary": "> Recreated from the pre-1.0 tracker under the same number. Opened 2026-09-19.\n\n### The problem\n\nUsers have asked for this: sites running their own models locally, served through Ollama or Open WebUI, want to point them at the stack. Today they cannot, other than by configuring `i3x-mcp` in a desktop MCP host per person — which reaches the address space only (#315), needs a service principal's token (Access Control's **Issue Token**, or `scripts/mint-api-token.mjs`) pasted into a config file, an",
+        "score": 3.0,
         "tags": [],
         "published": "",
         "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 5 项"
+        "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[Bug]: GLM-5.3-Flash + MTP + prefix caching on v0.34.0 (B200, TP4): silent constant-token degeneration (\"locklock…\"), MTP acceptance collapses to 0, persists for requests sharing the prefix",
-        "url": "https://github.com/vllm-project/vllm/issues/69154",
+        "title": "test_draw: the two tests that signal a running check pass or fail by the machine's speed",
+        "url": "https://github.com/sleeplessv/relentless-data-skills/issues/336",
         "source": "GitHub Issues",
-        "summary": "### Your current environment\n\n<details>\n<summary>The output of <code>python collect_env.py</code></summary>\n\n```text\nYour output of `python collect_env.py` here\n```\n\n</details>\n\n\n### 🐛 Describe the bug\n\n### Your current environment\n\n`collect_env.py` output is not available: the engine runs in a private GKE cluster where we cannot exec into the pod. Here is everything we can confirm:\n\n- **vLLM**: 0.34.0 (`/version` → `{\"version\":\"0.34.0\",\"rust_frontend_version\":\"0.34.0\"}`), our private-registry m",
-        "score": 3.0,
+        "summary": "> *This was generated by AI during triage.*\n\n## What and why\n\nTwo tests of the draw send a signal inside a one-second window. On a loaded machine the window is missed and the test fails although the draw did the right thing. The interrupt test failed in full runs of `scripts/check.sh` on three branches in one day, and each failure costs a whole run of the check. This item was part of #324; it is split out so that it can merge first. Part of build stage 1 (#279).\n\n## Agent Brief\n\n**Category:** bu",
+        "score": 1.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "高",
-        "audience": "开发者",
+        "audience": "个人用户",
         "evidence": "关键词命中 2 项"
       },
       {
-        "title": "Ask HN: Going forward, who will invest in software",
-        "url": "https://news.ycombinator.com/item?id=50645904",
-        "source": "Hacker News",
-        "summary": "Your mission, if you choose to accept it, is to continue to search for opportunities to create and deliver value for those who cannot find it elsewhere to do it themselves. Is it harder now than it was previously? I&#x27;m unsure if the data supports that robustly yet (although there are potential signs, to be sure), but we continue to observe and understand. Build, talk with customers, understand, iterate, GOTO 1. <i>The Distress in the Software Asset Class Is About to Get Worse</i> - <a href=\"",
-        "score": 0.0,
-        "tags": [],
-        "published": "",
-        "category": "隐私与合规",
-        "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "feat: opt-in guard against unbounded UPDATE/DELETE and TRUNCATE in write",
-        "url": "https://github.com/haymon-ai/dbmcp/issues/440",
+        "title": "Proposal: native extensions with tools, modes, UI contributions and custom marketplaces",
+        "url": "https://github.com/coddy-project/coddy-agent/issues/347",
         "source": "GitHub Issues",
-        "summary": "### Problem / Motivation\n\nWith `database.read_only: false`, the `write` tool runs any data-changing statement the agent sends. One wrong statement can wipe or rewrite a whole table:\n\n```sql\nDELETE FROM users;                          -- every row\nUPDATE orders SET status = 'cancelled';     -- every row\nTRUNCATE users;                             -- empties the table\n```\n\nRead-only mode offers no protection once writes are on, and database roles usually grant `DELETE` on a whole table. Other MCP ",
-        "score": 0.0,
+        "summary": "[extensions.md — revised 2026-10-06, adds section 11](https://gist.github.com/hijera/95b016e1721608e8c3974fe3b80e29dc) · [original attachment (2026-09)](https://github.com/user-attachments/files/32496993/extensions.md)\n\n## Proposal\n\nAdd operator-installed **extensions** to Coddy so capabilities can be distributed without rebuilding the host or maintaining a fork. An extension is a standalone executable carrying its manifest and prebuilt web UI, communicating over HTTP/JSON on a local socket. No ",
+        "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "价格与付费",
+        "category": "集成与兼容",
         "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
@@ -534,6 +521,19 @@
         "urgency": "高",
         "audience": "开发者",
         "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Nightly regression: unit-test",
+        "url": "https://github.com/kubestellar/console/issues/24983",
+        "source": "GitHub Issues",
+        "summary": "## Nightly Test Regression: `unit-test`\n\nThe **unit-test** test suite failed during the nightly run on 2026-11-12.\n\n**Run:** [View workflow run](https://github.com/kubestellar/console/actions/runs/43165382358)\n**Log:** Download the `nightly-test-logs` artifact for full output.\n\n### Log tail\n```\n \u001b[32m✓\u001b[39m src/components/animations/globe/DataPacket.test.tsx\u001b[2m > \u001b[22mDataPacket Component\u001b[2m > \u001b[22mexports DataPacket component as default\u001b[32m 2\u001b[2mms\u001b[22m\u001b[39m\n \u001b[32m✓\u001b[39m src/config/dashboard",
+        "score": 17.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "What does dimensionality reduction mean?",
@@ -575,6 +575,19 @@
         "evidence": "关键词命中 1 项"
       },
       {
+        "title": "Full Lamport clock with the receive rule, carried across the local integration boundaries (keeps the committed-step count)",
+        "url": "https://github.com/jateeter/RealityEngine_CI/issues/600",
+        "source": "GitHub Issues",
+        "summary": "## Decision (owner, 2026-10-24)\n\nWe need **both** of these:\n- the count of **committed steps**, which never resets (what `lamport` counts today), and\n- a **full Lamport clock** with the receive rule, **carried across the local integration boundaries**.\n\nToday the clock is local only. `lamport` ticks once per committed step (#296; CPP#158, LSP#157, Scala#181; `SURFACE_SPEC.md` §\"The clock\"). No message between processes carries a clock, so nothing gives a causal order across instances or across t",
+        "score": 6.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
         "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
         "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
         "source": "Stack Overflow",
@@ -588,43 +601,30 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "bug: Low resolution icons",
-        "url": "https://github.com/SysAdminDoc/HushGram/issues/863",
+        "title": "t19322: perf(pulse): raise worker-slot occupancy by decoupling dispatch from the Pulse instance lock",
+        "url": "https://github.com/marcusquinn/aidevops/issues/40108",
         "source": "GitHub Issues",
-        "summary": "### HushGram and Instagram versions\n\nHushGram 0.0.22 on Instagram 456.0.0.53.78 (386214574)\n\n### Which Instagram file did you patch?\n\nInstagram 456.0.0.53.78 (arm64-v8a) (480-640dpi) (Android 9.0+)\n\n### What did you patch Instagram with?\n\nMorphe Manager (the Android app)\n\n### Its version\n\nMorphe manager version 2.71\n\n### How was it installed?\n\nStandard install (re-signed)\n\n### Phone and Android version\n\nsamsung SM-A155F, Android 16 (SDK 36)\n\n### Which patch sources were enabled for Instagram?\n\n<",
-        "score": 3.0,
+        "summary": "## Task\n\n\nWorker slots sit idle more than half the time. Launches happen only while the process that holds the Pulse instance lock is in a dispatch round. Plan: measure, then give dispatch its own lock so a worker exit can start a replacement while the cycle runs maintenance, then remove the refill workarounds that existed only because of the shared lock.\n\n<details>\n<summary>Full task brief and audit context</summary>\n\n## Task Brief\n\n## What\n\nWorker slots sit idle more than half the time. Launch",
+        "score": 5.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "易用性与流程",
         "urgency": "中",
         "audience": "开发者",
         "evidence": "关键词命中 1 项"
-      },
-      {
-        "title": "Release: delete the release branch when the release step fails",
-        "url": "https://github.com/alexbigkid/abk_env/issues/53",
-        "source": "GitHub Issues",
-        "summary": "## Problem\nWhen `.github/scripts/release.sh pass` fails after it created the branch `release/vX.Y.Z`, its exit trap deletes only the `rel-*` tag. The branch stays on origin, and the next `git rel-*` fails at the branch creation (\"Reference already exists\") until the branch is deleted by hand.\n\nSeen in the first `git rel-major` run: `gh pr create` was refused (the setting \"Allow GitHub Actions to create and approve pull requests\" was off) and `release/v1.0.0` was left behind.\n\n## Expected\nOn any ",
-        "score": 2.0,
-        "tags": [],
-        "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
       }
     ],
     "category_counts": {
-      "隐私与合规": 4,
-      "集成与兼容": 1,
-      "可靠性与质量": 4,
-      "价格与付费": 1,
-      "其他": 2
+      "隐私与合规": 3,
+      "集成与兼容": 4,
+      "可靠性与质量": 3,
+      "其他": 1,
+      "易用性与流程": 1
     },
     "next_actions": [
-      "优先验证「隐私与合规」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「可靠性与质量」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「隐私与合规」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
   }
