@@ -1,0 +1,630 @@
+{
+  "generated_at": "2026-11-28 03:08 CST",
+  "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
+  "ai_news": [
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI News",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 24 Nov 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI News",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT"
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI News",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI News",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI News",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI News",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 23 Nov 2026 21:20:00 GMT"
+    },
+    {
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "OpenAI News",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 23 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI News",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 23 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI News",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Sun, 22 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI News",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 20 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI News",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI News",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 27 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 26 Nov 2026 11:37:17 GMT"
+    },
+    {
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 26 Nov 2026 05:05:36 GMT"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Thu, 26 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 25 Nov 2026 18:52:55 GMT"
+    },
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 25 Nov 2026 10:22:09 GMT"
+    },
+    {
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 25 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Mon, 23 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 19:54:56 GMT"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face Blog",
+      "summary": "",
+      "score": 0.0,
+      "tags": [
+        "AI/科技"
+      ],
+      "published": "Wed, 18 Nov 2026 18:53:43 GMT"
+    }
+  ],
+  "github_trending": [
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 480906,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai",
+        "android"
+      ],
+      "published": "2026-11-27T19:06:00Z"
+    },
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "score": 395347,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "assistant",
+        "crustacean"
+      ],
+      "published": "2026-11-27T18:50:19Z"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "score": 328175,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "brainstorming",
+        "coding"
+      ],
+      "published": "2026-11-27T19:05:08Z"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 311730,
+      "tags": [
+        "AI/Agent",
+        "ai-agents",
+        "anthropic",
+        "claude"
+      ],
+      "published": "2026-11-27T19:08:04Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 266599,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-11-27T19:02:11Z"
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub",
+      "summary": "The agent that grows with you",
+      "score": 266599,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agent",
+        "ai-agents"
+      ],
+      "published": "2026-11-27T19:02:11Z"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "GitHub",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 212389,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "apis",
+        "automation"
+      ],
+      "published": "2026-11-27T18:58:09Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "score": 211534,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-11-27T19:05:24Z"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "score": 211534,
+      "tags": [
+        "AI/Agent",
+        "ai",
+        "ai-agents",
+        "ai-crawler"
+      ],
+      "published": "2026-11-27T19:05:24Z"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "score": 199959,
+      "tags": [
+        "AI/Agent",
+        "agent-skills",
+        "ai-agents",
+        "claude"
+      ],
+      "published": "2026-11-27T19:06:37Z"
+    },
+    {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "score": 188309,
+      "tags": [
+        "AI/Agent",
+        "deepseek",
+        "gemma",
+        "glm"
+      ],
+      "published": "2026-11-27T19:07:45Z"
+    },
+    {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 188209,
+      "tags": [
+        "AI/Agent",
+        "agentic-ai",
+        "agents",
+        "ai"
+      ],
+      "published": "2026-11-27T17:56:23Z"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "price": 150.49,
+      "change_percent": 0.8,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 +0.80%；只作信息展示，不构成投资建议。"
+    },
+    {
+      "symbol": "600519.SS",
+      "name": "贵州茅台",
+      "price": 1469.0,
+      "change_percent": -0.4,
+      "signal": "观望",
+      "rationale": "近一交易日涨跌 -0.40%；只作信息展示，不构成投资建议。"
+    }
+  ],
+  "information_gap": {
+    "items": [
+      {
+        "title": "fix(ci): give qa-validate's validate job 45 minutes (30m timeout cancels green runs)",
+        "url": "https://github.com/andyholst/trending-local-llms/issues/1845",
+        "source": "GitHub Issues",
+        "summary": "<!-- message-pattern-opt-in -->\n\n## Why\n\nPR #1837's `qa-validate` run [46049222481](https://github.com/andyholst/trending-local-llms/actions/runs/46049222481) had guard and closure green, its unit suite green (`PASSED 124 | FAILED 0`), and live-smoke green; the `validate` job was **cancelled** at exactly 30 minutes (started ~18:24Z, completed 18:54:46Z, `conclusion=cancelled`, final line `##[error]The operation was canceled.`). The cause is `.github/workflows/qa-validate.yml:131 timeout-minutes:",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "feat: add a doctor command for config, ComfyUI, and auth diagnostics",
+        "url": "https://github.com/hybridindie/comfyui_mcp/issues/226",
+        "source": "GitHub Issues",
+        "summary": "## Problem\n\nSupport currently means asking users to run five commands (config validation, `/queue`, `/system_stats`, `/features`, Manager/Model Manager probes, audit path, auth env). The server itself cannot run without a client, so there is no single \"is this setup sane?\" entry point.\n\n## Fix\n\nAdd `scripts/doctor.py` (and optionally a `--doctor` CLI flag) that checks:\n\n- config file parses and the audit path is writable;\n- ComfyUI is reachable and reports a version;\n- `/features` keys and Manag",
+        "score": 0.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
+        "url": "https://stackoverflow.com/questions/80009709/how-do-i-enforce-that-an-llm-only-cites-chunk-ids-from-the-retrieved-set-when-t",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm building a RAG app with LangChain. Retrieval returns a list of chunks, each with an ID such as doc_3. The model answers with citations like [doc_3], but sometimes it cites an ID that was never retrieved. I already check every cited ID against the retrieved list in code and reject unknown IDs. That catches invented IDs, but it does not catch a real ID attached to a claim the chunk does not support, and it fails when the model paraphrases instead of quoting.</p>\n<p>What is the robust way to",
+        "score": -5.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "高",
+        "audience": "开发者",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "Living deck lagged behind URL Review on main (#4102)",
+        "url": "https://github.com/kaanmuar/kaanmuar.github.io/issues/4312",
+        "source": "GitHub Issues",
+        "summary": "Detected by deck-drift on b6265d881.\n\n## Drift\n\n```\nDeck drift (#4102): URL Review shipped after scripts/feature-deck/changes.js @ f233056b0 (newest day 2026-11-24) without updating the deck:\n  80386dc6a  fix(#3729): align guide with unlock offers and plans\nAdd a plain-language item to changes.js, run npm --prefix scripts/feature-deck run deck, and commit presentation/.\nOr, for a commit that must not appear in the deck, put \"deck: skip: <why>\" in that PR body next time.\n```\n\nParent: #4102. Updat",
+        "score": 52.0,
+        "tags": [],
+        "published": "",
+        "category": "其他",
+        "urgency": "低",
+        "audience": "个人用户",
+        "evidence": "关键词命中 0 项"
+      },
+      {
+        "title": "What does dimensionality reduction mean?",
+        "url": "https://stackoverflow.com/questions/1994431/what-does-dimensionality-reduction-mean",
+        "source": "Stack Overflow",
+        "summary": "<p>What does dimensionality reduction mean exactly?</p>\n\n<p>I searched for its meaning, I just found that it means the transformation of raw data into a more useful form.  So what is the benefit of having data in useful form, I mean how can I use it in a practical life (application)?</p>\n",
+        "score": 13.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "How do I install pipx on Windows?",
+        "url": "https://stackoverflow.com/questions/66822627/how-do-i-install-pipx-on-windows",
+        "source": "Stack Overflow",
+        "summary": "<p>I'm currently trying to follow the guides from <a href=\"https://github.com/SFDO-Tooling/CumulusCI\" rel=\"nofollow noreferrer\">CumulusCI</a>, and I'm having some trouble installing pipx inside my computer.</p>\n<p>I already have installed Python 3, and I'm currently running the following command:</p>\n<pre class=\"lang-none prettyprint-override\"><code>pip install --user pipx\n</code></pre>\n<p>The result is the following:</p>\n<pre class=\"lang-none prettyprint-override\"><code>Requirement already sati",
+        "score": 11.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "2d trilateration",
+        "url": "https://stackoverflow.com/questions/9747227/2d-trilateration",
+        "source": "Stack Overflow",
+        "summary": "<p>I am writing some code to participate in an AI challenge. The main objective for the AI challenge is to take a simulated robot and navigate it through a maze to a destination zone. The secondary objective which is optional is to find a recharger placed in the maze at an unknown location. This is all done in a 2D grid.</p>\n\n<p>My program can call a method to get a distance measurement from the recharger. So using trilateration I should be able to locate the recharger by calling this method, re",
+        "score": 7.0,
+        "tags": [],
+        "published": "",
+        "category": "隐私与合规",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "[testeur] MW-2026-145 AI agent delegation UX — Gherkin created, feature not implemented",
+        "url": "https://github.com/canatac/misfits-web/issues/1058",
+        "source": "GitHub Issues",
+        "summary": "## MW-2026-145 — AI agent delegation UX\n\n**Status**: Gherkin feature created (6 scenarios), awaiting implementation\n**Repo**: misfits-web\n\n### Scenarios\n1. Delegate button in email toolbar\n2. Agent proposes 3+ actions\n3. User reviews and selects action\n4. User confirms execution\n5. Activity log records delegation\n6. Revocation within 5 seconds\n\n### Feature file\n`tests/integration/gherkin/features/MW-2026-145-ai-agent-delegation-ux.feature`",
+        "score": 6.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
+        "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
+        "source": "Stack Overflow",
+        "summary": "<p>I am trying to compute the diagonal of the Fisher information matrix. I found this code that appears to do just that, but there are some issues with the code. First consider the code in its original form:</p>\n<pre><code>    estimated_fisher = {}\n\n    for n, p in model.named_parameters():\n        estimated_fisher[n] = torch.zeros_like(p)\n    model.eval()\n    for i, (input, target) in enumerate(dl, 0):\n        model.zero_grad()\n        output = model(input.to(device))\n        label = target.to(",
+        "score": 6.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "Field report: Kiboto on Zettlab D4 under Armbian (fixes, patch and requests)",
+        "url": "https://github.com/fr0styx/kiboto/issues/71",
+        "source": "GitHub Issues",
+        "summary": "# Kiboto on the Zettlab D4\n\nField report from running Kiboto on a Zettlab D4 (RK3588, 4 SATA bays + M.2)\nunder Armbian instead of ZettOS. It lists what worked, what we had to patch\nlocally, and what we'd like changed upstream.\n\n**Attached:** `kiboto-d4-local-changes.txt`. These are the local source\nchanges against commit `9b5a4f0`, as 6 files and about 90 lines.\n\n## Test setup\n\n- **OS:** Armbian 26.8.3 minimal, Debian 13 \"trixie\", Rockchip vendor kernel\n  `6.1.115-vendor-rk35xx`.\n- **Board:** th",
+        "score": 4.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "[BUG]: PVForecastAdaptiveAkkudoktor: model fit fails on timestamp with fractional seconds, cancels every daytime EMS run",
+        "url": "https://github.com/Akkudoktor-EOS/EOS/issues/1605",
+        "source": "GitHub Issues",
+        "summary": "### Describe the issue:\n\n**Title:** [BUG]: PVForecastAdaptiveAkkudoktor: model fit fails on timestamp with fractional seconds, cancels every daytime EMS run\n\n### Describe the issue:\nAfter the first adaptive model fit, every daytime energy management run fails in\nPVForecastAdaptiveAkkudoktor with a timestamp parsing error. The failing provider\ncancels the whole GENETIC run, so no plan is produced during the day. Runs around\nmidnight still succeed (adaptive state \"night\", no local correction appli",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      },
+      {
+        "title": "Maven Build Failure with &quot;mvn install&quot; command",
+        "url": "https://stackoverflow.com/questions/54528556/maven-build-failure-with-mvn-install-command",
+        "source": "Stack Overflow",
+        "summary": "<p>I was trying to generate and test my codes (if working) for Cucumber-Maven report then opened command prompt. I have tried \"mvn clean\", it was BUILD SUCCESS. After that, I have tried \"mvn install\" and encountered BUILD FAILURE (error was shown).</p>\n\n<pre><code>[INFO] ------------------------------------------------------------------------\n[INFO] BUILD FAILURE\n[INFO] ------------------------------------------------------------------------\n[INFO] Total time:  22.844 s\n[INFO] Finished at: 2019-",
+        "score": 1.0,
+        "tags": [],
+        "published": "",
+        "category": "可靠性与质量",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
+      }
+    ],
+    "category_counts": {
+      "可靠性与质量": 6,
+      "其他": 3,
+      "隐私与合规": 2,
+      "集成与兼容": 1
+    },
+    "next_actions": [
+      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「隐私与合规」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
+    ],
+    "llm_status": "规则分类（LLM 未启用）"
+  }
+}
