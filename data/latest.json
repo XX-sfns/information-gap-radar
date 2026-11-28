@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28 03:08 CST",
+  "generated_at": "2026-11-29 01:43 CST",
   "disclaimer": "股票模块仅供信息参考，不构成任何投资建议。用户内容会保留来源链接，分类是自动初筛，使用前请回看原文。",
   "ai_news": [
     {
@@ -273,168 +273,168 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
       "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "score": 480906,
+      "score": 481949,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai",
         "android"
       ],
-      "published": "2026-11-27T19:06:00Z"
+      "published": "2026-11-28T17:43:33Z"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub",
       "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "score": 395347,
+      "score": 395367,
       "tags": [
         "AI/Agent",
         "ai",
         "assistant",
         "crustacean"
       ],
-      "published": "2026-11-27T18:50:19Z"
+      "published": "2026-11-28T17:39:10Z"
     },
     {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub",
       "summary": "An agentic skills framework & software development methodology that works.",
-      "score": 328175,
+      "score": 328909,
       "tags": [
         "AI/Agent",
         "ai",
         "brainstorming",
         "coding"
       ],
-      "published": "2026-11-27T19:05:08Z"
+      "published": "2026-11-28T17:43:26Z"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "score": 311730,
+      "score": 312319,
       "tags": [
         "AI/Agent",
         "ai-agents",
         "anthropic",
         "claude"
       ],
-      "published": "2026-11-27T19:08:04Z"
+      "published": "2026-11-28T17:42:59Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 266599,
+      "score": 266719,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-27T19:02:11Z"
+      "published": "2026-11-28T17:42:04Z"
     },
     {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
       "summary": "The agent that grows with you",
-      "score": 266599,
+      "score": 266719,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agent",
         "ai-agents"
       ],
-      "published": "2026-11-27T19:02:11Z"
+      "published": "2026-11-28T17:42:04Z"
     },
     {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
       "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "score": 212389,
+      "score": 212360,
       "tags": [
         "AI/Agent",
         "ai",
         "apis",
         "automation"
       ],
-      "published": "2026-11-27T18:58:09Z"
+      "published": "2026-11-28T17:38:40Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "score": 211534,
+      "score": 212127,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-27T19:05:24Z"
+      "published": "2026-11-28T17:36:49Z"
     },
     {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
       "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-      "score": 211534,
+      "score": 212127,
       "tags": [
         "AI/Agent",
         "ai",
         "ai-agents",
         "ai-crawler"
       ],
-      "published": "2026-11-27T19:05:24Z"
+      "published": "2026-11-28T17:36:49Z"
     },
     {
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub",
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "score": 199959,
+      "score": 200653,
       "tags": [
         "AI/Agent",
         "agent-skills",
         "ai-agents",
         "claude"
       ],
-      "published": "2026-11-27T19:06:37Z"
+      "published": "2026-11-28T17:41:43Z"
     },
     {
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
       "summary": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "score": 188309,
+      "score": 188391,
       "tags": [
         "AI/Agent",
         "deepseek",
         "gemma",
         "glm"
       ],
-      "published": "2026-11-27T19:07:45Z"
+      "published": "2026-11-28T17:39:49Z"
     },
     {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
       "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "score": 188209,
+      "score": 188204,
       "tags": [
         "AI/Agent",
         "agentic-ai",
         "agents",
         "ai"
       ],
-      "published": "2026-11-27T17:56:23Z"
+      "published": "2026-11-28T17:38:46Z"
     }
   ],
   "stocks": [
@@ -449,39 +449,39 @@
     {
       "symbol": "600519.SS",
       "name": "贵州茅台",
-      "price": 1469.0,
-      "change_percent": -0.4,
+      "price": 1472.36,
+      "change_percent": 0.23,
       "signal": "观望",
-      "rationale": "近一交易日涨跌 -0.40%；只作信息展示，不构成投资建议。"
+      "rationale": "近一交易日涨跌 +0.23%；只作信息展示，不构成投资建议。"
     }
   ],
   "information_gap": {
     "items": [
       {
-        "title": "fix(ci): give qa-validate's validate job 45 minutes (30m timeout cancels green runs)",
-        "url": "https://github.com/andyholst/trending-local-llms/issues/1845",
+        "title": "M5: Claude-backed plan, implement, verify stages",
+        "url": "https://github.com/jozifmikhael/agent-runner/issues/34",
         "source": "GitHub Issues",
-        "summary": "<!-- message-pattern-opt-in -->\n\n## Why\n\nPR #1837's `qa-validate` run [46049222481](https://github.com/andyholst/trending-local-llms/actions/runs/46049222481) had guard and closure green, its unit suite green (`PASSED 124 | FAILED 0`), and live-smoke green; the `validate` job was **cancelled** at exactly 30 minutes (started ~18:24Z, completed 18:54:46Z, `conclusion=cancelled`, final line `##[error]The operation was canceled.`). The cause is `.github/workflows/qa-validate.yml:131 timeout-minutes:",
-        "score": 2.0,
+        "summary": "Depends on #33. Spec review: required (re-run after SDK details are verified). The spec reviewer could not load the `claude-api` skill; the implementer reads it first (Skill tool) and corrects any SDK detail below that disagrees with it, saying so in the PR.\n\nReplace the fake `time.sleep` stages with real Claude calls: plan, implement, verify. Contract in #33.\n\n## Structure\n\n`worker.py` is growing past one job. Split by responsibility, keeping the flow readable top-down:\n- `worker.py` — CLI, loo",
+        "score": 1.0,
         "tags": [],
         "published": "",
-        "category": "可靠性与质量",
+        "category": "集成与兼容",
         "urgency": "高",
         "audience": "开发者",
-        "evidence": "关键词命中 1 项"
+        "evidence": "关键词命中 4 项"
       },
       {
-        "title": "feat: add a doctor command for config, ComfyUI, and auth diagnostics",
-        "url": "https://github.com/hybridindie/comfyui_mcp/issues/226",
+        "title": "AI agent 引擎解耦：可插拔引擎（claude/pi/opencode/dsh）+ 统一前端",
+        "url": "https://github.com/sidestai/sidedesk-win/issues/288",
         "source": "GitHub Issues",
-        "summary": "## Problem\n\nSupport currently means asking users to run five commands (config validation, `/queue`, `/system_stats`, `/features`, Manager/Model Manager probes, audit path, auth env). The server itself cannot run without a client, so there is no single \"is this setup sane?\" entry point.\n\n## Fix\n\nAdd `scripts/doctor.py` (and optionally a `--doctor` CLI flag) that checks:\n\n- config file parses and the audit path is writable;\n- ComfyUI is reachable and reports a version;\n- `/features` keys and Manag",
+        "summary": "> [!NOTE]\n> 从私有仓库 `gozhhu/sidedesk-win` 复制的历史记录。\n> - 复制日期：2026-11-29\n> - 原 Issue：[#361](https://github.com/gozhhu/sidedesk-win/issues/361)\n> - 原作者：MrKop-git\n> - 创建时间：2026-10-07T01:47:52Z\n> - 更新时间：2026-10-18T09:14:55Z\n> - 原状态：开放\n> - 原负责人：无\n> - 原里程碑：backlog 待排期\n> 源记录保留；新库中的作者与操作时间为复制账号所有。正文内原仓库编号引用已改为显式链接。\n\n<!-- sidedesk-issue-migration:gozhhu/sidedesk-win:361 -->\n\n## 背景与目标\n\n当前 AI agent 调用散在两处：gateway 边车的 `/dispatch` 一次性任务模型（语音任务链路）与三条直连 LLM API 的对话通路，引擎与前端耦合，无法更换引擎。\n\n**目标**：AI agent 引擎可插拔（claude ",
         "score": 0.0,
         "tags": [],
         "published": "",
-        "category": "其他",
+        "category": "集成与兼容",
         "urgency": "高",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "audience": "开发者",
+        "evidence": "关键词命中 2 项"
       },
       {
         "title": "How do I enforce that an LLM only cites chunk IDs from the retrieved set, when the IDs come back as free text?",
@@ -497,17 +497,17 @@
         "evidence": "关键词命中 0 项"
       },
       {
-        "title": "Living deck lagged behind URL Review on main (#4102)",
-        "url": "https://github.com/kaanmuar/kaanmuar.github.io/issues/4312",
+        "title": "Morning cycle board: GLOBALSTATUS x RUCKUS (max 6)",
+        "url": "https://github.com/lquessenberry/downtime-checker/issues/75",
         "source": "GitHub Issues",
-        "summary": "Detected by deck-drift on b6265d881.\n\n## Drift\n\n```\nDeck drift (#4102): URL Review shipped after scripts/feature-deck/changes.js @ f233056b0 (newest day 2026-11-24) without updating the deck:\n  80386dc6a  fix(#3729): align guide with unlock offers and plans\nAdd a plain-language item to changes.js, run npm --prefix scripts/feature-deck run deck, and commit presentation/.\nOr, for a commit that must not appear in the deck, put \"deck: skip: <why>\" in that PR body next time.\n```\n\nParent: #4102. Updat",
-        "score": 52.0,
+        "summary": "Parent: #2. Bounded morning loop. Does not FTP. Does not merge production.\n\n<!-- cycle: 1 -->\n\n## Roles\n- GLOBALSTATUS: product owner (layers, pins, NUKEMAP link, staging)\n- RUCKUS: reviewer (tests, licenses, no SPLC dump, no auto-merge)\n\n## PR order\n1. #60 designations ingest + geocode + Cesium pins (this cycle)\n2. #59 unified claims.jsonl\n3. #34 poll-runner rebase onto feat/globalstatus-prod\n4. #39 NUKEMAP remains an external link\n5. Radiation cluster #68–#74\n6. Low-bandwidth #62–#67\n\n## Cycle",
+        "score": 191.0,
         "tags": [],
         "published": "",
-        "category": "其他",
-        "urgency": "低",
-        "audience": "个人用户",
-        "evidence": "关键词命中 0 项"
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 1 项"
       },
       {
         "title": "What does dimensionality reduction mean?",
@@ -549,19 +549,6 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[testeur] MW-2026-145 AI agent delegation UX — Gherkin created, feature not implemented",
-        "url": "https://github.com/canatac/misfits-web/issues/1058",
-        "source": "GitHub Issues",
-        "summary": "## MW-2026-145 — AI agent delegation UX\n\n**Status**: Gherkin feature created (6 scenarios), awaiting implementation\n**Repo**: misfits-web\n\n### Scenarios\n1. Delegate button in email toolbar\n2. Agent proposes 3+ actions\n3. User reviews and selects action\n4. User confirms execution\n5. Activity log records delegation\n6. Revocation within 5 seconds\n\n### Feature file\n`tests/integration/gherkin/features/MW-2026-145-ai-agent-delegation-ux.feature`",
-        "score": 6.0,
-        "tags": [],
-        "published": "",
-        "category": "集成与兼容",
-        "urgency": "中",
-        "audience": "个人用户",
-        "evidence": "关键词命中 1 项"
-      },
-      {
         "title": "How to deal with this `torch.AcceleratorError: CUDA error: device-side assert triggered` error?",
         "url": "https://stackoverflow.com/questions/80013337/how-to-deal-with-this-torch-acceleratorerror-cuda-error-device-side-assert-tr",
         "source": "Stack Overflow",
@@ -575,54 +562,67 @@
         "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Field report: Kiboto on Zettlab D4 under Armbian (fixes, patch and requests)",
-        "url": "https://github.com/fr0styx/kiboto/issues/71",
+        "title": "[bug] Skip intro button not retained after initial timeout",
+        "url": "https://github.com/Silo-Server/silo-android/issues/1017",
         "source": "GitHub Issues",
-        "summary": "# Kiboto on the Zettlab D4\n\nField report from running Kiboto on a Zettlab D4 (RK3588, 4 SATA bays + M.2)\nunder Armbian instead of ZettOS. It lists what worked, what we had to patch\nlocally, and what we'd like changed upstream.\n\n**Attached:** `kiboto-d4-local-changes.txt`. These are the local source\nchanges against commit `9b5a4f0`, as 6 files and about 90 lines.\n\n## Test setup\n\n- **OS:** Armbian 26.8.3 minimal, Debian 13 \"trixie\", Rockchip vendor kernel\n  `6.1.115-vendor-rk35xx`.\n- **Board:** th",
+        "summary": "### What happened\n\nSame behavior as reported for server/web UI\nhttps://github.com/Silo-Server/silo-server/issues/3365\n\nIf you miss the skip intro button and then activate the player UI during the intro, the skip intro button is no longer available\n\n### Steps to reproduce\n\n1. Play file\n2. wait for \"Skip Intro\" to appear\n3. ignore it and let it \"time out\"\n4. touch screen to activate player web UI\n5. No \"Skip Intro\" button appears, even when still in the intro\n\n\n### Expected behavior\n\nTo show the s",
         "score": 4.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
-        "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "audience": "个人用户",
+        "evidence": "关键词命中 1 项"
       },
       {
-        "title": "[BUG]: PVForecastAdaptiveAkkudoktor: model fit fails on timestamp with fractional seconds, cancels every daytime EMS run",
-        "url": "https://github.com/Akkudoktor-EOS/EOS/issues/1605",
+        "title": "[Bug] Merged parent upgrade warns about a path the higher version already fixes",
+        "url": "https://github.com/OWASP/cve-lite-cli/issues/1875",
         "source": "GitHub Issues",
-        "summary": "### Describe the issue:\n\n**Title:** [BUG]: PVForecastAdaptiveAkkudoktor: model fit fails on timestamp with fractional seconds, cancels every daytime EMS run\n\n### Describe the issue:\nAfter the first adaptive model fit, every daytime energy management run fails in\nPVForecastAdaptiveAkkudoktor with a timestamp parsing error. The failing provider\ncancels the whole GENETIC run, so no plan is produced during the day. Runs around\nmidnight still succeed (adaptive state \"night\", no local correction appli",
-        "score": 1.0,
+        "summary": "## Summary\n\nFollow-up to #1782, as agreed in https://github.com/OWASP/cve-lite-cli/pull/1782#issuecomment-7242540091.\n\nIf two findings need the same parent at different versions, the plan installs the higher one. Since #1782, a finding that was only checked at the lower version shows a warning and isn't counted as fixed. But nobody checks it at the higher version. So when the higher version fixes it too, the plan warns for no reason and says \"1 of 2\" instead of \"all 2\".\n\nThis happens because eac",
+        "score": 3.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "evidence": "关键词命中 1 项"
       },
       {
-        "title": "Maven Build Failure with &quot;mvn install&quot; command",
-        "url": "https://stackoverflow.com/questions/54528556/maven-build-failure-with-mvn-install-command",
-        "source": "Stack Overflow",
-        "summary": "<p>I was trying to generate and test my codes (if working) for Cucumber-Maven report then opened command prompt. I have tried \"mvn clean\", it was BUILD SUCCESS. After that, I have tried \"mvn install\" and encountered BUILD FAILURE (error was shown).</p>\n\n<pre><code>[INFO] ------------------------------------------------------------------------\n[INFO] BUILD FAILURE\n[INFO] ------------------------------------------------------------------------\n[INFO] Total time:  22.844 s\n[INFO] Finished at: 2019-",
-        "score": 1.0,
+        "title": "Follow-up: review findings on PR #2078",
+        "url": "https://github.com/arrrrny/zuraffa/issues/2230",
+        "source": "GitHub Issues",
+        "summary": "The review of `arrrrny/zuraffa#2078` landed on commit `403d79e14723c6f6aadc04d41de9432a9f2371fa` AFTER the pull request was merged or closed, so the pipeline could not apply its fixes round: the findings below outlived the PR and had no owner.\n\nThey are tracked as held implementation work on the forklift board (task `84f85802-e811-4d67-8960-cee9b273d79d`); this issue is where the findings themselves live.\n\n## Findings by severity\n\n### Review summary (1)\n\n<details>\n<summary>Review summary</summar",
+        "score": 2.0,
         "tags": [],
         "published": "",
         "category": "可靠性与质量",
         "urgency": "中",
         "audience": "开发者",
-        "evidence": "关键词命中 2 项"
+        "evidence": "关键词命中 1 项"
+      },
+      {
+        "title": "fix(merge): port fail-closed structural merge hardening upstream",
+        "url": "https://github.com/arrrrny/zorphy/issues/367",
+        "source": "GitHub Issues",
+        "summary": "## Forklift Lock-Gate\n\n- **Wave:** Wave 2 (Consumer Data Safety)\n- **Phase:** Smart-merge correctness\n- **Agent role:** Structural Merge Engineer\n- **Effort:** L\n- **Depends on (lock gate):** None — starts immediately\n- **Unblocks:** #356 release payload and `arrrrny/zuraffa#2216` public API adoption\n\n<!-- FORKLIFT-LOCK-GATE\nDepends on: None\n-->\n\n## Summary\n\nPort the correctness protections in Zuraffa's divergent smart-merge copy into Zorphy's public merge implementation before asking consumers ",
+        "score": 2.0,
+        "tags": [],
+        "published": "",
+        "category": "集成与兼容",
+        "urgency": "中",
+        "audience": "开发者",
+        "evidence": "关键词命中 3 项"
       }
     ],
     "category_counts": {
-      "可靠性与质量": 6,
-      "其他": 3,
+      "集成与兼容": 4,
+      "其他": 1,
       "隐私与合规": 2,
-      "集成与兼容": 1
+      "可靠性与质量": 5
     },
     "next_actions": [
-      "优先验证「可靠性与质量」：今天出现 6 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
-      "优先验证「其他」：今天出现 3 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「可靠性与质量」：今天出现 5 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
+      "优先验证「集成与兼容」：今天出现 4 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。",
       "优先验证「隐私与合规」：今天出现 2 条公开用户信号，打开来源链接复核原话并判断是否值得访谈。"
     ],
     "llm_status": "规则分类（LLM 未启用）"
